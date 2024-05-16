@@ -1,7 +1,5 @@
 # Check ISO Authenticity Tool
 
-![Checkiso](https://github.com/dakhama-mehdi/Check-ISO-Authenticity/assets/49924401/2258ec6d-8ca2-4b1a-8d54-013bb10ea033)
-
 This free tool allows you to easily calculate the hash of any ISO image and verify it against an online database to ensure its authenticity.
 With a user-friendly and intuitive interface, you can quickly generate the hash and compare the results with a reliable source on the Internet. 
 Whether you're an IT professional or a security-conscious user, our tool provides a simple and effective solution for validating the authenticity of your ISO files.
