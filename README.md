@@ -20,8 +20,8 @@ Whether you're an IT professional or a security-conscious user, our tool provide
 5. Review the verification results to determine the authenticity of the ISO image.
 6. Getting Started
 7. To get started with the Check ISO Authenticity Tool, simply download the latest version from our GitHub repository and follow the installation instructions provided in the documentation.
-
-
+   
+![4](https://github.com/dakhama-mehdi/Check-ISO-Authenticity/assets/49924401/8b692454-c21f-42dc-8654-28e1884a5c49)
 
 ### Contributing
 We welcome contributions from the community to help improve the tool. If you have any suggestions, bug reports, or feature requests,
