@@ -1,33 +1,94 @@
-# Check ISO Authenticity Tool
-This free tool allows you to easily calculate the hash of any ISO image and verify it against an online database to ensure its authenticity.
-With a user-friendly and intuitive interface, you can quickly generate the hash and compare the results with a reliable source on the Internet. 
-Whether you're an IT professional or a security-conscious user, our tool provides a simple and effective solution for validating the authenticity of your ISO files.
+# CheckISO Trust your ISO before you deploy it.  
 
-![Checkiso](https://github.com/dakhama-mehdi/Check-ISO-Authenticity/assets/49924401/3a22db66-e010-47a8-810c-8a2c15c45cb9)
+CheckISO is an open-source tool available as PowerShell script, standalone EXE, and Microsoft Store application.
 
-### Features
-* Calculate the hash of any ISO image file.
-* Verify the hash against an online database for authenticity.
-* User-friendly interface for easy navigation and usage.
-* Works with a wide range of ISO image formats.
-* Lightweight and fast processing.
+It allows you to verify Microsoft installation sources and automatically calculate ISO hashes using trusted official libraries containing hundreds of known references.
 
-### Usage
-1. Download the Check ISO Authenticity Tool on your system (from release exe, or Microsoft Store or Powershell code source)
-2. Launch the application and select the ISO image file you want to verify.
-3. Click on the "Calculate Hash" button to generate the hash of the selected ISO image.
-4. Once the hash is calculated, click on the "Verify Hash" button to compare it against the online database.
-5. Review the verification results to determine the authenticity of the ISO image.
-6. Getting Started
-7. To get started with the Check ISO Authenticity Tool, simply download the latest version from our GitHub repository and follow the installation instructions provided in the documentation.
-   
-![4](https://github.com/dakhama-mehdi/Check-ISO-Authenticity/assets/49924401/8b692454-c21f-42dc-8654-28e1884a5c49)
+<table>
+<tr>
+<td>
 
-### Contributing
-We welcome contributions from the community to help improve the tool. If you have any suggestions, bug reports, or feature requests,
-please feel free to submit them via GitHub issues or contribute directly to the codebase through pull requests.
+Supported sources include:
 
-### License
-This project is licensed under the MIT License.
+- Windows 10 / 11  
+- Windows Server  
+- SQL Server  
+- Microsoft Office  
+- And other Microsoft installation media  
 
+</td>
+<td>
 
+<img src="./Pictures/CheckISO.png" width="600">
+
+</td>
+</tr>
+</table>
+
+## Why CheckISO?
+
+In every company, everything starts with a source. And that source is almost always an ISO.
+
+Yet, it is one of the most overlooked elements in cybersecurity.
+
+A compromised ISO can contain:
+
+- Malware  
+- Ransomware  
+- Injected DLLs  
+- Hidden backdoors  
+
+Once deployed… it's already too late.
+
+## The Problem
+
+Today:
+
+- ISO files are shared between teams  
+- Stored on network drives  
+- Downloaded from unverified sources  
+- Reused for years  
+
+With little to no verification.
+
+---
+
+## The Reality
+
+An untrusted ISO can compromise:
+
+- A full server  
+- An Active Directory domain  
+- An entire infrastructure  
+
+## What CheckISO Does
+
+In seconds, CheckISO allows you to:
+
+- Automatically calculate hash (SHA256)  
+- Identify the ISO  
+- Verify it against trusted official sources  
+- Detect inconsistencies or suspicious files  
+
+CheckISO is designed to be The first control point for installation sources in enterprise environments
+
+---
+
+## Use Cases
+
+- Validate ISO before deployment  
+- Audit internal ISO repositories  
+- Verify installation media integrity  
+- Secure IT deployment workflows  
+
+---
+
+## Availability
+
+- PowerShell (script)  
+- Standalone EXE  
+- Microsoft Store  
+
+---
+
+![CheckISO Demo](./Pictures/CheckISO.gif)
