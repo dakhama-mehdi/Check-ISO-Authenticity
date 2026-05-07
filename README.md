@@ -51,8 +51,6 @@ Today:
 
 With little to no verification.
 
----
-
 ## The Reality
 
 An untrusted ISO can compromise:
@@ -72,8 +70,6 @@ In seconds, CheckISO allows you to:
 
 CheckISO is designed to be The first control point for installation sources in enterprise environments
 
----
-
 ## Use Cases
 
 - Validate ISO before deployment  
@@ -81,14 +77,10 @@ CheckISO is designed to be The first control point for installation sources in e
 - Verify installation media integrity  
 - Secure IT deployment workflows  
 
----
-
 ## Availability
 
 - PowerShell (script)  
 - Standalone EXE  
 - Microsoft Store  
-
----
 
 ![CheckISO Demo](./Pictures/CheckISO.gif)
