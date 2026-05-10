@@ -1,4 +1,34 @@
 [
+  {
+    "Name": "kali-linux-2026.1-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "271477ad6ea2676c7346576971b9acc2d32fabd9c2bbaf0e6302397626149306",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-netinst-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "caf5ff7d7a4f73c85a6f1688300b936d3d7fd6965c52d80632e36709a09255a7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-purple-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "ec0d81bb949d8c4fa2c4622c027ada145997ca7a4f6f1f7e3095e608db5c6d93",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "c2096dc2194c915cf94c273b907a84043ea6adfcba18509f15a8c1d1bbfb211c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-live-everything-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "2d51acd4088af63a404e722c35a2e3079f73be924d7921b06ada82d3abf1b979",
+    "TrustLevel": "Official"
+  }
     {
         "Name":  "VMware-VMvisor-Installer-8.0-20513097.x86_64.iso",
         "OS":  "VMware",
