@@ -1,5 +1,137 @@
 [
   {
+    "Name": "kali-linux-2023.1-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.1-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.3-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.3-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.4-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.4-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+
+  {
+    "Name": "kali-linux-2024.1-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.1-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.1-installer-netinst-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.1-installer-purple-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+
+  {
+    "Name": "kali-linux-2024.2-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.2-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+
+  {
+    "Name": "kali-linux-2024.3-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.3-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+
+  {
+    "Name": "kali-linux-2024.4-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+
+  {
+    "Name": "kali-linux-2025.1-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2025.1-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+
+  {
+    "Name": "kali-linux-2025.2-live-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2025.2-installer-amd64.iso",
+    "OS": "Kali_Linux",
+    "SHA256": "TO_FILL",
+    "TrustLevel": "Official"
+  }
+  {
     "Name": "kali-linux-2026.1-installer-amd64.iso",
     "OS": "Kali_Linux",
     "SHA256": "271477ad6ea2676c7346576971b9acc2d32fabd9c2bbaf0e6302397626149306",
