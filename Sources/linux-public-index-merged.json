@@ -84,7 +84,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-beta-1-x86_64-minimal.iso",
+        "Name":  "AlmaLinux-10-latest-beta-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "0425890b3a504313326bc3c1f4973498e69529ddadd76be13d332eb7a1a67887",
         "TrustLevel":  "PublicIndex"
@@ -285,7 +285,7 @@
         "Name":  "ubuntu-16.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "0e52cc7c7c4cc9e91f4e984c1232192394c6caf8e7170c1aeefb37bdef1f0625",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-9.3-x86_64-Live-KDE.iso",
@@ -357,7 +357,7 @@
         "Name":  "ubuntu-22.04.1-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "10f19c5b2b8d6db711582e0e27f5116296c34fe4b313ba45f9b201a5007056cb",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9.6-x86_64-boot.iso",
@@ -429,13 +429,13 @@
         "Name":  "kali-linux-2021.4-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "13c8ed5b87462e966c5afca129a4b76247f5b2b166733a13d154d1a1d31521d3",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-11.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "13dc0105f81e47308c5fab5fc6d71c7030fcc2a5721df654cd4c26406da4ffab",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2021.2-live-i386.iso",
@@ -489,7 +489,7 @@
         "Name":  "ubuntu-16.04.6-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "16afb1375372c57471ea5e29803a89a5a6bd1f6aabea2e5e34ac1ab7eb9786ac",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "Fedora-Server-netinst-x86_64-43-1.6.iso",
@@ -501,7 +501,7 @@
         "Name":  "kali-linux-2022.1-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "172b24b051311f40c8da05f346ec036ee373e0b1eed19b6db31252bd05a9a0f8",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-14.04.1-server-amd64+mac.iso",
@@ -528,10 +528,11 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "Rocky-10.1-x86_64-boot.iso",
-        "OS":  "Rocky",
+        "Name":  "Rocky-10-latest-x86_64-boot.iso",
+        "OS":  "Rocky_Linux",
+        "Version":  "10",
         "SHA256":  "18543988d9a1a5632d142c3dc288136dcc48ab71628f92ebcd40ada7f4ecd110",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-live-13.1.0-amd64-gnome.iso",
@@ -582,7 +583,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "ubuntu-17.10-desktop-amd64.iso",
+        "Name":  "ubuntu-17.10.1-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "1a3d2d32ada795e5df47293745a7479bcb3e4e29d8ee1eaa114350b691cf38d3",
         "TrustLevel":  "Official"
@@ -721,9 +722,10 @@
     },
     {
         "Name":  "Rocky-8.10-x86_64-boot.iso",
-        "OS":  "Rocky",
+        "OS":  "Rocky_Linux",
+        "Version":  "8.10",
         "SHA256":  "203744a255ea6579e49ca7f7f0f17e2fda94e50945d8183a254490e454c7c5b4",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-06.10-server-i386.iso",
@@ -835,9 +837,10 @@
     },
     {
         "Name":  "Rocky-9.7-x86_64-minimal.iso",
-        "OS":  "Rocky",
+        "OS":  "Rocky_Linux",
+        "Version":  "9.7",
         "SHA256":  "23a1ac1175d8ccada7195863914ef1237f584ff25f73bd53da410d5fffd882b0",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-12.2.0-amd64-netinst.iso",
@@ -879,7 +882,7 @@
         "Name":  "ubuntu-12.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "256a2cc652ec86ff366907fd7b878e577b631cc6c6533368c615913296069d80",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-07.10-desktop-amd64.iso",
@@ -912,7 +915,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10-latest-x86_64_v2-minimal.iso",
+        "Name":  "AlmaLinux-10.0-x86_64_v2-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "2681c07e078b919a36aaba0ba5ca197030189530e7c3d97be6fbab43dd708685",
         "TrustLevel":  "PublicIndex"
@@ -921,7 +924,7 @@
         "Name":  "ubuntu-13.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "269e84cea4b1d30d7bd9c1167d9f79a966a99987d39054fcd647d77cce15cb0e",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2020.1a-installer-amd64.iso",
@@ -1059,7 +1062,7 @@
         "Name":  "ubuntu-13.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "2bead0f1f451734461ff88f913f4b02ba9e873b15f097a5c231bdb3763ea42e3",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-10.10-beta-alternate-amd64.iso",
@@ -1081,9 +1084,10 @@
     },
     {
         "Name":  "Rocky-8.10-x86_64-minimal.iso",
-        "OS":  "Rocky",
+        "OS":  "Rocky_Linux",
+        "Version":  "8.10",
         "SHA256":  "2c735d3b0de921bd671a0e2d08461e3593ac84f64cdaef32e3ed56ba01f74f4b",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2021.4-live-i386.iso",
@@ -1182,7 +1186,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-GNOME.iso",
+        "Name":  "AlmaLinux-8-latest-x86_64-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "311b8985021ffcbb20c8652894660153a505f50090edb548db4986e809897ba2",
         "TrustLevel":  "PublicIndex"
@@ -1251,7 +1255,7 @@
         "Name":  "ubuntu-15.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "33873f5312261f858d212a47f2344073a6d0366c9607cef3b3f593e87e3aa8de",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "FreeBSD-15.0-CURRENT-arm64-aarch64-20250606-fa02d9fceab7-277727-bootonly.iso",
@@ -1281,7 +1285,7 @@
         "Name":  "ubuntu-14.04.1-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "347232658fb14a7ff473ae8854b588da3df70e36b97e4f70e00f18c7b64e4b31",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "OPNsense-24.1-dvd-amd64.iso",
@@ -1335,7 +1339,7 @@
         "Name":  "ubuntu-11.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "36578e6fa82e4c1194cb619d20e1f7fe4c6964b23b06a84835a3972c0cc7225c",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-9.0-x86_64-Live-KDE.iso",
@@ -1503,7 +1507,7 @@
         "Name":  "ubuntu-10.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "3d720b4044c3f8baf14f706b09f012df82f269291b9f0ba0b3fc88e2bf07d0bd",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2024.3a-installer-purple-amd64.iso",
@@ -1557,7 +1561,7 @@
         "Name":  "ubuntu-20.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "3ef833828009fb69d5c584f3701d6946f89fa304757b7947e792f9491caa270e",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-10.04.3-desktop-amd64.iso",
@@ -1587,7 +1591,7 @@
         "Name":  "kali-linux-2020.1-live-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "401e2398d2931a4b910597e8bdf334bb85e40ef02d4878816f3050179c089fef",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.3-RELEASE-amd64-dvd1.iso",
@@ -1767,7 +1771,7 @@
         "Name":  "ubuntu-11.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "462a1311378437b64dc507de7da6cab88528939dccee91940f94ce3e57c1cfab",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-i386-20250612-5dbdbff46b08-271653-bootonly.iso",
@@ -1809,7 +1813,7 @@
         "Name":  "ubuntu-24.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "489079483487f92ad0d2f3d4b6c88a7b197969eb286b277534047920854a8b03",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-13.04-server-amd64+mac.iso",
@@ -1875,7 +1879,7 @@
         "Name":  "ubuntu-16.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "4bcec83ef856c50c6866f3b0f3942e011104b5ecc6d955d1e7061faff86070d4",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "FreeBSD-12.4-RELEASE-amd64-bootonly.iso",
@@ -2142,16 +2146,17 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64_v2-boot.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64_v2-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "5571cc6c826300a3d4aff9c2fc5203d03d4762bc5c9955ba061689d1af7867fc",
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "Rocky-10.1-x86_64-dvd1.iso",
-        "OS":  "Rocky",
+        "Name":  "Rocky-10-latest-x86_64-dvd.iso",
+        "OS":  "Rocky_Linux",
+        "Version":  "10",
         "SHA256":  "55f96d45a052c0ed4f06309480155cb66281a008691eb7f3f359957205b1849a",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2022.1-installer-netinst-i386.iso",
@@ -2577,7 +2582,7 @@
         "Name":  "ubuntu-16.04.1-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "62fc3e810c7631fbbd45d9c960ec749fc1eb66e5c56039423e3e94a5391a437a",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "Fedora-Server-netinst-x86_64-41-1.4.iso",
@@ -2586,7 +2591,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-GNOME-Mini.iso",
+        "Name":  "AlmaLinux-8-latest-x86_64-Live-GNOME-Mini.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "6326985e17419b9571b39e74abdeaeb13b150f0561263e2dd9d1984167bfabcb",
         "TrustLevel":  "PublicIndex"
@@ -2641,9 +2646,10 @@
     },
     {
         "Name":  "Rocky-8.10-x86_64-dvd1.iso",
-        "OS":  "Rocky",
+        "OS":  "Rocky_Linux",
+        "Version":  "8",
         "SHA256":  "642ada8a49dbeca8cca6543b31196019ee3d649a0163b5db0e646c7409364eeb",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-12.4.0-amd64-netinst.iso",
@@ -2655,7 +2661,7 @@
         "Name":  "ubuntu-10.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "64e7ae589c2da741fa3a9b1e18f69944f0e1f853ca9bfc2c6bf4a735982a5214",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.1-RELEASE-amd64-dvd1.iso",
@@ -2667,7 +2673,7 @@
         "Name":  "ubuntu-15.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "6501c8545374665823384bbb6235f865108f56d8a30bbf69dd18df73c14ccb84",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "CentOS-Stream-10-20241216.0-aarch64-dvd1.iso",
@@ -2979,7 +2985,7 @@
         "Name":  "ubuntu-16.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "72b0d421da77f1e0c549b4efe6fc6c184e9909d6792f0d1e59b56d63e9705659",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2021.3a-installer-netinst-arm64.iso",
@@ -2994,7 +3000,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8.10-beta-1-x86_64-minimal.iso",
+        "Name":  "AlmaLinux-8-latest-beta-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "72fb1451e7d21418c2f4d94e63884fdb92dd7cba34d499dd4a070b6f5b4f150a",
         "TrustLevel":  "PublicIndex"
@@ -3195,7 +3201,7 @@
         "Name":  "kali-linux-2022.1-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "784e403bd58e5b05e5c24d91dc44e405fb02674bb85ee0b290e0f2ea16113a39",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "debian-11.3.0-amd64-netinst.iso",
@@ -3285,7 +3291,7 @@
         "Name":  "ubuntu-18.10-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "7b9f670c749f797a0f7481d619ce8807edac052c97e1a0df3b130c95efae4765",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-8.6-beta-1-x86_64-boot.iso",
@@ -3348,7 +3354,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64_v2-Live-GNOME.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64_v2-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "7f33d54f145f38d1031146bcd7997167d03b6c63fbeaf4a447e00a07a8608945",
         "TrustLevel":  "PublicIndex"
@@ -3462,7 +3468,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-8-latest-beta-x86_64-dvd.iso",
+        "Name":  "AlmaLinux-8.10-beta-1-x86_64-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "82c751d462214143e67824f92898522bb07e6ba661d44eb095736bf350c262cb",
         "TrustLevel":  "PublicIndex"
@@ -3561,7 +3567,7 @@
         "Name":  "ubuntu-15.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "86aa35a986eba6e5ad30e3d486d57efe6803ae7ea4859b0216953e9e62871131",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-22.10-live-server-amd64.iso",
@@ -3633,7 +3639,7 @@
         "Name":  "kali-linux-2020.1-installer-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "8b2bf7b6369fb120e42080f2ba57bc8cd7522a4abda1c2715c2b809b7157ae93",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-25.04-live-server-amd64.iso",
@@ -3666,7 +3672,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64_v2-Live-KDE.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64_v2-Live-KDE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "8c1558d39ca742750668b99b7cfdc82caa3f0d07ad5ef976e537b09921524882",
         "TrustLevel":  "PublicIndex"
@@ -3711,7 +3717,7 @@
         "Name":  "ubuntu-16.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "8d52f3127f2b7ffa97698913b722e3219187476a9b936055d737f3e00aecd24d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-12.04.3-desktop-i386.iso",
@@ -3861,7 +3867,7 @@
         "Name":  "ubuntu-11.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "93384816bc09436f5b6d9dba79a915c7326f3cebc0f7a538e7f66b71dce188cf",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2021.4-installer-netinst-i386.iso",
@@ -3951,7 +3957,7 @@
         "Name":  "ubuntu-19.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "96a8095001d447bbb9078925d72f7a77a3f62fbd78460093759af4394ce83d79",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-8.4-beta-1-x86_64-dvd.iso",
@@ -4161,7 +4167,7 @@
         "Name":  "kali-linux-2022.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "9ef71954cdf84d727571e35f80df694a2c71524e4a520338377ddd537f0c8228",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "debian-12.1.0-amd64-netinst.iso",
@@ -4230,7 +4236,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10-latest-x86_64-boot.iso",
+        "Name":  "AlmaLinux-10.0-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "a1549729bfb66a28e3546c953033c9928eae7280917bb1c490983dba3bb9941c",
         "TrustLevel":  "PublicIndex"
@@ -4392,7 +4398,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8-latest-x86_64-boot.iso",
+        "Name":  "AlmaLinux-8.7-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "a4fc8c53878e09f63849f2357228db9e2b547beea6f2b47758da2995bd59356e",
         "TrustLevel":  "PublicIndex"
@@ -4497,7 +4503,7 @@
         "Name":  "ubuntu-13.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "a7f7fcb03e5323a3619b84218c935dd9e54a348ee6ebd55748d81886a3272171",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-12.10-server-amd64.iso",
@@ -4539,7 +4545,7 @@
         "Name":  "ubuntu-10.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "aa01bd5f0a7dd7e645c6852cf4974289b8e111520bd0b86e8ca4151b9ccd572d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2024.1-installer-netinst-i386.iso",
@@ -4572,7 +4578,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10-latest-x86_64-Live-KDE.iso",
+        "Name":  "AlmaLinux-10.0-x86_64-Live-KDE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "aa8629715a988379e01c7b0cba5c72e31318d67de8d20c58f30e16fa06e89732",
         "TrustLevel":  "PublicIndex"
@@ -4659,7 +4665,7 @@
         "Name":  "kali-linux-2020.1-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "acf455e6f9ab0720df0abed15799223c2445882b44dfcc3f2216f9464db79152",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-06.06.2-server-i386.iso",
@@ -4806,7 +4812,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-9-latest-beta-x86_64-dvd.iso",
+        "Name":  "AlmaLinux-9.4-beta-1-x86_64-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "b2c299e448bab4631ded0959b00751d473084d8d78f343ed072d3b0fbccb741e",
         "TrustLevel":  "PublicIndex"
@@ -4935,7 +4941,7 @@
         "Name":  "ubuntu-17.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b718c7fb1066589af52f4ba191775b0fb514c5fb6fa7d91367043e1db06d8a0b",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-8.9-x86_64-Live-MATE.iso",
@@ -4986,7 +4992,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-9-latest-x86_64-Live-GNOME-Mini.iso",
+        "Name":  "AlmaLinux-9.4-x86_64-Live-GNOME-Mini.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "b80708c99d19e970fed6c1d1a34f71e782c9e788405c00287cd619dbfae4e9c5",
         "TrustLevel":  "PublicIndex"
@@ -5022,7 +5028,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8.7-x86_64-dvd.iso",
+        "Name":  "AlmaLinux-8-latest-x86_64-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "b95ddf9d56a849cc8eb4b95dd2321c13af637d3379b91f5d96c39e96fb4403b3",
         "TrustLevel":  "PublicIndex"
@@ -5229,7 +5235,7 @@
         "Name":  "ubuntu-12.04.4-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c0ba532d8fadaa3334023f96925b93804e859dba2b4c4e4cda335bd1ebe43064",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-18.04.4-desktop-amd64.iso",
@@ -5328,7 +5334,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64-Live-GNOME.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "c33ce2ae960585428b1035c14ab9c781f86af0101337df9cb7e4c3df775e7f61",
         "TrustLevel":  "PublicIndex"
@@ -5529,7 +5535,7 @@
         "Name":  "kali-linux-2020.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "c9ebf2f7d95cd9349daa3441a25fdfd5e0dab522d03a298dbfe046859c3668db",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "debian-13.3.0-amd64-netinst.iso",
@@ -5553,7 +5559,7 @@
         "Name":  "ubuntu-17.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "ca5d9a8438e2434b9a3ac2be67b5c5fa2c1f8e3e40b954519462935195464034",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04-desktop-amd64.iso",
@@ -5625,7 +5631,7 @@
         "Name":  "ubuntu-11.04-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "ccb7e6f1d1575f92f76e61413bd5b2235dd86c4e9a47b5d74bfe8352e95b9699",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2022.3-live-arm64.iso",
@@ -5649,7 +5655,7 @@
         "Name":  "kali-linux-2021.3a-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "cf672207806649fb60449e22935ab010bf973f8ef5cc9273dd2524c8d4e61066",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-18.10-server-amd64.iso",
@@ -5775,7 +5781,7 @@
         "Name":  "kali-linux-2021.4-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "d35a0655fcd6b977c34bf24de089ccd4bd0b0e4d1d0ba23406877084c2ad45fa",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-09.10-desktop-i386.iso",
@@ -5787,6 +5793,13 @@
         "Name":  "kali-linux-2020.2-live-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "d4833fc2095415ffd2e05fb7525d8519b62f3be9af366cffdd4cdd887c0cec62",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-9-latest-x86_64-dvd.iso",
+        "OS":  "Rocky_Linux",
+        "Version":  "9",
+        "SHA256":  "d48e902325dce6793935b4e13672a0d9a4f958e02d4e23fcf0a8a34c49ef03da",
         "TrustLevel":  "Official"
     },
     {
@@ -5877,7 +5890,7 @@
         "Name":  "kali-linux-2022.2-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "d7444e8afb74b9b3c8c8be9f15fb64eddc0414960d9e2691c465740d58573eff",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.2-desktop-amd64.iso",
@@ -5892,7 +5905,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-9-latest-beta-x86_64-boot.iso",
+        "Name":  "AlmaLinux-9.4-beta-1-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "d8ae806840a615d6cd02d9f2bb4b838bb01fc1e444e9d8e73512c8b0c4dcef0e",
         "TrustLevel":  "PublicIndex"
@@ -5913,7 +5926,7 @@
         "Name":  "ubuntu-12.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "d91eee1b74fb81f4235fdaed21e7566bbe8965ec6b7206a122f2025365621ad6",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-12.04.1-desktop-amd64.iso",
@@ -6006,7 +6019,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-9-latest-beta-x86_64-minimal.iso",
+        "Name":  "AlmaLinux-9.4-beta-1-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "dcf2ce331d69576265d7fa064019586edddecb0509257bb38d4db3602fd4cbcc",
         "TrustLevel":  "PublicIndex"
@@ -6039,7 +6052,7 @@
         "Name":  "ubuntu-17.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "dd7879be4e2f9f31672f6e7681ecafeccfac294afd8ca1b04b78bc37fb44291c",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-14.04.1-server-ppc64el.iso",
@@ -6225,7 +6238,7 @@
         "Name":  "kali-linux-2020.1-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "e399fa5f4aa087218701aff513cc4cfda332e1fbd0d7c895df57c24cd5510be3",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2021.2-installer-i386.iso",
@@ -6291,7 +6304,7 @@
         "Name":  "ubuntu-11.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "e4ba7267d7a301ff2fb52fb7b4f143cc404ea56a0f2ce2cc63bdaaa4102381ad",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "OPNsense-25.1-dvd-amd64.iso",
@@ -6372,7 +6385,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64-minimal.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "e73ccc95ff21a43ab23eebe227257fa34df091570b2bcf8a23f918bf9b662fc3",
         "TrustLevel":  "PublicIndex"
@@ -6432,7 +6445,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-beta-1-x86_64_v2-dvd.iso",
+        "Name":  "AlmaLinux-10-latest-beta-x86_64_v2-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "e92cd51dce31e294539125832b05123449ceeac619f580bee41bb7201252b9f1",
         "TrustLevel":  "PublicIndex"
@@ -6528,7 +6541,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-8-latest-x86_64-Live-XFCE.iso",
+        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-XFCE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "ed7da1d98cd5d629b0b760608aaf8c13fe9f52d5a56fedd9b8c0bada21e21fef",
         "TrustLevel":  "PublicIndex"
@@ -6561,7 +6574,7 @@
         "Name":  "ubuntu-13.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "edf1194d7bc99b64dca177deecade9e13f0a8c3339c9fd8832471a2e7ed1dda5",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Rocky-9.5-x86_64-minimal.iso",
@@ -6759,7 +6772,7 @@
         "Name":  "ubuntu-15.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "f510169ddc03121d11a627ae3a231e1272d8e4d75f9ef76f73daa5b809c5b6d8",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.1-live-server-ppc64el.iso",
@@ -6867,7 +6880,7 @@
         "Name":  "ubuntu-12.04.4-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fa28d4b4821d6e8c5e5543f8d9f5ed8176400e078fe9177fa2774214b7296c84",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "debian-live-12.0.0-amd64-standard.iso",
@@ -6879,7 +6892,7 @@
         "Name":  "ubuntu-15.04-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fa3df5f845335eea6fe7f6f6a8c6b0291aa54d0b65a4dc17aa06536a73db3725",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-11.10-server-i386.iso",
@@ -6891,13 +6904,13 @@
         "Name":  "ubuntu-21.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fa95fb748b34d470a7cfa5e3c1c8fa1163e2dc340cd5a60f7ece9dc963ecdf88",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-15.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fa97768bdc3f198b82180d39bf0c26f021ab716f5da98094cd220771095e3394",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.3-desktop-amd64.iso",
@@ -6957,7 +6970,7 @@
         "Name":  "ubuntu-10.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fc5ca710694fe150d8023364b398c0868fe526a5c675969a8b77de917814927d",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "Rocky-9.0-x86_64-boot.iso",
