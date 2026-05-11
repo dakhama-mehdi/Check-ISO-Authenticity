@@ -12,6 +12,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "001bc48f0b689b6e114c170463b1d966c45bfdd13d30ef081e087f313f4d8459",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "RedHat-Enterprise-Linux-8.0-x86_64-dvd.iso",
         "OS":  "Red_Hat",
         "SHA256":  "005d4f88fff6d63b0fc01a10822380ef52570edd8834321de7be63002cc6cc43",
@@ -78,6 +84,24 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.4-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "01d6fbc2837b689e47db8ab8ba5362bf603ee444eebe22ea75b44fde0887076c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "021193cfeccbd9b76d692cae7827aba06795a8b190d8e130d053eeb6b4313354",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.4-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "021aec0100a55b72342926477b652faf500a133a8b6bd622f20a5170f5e1b35a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-virt-3.20.4-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "023f3026f726eb46adc5cbc8fdffd0e3476cc7c925e0464a80dc5b472a451f29",
@@ -88,6 +112,12 @@
         "OS":  "Alpine",
         "SHA256":  "0269733031a4a15079f3056f340717397032c85c7549befa12184950f3b659be",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.2-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "02774081e05c386ff1263ff2604b6b37ab9f0de68cb72d02caa239633ea4b2d9",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.13.4-x86_64.iso",
@@ -112,6 +142,12 @@
         "OS":  "Manjaro",
         "SHA256":  "0326f316bddc52d65b7081c7f529f356bbd2fbbe39939aa49e2d224c32eb16d6",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.4-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "03308ecd80e25de59f5435858ee677afbcd8b70ed291f00a531941e6bcafe4c7",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-12.04-desktop-powerpc.iso",
@@ -142,6 +178,12 @@
         "OS":  "AlmaLinux",
         "SHA256":  "03f4418308389fbd2b4ab4bd90d7d11b284778c692b801aadbe515c63216ff37",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.1-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "0408a12179757dbe294f509d5e64a196cf9b39c869118af28159c77906a08b79",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.13.4-x86_64.iso",
@@ -534,6 +576,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "0b0f5560c21bcc1ee2b1fef2d8e21dca99cc6efa938a47108bbba63bec499779",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeNAS-11.2-U6.iso",
         "OS":  "TrueNAS",
         "SHA256":  "0b501ae9077d1488141debe6ea11fab0da36d116fea36fd5cc21f748e64e9f78",
@@ -702,6 +750,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2022.2-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "0f3351282a25567b48110e291b22c4ed80171c4eefb7549c85e39b8baa0a6ec1",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.11.1-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "0f5eb861d2d996c42ab56ea1f66c889eb3ea55c42b19580910f2748ac406d110",
@@ -754,6 +808,12 @@
         "OS":  "Alpine",
         "SHA256":  "10b9b2442ebe026cb8428f355f7cc4580d28482541d4b2ac3915d03bccd0ef31",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.4-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "10e81e2d1ed7bc100398871db45b628c11199a9901b1935bc56b5a8e9dc62667",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.18.8-x86_64.iso",
@@ -882,6 +942,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "13b232790f6e67b1d7dd93fde1f1f6fc57fa7253490e1a34d78b9d63ee52dcad",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeNAS-11.1-U6.iso",
         "OS":  "TrueNAS",
         "SHA256":  "13bc3bf1775f6d30c6aef0102c72a1923fd7b75ca37469eb8018a2cdd97f5794",
@@ -891,13 +957,19 @@
         "Name":  "kali-linux-2021.4-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "13c8ed5b87462e966c5afca129a4b76247f5b2b166733a13d154d1a1d31521d3",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-11.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "13dc0105f81e47308c5fab5fc6d71c7030fcc2a5721df654cd4c26406da4ffab",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.2-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "13eb6d9fa8ff3cf39ddcaaab3e1b6d89f10835cc7af19ff15e15fce1112ad27d",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-15.0-CURRENT-riscv-riscv64-20250606-fa02d9fceab7-277727-disc1.iso",
@@ -910,6 +982,12 @@
         "OS":  "Alpine",
         "SHA256":  "146756d7c3436fd912594f3e3597c8887ce9f8e4c8e5124fc2c0305badf67ee1",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "147217f34f75eb8a71f5c3902a33512a3a9d052b1aa5272627a89dc474bf866e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.4.5-x86_64.iso",
@@ -990,6 +1068,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.4-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "16562f559513b3692d0dfa56fb46ba86a322ccdd677e0774c0a685c0dc40dee6",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeNAS-11.1-U5.iso",
         "OS":  "TrueNAS",
         "SHA256":  "1690eefdd6a467a67ae9b201b73836e83e6c302f39f128ab72c3241670160d91",
@@ -1062,6 +1146,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.2-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "17e21022ebcf80b62b2db5001422f9aba46b52d4f86aec0cfde030d61f1446a2",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "archlinux-x86_64.iso",
         "OS":  "ArchLinux",
         "SHA256":  "17fe2053a114f2002efed53b39f740dd9778f5b689c9467a310b2649a80a6bfd",
@@ -1122,6 +1212,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.4-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "191f40af5e88b3601f1992cb07910d63c357102135c452fa1ec874d5ddbc4a70",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.18.11-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "199172277445d1d464a9d8826b78661f1745fc0cbb4a37431b2bbe18b8644cd5",
@@ -1158,10 +1254,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.1-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "19d485e93d9616b5593b9659239906e79b1d7165b8fb80a521face1de72a08aa",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.7.3-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "19ffc41734598bd72b9d639f71d54b14d16b7dbb2976ce4af0564ac9ad5c6237",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "1a0b2ea83f48861dd3f3babd5a2892a14b30a7234c8c9b5013a6507d1401874f",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.7.3-x86_64.iso",
@@ -1224,6 +1332,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.1-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "1b3042badf87544ab4031bae44a45619d5abd7113fdf7a5e2b6202516e3007ea",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.14.6-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "1b34695f4bd067bf32dacec9419ac2384c45ad12c4891e0ce1e1aedf5034b8f5",
@@ -1257,6 +1371,12 @@
         "Name":  "ubuntu-16.04.5-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "1b885436e606442ac1765894df189951c6bfda2df5a9c77ccbb4adf88d2e0465",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.3-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "1b929f70e570f1f62f0a39900a1e0eb8f6c46bbb0e8996129a9b44d9e28b68c6",
         "TrustLevel":  "Official"
     },
     {
@@ -1336,6 +1456,18 @@
         "OS":  "Alpine",
         "SHA256":  "1cea40732a18675de9d5c8abd9f9e5716a8d9df128769441dd79624013b3d55b",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.3-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "1d3290d51cab82c3dd0005235e81959ebc9784dd7247e2e84838fcee75b65611",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "1d7c6358ab573678da0ceed894a3e3ffd444b34288d57946f15777e0007407ff",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "manjaro-cinnamon-24.0.5-240729-linux69.iso",
@@ -1420,6 +1552,12 @@
         "OS":  "openSUSE",
         "SHA256":  "1f5c8362004deced66c7049aa140aa9ff9fa7d7b89c99e074613874645fd0287",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.4-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "1f6aad29795d4bc2fb9ba5ca07b02381d3e3fa28fe80ae54347d31aeac1e36e7",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9-latest-x86_64-minimal.iso",
@@ -1522,6 +1660,12 @@
         "OS":  "Alpine",
         "SHA256":  "21d2178ab46d6dc660690e1f8ac5f28f64cddaf05295bd8cb5c1d7bac1cb6d9e",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.4-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "21e87900f8464b8ba99ed0b4161388f896fc13cf9af976c0bfd692ffe62931c2",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.15.8-x86_64.iso",
@@ -1686,6 +1830,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.4-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2435e4abbec446fd9edd0066db8cbdcfe4c75aa228e7156a55a43e6629e20bce",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-virt-3.18.4-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "24d79bc148c05a864c2914dfa41a6ffbf808973e44de88c7700d30b4517965b2",
@@ -1746,6 +1896,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.4-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "25e6e0201318ad1fbcd10c51dedca05d1328ef8bae5e604de47262b26877cf39",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2021.1-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "265812bc13ab11d40c610424871bdf9198b9e7cad99b06540d96fac67dd704de",
@@ -1776,6 +1932,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.1a-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "26d032c1f473a8430ed6894a519b6a64b7836d63e3ea1c9e9d44a172eb9cb7e2",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.14.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "26d240978a3a93287adb070e2eb8229f2fe37c7ecfa59255d3dfb48cb8012724",
@@ -1788,10 +1950,22 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2026.1-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "271477ad6ea2676c7346576971b9acc2d32fabd9c2bbaf0e6302397626149306",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "TrueNAS-13.0-U6.6.iso",
         "OS":  "TrueNAS",
         "SHA256":  "2734d5342d0250d9db767b30e807b9f61ecea2feb8025b326dc8acc1537e7b4d",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.2-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2737ab2d135c28ee60518a0bfea7c5e1e880ff623effa270d64967f037b12d09",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "clonezilla-live-3.2.0-5-amd64.iso",
@@ -1804,6 +1978,12 @@
         "OS":  "Alpine",
         "SHA256":  "2759889b270513b0ef7d1eedf692299289a29c89d64bb2d9bbbfd5134c3b5a13",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.1-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "275e2ff3f4fc2645123cd1a3058426d6e5213eb9652aa0e29fb19dd893668491",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9.6-x86_64-minimal.iso",
@@ -1836,6 +2016,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.2-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2811cae0fc79c0999152b8c54d3259e94e3b42d04c799781d7c2e055d2e101f1",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.10.4-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "28c70d8450409e61dd7b741b9b12660b192630aa7232328a3563a53721d1b9d0",
@@ -1858,6 +2044,12 @@
         "OS":  "VMware",
         "SHA256":  "2900301711b1199643cf3b602706c3ece4ca03286972c07ed9d7d4a45164a433",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2904aa3924ff193c93c89165e4cc13eb30f18de368212dbb7dc3be8e6f403cfb",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.6-x86_64-minimal.iso",
@@ -1980,6 +2172,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2ba1abf570ea0685ca4a97dd9c83a65670ca93043ef951f0cd7bbff914fa724a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.16.7-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "2bccbca8767b3c9cd75983d3f2a47b57acc4b68c6102c0f16baf45642721e107",
@@ -2058,6 +2256,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.4-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2cb183618fc818fa1c4edfba8e276ae889170e2faa76a85994507acc5803647e",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.18.6-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "2cb6dfe3e676df167ab248c80fcb2801150e6d6398159863f9114d5cedf5d1ee",
@@ -2104,6 +2308,12 @@
         "OS":  "Alpine",
         "SHA256":  "2d479ee106c6b7e226c08577b539262f6781f1a08bc69974a1eeaeb3df97e7af",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2026.1-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "2d51acd4088af63a404e722c35a2e3079f73be924d7921b06ada82d3abf1b979",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-10.10-alternate-amd64.iso",
@@ -2256,6 +2466,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.2-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "30ee4d0db31e6e884555597a4ac34a4660da5b9d357c5c24879f44d9eaf2b0fb",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8-latest-x86_64-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "311b8985021ffcbb20c8652894660153a505f50090edb548db4986e809897ba2",
@@ -2266,6 +2482,12 @@
         "OS":  "FreeBSD",
         "SHA256":  "313764e53e5df139d681ca75da0826a07fdd28e175ff1425e3fcd7939afa5944",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.2-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "31434702bf9ac7ac3a9bc647e6cb2a0afc5850d0916fca3e5b9e177b1dc89ba0",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "NetBSD-7.0.2-amd64.iso",
@@ -2308,6 +2530,12 @@
         "OS":  "OpenBSD",
         "SHA256":  "32b7e717fb8f2b6d3286c00b762ca6685c565f66ccdc5aeb3f5d70b19dfee1d2",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.1-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "32cbf5b06d7043ed3931eb401db0d3982ecca6f7ef7228da78a008cf3c61473e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-standard-3.15.2-x86_64.iso",
@@ -2364,10 +2592,22 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2022.1-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "33e426ea61101002f3c546eff6a583fe0c785fd4d838c9acb3f64dc430ccb491",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.19.0_rc3-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "341c218c8ddc0ee33d50e1bb6c2f941a74f55b422927011617bafb1d9394dca7",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.1-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "344a8c948af62f7a288e3dc658291ec3d3cfcdbe5ad1e2f45334740bd6ff481d",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04.1-desktop-amd64.iso",
@@ -2526,6 +2766,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.3-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "36be05bff52456dec80edcd4b91b736cba9cba108f43802fbd4788e1dfa13ee8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-18.04.5-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "3756b3201007a88da35ee0957fbe6666c495fb3d8ef2e851ed2bd1115dc36446",
@@ -2616,6 +2862,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.4-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "39aa231bc209e19a2fd91c145f23a8dde70a4bc540877a77e56b1c7a733337fd",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-22.04.1-live-server-ppc64el.iso",
         "OS":  "Ubuntu",
         "SHA256":  "39ee97d271db81c544d660cd8a8792d17f47c6aba0c0b76ad816dfaa6bbc5b8a",
@@ -2631,7 +2883,7 @@
         "Name":  "kali-linux-2021.3-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "3a199fce1220a09756159682ed87ca16f7735f50dcde4403dc0c60525f90c756",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.4.1-x86_64.iso",
@@ -2692,6 +2944,12 @@
         "OS":  "Alpine",
         "SHA256":  "3b34ec56f017578b75331136a661062ff5a1b7913a052f70786049fa1072e248",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.4-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "3b4a3a9f5fb6532635800d3eda94414fb69a44165af6db6fa39c0bdae750c266",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.14.0-x86_64.iso",
@@ -2818,6 +3076,12 @@
         "OS":  "Alpine",
         "SHA256":  "3d94b60e6c1b050fa45cdeeb8e90703ba88ffb0f89cc77c85f7993541e8f470f",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.3a-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "3d9a299fdd457cfc833b98b7473a8bcd871bf9b4c74b84efffd9eba6b6624c79",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-powerpc-20250612-5dbdbff46b08-271653-disc1.iso",
@@ -2979,7 +3243,7 @@
         "Name":  "kali-linux-2020.1-live-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "401e2398d2931a4b910597e8bdf334bb85e40ef02d4878816f3050179c089fef",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeNAS-11.2-U5.iso",
@@ -3066,6 +3330,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.3a-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "41732f9dfbef2276d2836d76838a3a998eae35642d4094ade975c427356c1689",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.7.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "418b1357677ee8bb5447bc07fa12b62fba723f870d748f69f6cc59437c14cfda",
@@ -3090,6 +3360,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "41e3997b31639ec45363181d4fff68a2b6a1a07ed2e3458f1bcd11f3f2d9db9c",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.11.7-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "4215d23d927fa81806a625425e5b600f5c421ad2507b2547ddbea95ae7c472bf",
@@ -3112,6 +3388,12 @@
         "OS":  "Alpine",
         "SHA256":  "42588aa5814aa6953a11ec12739dc23f9ff379ea8c99469ddddf301d0d71ecd2",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.1-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4260dd7b6ecb70792c4184fd3f8207128a701656372deb6c1aca71589285c664",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-standard-3.21.0_rc1-x86_64.iso",
@@ -3141,6 +3423,12 @@
         "Name":  "ubuntu-16.04.4-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "431001ea336e9f0495ad9404286645a1e7caf6b5cc239837a072921ba32b180e",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.4-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "434b02f2746d1f1d2f2c9a1a771d3fe0de741ed5b399d3261f07502aa1c16717",
         "TrustLevel":  "Official"
     },
     {
@@ -3237,7 +3525,7 @@
         "Name":  "kali-linux-2021.4-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "44b728ab1d7ba6395da56858d4447dd56ab5995ec55ade9fae55f7aea6c82f52",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-23.04-beta-desktop-amd64.iso",
@@ -3304,6 +3592,12 @@
         "OS":  "Alpine",
         "SHA256":  "459653b35770ada8825a9155cfa94a3fa7f55fc83c6771924bb71627a8faeac1",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "45b226bc8753cb22cf489e4073c2d19d71c1377a0fd55ebdcf4d290324e3cbfb",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-11.2.0-amd64-netinst.iso",
@@ -3390,6 +3684,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2023.1-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "46e05739a20b29db60ca1fff2e90685ea632071c314a9c2416d7c46acef27bf0",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-05.04-install-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "46fe40a9d72421fe9279721cbf3c10dd99778fce7989798280d02e19355721a6",
@@ -3412,6 +3712,12 @@
         "OS":  "Alpine",
         "SHA256":  "472928110a81370de0047f95ada42ce87e541819406bfb1a72c2e32ad8d127ae",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.1-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "477296c6416a3f588986582593af4ea913c9b82350663c86b23efd063e01b6b5",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "archlinux-2023.11.01-x86_64.iso",
@@ -3486,6 +3792,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.1-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "48c9f9c24a7dbe68277e591e5f3af588714190cde8263af2f9b35e7ad252750c",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.4.1-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "48e5c48c0b3051f39843784ec609f1490f5dcbdce9c9d7277fc0443e1caf4707",
@@ -3516,6 +3828,18 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.4-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "49f548d770fdac3cfc5215d476127c1f96854b91ea59ea5dcce92e3394afda12",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "49f6826e302659378ff0b18eda28121dad7eeab4da3b8d171df034da4996a75e",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.7.0-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "4a3ef9b1f45ca3d49e793322d98759e092f7776d204d9ec1cb7ed4a117e7cc53",
@@ -3544,6 +3868,24 @@
         "OS":  "Kali_Linux",
         "SHA256":  "4a9bf6623811c55e40f2691a53bfa33863cea18bd9a9c956cbd2e38fc799dd16",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4aa5a328312640c9c6c03bd9f7656e21895a450ad9781f16335a4db4bf544295",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.3a-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4ae61badfcfcf2cba7d234ec7b07719455df655d4d6035d67cf33601afd686cf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4aeaac60c69fb7137beaaef1fa48c194431274bcb8abf2d9f01c1087c8263b6a",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "slackware64-15.0-install-dvd.iso",
@@ -3654,6 +3996,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.4-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4d764a2ba67f41495c17247184d24b7f9ac9a7c57415bbbed663402aec78952b",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.9.1-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "4d848735929fc4eb20aafb8ce5ea0d5a10bb6c52dafe80f63bce692a689a651d",
@@ -3732,6 +4080,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.2-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4f0713280fb267e9836b96c4ac3dc00e20391627bc6b3e3aa3c807a815fdd969",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8.9-x86_64-Live-KDE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "4f223a1ee83ef4a4e6318c9d78941d61b0287db4289738f36b6ddd536effdc43",
@@ -3774,6 +4128,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.4-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "4fa526aafdabb5f30fe2234f25a479e31caa813af21bb08c3ee6d63438f0a0e2",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.10-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "4fce7c02a5e5dbe3426da4aa0f8b7845e9a36aff29c5884d206a08e51b2c4c47",
@@ -3789,6 +4149,12 @@
         "Name":  "ubuntu-20.04.5-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "5035be37a7e9abbdc09f0d257f3e33416c1a0fb322ba860d42d74aa75c3468d4",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.4-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "50492d761e400c2b5e22c8f253dd6f75c27e4bc84e33c2eff272476a0588fb02",
         "TrustLevel":  "Official"
     },
     {
@@ -3996,6 +4362,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.4-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "54cf16e191c0b61334e9f6c1ce633c922398e13136d4b99723c64286b171646a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-13.2-RELEASE-amd64-bootonly.iso",
         "OS":  "FreeBSD",
         "SHA256":  "54e5e5e84c8988afa34f291a9edd7b13f1c7dd6a9556289f7dbef1ea8394cc5a",
@@ -4098,6 +4470,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.1-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5616d0549032ffecd6932ab89496518832f4900a35e5b918022f56d8bc6d99c6",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "OPNsense-26.1.2-dvd-amd64.iso",
         "OS":  "OPNsense",
         "SHA256":  "56180fbe5894fded2f67eabc8fce8e85c23b70594162a42601706b4fbe0e552e",
@@ -4114,6 +4492,12 @@
         "OS":  "Alpine",
         "SHA256":  "56617d59b1ee9666cba800118b1387c9ca727bd2594b7ba31fafa4df05c60d7f",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "567d34e3af1e2504920af552f3edb7fe0e704f11a6099b137e97c986161c9efc",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "archlinux-2026.03.01-x86_64.iso",
@@ -4161,6 +4545,12 @@
         "Name":  "ubuntu-11.10-alternate-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "570c750de958874561c221fa25b14ed2633d189780297986e47aeb9ad5e5ff26",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.2-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5723d46414b45575aa8e199740bbfde49e5b2501715ea999f0573e94d61e39d3",
         "TrustLevel":  "Official"
     },
     {
@@ -4398,6 +4788,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5ad10ae8931aaedee400465eaf17b0f27cb0cd7cf7d20cc324ded933c849426d",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-15.0-CURRENT-i386-20250606-fa02d9fceab7-277727-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "5ad2795b1f248fc0cc1ab7c72e96205d24d652c37d01b57efbd1712eefadf339",
@@ -4506,6 +4902,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.2-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5c76db37e2a250a4622b2b46f388df7243139c1cad188cf625a30111ce9fc3a0",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-20.04.1-live-server-ppc64el.iso",
         "OS":  "Ubuntu",
         "SHA256":  "5c8cee31309148a190af585dec1800a98b8b0bc34f74bf5d13e05c6e479e29a4",
@@ -4536,6 +4938,18 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2023.4-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5cfca5f2c5136d743da4e9235fbfaad515d112115da486db2033d8d1d4c5ee67",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5d10e3d8bbb90297d446d01a60312ff7eb25cbdfda32711c0038adb620bca2dd",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-virt-3.15.8-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "5d14f2cb237d213c5055d9df5655f475ec7a5077252994693192154b9217b346",
@@ -4560,15 +4974,33 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.1-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5da710fac36899ff132cfe5e14c7df594086d2d0d7b3503247d8945aa258eac9",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-10.10-beta-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "5da9f31f36fcbb244249b4ce29db2a52f316df3a0069ee9876b259c052a447da",
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2025.4-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5dccf7b04ab19590413fccd08f8db68e59f39f72ad4b08f1c63836cd66155635",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.04-live-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "5dd6135a64313852bd9bccc04ac217eb7044db5f047db96552c06d9d96fdd29e",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5de6c7880f01d4a10e8c08e0b945ea51e374b85c99a6240e9f7754d123b3db6f",
         "TrustLevel":  "Official"
     },
     {
@@ -4626,6 +5058,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.2-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5eb9dc96cccbdfe7610d3cbced1bd6ee89b5acdfc83ffee1f06e6d02b058390c",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-14.3-STABLE-powerpc-20250605-6573b7db7143-271611-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "5ecb833d2112a0f56102d08c76825e2f122769037cd29a529f2e65c94070b75d",
@@ -4648,6 +5086,12 @@
         "OS":  "Alpine",
         "SHA256":  "5f3f0726e2bbbb6b106bbbf75383d64498aa09d5ffbb91d10d2534b772dcb33e",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.3-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "5f53a8202fe3edcdee73acfc1f4dcae89b4d91be4708b66fcdd626b259578d66",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-riscv-riscv64-20250605-6573b7db7143-271611-bootonly.iso",
@@ -4692,6 +5136,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.1-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "603f8c8da398b76405ed47c8decdb735760c6b946d5b2a82f1b159a1e3231666",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-12.4-RELEASE-amd64-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "606435637b76991f96df68f561badf03266f3d5452e9f72ed9b130d96b188800",
@@ -4701,6 +5151,12 @@
         "Name":  "ubuntu-14.04.5-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "6071b0844ecbb8aa9a246b15c7aa20e798d42ed5b41c1b71aaea1f4283985ba4",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "61271c71b40ccaa9542a2a318bfc86b45d88734f35586646b9e67459d64c5952",
         "TrustLevel":  "Official"
     },
     {
@@ -4726,6 +5182,12 @@
         "OS":  "TrueNAS",
         "SHA256":  "621ab1534774b102ff98cea88ed273041f4ca682ef1c23231ff00c8302edecf0",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.1-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6257bbbbe544d30898505911fa8e74cc29852e5657fdada43f95ae72156e61e5",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "slackware-13.0-source-d6.iso",
@@ -4836,6 +5298,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.2-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "63624345ebda89ac675c6aa950de8b8822f0261d5d9138ff371731ea1fd45be8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.19.6-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "636c137ebc07f03a5a42ea246265f6b1966fa359de0d50dbbe11c93e95a1a409",
@@ -4920,10 +5388,28 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.2a-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6548633ecc10868d48c6638e31f7d356749d7787306cd9feb839ec968770aa4d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.1-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "657c8ddd5198079cd41883c490a7042823f5561c25258314474c10070844c0f3",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "debian-13.1.0-amd64-netinst.iso",
         "OS":  "Debian",
         "SHA256":  "658b28e209b578fe788ec5867deebae57b6aac5fce3692bbb116bab9c65568b3",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.3a-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "659e5430208a8bef15740e5d28b7a54c42b7a0c29b8617715994eac939c90822",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.8.3-x86_64.iso",
@@ -4944,6 +5430,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.3-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "65cec6093d2154c6f931c423f9d1f4c4a902af9cc715e802467570d83a8cda80",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "slackware-14.0-install-d2.iso",
         "OS":  "Slackware",
         "SHA256":  "65d26567fcbf93b146bd3ccbc83e3f9207d460fb2044edb2869748e830dd4078",
@@ -4954,6 +5446,12 @@
         "OS":  "Alpine",
         "SHA256":  "65ddfb9391ba4242ac7236f6c6679de35ca2a1559100372511a526abfb859ba1",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.4-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "65f572dfbc735488d840af0d734b6f3e9786737b79ea95a7a578024bd28c9319",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-10.2.0-amd64-netinst.iso",
@@ -4990,6 +5488,18 @@
         "OS":  "Alpine",
         "SHA256":  "665191dcbe43453442c49a70731b078094decffbc81bc817e3a7f0f0d1d0110d",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "66674c95818017fd4f1c4bb04c1387b028ca1ac40f798cfc1d9e4ba276e8bf16",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.1-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6691f791bc0990d1cc9c96a046dedbc2dd239dd7f958a242a608193b665be653",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.18.0_rc6-x86_64.iso",
@@ -5124,6 +5634,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2025.2-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "68f1117052bb0a6aa0fc0dee3b6525de1f5bccbd74c275fb050fe357a3f318a7",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-13.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "68f496b24305a544fa027ab42e4b92f3d18616f4eced6a3f6b9111109b923bb5",
@@ -5230,6 +5746,12 @@
         "OS":  "Slackware",
         "SHA256":  "6b8743cd4d9103d098b5418aeaa416dac341ca9bb93da4716258467a855c5077",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.3-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6ba1b1990d07be81428e48458b858f20d3c8273248d53aa2e6343af520bd32b8",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.18.2-x86_64.iso",
@@ -5352,6 +5874,24 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6eabfd96c7677b241ea561503411dcadff47ac8d7fe71c5337434f99bb9940a0",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.3-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6eb18cf0db004e0da8e2e7949634943bdd8edca91e289bbba4152617459fbe6d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.1-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6ef97a36d372828a6c166f194ba7c2f1b8d8c18c980e2d73f7baef5033271e67",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "proxmox-ve_5.4-1.iso",
         "OS":  "Proxmox",
         "SHA256":  "6f02cb34d2c8effa49e86a07d27e668dc125dfb1b37ed09ebc26002bf9daf75e",
@@ -5374,6 +5914,12 @@
         "OS":  "Alpine",
         "SHA256":  "6f63791a6097befe0fccfeabf966abddccff67426d8ca73089e3bdccbb9b4d6c",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.4-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "6f6c8484519cef41a80a5a7061209bb806eee81e29dbbe506d399e7ed4bbc4c9",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64-20250612-e6928c33f60c-277883-disc1.iso",
@@ -5514,6 +6060,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.3-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "72558ac80e6ab1c9c8afb6197cbd61101a5c87057c343de5b52abbe028d5ba68",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "pop-os_21.04_amd64_nvidia_10.iso",
         "OS":  "Pop_OS",
         "SHA256":  "7294ba39962c21609f3d26ae2202b2c14fd54a8abbdc4dfd3202725a2285848a",
@@ -5550,6 +6102,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.3a-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "72d75e87ac7c2be4c62e7ba434cc15ceadfb065ada2b396f3412576b28f4186d",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250612-47807edf0ac2-259309-bootonly.iso",
         "OS":  "FreeBSD",
         "SHA256":  "72dd016c4f36c984794fc3cd4e7d235873ef277e34b270093da0c9c5f2431a98",
@@ -5574,6 +6132,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.2-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7303994708b03e855b79d0048b2a5e6f73145701daeacaee28768cb7aff04304",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.13.5-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "730aceadaeab93d8bd18ace1575dcbdc5130b211c7e4b50aea7369e5f374a8a9",
@@ -5584,6 +6148,12 @@
         "OS":  "Alpine",
         "SHA256":  "73174a4488e150aa5c913a8dc8ca82e90176c2e4846b2e211727896a562d4d5d",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.2-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "731e02dde35fab5aab45d21bb7157c3d83ee784ff70edfabc57b84aa5f65daba",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.21.0_rc7-x86_64.iso",
@@ -5619,6 +6189,12 @@
         "Name":  "ubuntu-18.04.4-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "73b8d860e421000a6e35fdefbb0ec859b9385b0974cf8089f5d70a87de72f6b9",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "73f4286bba63b68afb2bbe2c5b18949b93ba526404e11b226a2b25146d274b06",
         "TrustLevel":  "Official"
     },
     {
@@ -5826,6 +6402,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7755f44318e6183d8411128b8a56c2982dbf0dd4c62870f4e5ca28c6df73fd9a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8.5-x86_64-Live-XFCE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "775906ae18c730287133cbf26bccc016ff85a2d431bcb762afd684d019084693",
@@ -5842,6 +6424,12 @@
         "OS":  "Alpine",
         "SHA256":  "7775f29cbc94a4c44107108704189cc9411926a291d15a20f28bf8fd1bb3d326",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7790115f6df268d93924a9bf079021b6b8f0c28d6255476fd102efd387dfbbf6",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250605-cda1b2b634ce-259305-disc1.iso",
@@ -5898,6 +6486,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2026.1-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "78ae3ac951721f8c17ecfc59d0cd7effb71251112657056dfdc9807d06486865",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.5.0-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "78b2e96ca333f3bcafba121db32f3a49be040f7c94204b5ee7dd66dc9f416e68",
@@ -5922,10 +6516,22 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2026.1-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "790e5cf5b9a67fcaa716f4a44a450ec912605d55c68fad5c57ca24bb0cb04c49",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.4.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "79255e4d56e45d479f0e7c44d9cb908175307634702253f83535e9ebd4ecb5fa",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.3-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "793061c7367d4c3c89d1e8ebf849ee00386297f5ebaeeaf6d9b37ae9857d2e53",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-amd64-20250612-5dbdbff46b08-271653-bootonly.iso",
@@ -6010,6 +6616,12 @@
         "OS":  "Alpine",
         "SHA256":  "7a5a366a7936ee12437d1284622a96ae1d913902430ab0ac93e1476df783b8e4",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.3-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7a5ce065113af70d9c2924ff3019a986f4df784c5bc0929b10cc2d05892e9445",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.11.13-x86_64.iso",
@@ -6144,10 +6756,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7c5c3dc8cb98534974355ab6d09e7df95a171089c738edd5a19dcc7196873de9",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.10.7-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "7caa57cfa33a631cdda45cb715a9dbff72d11eef4b0dea6720c5ed7812a67efe",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7cc7c27ec4f168e03947e5cd483aa49c072b7115badeb9e3339069e341631965",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.9.1-x86_64.iso",
@@ -6178,6 +6802,12 @@
         "OS":  "Alpine",
         "SHA256":  "7d55b3ec6b5cd1d1ff61fe7c1c5e9d8b5818be05e7b703341d2de834fe1399df",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7d63c66c4b8ccd6204cf53cb0bf18def2651f434dae3eda8b82839a5dc01fb93",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.16.9-x86_64.iso",
@@ -6366,6 +6996,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.2-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "8051ba4bb6cf8affec9dd8c28f53c3392b15eb50a033d744d514f9c9b0d51fa8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-mini-3.1.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "806a03fe20c599ebebc92fbe42542c9c703d889f7f88e714e1583f0c22bf39fe",
@@ -6474,6 +7110,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "827a221080ad7fdd53b4d65d02678ad349645145d98c29b775fbe55ee85e1ed5",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-10.1-beta-1-x86_64_v2-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "828217564481cbe36961f0df6c115401c7e25eb9d2a9e2c43fa3c0cbf389188f",
@@ -6508,6 +7150,12 @@
         "OS":  "Ubuntu",
         "SHA256":  "82cbf409b18c5f8278eb2133426f81d05e33fc661b3ca9c358809de1ff46649f",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.3-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "82f702acf37771ac27355c5f9170bf365a73f0cc9e571fb422f7aa58ca218d48",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.8-x86_64-minimal.iso",
@@ -6942,6 +7590,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "8c03c801eb753fd11dc6582544610034ffaa0a0255e788b0cda13a453ef202f2",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-9.3-x86_64-Live-XFCE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "8c0beef6f9487baec4fe3bee0b540895d23cb8420a0e3c5318acfcd68676c0ac",
@@ -6994,6 +7648,12 @@
         "OS":  "FreeBSD",
         "SHA256":  "8ccc2d33fab8e6429fd4e8c3dd84b33f337a8004dafa44ac5f91e1b47d31d297",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "8ce71b16285f8871b98e3f2155386f123c2fdca9025330c0d1349f44798e65e9",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "TrueNAS-12.0-BETA.iso",
@@ -7062,6 +7722,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.1-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "8e5af78e93424336f787d4dd0fdd89b429675d5ae67b1c1634ea1b53c5650677",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-12.04.1-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "8e5edafb4b59817a9da51545c99c4c780c7cceb511e32d4c5ac519332224081f",
@@ -7102,6 +7768,12 @@
         "OS":  "Proxmox",
         "SHA256":  "8eea8e25859cfb66b5882df73b293d05823bc854603a9e631445183351b77d66",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.2-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "8f31707efe50e204fbe35bb584412af712515c4af4662c468acd6e0f11785b38",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "gparted-live-1.4.0-6-i686.iso",
@@ -7164,6 +7836,24 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.3-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "90872189a22c6ceb7da9c153c1fa4f75657db78424c9b586cd6bb1e12771faf5",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.3-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "90a0d033a332de7b9923b6ff8409b178dc837242ebe7d55a1b3f0fafaded0152",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.1a-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "90bb0e48968aa7956d6b36ab8092168e7d7657d61e0e85e47d6b0febca6e48d4",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.21.0_rc4-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "90f1ecddbb3c590e6665c96fdefe02457589690c849c9b7733c3cecfdf59cc6d",
@@ -7188,10 +7878,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "91caa297457f7c53c44ea608886e9a9d281f6c7eea3f2a447850aedca563d25c",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.14.0-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "920c1b6560fd05abe7ecaaa1162a3e3b9fa1650a39f521edb4b2c6891e26cbc8",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.4-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "921e0d9f341e3852875b385e0114167ddbd2a2470fad07a6c1bcae1987a13299",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-19.10-server-amd64.iso",
@@ -7284,6 +7986,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.4-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "9350bb222f35f2594ed51164eb631f1e95a920302572a8d28e99a79f27a42d1b",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.6.0-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "935e0558aa38d5d4fa09b2c11f50ccfb22bc44d21d6f70e4a2f144cfcaebda74",
@@ -7318,6 +8026,12 @@
         "OS":  "TrueNAS",
         "SHA256":  "93dcf0e5319e2d69ca183f2b5df8da9d12a26a2e52aa964c83cd427db7325701",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "93f59b2d2eaff7b875fa7fcc1a680f259b7c62b7718dafdc46b00441164d1b01",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.21.0_rc5-x86_64.iso",
@@ -7368,6 +8082,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.2a-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "94ce3f6b81be33e2f80de157d69222efbfe6c404491b25292a8058a62096c594",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "pop-os_22.04_amd64_intel_54.iso",
         "OS":  "Pop_OS",
         "SHA256":  "94d04ec9d77297062d73d5248771782eb9f960085b5cb38881acfa700959cd3b",
@@ -7378,6 +8098,12 @@
         "OS":  "Alpine",
         "SHA256":  "94f7ae0890b8bdc5d8f9b8b2edfa9aa0f3a833247f00d8a3002253988964e619",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.3-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "950e2ff20392f410778f9d44b4f5c27f6a8e59c00a6eeb2c650b3a15fafa5f13",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.4-RELEASE-amd64-dvd1.iso",
@@ -7542,6 +8268,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.4-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "985691c01318acecdec59ea4033de1bd65869360ca366908d1ae23817e7d91bd",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "Zorin-OS-18-Core-64-bit.iso",
         "OS":  "Zorin_OS",
         "SHA256":  "98666287ca5afae215def4804aca479bf3b439e028bc8f4e4d8ecddb6dd27339",
@@ -7552,6 +8284,12 @@
         "OS":  "Alpine",
         "SHA256":  "9867a7f854ad17bdbfcedb74940eb14f72e7875ae46e8befa7a00b02f7c4a442",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "987479fdce4e9dfdb8745ee0d2b33641439d51849bd5f7c59d9e7292556ca3b0",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-07.10-server-amd64.iso",
@@ -7570,6 +8308,12 @@
         "OS":  "TrueNAS",
         "SHA256":  "98bbb59eb58decbd21a5dac1fe4b44e72369923c6ed8d99862de189926c4481c",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.4-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "98bfcaef596d00d3b9a395ee4885ad3f91c0078f86cfe8c80653753dc7077fd3",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.9.3-x86_64.iso",
@@ -7602,6 +8346,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2023.4-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "99e363d6e1773169328fbc11f5c5f96b51acd2e184272aa5e2befc2ae8933b2e",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.12.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "9a01c57fdbf3eba9da4c9c2b77716c7b911b4abfbd7ab88c8d07722ca4ad7fb4",
@@ -7630,6 +8380,12 @@
         "OS":  "Alpine",
         "SHA256":  "9b14a14689fb837e113216319538bc20d2e0640c01da4622db62f9fc51ff4bd1",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "9b32f7638a401d3782282df59185c783f946ae0b1d02328dd7f9e7615ef9a1f3",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.12.4-x86_64.iso",
@@ -7678,6 +8434,12 @@
         "OS":  "FreeBSD",
         "SHA256":  "9c08378e2aece866131a7f1fc6ec36b56d78f4084539dc1fd5f906ca1e63abac",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "9c1bc25248d2f17da4d04ea1b62ff62ef7e549dcdd998b91fc60beea6efa324b",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.8.5-x86_64.iso",
@@ -7869,7 +8631,7 @@
         "Name":  "kali-linux-2022.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "9ef71954cdf84d727571e35f80df694a2c71524e4a520338377ddd537f0c8228",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-12.1.0-amd64-netinst.iso",
@@ -8010,6 +8772,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a1adc89ca4439881e801be7f7e12c10ca2939596f8c7f82b9d63b429c482e5bf",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-virt-3.13.12-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "a1d440fc78d9bc1796980fd37ed24e5b7b74149d21df3d34b0ec745fc8f25128",
@@ -8046,6 +8814,18 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a244a409d3b6334570e622aaa1c15c7283e153214a98e2c819b96e3a57b6d5d2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.4-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a268f93aaa15fb56f6bf8bcc058bc061bd43258eea8c9f4174922cac008c8176",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "Solus-4.4-MATE.iso",
         "OS":  "Solus",
         "SHA256":  "a26a8d4ca921e9960c2ab9a32651492db89726634ca57f3a81ac9c88c56f0d50",
@@ -8062,6 +8842,12 @@
         "OS":  "Alpine",
         "SHA256":  "a2bff4df02087f2b5cf32700f2ce8db6fe3d0502e4e0eac11b982b9acf8325dc",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.1-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a2c04dd861620f237b97681cdcc390d283454627a9505ab3892c2480364872a1",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.3-x86_64-dvd.iso",
@@ -8085,6 +8871,18 @@
         "Name":  "ubuntu-20.04.1-live-server-arm64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "a2f5955378817705aad0d05a1acafec8ae14c7a08c45975a6e1444b90531824f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a308f7743a75d862561c35b3bfd8b401ebd447cc90c0aa7335c51889b99169c9",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a31c7b22dfc306fb096608f267a7296ebbe10a331ab7e2a2e646d2e073d45717",
         "TrustLevel":  "Official"
     },
     {
@@ -8124,10 +8922,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.1a-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a3cc64e9403c1ddc952ad852c29a4663ff191c5bd2359da1132d91f4a61ed1a9",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-15.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "a3cfac5c32b217db2cab43f261dcbe2cc546d99ca23e113312fedb78733aef6b",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.3-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a3f220224810d1111661040d64ddb62d0e68d2b7ed97bfd5fb3e5dd5768d02d9",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-21.10-live-server-amd64.iso",
@@ -8238,10 +9048,28 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a626c60deaa90a45d0c6f3e49871deb11565ad8db852bd1383802568b8df014e",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-15.0-CURRENT-powerpc-20250612-e6928c33f60c-277883-bootonly.iso",
         "OS":  "FreeBSD",
         "SHA256":  "a6344fb2339129bbd2d83479bfd7bb85ec748871d4a4cbe6d5602023b441710a",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.1-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a639e73425496ac27892453fef12bc254e79d3fd899a5a85ad4a3af2e7020b36",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.4-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a63aa47119834aace6bc798e0841e54aada9363eb3c928d7fd6087107b72cf39",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "TrueNAS-13.0-INTERNAL-60.iso",
@@ -8266,6 +9094,12 @@
         "OS":  "Fedora",
         "SHA256":  "a6d2fe8ee9af06c9b9701b64ef51befcec4c95dfc594cafdf4f18b7622a8c3c5",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.2-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a6e11071179f5c3a8c5195123b505f0d991a5c845d22bcba0f4355be69c6d9e8",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-12.04.4-dvd-amd64.iso",
@@ -8296,6 +9130,12 @@
         "OS":  "Alpine",
         "SHA256":  "a7721242aa7f1b18327e729cb9e80d54aad9e50a023dfb245b4d7bc4b439c574",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.1-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "a7b20aa0bfd34e557faf1335e9c0aa4000985ec58640265e945e6241a8012408",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-amd64-20250612-5dbdbff46b08-271653-disc1.iso",
@@ -8424,6 +9264,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.1-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "aa1d75d25882a7eb332a1cf444e9d42d4113c4f5203bf13fc6fc74e870242223",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-13.5-STABLE-riscv-riscv64-20250605-cda1b2b634ce-259305-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "aa289268fdba03d947df6e0587051c421af52296bc065cd37c07f5e3167eb8af",
@@ -8440,6 +9286,12 @@
         "OS":  "AlmaLinux",
         "SHA256":  "aa73bf5a400949b3cfd5b48c42891c240e31055afa35de117b5468595fee76b0",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.1-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "aa77ae4ef0d08fbe979a8f575b4b484929e2d208e77cf93d6ecd3a31c0fba7fc",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-10-latest-x86_64-Live-KDE.iso",
@@ -8550,6 +9402,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.2-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ac95852806c6c8066b7dacc6c693674fc21e815ecf7e4722f1e024a1acba59a2",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "Fedora-Server-dvd-x86_64-43-1.6.iso",
         "OS":  "Fedora",
         "SHA256":  "aca06983bef83da9b43144c1a2ff4c8483e4745167c17f53725c16a16742e643",
@@ -8589,7 +9447,7 @@
         "Name":  "kali-linux-2020.1-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "acf455e6f9ab0720df0abed15799223c2445882b44dfcc3f2216f9464db79152",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-vanilla-3.5.0-x86_64.iso",
@@ -8604,9 +9462,21 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.1-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ad31a94b41112fc4b296c28ee48c6a01630c398c9a76126f0019edeb650b53a6",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-16.04-server-powerpc.iso",
         "OS":  "Ubuntu",
         "SHA256":  "ad361c4f82bce791a1322d05dfa4345023c2d8b0a698c45ffc6005691d1ed27f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.1-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ad4b0b1fc85d0702db824589aef9cbc370c057cbffadd9e08a4ed86fe5bab4c1",
         "TrustLevel":  "Official"
     },
     {
@@ -8680,6 +9550,24 @@
         "OS":  "Alpine",
         "SHA256":  "ae839e232728add019cd795a07ff3c09ad8e76b630a847b494b3e050f1aa1688",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.3-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ae977f455924f0268fac437d66e643827089b6f8dc5d76324d6296eb11d997fd",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.2-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ae9a3b6a1e016cd464ca31ef5055506cecfc55a10f61bf1acb8313eddbe12ad7",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.4-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "aeb29db6cf1c049cd593351fd5c289c8e01de7e21771070853597dfc23aada28",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "openSUSE-Tumbleweed-DVD-x86_64-Current.iso",
@@ -8784,6 +9672,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.1-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b0611807708808db79022225c685e370c11b14a24d4d134765294322e4cd9ae8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.12.12-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "b079c06421c4c0bd12306a23df3eec1e41817587b63ed79896c3dcb9d10d3a86",
@@ -8854,6 +9748,12 @@
         "OS":  "Alpine",
         "SHA256":  "b24366d284a3a29446c203940f0fe1a135f9887ae1d14c35ac7eb75f0403852b",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.2-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b27dea587e75d134074c6bb0699f36246e0bb6e0ba0751231fb085b9d03fd847",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-standard-3.9.6-x86_64.iso",
@@ -8934,6 +9834,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.3-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b3e79904c7b50f022cb70ba0f22b1629ab4b84b24001812b7cef2be5d5da4d1a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-20.04-live-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b3e8f7d17e3a63be428b8c6592801254f6859a4ccd88b781668502fc5f5eb60a",
@@ -9012,6 +9918,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.4-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b519437fcdc850ecd8a2136819bc0fdabe68f32042ef979bff5adaa148364789",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.10.1-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "b51d81b40d94251b3940a48cd6f3801f9fcca12fbf95c3e29a43977a6004e460",
@@ -9072,6 +9984,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.2-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b5ee578089324f9f488903535b85ebbb33cafec943b72186da00756087001ccd",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-10.10-netbook-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b5fb67403769ca8d3a45b78da16d895101fdab731af4266e6e23881c2bbe4144",
@@ -9106,6 +10024,12 @@
         "OS":  "Debian",
         "SHA256":  "b6989fb06ea2cd5efe02e4e536e329561e5b7c01afa2f89c34b9b0e83197e90d",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.4-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b6e0d3ebaa451de568b0bad1b40dee2217e8ae1463d9d91c80c9e1dc0b8599ed",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "TrueNAS-12.0-U1.1.iso",
@@ -9162,6 +10086,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b741d808acd02b4e94f434ae1374162bb999dbb6988087eebaa02d2262b3a761",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "slackware-13.1-source-d5.iso",
         "OS":  "Slackware",
         "SHA256":  "b741ef0547f5bc40c38df27e4d6460e64c9454648b6d8a0dbebe278765475399",
@@ -9192,6 +10122,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.1-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b7c93ff333b6e3909a6e28de5408a916cbea2b5c2371e4b76ec12900d1158bc8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-20.04.2-live-server-ppc64el.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b8011be7d5b3bafec502ff84c8bfe6e93acdde8f8a1bbad5b979ed9daf6984d9",
@@ -9202,6 +10138,12 @@
         "OS":  "AlmaLinux",
         "SHA256":  "b80708c99d19e970fed6c1d1a34f71e782c9e788405c00287cd619dbfae4e9c5",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "b82da505f879855749b11062c59e34b9eeb990c2b53fa342dba7976b4368c387",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.4.6-x86_64.iso",
@@ -9492,6 +10434,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.4-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "bd85a8e8230e52cb4a0a7600d433220f7b630d306377b7c7e81ded65acfe2808",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-16.10-server-powerpc.iso",
         "OS":  "Ubuntu",
         "SHA256":  "bd86ad8463fac2448b5e8c2639f35ba55290f3b468413d1ae683a6ef616edaa4",
@@ -9543,6 +10491,12 @@
         "Name":  "ubuntu-12.04.5-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "bec39e79664aa189dea338993f636e54c5eda2f84c27def7b06bd6373ab87628",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.4-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "beca4f8fd7f58eda290812f538e1323d3ba1f1a34df4b203e85de4be42525bb6",
         "TrustLevel":  "Official"
     },
     {
@@ -9612,6 +10566,18 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.2-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "bfafd9f44dfed524d5683a26802b6e50a953228bbbea0c14ead52286201e01d6",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.2-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "bfe9e2797eff82996dfad8144c4d2c80d1aab2549e7f382ff17159f5018d44aa",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-vanilla-3.6.0-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "c00a78d7380f513b3a135aef1e47ac8e1b1973330ba111edbb5250c0310338ff",
@@ -9627,6 +10593,12 @@
         "Name":  "ubuntu-10.10-beta-netbook-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c06b55f15418563777386e07dd4e4157b39be94ad092426fd0c010cbc18348ee",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c097f0ef0958b1dbd3613d8b9fdc59f7aa905e133089e5b46540d44b6996e687",
         "TrustLevel":  "Official"
     },
     {
@@ -9672,10 +10644,28 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.3-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c10ddd7f6cee1de0586fa34a359f8ba7381500efc2587c4d81d2ce7287d5d38b",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "TrueNAS-SCALE-24.10.1.iso",
         "OS":  "TrueNAS",
         "SHA256":  "c1370c6c7bb4be27dac5957c76c9464d56eb2e3d57f68f1fc31f6905e34467de",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.3-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c1494c8e6acfdd2f080051787010c9466fb850c5f7ef12100cd9e25c374981f6",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c150608cad5f8ec71608d0713d487a563d9b916a0199b1414b6ba09fce788ced",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250612-47807edf0ac2-259309-disc1.iso",
@@ -9688,6 +10678,12 @@
         "OS":  "AlmaLinux",
         "SHA256":  "c16fe36bce3e67ae67cc856270f4d5e39b63a6d12ad23499ba2bc34ee519cd84",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.3-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c17c1976eeb1383c89a0502af7756e18ccbef834f5cbc5a69f2764a84b961345",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "TrueNAS-SCALE-22.12.0.iso",
@@ -9732,6 +10728,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2026.1-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c2096dc2194c915cf94c273b907a84043ea6adfcba18509f15a8c1d1bbfb211c",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-22.04-live-server-arm64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c209ab013280d3cd26a344def60b7b19fbb427de904ea285057d94ca6ac82dd5",
@@ -9754,6 +10756,12 @@
         "OS":  "Alpine",
         "SHA256":  "c25426bc4e1c4d4cd7e0d92dbbd9ddbe07c345fed2598f879e73bc4e9470d164",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.3a-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c255a34820f53416390f1f03401b4bc4562c5030a9d677cd31ec0de6f551c48f",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04.3-server-amd64+mac.iso",
@@ -9822,6 +10830,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2024.2-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c49ede57d4ba42f237f2b2582169d9abf42580dd235717395a3e6674454623e9",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-9.5-beta-1-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "c4c394cd7888a87aca028ce4d5eb41749e650b97d35913b9de178841a5bfec10",
@@ -9856,6 +10870,12 @@
         "OS":  "Alpine",
         "SHA256":  "c54ea583466b36f92657bea9b5c6509d60c151050da57006ef3a8a3bc933b060",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.1-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c55dcb0280f318606ebee69825defc346ef269507db0379318455db442468682",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.15.9-x86_64.iso",
@@ -10038,6 +11058,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2026.1-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "c92c79d7267c93245962cf696c9da8105bf40855744513fbaaec41db17d307e1",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "debian-10.9.0-amd64-DVD-1.iso",
         "OS":  "Debian",
         "SHA256":  "c92da2e33afe9c248a9396b8849d9f626b337676f81fd28e7b48f83492fd23fd",
@@ -10113,7 +11139,7 @@
         "Name":  "kali-linux-2020.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "c9ebf2f7d95cd9349daa3441a25fdfd5e0dab522d03a298dbfe046859c3668db",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-13.3.0-amd64-netinst.iso",
@@ -10126,6 +11152,12 @@
         "OS":  "AlmaLinux",
         "SHA256":  "ca074f828a55032e37422a18ff55fae44c6d49f1ed268168234d1405b08b6379",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.4-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ca0bba69164104b93e43126686e303bffb3c6a14f319eba5f97673e6dcacb05a",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.13.6-x86_64.iso",
@@ -10161,6 +11193,12 @@
         "Name":  "ubuntu-20.04-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "caf3fd69c77c439f162e2ba6040e9c320c4ff0d69aad1340a514319a9264df9f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2026.1-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "caf5ff7d7a4f73c85a6f1688300b936d3d7fd6965c52d80632e36709a09255a7",
         "TrustLevel":  "Official"
     },
     {
@@ -10242,10 +11280,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.4-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "cc7cdc34f3fe41ef3a416855cd977fe45f1dbb526de7c81904f244943232b0b4",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-15.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "cc991993e3d9f57f27199877ac416157228fe6896212968d6e8c5aebd74e7ab0",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.2-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "cca77b0e93a297ca76cd7078c34d904c19207d707ee75a6f8fe5ecac2280d3f5",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-xen-3.0.1-x86_64.iso",
@@ -10264,6 +11314,12 @@
         "OS":  "Ubuntu",
         "SHA256":  "ccb7e6f1d1575f92f76e61413bd5b2235dd86c4e9a47b5d74bfe8352e95b9699",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ccba1b691479884e5cf43074b48fc42046f5461e879d755219e465b43e5bfcc7",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.18.3-x86_64.iso",
@@ -10294,6 +11350,12 @@
         "OS":  "Alpine",
         "SHA256":  "cd601a48ebf9d9990feb9e7f21ef13acd88913d97fc34d4b6c662c0a9d020696",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "cd6f784b4e999daa50ab53950669920e0d6b7902be0945314ac234a0f5ee3344",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "slackware-14.0-install-d3.iso",
@@ -10365,7 +11427,7 @@
         "Name":  "kali-linux-2021.3a-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "cf672207806649fb60449e22935ab010bf973f8ef5cc9273dd2524c8d4e61066",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-18.10-server-amd64.iso",
@@ -10378,6 +11440,12 @@
         "OS":  "CentOS",
         "SHA256":  "cf983a9d56ba2decbd6e1e04ae41c8c40cd510e36be8e42ea1ec6c8b39abaedd",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2026.1-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "cfa5861ecf1cddd79de6f957db40f37f318d3e96d4e491fa9fb00a617113e66a",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "TrueNAS-12.0-U2.1.iso",
@@ -10566,6 +11634,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.3-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d28fb0441f1fbf7120837b83a1ed8d30a9e645977be1ee9da85293b396ab56ea",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.04-live-server-arm64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "d2d9986ada3864666e36a57634dfc97d17ad921fa44c56eeaca801e7dab08ad7",
@@ -10650,6 +11724,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2020.2-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d4833fc2095415ffd2e05fb7525d8519b62f3be9af366cffdd4cdd887c0cec62",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "debian-11.4.0-amd64-netinst.iso",
         "OS":  "Debian",
         "SHA256":  "d490a35d36030592839f24e468a5b818c919943967012037d6ab3d65d030ef7f",
@@ -10660,6 +11740,12 @@
         "OS":  "Alpine",
         "SHA256":  "d4924fbcc912f1cea909c20c72fe0cce65308b8ee80db3f11fc9e25d77972f78",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.2-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d4b89f0d18130fada259c248c34cf754627d590418df1222e07d91c6532bc73c",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-virt-3.4.1-x86_64.iso",
@@ -10716,9 +11802,27 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d56a1615e638567dede59cde71a13a957b41fb7902ca553892186a400297ef8b",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-11.04-alternate-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "d58bb6ccf46a5cb8f464b7099ad0b06cc9fd7c636fa60435cc2b7d18519bafe4",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.2-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d59155e30231f5c327514d947e9f8d68464edfb9721ad7f2656200114f827191",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.2-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d5a1b57cfa671926f0417210d0b1d1c2182744e65b42821dbc8531e44e9c7a3d",
         "TrustLevel":  "Official"
     },
     {
@@ -10840,6 +11944,12 @@
         "OS":  "Alpine",
         "SHA256":  "d8b71cb04a9d6fb0c898f126b34e47f5b1111a431cfa8a68df5543c1c16ec561",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.4-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "d8be15781c996fcca541c371589f7486cb31f4069b7a2e7d81798e5550b8a1d0",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8-x86_64-Live-GNOME-beta-1.iso",
@@ -11022,6 +12132,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.3-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "dc1e3b20cdbaca95030d46c94ab454fe4d8f0ae94668db6bea807997f07ebea3",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-10.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "dc40522fe5e70b2fed5737d1beb29da87b0072cc275e086ebed30cb83ecf1dd8",
@@ -11124,6 +12240,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.3-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "dd4069ab3e5e06767bc5a650d1dd8bb2825982e76d459bf1bdf7ac34b2021df8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-17.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "dd7879be4e2f9f31672f6e7681ecafeccfac294afd8ca1b04b78bc37fb44291c",
@@ -11200,6 +12322,12 @@
         "OS":  "Alpine",
         "SHA256":  "deb320048dbc3bb4b8530e58f5fa3bc1cc9d9480290b50250998a8b1cc619d90",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.2-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "def160159e12ff52fb5f4991240bd760500d7cd5ee38601a8bf35809a20f9450",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Zorin-OS-15.3-Lite-64-bit.iso",
@@ -11391,7 +12519,7 @@
         "Name":  "kali-linux-2021.3-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "e316b27025922e9f6bca0cacee6dde83dbfd4a549ad18026526f5824af639fc1",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.16.1-x86_64.iso",
@@ -11436,10 +12564,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.2-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e3d9b66b4cf88595decfc064370a0a7cfb1a9a7ab8b78c307d642ea8ae40569d",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "proxmox-mailgateway_6.4-1.iso",
         "OS":  "Proxmox",
         "SHA256":  "e3da927685bf4849679d6b19a9cb7e5a8e531fc6a86fabea732a0f6013ba43ba",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.3-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e3e977a8f99622be55365cb9c21dc7f6e625827cea85233cea2cc04ac09eee3e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-10.10-beta-server-i386.iso",
@@ -11556,6 +12696,12 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "kali-linux-2025.2-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e5ba90aaf3d507fd3bf85e9cd6760a09fd2e74185e063895a1bad11d8c3c6507",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.8.4-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "e5bb326d1402ba498fcc465ee0ac0cacdeacd4d8152b901fb6ced968d662bb06",
@@ -11619,6 +12765,12 @@
         "Name":  "ubuntu-20.04.1-live-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "e70b6a3573378c5511102255fd30d953504993ca0410f734a94ead1877c0cc6f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.2-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e725dbc67a82a1065218527f4a9de4deef8d900114e7e5136f9f9997ddb96255",
         "TrustLevel":  "Official"
     },
     {
@@ -11700,6 +12852,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.4-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e86615de611a4bfdaba6946c618de3409da1b0eae067b44c4ecbe1e8b35a0df3",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-virt-3.21.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "e877549fb113ba93f89f3755742f3e5178ae66fb345bf6a74a9ddbe1e8bd2ec6",
@@ -11718,10 +12876,22 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.4-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e8ec9ff9e5d027999bb37fa024acf1ca4f7db2e9ff48fabf92b6f9b2e2fd27f8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64-20250612-e6928c33f60c-277883-bootonly.iso",
         "OS":  "FreeBSD",
         "SHA256":  "e9003e0cf2b09ddc89e19a40ba35e712feda0a372e52e064ed18935688d621f0",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2020.2-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "e90e0cfb4bc8fc640219dba66c9fe4308c9502164e432c47a30af50ce9cb3ba2",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Solus-Budgie-Release-2024-10-14.iso",
@@ -11758,6 +12928,12 @@
         "OS":  "Alpine",
         "SHA256":  "e9fef144a64caef4e988564459106f8c6aaf2b8bfd64d5b516d5ec596de91668",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-netinst-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ea30fe459761adc3ff4b5caeb37da99dae1253b520b0cff97b1a892b7740b9f5",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "manjaro-kde-26.0.3-260228-linux618.iso",
@@ -11808,6 +12984,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.3-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "eb6556f27ed29921df3b1eaacd02361e14d05eb290560aa7256505b7525b26a6",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-xen-3.5.3-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "eb6c746dd923ca732e619d443191fa035d87ef061c6e18cf4473877684ecad76",
@@ -11842,6 +13024,12 @@
         "OS":  "Ubuntu",
         "SHA256":  "ebf65880b8ffbfd587bf29c7a43e9a6cce00e08ba9479eb513bdef5cc96d8564",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2026.1-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ec0d81bb949d8c4fa2c4622c027ada145997ca7a4f6f1f7e3095e608db5c6d93",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04.4-server-powerpc.iso",
@@ -11934,6 +13122,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.4-installer-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "edb01099437463d6975a33ed6ceaf1bc4cca4d805f3dcf1afb3bd1557ddd211a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "NetBSD-8.3-amd64.iso",
         "OS":  "NetBSD",
         "SHA256":  "edb13a6b60b53de3b2bdd12ef75a1eaad139f77e3f1f60ed99a95dae2764b883",
@@ -11944,6 +13138,12 @@
         "OS":  "Alpine",
         "SHA256":  "edd2c0682ca2def951bd63e772beb7ad79a8591c3351d68886f328a3bde6a4bb",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ede9cea540884f3fcc808b6282bde56f1b59866ccac59c1174ce837f2f5e7dfe",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-13.04-server-amd64.iso",
@@ -11968,6 +13168,12 @@
         "OS":  "Rocky",
         "SHA256":  "eedbdc2875c32c7f00e70fc861edef48587c7cbfd106885af80bdf434543820b",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.2-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "eee4eab603b10a0618e1900159cb91b8969bf13107e5d834381ecb21a560e149",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9.5-x86_64-minimal.iso",
@@ -12006,6 +13212,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.2-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ef83bafe1f19088666a8080d7ea07bd4f8da2fda0fcb3ef5f2ce2658f349c119",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-07.04-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "ef918b14d8fcf2bb9a750e464dc4d64ba63a6aae1ed64bd56c1a335a2ff6992f",
@@ -12039,7 +13251,7 @@
         "Name":  "kali-linux-2024.4-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "f07c14ff6f5a89024b2d0d0427c3bc94de86b493a0598a2377286b87478da706",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-10.0-beta-1-x86_64-boot.iso",
@@ -12052,6 +13264,12 @@
         "OS":  "TrueNAS",
         "SHA256":  "f0d049582c395017b264cfd7b8e2c1533250c2611bd414bca3d8b4e39f42ee46",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2022.2-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f0d43a6d6e2b65ea911a57b33ad6991aa65100886a9909da68f40392c4f15c9e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.7-beta-1-x86_64-dvd.iso",
@@ -12102,6 +13320,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2024.3-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f1d59e1467f801ad9760d610db8d3f34256427fd720db68f6b2db7552f5edd6f",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.5.0-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "f1ec264026cec20bf4a5dc59d373d7b2c9ec06d258ce9c97183d98a5c52dfa61",
@@ -12112,6 +13336,12 @@
         "OS":  "Kali_Linux",
         "SHA256":  "f223790ae3e57893abdeb0e950ef8c6ddd44d0429255374d0a50e47b1d356028",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2025.3-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f237246c2ec4391aa0d82f705736d70dd57476042fbfdaa9c9786904d770f745",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-09.04-server-i386.iso",
@@ -12168,6 +13398,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.4-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f323da6783522ae1038bddeae8025f419c1f6e6a4977ad79dcf50dd794476d46",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-9.0-RELEASE-amd64-dvd1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "f338e24645f0bcc792b8417411ed737d8057cd2f470f9d2b601c143352d6d459",
@@ -12192,9 +13428,21 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2021.1-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f38e14e0662fc7f3908126c9829bb2869485541dabbc84d25984e798948f51c2",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.04-beta-live-server-arm64+largemem.iso",
         "OS":  "Ubuntu",
         "SHA256":  "f39150596fd075741d48e86cca65f4abec96ebf05bc5ead3bd92a580df963f8a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.3-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f3b303ad328f6f7de6d26ac5fe41a3c10e2dfeda431a039323fc504acab4acfc",
         "TrustLevel":  "Official"
     },
     {
@@ -12420,6 +13668,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f87618a6df20b6fdf4edebee1c6f1d808dee075a431229b3f75a5208e3c9c0e8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-virt-3.20.1-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "f87a0fd3ab0e65d2a84acd5dad5f8b6afce51cb465f65dd6f8a3810a3723b6e4",
@@ -12442,6 +13696,12 @@
         "OS":  "Alpine",
         "SHA256":  "f8ae75c89837fa8ce328a27568aa223f1ca3daa0fe98aec30dc6ec8129da5f1b",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "f8c054fda06229b5ba26c7a367989eeeac91a4813318255eff173b7d7144bae1",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "TrueNAS-SCALE-22.02.3.iso",
@@ -12582,6 +13842,12 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2023.4-live-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fad1d9a5864faf3b7066dceae6302e588da0dfaace3b1c55e570fa8d38670723",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-extended-3.20.1-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "faea682ef019c51c2402df403bd75dadb559b895ddba23a9c543f98b2e28ddf8",
@@ -12630,10 +13896,28 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2022.3-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fb625785a754e883c592026a95fbdc8e17ecd3811a04a0351f98d55125637726",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "alpine-standard-3.8.2-x86_64.iso",
         "OS":  "Alpine",
         "SHA256":  "fb910f6b11bb8be364567bc643ba7ed2fe6bcc90aca111af73b5058702c50929",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fbadb7f33e59f21789599b5da4c47d34cbfddbed97b8103073a717e8b0e36784",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.4-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fbbb3b86567892f91b8298be7c03e9be8c78c6f048e4c6fff539948743465d79",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "alpine-extended-3.15.9-x86_64.iso",
@@ -12738,6 +14022,18 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "kali-linux-2025.3-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fcf1999799f6642b7d6c6bd79bc1e516be7340b7203fe86c6be3ac21f693f42a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-everything-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fcf5d565c168db2ca0f33f7356ba60af26a0067967dc0ad378cc76e2367b06da",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-14.04-server-amd64+mac.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fd3a2254cd417b10458e88f04c2d594f351b09a659a459f443b3e3f4b8bfe099",
@@ -12784,6 +14080,12 @@
         "OS":  "Alpine",
         "SHA256":  "fde694b984c737c303f68c1f6e178264185168561c9c8cdf080e3579e54fae96",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "fdec281d69602f93e7ac7e6b355ac9c36e65ed9f806b56e9a77fab3754d90ae6",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-06.10-desktop-amd64.iso",
@@ -12910,5 +14212,11 @@
         "OS":  "TrueNAS",
         "SHA256":  "ffcb6e8449b061c04a0d9615dcf9670ffc5e007df1acbc7e0038b38877eb48c3",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2023.3-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "ffe5aa3932397895257252a144f9c62f2b8663f6b3f8bcf120b5ae53045d6031",
+        "TrustLevel":  "Official"
     }
 ]
