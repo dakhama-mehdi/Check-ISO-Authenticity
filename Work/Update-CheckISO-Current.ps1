@@ -1,4 +1,4 @@
-$databasePath = ".\Database\Update-database.json"
+$databasePath = ".\Database\CheckISO.json"
 
 $sumUrl = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS"
 
