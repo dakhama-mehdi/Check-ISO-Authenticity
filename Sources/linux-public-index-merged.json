@@ -12,6 +12,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-11.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.9.0",
+        "SHA256":  "0082602b3af40e563c2b4e20063df8b99bfa8e3a4247c8ee2902465019caf434",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-9.2-x86_64-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "00c91b923997c44822595998deb0cebcfaa53e93c2bed8745b04516badff431f",
@@ -24,10 +31,31 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-11.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.2.0",
+        "SHA256":  "011f6754601985f46fcc670ce02faabcc8b5b8aadf51bc3d3fcfa3185b96b1df",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-12.5.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.5.0",
+        "SHA256":  "013f5b44670d81280b5b1bc02455842b250df2f0c6763398feb69af1a805a14f",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8.8-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "016e59963c2c3bd4c99c18ac957573968e23da51131104568fbf389b11df3e05",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-11.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.9.0",
+        "SHA256":  "01c540225250d42cda3809d7130d0c27e934c8aca260d01a86d33dee19623b0f",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2022.4-live-arm64.iso",
@@ -72,7 +100,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-8-latest-x86_64-Live-MATE.iso",
+        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-MATE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "03f4418308389fbd2b4ab4bd90d7d11b284778c692b801aadbe515c63216ff37",
         "TrustLevel":  "PublicIndex"
@@ -92,8 +120,9 @@
     {
         "Name":  "debian-12.8.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "12.8.0",
         "SHA256":  "04396d12b0f377958a070c38a923c227832fa3b3e18ddc013936ecf492e9fbb3",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-i386-20250605-6573b7db7143-271611-disc1.iso",
@@ -135,7 +164,7 @@
         "Name":  "ubuntu-16.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "06c9add74e07687ce8dac11ab8a3e4cbf3928fb81891a3ca3ced3fb6ccfb37a0",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "OPNsense-23.1-OpenSSL-dvd-amd64.iso",
@@ -252,6 +281,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-12.5.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.5.0",
+        "SHA256":  "0b70097a7ec7be94a05a5dc32d957324871081af52dc6ce0cfc6eea98aa1346e",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "debian-13.4.0-amd64-netinst.iso",
         "OS":  "Debian",
         "SHA256":  "0b813535dd76f2ea96eff908c65e8521512c92a0631fd41c95756ffd7d4896dc",
@@ -273,6 +309,13 @@
         "Name":  "ubuntu-19.04-server-arm64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "0d0d4bcbd400a16395544fcaac12615c77cecc68bd636f3cd82dac45b4b29b56",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-11.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.3.0",
+        "SHA256":  "0def736504fc9a39289f062093fe257397d8d45727a2b77babbca1d7ca42d95e",
         "TrustLevel":  "Official"
     },
     {
@@ -357,7 +400,14 @@
         "Name":  "ubuntu-22.04.1-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "10f19c5b2b8d6db711582e0e27f5116296c34fe4b313ba45f9b201a5007056cb",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-505-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.5",
+        "SHA256":  "111039bd95fb68a0426c8dcb1f4ae2d147ade092d01f9f2a3bfe790849b0d02a",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9.6-x86_64-boot.iso",
@@ -378,10 +428,24 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-12.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.9.0",
+        "SHA256":  "1257373c706d8c07e6917942736a865dfff557d21d76ea3040bb1039eb72a054",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-14.3-STABLE-powerpc-powerpc64-20250612-5dbdbff46b08-271653-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "125efe29204391c55e70c69867af5c2d8c49bc55e40ef506f3c03c299c4fa414",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.9.0",
+        "SHA256":  "12928c7a7f1138db1027717572fabb7d7e326af455c86e0a86725aa1bb2d79c8",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpcspe-20250612-47807edf0ac2-259309-disc1.iso",
@@ -435,7 +499,7 @@
         "Name":  "ubuntu-11.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "13dc0105f81e47308c5fab5fc6d71c7030fcc2a5721df654cd4c26406da4ffab",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2021.2-live-i386.iso",
@@ -465,6 +529,13 @@
         "Name":  "ubuntu-25.04-beta-live-server-riscv64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "1559648dbb2fa6c13d3390435300798188f042f1d2f0c25bf41a0e9d86f8b094",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-12.4.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.4.0",
+        "SHA256":  "155eb74ffe7344c895708a12672183c87a4dfc2e9faf4fa401a64cad212e6b7e",
         "TrustLevel":  "Official"
     },
     {
@@ -528,6 +599,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-edu-12.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.6.0",
+        "SHA256":  "184370de1a4b1c722f03a5dd70c3976fa373c58867b8c1b36e237840b8c5cf5a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "Rocky-10.1-x86_64-boot.iso",
         "OS":  "Rocky",
         "SHA256":  "18543988d9a1a5632d142c3dc288136dcc48ab71628f92ebcd40ada7f4ecd110",
@@ -582,7 +660,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "ubuntu-17.10-desktop-amd64.iso",
+        "Name":  "ubuntu-17.10.1-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "1a3d2d32ada795e5df47293745a7479bcb3e4e29d8ee1eaa114350b691cf38d3",
         "TrustLevel":  "Official"
@@ -684,7 +762,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-9-latest-x86_64-boot.iso",
+        "Name":  "AlmaLinux-9.4-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "1e5d7da3d84d5d9a5a1177858a5df21b868390bfccf7f0f419b1e59acc293160",
         "TrustLevel":  "PublicIndex"
@@ -730,6 +808,13 @@
         "OS":  "Ubuntu",
         "SHA256":  "204ed59be6bf3d299bc337b29b2235bac3c9c69de2b2d7729a28c004c7f5fafb",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-13.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.2.0",
+        "SHA256":  "2077834ae23049a185b72679917e040a8832ded883eab4c1d5e10f9fae7716dc",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04-desktop-i386.iso",
@@ -786,6 +871,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-edu-12.12.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.12.0",
+        "SHA256":  "22722fe62d5a40aa8b4d50e1515635787d6760da3f257daf49788051e50a374a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-08.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "22993f8e0c8a6c7efc6e9bf4146428404e605e638d01dafe861dd17d880ffd2e",
@@ -808,6 +900,13 @@
         "OS":  "Fedora",
         "SHA256":  "231f3e0d1dc8f565c01a9f641b3d16c49cae44530074bc2047fe2373a721c82f",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.10.0",
+        "SHA256":  "233a730e88ae995da5c6634c7ab78a8a9faea042c5157b3ebffa6a13ececf79d",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-23.04-beta-live-server-amd64.iso",
@@ -842,8 +941,9 @@
     {
         "Name":  "debian-12.2.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "12.2.0",
         "SHA256":  "23ab444503069d9ef681e3028016250289a33cc7bab079259b73100daee0af66",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-09.10-server-i386.iso",
@@ -879,7 +979,7 @@
         "Name":  "ubuntu-12.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "256a2cc652ec86ff366907fd7b878e577b631cc6c6533368c615913296069d80",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-07.10-desktop-amd64.iso",
@@ -891,7 +991,7 @@
         "Name":  "ubuntu-19.04-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "25d483341ccd0d522a6660b00db933787c86c47b42f1845bcf997127f4b61e9d",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2024.4-installer-purple-amd64.iso",
@@ -903,7 +1003,7 @@
         "Name":  "kali-linux-2021.1-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "265812bc13ab11d40c610424871bdf9198b9e7cad99b06540d96fac67dd704de",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04.3-desktop-i386.iso",
@@ -921,7 +1021,7 @@
         "Name":  "ubuntu-13.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "269e84cea4b1d30d7bd9c1167d9f79a966a99987d39054fcd647d77cce15cb0e",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2020.1a-installer-amd64.iso",
@@ -1005,7 +1105,7 @@
         "Name":  "ubuntu-16.04.1-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "29a8b9009509b39d542ecb229787cdf48f05e739a932289de9e9858d7c487c80",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-18.04-server-s390x.iso",
@@ -1038,10 +1138,24 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-edu-11.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.11.0",
+        "SHA256":  "2aca179027b680743000039a9c1e4257a1146d77ba442296dd248a92b71faf12",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-15.0-CURRENT-amd64-20250612-e6928c33f60c-277883-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "2b6c726ff5d6bc7c02e117feb890c4878ca495e6b4816a2945e65bba54aa4f76",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-12.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.13.0",
+        "SHA256":  "2b880ffabe36dbe04a662a3125e5ecae4db69d0acce257dd74615bbf165ad76e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2024.3-installer-amd64.iso",
@@ -1059,7 +1173,7 @@
         "Name":  "ubuntu-13.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "2bead0f1f451734461ff88f913f4b02ba9e873b15f097a5c231bdb3763ea42e3",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-10.10-beta-alternate-amd64.iso",
@@ -1143,7 +1257,7 @@
         "Name":  "ubuntu-12.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "2e37611224dad7e40336f6dcfa24c3c693f32f751ec38c931291893d0c1b1d0d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9-latest-x86_64-Live-XFCE.iso",
@@ -1161,6 +1275,13 @@
         "Name":  "ubuntu-16.04.3-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "2e763f7f3546be33ebc9a59311b2eee3b0b0c8e021fae65431c219b531d26d32",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-11.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.10.0",
+        "SHA256":  "2fea0ef8114f0dab62b16303a830dc744caf8e3c28dfc2d4a3d9c2cc328da829",
         "TrustLevel":  "Official"
     },
     {
@@ -1182,10 +1303,17 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-GNOME.iso",
+        "Name":  "AlmaLinux-8-latest-x86_64-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "311b8985021ffcbb20c8652894660153a505f50090edb548db4986e809897ba2",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.1.0",
+        "SHA256":  "312b618e5620e1707b35688400b30e4d6703beb3b8c2c8c120c6c8875a4067e5",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-15.0-CURRENT-powerpc-20250612-e6928c33f60c-277883-disc1.iso",
@@ -1209,6 +1337,13 @@
         "Name":  "ubuntu-11.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "31d5254e83457dfe7b46e6c2553b27b41e6e942122edb2b2ff5c3e9a82ad3256",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.10.0",
+        "SHA256":  "31f132da2deedbf126d426ae591ae339b5f55d97455512115666de05a9f4e067",
         "TrustLevel":  "Official"
     },
     {
@@ -1236,6 +1371,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-12.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.0.0",
+        "SHA256":  "330a33926e6af248613d2fda74b0f0251a85554254906ce9c6b3f55ac00e3862",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-9.6-x86_64-Live-XFCE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "331ddfd540051cdce1004bbf7902ed85f73a9e41416cf63d53e8617b68bda5ec",
@@ -1251,7 +1393,7 @@
         "Name":  "ubuntu-15.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "33873f5312261f858d212a47f2344073a6d0366c9607cef3b3f593e87e3aa8de",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "FreeBSD-15.0-CURRENT-arm64-aarch64-20250606-fa02d9fceab7-277727-bootonly.iso",
@@ -1275,6 +1417,13 @@
         "Name":  "kali-linux-2023.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "344a8c948af62f7a288e3dc658291ec3d3cfcdbe5ad1e2f45334740bd6ff481d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.13.0",
+        "SHA256":  "345dd8e71daebaf537e6feb64cc3053596fe8fab5468e2e5d9be83da6b9fe356",
         "TrustLevel":  "Official"
     },
     {
@@ -1308,7 +1457,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-10.0-beta-1-x86_64_v2-minimal.iso",
+        "Name":  "AlmaLinux-10-latest-beta-x86_64_v2-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "35223eeb7cd71c5b3b33cfbc0d9dcd1ddb6b001c9ef482ef1bfaba9b400dadde",
         "TrustLevel":  "PublicIndex"
@@ -1335,7 +1484,7 @@
         "Name":  "ubuntu-11.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "36578e6fa82e4c1194cb619d20e1f7fe4c6964b23b06a84835a3972c0cc7225c",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-9.0-x86_64-Live-KDE.iso",
@@ -1347,7 +1496,7 @@
         "Name":  "ubuntu-13.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "369a1f604df30e097f063829b27c39941a26e5771c53b35aa9ea0e0e0abb3a56",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2022.3-installer-netinst-arm64.iso",
@@ -1372,6 +1521,13 @@
         "OS":  "AlmaLinux",
         "SHA256":  "37735a00dca4f23970d48be7a080a4dfc780a64613e835896d6d952262e3bdf2",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-8.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "8.11.0",
+        "SHA256":  "37872226999e1492f8604ec00fcc350627dc4fe50a0a60b8b51ebd38ff188d7f",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-powerpc-powerpcspe-20250605-6573b7db7143-271611-bootonly.iso",
@@ -1503,7 +1659,7 @@
         "Name":  "ubuntu-10.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "3d720b4044c3f8baf14f706b09f012df82f269291b9f0ba0b3fc88e2bf07d0bd",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2024.3a-installer-purple-amd64.iso",
@@ -1521,6 +1677,13 @@
         "Name":  "ubuntu-10.04.4-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "3de19967318906fd57252ef67ed3ad411b89e3ea6b81205e26517530d7a8cd0b",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.5.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.5.0",
+        "SHA256":  "3de7691e91a24c01d9bf872d151f5cd20503c92417be6e4982e1cda0c5ddd0d6",
         "TrustLevel":  "Official"
     },
     {
@@ -1575,7 +1738,7 @@
         "Name":  "ubuntu-19.10-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "3fe242f4b330ead8191b3c200bcf1d8d3be4243d62fe6b866a778499370c9dbb",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "Fedora-Server-dvd-x86_64-35-1.2.iso",
@@ -1587,7 +1750,7 @@
         "Name":  "kali-linux-2020.1-live-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "401e2398d2931a4b910597e8bdf334bb85e40ef02d4878816f3050179c089fef",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.3-RELEASE-amd64-dvd1.iso",
@@ -1623,6 +1786,13 @@
         "Name":  "ubuntu-25.04-live-server-arm64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "418df52840034ba7fb0912ea554fef0ef1b3c055e438dbc0c2739ac07fd8c476",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-11.5.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.5.0",
+        "SHA256":  "41e26335a8c0db107bf3b9a0fbc34a725667bfca72bc97c1f0088e6253f3f090",
         "TrustLevel":  "Official"
     },
     {
@@ -1662,6 +1832,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-12.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.2.0",
+        "SHA256":  "439c1134c1769371860fb6a3d85badcc3a025cdc87aa29278bd3b35d61697a30",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-16.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "4405c37d61b5cac6c89eaf379c035058ed7db8594abd209337276c7c4556787e",
@@ -1670,8 +1847,9 @@
     {
         "Name":  "debian-5010-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "5.0.10",
         "SHA256":  "4406a75c885b0dc395d1c01291cd873be4ec784f0a20717508553486fae4d53f",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "debian-amd64-netinst-3cx.iso",
@@ -1701,7 +1879,7 @@
         "Name":  "kali-linux-2021.4-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "44b728ab1d7ba6395da56858d4447dd56ab5995ec55ade9fae55f7aea6c82f52",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-23.04-beta-desktop-amd64.iso",
@@ -1728,7 +1906,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10-latest-x86_64_v2-dvd.iso",
+        "Name":  "AlmaLinux-10.0-x86_64_v2-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "455665295dc5c1b4855891f5a26280dc0d930e30592b5f7ace444651dfda58e6",
         "TrustLevel":  "PublicIndex"
@@ -1737,6 +1915,13 @@
         "Name":  "ubuntu-25.04-beta-live-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "45964c9e3244d7100225d21628442fae4f5e59c952c50919c84baab380ba747d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-11.4.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.4.0",
+        "SHA256":  "45ae39ba39400b4325bb8486f8f3a6ad183a7700d922520c13cd514beaebe9ef",
         "TrustLevel":  "Official"
     },
     {
@@ -1806,6 +1991,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-edu-10.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "10.13.0",
+        "SHA256":  "483ddedea4bb03f958e79fd03cf4b56924c1f3449fc85dd94b9ab4cecefc72b8",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "489079483487f92ad0d2f3d4b6c88a7b197969eb286b277534047920854a8b03",
@@ -1821,6 +2013,13 @@
         "Name":  "kali-linux-2024.1-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "48c9f9c24a7dbe68277e591e5f3af588714190cde8263af2f9b35e7ad252750c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-7.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "7.2.0",
+        "SHA256":  "48dd0a26678f383710e992954c15b4cf034cc4cdebdfb8902d6d1e5d2752f003",
         "TrustLevel":  "Official"
     },
     {
@@ -1875,7 +2074,7 @@
         "Name":  "ubuntu-16.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "4bcec83ef856c50c6866f3b0f3942e011104b5ecc6d955d1e7061faff86070d4",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "FreeBSD-12.4-RELEASE-amd64-bootonly.iso",
@@ -2142,10 +2341,17 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64_v2-boot.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64_v2-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "5571cc6c826300a3d4aff9c2fc5203d03d4762bc5c9955ba061689d1af7867fc",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.2.0",
+        "SHA256":  "55921f9b59b8fe90eb99da3e9dd427d0c8fb0c6a89f67714be7f03ac141b768e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Rocky-10.1-x86_64-dvd1.iso",
@@ -2169,7 +2375,7 @@
         "Name":  "ubuntu-10.04.4-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "564eb67534ab64dbddd4b5bed54ec96f447cbbeb27a8a1354eae85658559503f",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2023.2a-installer-i386.iso",
@@ -2218,6 +2424,13 @@
         "OS":  "AlmaLinux",
         "SHA256":  "5772fc820e8f5bad43a2c33338454879413ce09d4cf6880d49facac1e839dc3e",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-12.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.9.0",
+        "SHA256":  "577ee0ea544cbd9d98017461bdcbfdcb446e50cf6e153deea6b5947128cdc6ad",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.8-x86_64-Live-GNOME-Mini.iso",
@@ -2274,7 +2487,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8-latest-beta-x86_64-boot.iso",
+        "Name":  "AlmaLinux-8.10-beta-1-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "5a8ab1a680b7373993889e91e8402f28784e78087ef23f33cee282ab69a2fbf7",
         "TrustLevel":  "PublicIndex"
@@ -2546,8 +2759,9 @@
     {
         "Name":  "debian-7.11.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "7.11.0",
         "SHA256":  "62876fb786f203bc732ec1bd2ca4c8faea19d0a97c5936d69f3406ef92ff49bd",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Rocky-9.5-x86_64-boot.iso",
@@ -2586,7 +2800,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-GNOME-Mini.iso",
+        "Name":  "AlmaLinux-8-latest-x86_64-Live-GNOME-Mini.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "6326985e17419b9571b39e74abdeaeb13b150f0561263e2dd9d1984167bfabcb",
         "TrustLevel":  "PublicIndex"
@@ -2602,6 +2816,13 @@
         "OS":  "AlmaLinux",
         "SHA256":  "6335641a33769a145179e5b3f5006e17023695467f80a82c6512171161737178",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-11.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.3.0",
+        "SHA256":  "634aa7f6ea1c7fc6bff9a410ba04e9f3a2fb255852303c3027e5fbbada77f477",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.8-x86_64-dvd.iso",
@@ -2655,7 +2876,7 @@
         "Name":  "ubuntu-10.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "64e7ae589c2da741fa3a9b1e18f69944f0e1f853ca9bfc2c6bf4a735982a5214",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.1-RELEASE-amd64-dvd1.iso",
@@ -2774,14 +2995,22 @@
     {
         "Name":  "debian-13.2.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "13.2.0",
         "SHA256":  "677c4d57aa034dc192b5191870141057574c1b05df2b9569c0ee08aa4e32125d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250612-e6928c33f60c-277883-bootonly.iso",
         "OS":  "FreeBSD",
         "SHA256":  "67a36aee7dee35c3c741b7683487effcdeedd30179d4580e7351243dc509fba2",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-12.8.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.8.0",
+        "SHA256":  "680e9b845950113118d3fb37b63016c812fa2199145a052576d86cc92b56d2cc",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04.2-server-ppc64el.iso",
@@ -2829,7 +3058,7 @@
         "Name":  "ubuntu-13.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "68f496b24305a544fa027ab42e4b92f3d18616f4eced6a3f6b9111109b923bb5",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-powerpc-powerpc64-20250612-5dbdbff46b08-271653-bootonly.iso",
@@ -2868,7 +3097,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10-latest-x86_64-dvd.iso",
+        "Name":  "AlmaLinux-10.0-x86_64-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "6c443f462b3993d15192a7c43ba8dfa3f232514db47d38796dab007a7455ae1a",
         "TrustLevel":  "PublicIndex"
@@ -2970,6 +3199,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-11.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.10.0",
+        "SHA256":  "721ef40ba86c01b555ea85bb4ca7917d28cb65d56e57a0f56af90443f0aec6a3",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2021.3-installer-arm64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "72558ac80e6ab1c9c8afb6197cbd61101a5c87057c343de5b52abbe028d5ba68",
@@ -2979,7 +3215,7 @@
         "Name":  "ubuntu-16.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "72b0d421da77f1e0c549b4efe6fc6c184e9909d6792f0d1e59b56d63e9705659",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2021.3a-installer-netinst-arm64.iso",
@@ -2994,7 +3230,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8.10-beta-1-x86_64-minimal.iso",
+        "Name":  "AlmaLinux-8-latest-beta-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "72fb1451e7d21418c2f4d94e63884fdb92dd7cba34d499dd4a070b6f5b4f150a",
         "TrustLevel":  "PublicIndex"
@@ -3200,8 +3436,9 @@
     {
         "Name":  "debian-11.3.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "11.3.0",
         "SHA256":  "7892981e1da216e79fb3a1536ce5ebab157afdd20048fe458f2ae34fbc26c19b",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-16.04.3-server-arm64.iso",
@@ -3240,6 +3477,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-501-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.1",
+        "SHA256":  "79b00e8a191e9bc9cbb334936f4ff67ea636899db034ca00b4f8984134615ce7",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64-20250606-fa02d9fceab7-277727-bootonly.iso",
         "OS":  "FreeBSD",
         "SHA256":  "79fad00f948a9ffc396bbfbf2f3e791f768db61fdfc989a0de2adab6c989b1a8",
@@ -3270,9 +3514,16 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "ubuntu-18.04.1.0-live-server-amd64.iso",
+        "Name":  "ubuntu-18.04.1-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "7b37dfcd082726303528e47c82f88f29c1dc9232f8fd39120d13749ae83cc463",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.6.0",
+        "SHA256":  "7b3d8b1a55e0e2d4b065682e64cb4b833c095b89f9fd91de29a937948d3623db",
         "TrustLevel":  "Official"
     },
     {
@@ -3285,7 +3536,7 @@
         "Name":  "ubuntu-18.10-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "7b9f670c749f797a0f7481d619ce8807edac052c97e1a0df3b130c95efae4765",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-8.6-beta-1-x86_64-boot.iso",
@@ -3309,6 +3560,13 @@
         "Name":  "kali-linux-2024.3-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "7c5c3dc8cb98534974355ab6d09e7df95a171089c738edd5a19dcc7196873de9",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.1.0",
+        "SHA256":  "7cb995d49332ccde18f6d0d0215d3bff1bd1065e8b6f557dcdeb630b138d40b3",
         "TrustLevel":  "Official"
     },
     {
@@ -3336,6 +3594,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-8.11.1-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "8.11.1",
+        "SHA256":  "7e0308d9e73ae55e1ab33bb147da5460e8dba57b3aa2414cc197404e51c32495",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-19.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "7e8a0d07522f591dfee9bc9fcd7c05466763161e6cb0117906655bce1750b2fa",
@@ -3360,6 +3625,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-12.4.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.4.0",
+        "SHA256":  "7f3eea6bf674584d9f162827a35d4bfd9e814513e88861315ce7526d1dded90f",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.04.1-live-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "7f459d9a8ef1daa6c5768c5d8b59fd3aef59e6aef8d739a074fcd7b624a10172",
@@ -3376,6 +3648,13 @@
         "OS":  "Fedora",
         "SHA256":  "80169891cb10c679cdc31dc035dab9aae3e874395adc5229f0fe5cfcc111cc8c",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-11.7.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.7.0",
+        "SHA256":  "802f55df84626ae181073cd30e8fb1167cbddaf6bd2cc25377653f01dee8c20e",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-ce-20.04.3-2021.08.24.0-desktop-amd64.iso",
@@ -3405,7 +3684,7 @@
         "Name":  "ubuntu-18.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "818affdaea8d38bbbe620009bfa788a7cbc583c7c61c2d278f61dd3c43e030a0",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04.2-server-amd64+mac.iso",
@@ -3630,16 +3909,23 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-9.2.1-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.2.1",
+        "SHA256":  "8b2acd67a4fa2271a0b7056caaaa70313cfffcae1e2334da9072f35d589b06da",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2020.1-installer-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "8b2bf7b6369fb120e42080f2ba57bc8cd7522a4abda1c2715c2b809b7157ae93",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-25.04-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "8b44046211118639c673335a80359f4b3f0d9e52c33fe61c59072b1b61bdecc5",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "OPNsense-23.7-dvd-amd64.iso",
@@ -3711,7 +3997,7 @@
         "Name":  "ubuntu-16.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "8d52f3127f2b7ffa97698913b722e3219187476a9b936055d737f3e00aecd24d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-12.04.3-desktop-i386.iso",
@@ -3762,6 +4048,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-12.7.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.7.0",
+        "SHA256":  "8fde79cfc6b20a696200fc5c15219cf6d721e8feb367e9e0e33a79d1cb68fa83",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-22.04.3-live-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "8feb639e307dcb4494a4d3ef92cacb9d2103abb66cb222fd907a25bc40ceadcd",
@@ -3771,7 +4064,7 @@
         "Name":  "ubuntu-17.10.1-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "8ff73f1b622276758475c3bd5190b382774626de5a82c50930519381f6c3a3f8",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-10.04-server-i386.iso",
@@ -3861,7 +4154,7 @@
         "Name":  "ubuntu-11.10-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "93384816bc09436f5b6d9dba79a915c7326f3cebc0f7a538e7f66b71dce188cf",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2021.4-installer-netinst-i386.iso",
@@ -4062,6 +4355,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-edu-11.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.2.0",
+        "SHA256":  "9b87561bb799746da198301bff9e182ca36c59c999ce128a5c83738be1f14e53",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-9.6-x86_64-Live-MATE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "9bb47a5aed51f5bfcdc8fe12fe01fbac9d7bb1c11a1ec7d52afcb52ee3e0f200",
@@ -4078,6 +4378,13 @@
         "OS":  "FreeBSD",
         "SHA256":  "9c08378e2aece866131a7f1fc6ec36b56d78f4084539dc1fd5f906ca1e63abac",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.7.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.7.0",
+        "SHA256":  "9c0b85d69d342e77f2df689dfb3b4b77626883d7f067cc8533c5b8d130f12b33",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2024.2-installer-arm64.iso",
@@ -4152,6 +4459,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-7.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "7.3.0",
+        "SHA256":  "9e6cef96d6d9d3bb8ef254dde9dd5c1ba5667cc0207531c9ef0f1a6b9f3adb1d",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-10.04.1-alternate-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "9e8c537d143ed558e1ba83543ad1158a22089ef071f10dc749bdb958d7266166",
@@ -4161,7 +4475,7 @@
         "Name":  "kali-linux-2022.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "9ef71954cdf84d727571e35f80df694a2c71524e4a520338377ddd537f0c8228",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "debian-12.1.0-amd64-netinst.iso",
@@ -4174,6 +4488,13 @@
         "OS":  "AlmaLinux",
         "SHA256":  "9f22bd98c8930b1d0b2198ddd273c6647c09298e10a0167197a3f8c293d03090",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-11.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.10.0",
+        "SHA256":  "9f75427f0de9344475e9c29af4526bf646d75ad987ed964ac6331248a3f9bf1d",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-8.6-beta-1-x86_64-dvd.iso",
@@ -4230,7 +4551,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10-latest-x86_64-boot.iso",
+        "Name":  "AlmaLinux-10.0-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "a1549729bfb66a28e3546c953033c9928eae7280917bb1c490983dba3bb9941c",
         "TrustLevel":  "PublicIndex"
@@ -4245,6 +4566,13 @@
         "Name":  "kali-linux-2024.3-live-arm64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "a1adc89ca4439881e801be7f7e12c10ca2939596f8c7f82b9d63b429c482e5bf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-7.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "7.0.0",
+        "SHA256":  "a1f8bf08ac01ba44437482b0afa0676839a16a20d7d9f6cb1d8ea0fc2b383ac4",
         "TrustLevel":  "Official"
     },
     {
@@ -4518,9 +4846,30 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-11.7.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.7.0",
+        "SHA256":  "a8263617fd85b74854d3fbecc72b2269bf47cab6db6f324c9974566a0b6a150e",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-500-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.0",
+        "SHA256":  "a8a091662a6bffa105cafc0bf7b6678330c566c0de41098f263b6c15b2729fe7",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-23.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "a8cd6ccff865e17dd136658f6388480c9a5bc57274b29f7d5bd0ed855a9281a5",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-11.5.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.5.0",
+        "SHA256":  "a92209237f69a44ac2884aad39f14c30df2b9eea1cf338bfeb8bd4af954a8b10",
         "TrustLevel":  "Official"
     },
     {
@@ -4608,13 +4957,20 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-509-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.9",
+        "SHA256":  "ab80da936c5d8b0062f5c659fd7c578396ec975adaf56101884fd2b24329d096",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8.9-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "ab861d80c8b68634f3c16d414a4141759a082548ad7b251d8924675fa09decab",
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-8-latest-x86_64-minimal.iso",
+        "Name":  "AlmaLinux-8.7-update-1-x86_64-minimal.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "abab7abbc08b80f045293e4f6a41cc7376a6ed827423374c12e1db4537cc86ff",
         "TrustLevel":  "PublicIndex"
@@ -4638,6 +4994,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-11.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.11.0",
+        "SHA256":  "ac40fa081364a327661d3a8090c6c4b31bcee780add0471e08ec1dd0fc3bd73a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2020.2-installer-netinst-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "ac95852806c6c8066b7dacc6c693674fc21e815ecf7e4722f1e024a1acba59a2",
@@ -4659,7 +5022,7 @@
         "Name":  "kali-linux-2020.1-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "acf455e6f9ab0720df0abed15799223c2445882b44dfcc3f2216f9464db79152",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-06.06.2-server-i386.iso",
@@ -4704,6 +5067,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-12.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.6.0",
+        "SHA256":  "ade3a4acc465f59ca2496344aab72455945f3277a52afc5a2cae88cdc370fa12",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "OPNsense-21.7.1-OpenSSL-dvd-amd64.iso",
         "OS":  "OPNsense",
         "SHA256":  "ae012392cdc6bfdfacf993b00bdc12b4d7effd2296e513016439c5abf3727276",
@@ -4720,6 +5090,13 @@
         "OS":  "FreeBSD",
         "SHA256":  "ae6a2f49119c87369e812b2fa61ae722a525867519251aac864205b282704681",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-11.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.0.0",
+        "SHA256":  "ae6d563d2444665316901fe7091059ac34b8f67ba30f9159f7cef7d2fdc5bf8a",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2022.3-installer-amd64.iso",
@@ -4770,7 +5147,7 @@
         "TrustLevel":  "PublicIndex"
     },
     {
-        "Name":  "AlmaLinux-9-latest-x86_64-Live-MATE.iso",
+        "Name":  "AlmaLinux-9.4-x86_64-Live-MATE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "b13b5486bbb52158ddb0ca7a9ebccbe8eca1f6a2e801f4f17c73dbc4dea0676d",
         "TrustLevel":  "PublicIndex"
@@ -4780,6 +5157,13 @@
         "OS":  "FreeBSD",
         "SHA256":  "b158612828166e5fb7b34a76718387b0ed40ef425cfdb88a067aa349713dcae4",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-13.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.0.0",
+        "SHA256":  "b1dba9018e3be83412d7f202af1ce95983c4da6492c87d8cfb80d1df28719e78",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-14.3-STABLE-powerpc-powerpc64-20250605-6573b7db7143-271611-disc1.iso",
@@ -4806,7 +5190,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-9-latest-beta-x86_64-dvd.iso",
+        "Name":  "AlmaLinux-9.4-beta-1-x86_64-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "b2c299e448bab4631ded0959b00751d473084d8d78f343ed072d3b0fbccb741e",
         "TrustLevel":  "PublicIndex"
@@ -4815,6 +5199,13 @@
         "Name":  "ubuntu-14.04.1-server-powerpc.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b35b9647554b543333f3f217bee3d99d438dab915f30cfbd7122df356821f119",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-9.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.13.0",
+        "SHA256":  "b36eed37d9e71877fdcf7585fb141673ddad6fe7663422b400223f4f8d88afc8",
         "TrustLevel":  "Official"
     },
     {
@@ -4881,7 +5272,7 @@
         "Name":  "ubuntu-13.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b4b20e0293c2305e83a60c605d39cabf43115794d574c68f1492d49fee0ab3d8",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2024.4-installer-netinst-amd64.iso",
@@ -4935,7 +5326,7 @@
         "Name":  "ubuntu-17.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b718c7fb1066589af52f4ba191775b0fb514c5fb6fa7d91367043e1db06d8a0b",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-8.9-x86_64-Live-MATE.iso",
@@ -4986,7 +5377,7 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-9-latest-x86_64-Live-GNOME-Mini.iso",
+        "Name":  "AlmaLinux-9.4-x86_64-Live-GNOME-Mini.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "b80708c99d19e970fed6c1d1a34f71e782c9e788405c00287cd619dbfae4e9c5",
         "TrustLevel":  "PublicIndex"
@@ -5001,12 +5392,19 @@
         "Name":  "ubuntu-22.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b85286d9855f549ed9895763519f6a295a7698fb9c5c5345811b3eefadfb6f07",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-25.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b87366b62eddfbecb60e681ba83299c61884a0d97569abe797695c8861f5dea4",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-13.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.3.0",
+        "SHA256":  "b8a82ed8fa41103cc2fe4509aca0307f4eda98e16a244d9ef029de8018c3ccc6",
         "TrustLevel":  "Official"
     },
     {
@@ -5055,7 +5453,7 @@
         "Name":  "ubuntu-18.04.3-live-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "b9beac143e36226aa8a0b03fc1cbb5921cff80123866e718aaeba4edb81cfa63",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Rocky-9.5-x86_64-dvd.iso",
@@ -5196,6 +5594,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-10.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "10.13.0",
+        "SHA256":  "bfa809cb7f6e7665de32a65fc2dd5d2c9d530c15201dda6286657196ef956996",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8.7-x86_64-Live-GNOME-Mini.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "bfaea28f651485bbfc5d060a8a731a9dd9049d5697899dcc3f9441064dcab323",
@@ -5229,7 +5634,7 @@
         "Name":  "ubuntu-12.04.4-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c0ba532d8fadaa3334023f96925b93804e859dba2b4c4e4cda335bd1ebe43064",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-18.04.4-desktop-amd64.iso",
@@ -5253,6 +5658,13 @@
         "Name":  "kali-linux-2021.3-installer-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "c10ddd7f6cee1de0586fa34a359f8ba7381500efc2587c4d81d2ce7287d5d38b",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-11.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.0.0",
+        "SHA256":  "c117f904cf51278923814f5b92c171e56726eb43c8895eb9258dc5b3b1c71400",
         "TrustLevel":  "Official"
     },
     {
@@ -5322,13 +5734,27 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-13.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.2.0",
+        "SHA256":  "c27fc48497aa5477e029a6dba32dfa4660b23f36757c10055bf31e8b1c32384c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-11.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.1.0",
+        "SHA256":  "c2a80033967543788089b41b16f112e29da275148342cb52499b77b03b2e30e9",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-24.04.1-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c2e6f4dc37ac944e2ed507f87c6188dd4d3179bf4a3f9e110d3c88d1f3294bdc",
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-x86_64-Live-GNOME.iso",
+        "Name":  "AlmaLinux-10-latest-x86_64-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "c33ce2ae960585428b1035c14ab9c781f86af0101337df9cb7e4c3df775e7f61",
         "TrustLevel":  "PublicIndex"
@@ -5338,6 +5764,13 @@
         "OS":  "FreeBSD",
         "SHA256":  "c35495289aaa8d38514ac85eeecf1a0e6261a25b3089b49308f18cf17d3c7c97",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-13.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.3.0",
+        "SHA256":  "c35f18628cea8f30030018d6f024e544d18a0252491c02b401ab2795b6e8780a",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-22.04.1-desktop-amd64.iso",
@@ -5418,9 +5851,23 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-502-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.2",
+        "SHA256":  "c5f866eaa12473cc006be4332f73ebcfd1b8d36a273e756bbaa32d4c220ebe40",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-17.04-server-s390x.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c63cff70c22dccfab121505c6c13175140f5eb7619be90f6a3b76d2e6989ecd5",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-508-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.8",
+        "SHA256":  "c6447d36098e39e4b45bd4e14c0fdd7dce79b6e150cefc2f297597592cfb5ff5",
         "TrustLevel":  "Official"
     },
     {
@@ -5433,7 +5880,7 @@
         "Name":  "ubuntu-14.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "c753dbdf665a77e466f07b8f040af00111d609352484a5a915df82e66dd0d163",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "AlmaLinux-9.1-x86_64-Live-MATE.iso",
@@ -5526,10 +5973,17 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-edu-12.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.11.0",
+        "SHA256":  "c9e91acea848d9ac0156e186eb5afbbe76c911ac492d5650d22f678c005d30e7",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2020.1-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "c9ebf2f7d95cd9349daa3441a25fdfd5e0dab522d03a298dbfe046859c3668db",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "debian-13.3.0-amd64-netinst.iso",
@@ -5553,7 +6007,7 @@
         "Name":  "ubuntu-17.04-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "ca5d9a8438e2434b9a3ac2be67b5c5fa2c1f8e3e40b954519462935195464034",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-14.04-desktop-amd64.iso",
@@ -5613,7 +6067,7 @@
         "Name":  "ubuntu-15.10-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "cc991993e3d9f57f27199877ac416157228fe6896212968d6e8c5aebd74e7ab0",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "kali-linux-2025.2-live-arm64.iso",
@@ -5634,6 +6088,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-11.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.11.0",
+        "SHA256":  "cd5b2a6fc22050affa1d141adb3857af07e94ff886dca1ce17214e2761a3b316",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2024.2-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "cd6f784b4e999daa50ab53950669920e0d6b7902be0945314ac234a0f5ee3344",
@@ -5643,13 +6104,20 @@
         "Name":  "ubuntu-16.04.1-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "cea23ae1ce57e7ee2495b74cc232358523d8d0a754a3aa3dd7d8f9d55408f5ae",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-507-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.7",
+        "SHA256":  "cebd9dc6daaaa30b232b19717826a0dc7845fea29bafc4b8db9577aa397ede0c",
         "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2021.3a-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "cf672207806649fb60449e22935ab010bf973f8ef5cc9273dd2524c8d4e61066",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-18.10-server-amd64.iso",
@@ -5775,13 +6243,20 @@
         "Name":  "kali-linux-2021.4-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "d35a0655fcd6b977c34bf24de089ccd4bd0b0e4d1d0ba23406877084c2ad45fa",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-09.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "d36a4c3d9eb296471d21c0c07cd1bbe467c9f5de62dd19cbd6ac762bfa19bfaf",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-12.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.11.0",
+        "SHA256":  "d436c62a059cfeb309d2c4cade969067507ee7cb21f021963d4ed88efb3767d9",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2020.2-live-i386.iso",
@@ -5792,8 +6267,23 @@
     {
         "Name":  "debian-11.4.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "11.4.0",
         "SHA256":  "d490a35d36030592839f24e468a5b818c919943967012037d6ab3d65d030ef7f",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-11.4.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.4.0",
+        "SHA256":  "d4a64528226588a348d94b67f1fbad4c2cdb493963ec8e0d02be80bd8ac213f8",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-12.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.13.0",
+        "SHA256":  "d4b01475b0116305892707be14c5a402835339f4ada1fd6dbf99ff17425a5194",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2022.2-installer-netinst-arm64.iso",
@@ -5850,6 +6340,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-edu-11.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.9.0",
+        "SHA256":  "d653735b914629a238fdf272f632c2a78eb3137ff3e8f0ec96e9edb031bda879",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-08.04.4-server-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "d660410c3754803c5d12450be0709b2514c926f45ecce0d44652bd8813b10313",
@@ -5860,6 +6357,13 @@
         "OS":  "AlmaLinux",
         "SHA256":  "d6710c3c8ce10478f798821299d5f1643cccfcd1e705a8e800d3bf95f32ac08f",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.8.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.8.0",
+        "SHA256":  "d67372ff74be618bd917bd8f478a054dd5efd1cbac1220fe0d56be4098d2f9f1",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.2-live-server-amd64.iso",
@@ -5877,7 +6381,21 @@
         "Name":  "kali-linux-2022.2-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "d7444e8afb74b9b3c8c8be9f15fb64eddc0414960d9e2691c465740d58573eff",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-11.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.6.0",
+        "SHA256":  "d74c84606ef341845200f8a6d3aa45de7378172a04f0e86a70581bdd3499a90c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-11.8.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.8.0",
+        "SHA256":  "d7a74813a734083df30c8d35784926deaa36bc41e5c0766388e9f591ab056b72",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.2-desktop-amd64.iso",
@@ -6015,10 +6533,10 @@
         "Name":  "ubuntu-17.04-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "dd201dc338480d1f6ad52e4c40abbc9bfbf12eba71aeac8a87858a94951b002a",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-8.7-update-1-x86_64-Live-KDE.iso",
+        "Name":  "AlmaLinux-8-latest-x86_64-Live-KDE.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "dd2163fb1123b231a60faa36345f27cc1095d4f6957f207bebe334d8190261e5",
         "TrustLevel":  "PublicIndex"
@@ -6036,10 +6554,17 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-edu-11.8.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.8.0",
+        "SHA256":  "dd6fb8dc44465fb764b6f9d01b8e3391145abea135e91735bc94966904045f59",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-17.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "dd7879be4e2f9f31672f6e7681ecafeccfac294afd8ca1b04b78bc37fb44291c",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-14.04.1-server-ppc64el.iso",
@@ -6072,10 +6597,24 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-edu-11.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.0.0",
+        "SHA256":  "de5ce53ec0b2a84b2f3f1f1128138e9e6228a1e4315312b8ac3024099e835de4",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "AlmaLinux-8.6-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "de92004fcc5bb5b9af586c9b5ab0e0c7c5a5eedce4d2be85156c5dd31a4fa81b",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-11.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.1.0",
+        "SHA256":  "dead48ff808452480d950a9fdbe17856b87ce173ea60b3e34f46ac2b56cd8dd7",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2020.2-installer-netinst-amd64.iso",
@@ -6096,6 +6635,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-12.12.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.12.0",
+        "SHA256":  "dfc30e04fd095ac2c07e998f145e94bb8f7d3a8eca3a631d2eb012398deae531",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-12.04.3-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "dfc72a13b06cbd2dbd5750a71c62781c8531bbf023920b6dec668d1b066cc540",
@@ -6111,7 +6657,7 @@
         "Name":  "kali-linux-2021.3-installer-netinst-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "e06c26b2de306b1f4c12d015daf0b8e72b19672ee26ee2a5f2b86b828477dc1d",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "AlmaLinux-8.4-beta-1-x86_64-boot.iso",
@@ -6123,7 +6669,7 @@
         "Name":  "ubuntu-14.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "e1c74e163b06e28bfd71ef322ce986fb6098d03704408f9dc2eaf3ef6f7f86b9",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-10.04.2-desktop-amd64.iso",
@@ -6207,10 +6753,17 @@
         "Name":  "kali-linux-2021.3-live-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "e316b27025922e9f6bca0cacee6dde83dbfd4a549ad18026526f5824af639fc1",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-506-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.6",
+        "SHA256":  "e337ebb9f0cba5f6ea1323fe3de4f12bfd14ee9126c04f0e8183184ea6b4cbaa",
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-9-latest-x86_64-Live-GNOME.iso",
+        "Name":  "AlmaLinux-9.4-x86_64-Live-GNOME.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "e33dbd1242306181a38453bb78cbe47f688beb93d2e47d61e12eb1f6bf24919e",
         "TrustLevel":  "PublicIndex"
@@ -6278,8 +6831,9 @@
     {
         "Name":  "debian-11.6.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "11.6.0",
         "SHA256":  "e482910626b30f9a7de9b0cc142c3d4a079fbfa96110083be1d0b473671ce08d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "FreeBSD-13.5-STABLE-arm64-aarch64-20250612-47807edf0ac2-259309-bootonly.iso",
@@ -6291,7 +6845,7 @@
         "Name":  "ubuntu-11.04-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "e4ba7267d7a301ff2fb52fb7b4f143cc404ea56a0f2ce2cc63bdaaa4102381ad",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "OPNsense-25.1-dvd-amd64.iso",
@@ -6366,6 +6920,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-11.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.6.0",
+        "SHA256":  "e718f6874488c8315203f6dc9bfbeada7e68ff311da71b51e62a17b36cefd5eb",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2021.2-installer-arm64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "e725dbc67a82a1065218527f4a9de4deef8d900114e7e5136f9f9997ddb96255",
@@ -6432,7 +6993,14 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-beta-1-x86_64_v2-dvd.iso",
+        "Name":  "debian-503-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.3",
+        "SHA256":  "e923163ee2620f094eb504d532036831f65108215a08c3692d0881623a4bfe86",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "AlmaLinux-10-latest-beta-x86_64_v2-dvd.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "e92cd51dce31e294539125832b05123449ceeac619f580bee41bb7201252b9f1",
         "TrustLevel":  "PublicIndex"
@@ -6452,8 +7020,16 @@
     {
         "Name":  "debian-8.11.1-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "8.11.1",
         "SHA256":  "ea444d6f8ac95fd51d2aedb8015c57410d1ad19b494cedec6914c17fda02733c",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-13.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.0.0",
+        "SHA256":  "ea4623869b9cf37fe992f829e1402fa30703b15e7b6d193d21f0e2cc5ef65584",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "Rocky-8.5-aarch64-boot.iso",
@@ -6468,6 +7044,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-8.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "8.11.0",
+        "SHA256":  "ea799ed959d77359783e7922ed4c94a7437b083a4ce6f09e9fe41a7af6ba60df",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "debian-12.8.0-amd64-DVD-1.iso",
         "OS":  "Debian",
         "SHA256":  "eadbecad1801066111cf2c654a76cdc49fb6ee8d7683dd4492eeadb8cb5348ba",
@@ -6476,8 +7059,9 @@
     {
         "Name":  "debian-11.7.0-amd64-netinst.iso",
         "OS":  "Debian",
+        "Version":  "11.7.0",
         "SHA256":  "eb3f96fd607e4b67e80f4fc15670feb7d9db5be50f4ca8d0bf07008cb025766b",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2025.3-installer-purple-amd64.iso",
@@ -6489,7 +7073,7 @@
         "Name":  "ubuntu-17.10.1-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "eb921425349d2a51f90edc3977f83fb6fd8aed082b31515f1bde00d46b260492",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "Fedora-Server-netinst-aarch64-31-1.9.iso",
@@ -6502,6 +7086,13 @@
         "OS":  "Ubuntu",
         "SHA256":  "ebf65880b8ffbfd587bf29c7a43e9a6cce00e08ba9479eb513bdef5cc96d8564",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-13.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.1.0",
+        "SHA256":  "ebfa0ce7fc30917b226c4f2398622933f57a7e6c1dd4ff18e892b4a0944f0136",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2026.1-installer-purple-amd64.iso",
@@ -6520,6 +7111,13 @@
         "OS":  "FreeBSD",
         "SHA256":  "ec65a890e6c48d815dc87660384123436ab7b76834dc34905b47782c6d5efdb5",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-9.2.1-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.2.1",
+        "SHA256":  "ec78bc48b48d676775b60eda41528ec33c151c2ce7414a12b13d9b73d34de544",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-12.04-desktop-amd64.iso",
@@ -6564,6 +7162,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-12.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.10.0",
+        "SHA256":  "ee8d8579128977d7dc39d48f43aec5ab06b7f09e1f40a9d98f2a9d149221704a",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "Rocky-9.5-x86_64-minimal.iso",
         "OS":  "Rocky",
         "SHA256":  "eedbdc2875c32c7f00e70fc861edef48587c7cbfd106885af80bdf434543820b",
@@ -6594,6 +7199,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-edu-12.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.0.0",
+        "SHA256":  "f0114eb1010a794454f2be800de87841f2bb850cb424dbd6c2dc805c93d234b4",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "FreeBSD-13.5-STABLE-i386-20250612-47807edf0ac2-259309-disc1.iso",
         "OS":  "FreeBSD",
         "SHA256":  "f0346b59aa1b1a4d6756d466517f74848e4bbdceb88ea25271f3eac4ded13f4b",
@@ -6612,7 +7224,14 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "AlmaLinux-10.0-beta-1-x86_64-boot.iso",
+        "Name":  "debian-mac-13.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "13.1.0",
+        "SHA256":  "f081cd49a65f8b6e54b60b96ca65f476a3d149205c9f851585f130c36bd1a048",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "AlmaLinux-10-latest-beta-x86_64-boot.iso",
         "OS":  "AlmaLinux",
         "SHA256":  "f0bf7fb6a81a506a4adc56f2537ae53ee9ad4b7ace1b74cf344a100772e10874",
         "TrustLevel":  "PublicIndex"
@@ -6646,6 +7265,13 @@
         "OS":  "Ubuntu",
         "SHA256":  "f185da1e4743e346a636a2d32ccb52f49ff5f8c184abd25db29aa1e855d1f5ef",
         "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-504-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.4",
+        "SHA256":  "f19135b4fa89c0182d7aecc73647b0d4aea6862b159678645384ab072e16cbdb",
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2024.3-installer-arm64.iso",
@@ -6696,6 +7322,13 @@
         "TrustLevel":  "PublicIndex"
     },
     {
+        "Name":  "debian-mac-11.8.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.8.0",
+        "SHA256":  "f3563b504e72481051847890896acc625a8bfadf797a20b83378494fd5b94819",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "kali-linux-2021.1-installer-arm64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "f38e14e0662fc7f3908126c9829bb2869485541dabbc84d25984e798948f51c2",
@@ -6711,6 +7344,13 @@
         "Name":  "kali-linux-2020.3-installer-amd64.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "f3b303ad328f6f7de6d26ac5fe41a3c10e2dfeda431a039323fc504acab4acfc",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.7.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.7.0",
+        "SHA256":  "f3c0414875502a90e2816d837209042214ca63a25d74e6fb75b1fa118f888318",
         "TrustLevel":  "Official"
     },
     {
@@ -6759,7 +7399,7 @@
         "Name":  "ubuntu-15.04-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "f510169ddc03121d11a627ae3a231e1272d8e4d75f9ef76f73daa5b809c5b6d8",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.1-live-server-ppc64el.iso",
@@ -6840,6 +7480,13 @@
         "TrustLevel":  "Official"
     },
     {
+        "Name":  "debian-mac-12.12.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.12.0",
+        "SHA256":  "f9028129efdc1167eb8a31dc22cccda073e62dc5284e39b0d9c81524f4806826",
+        "TrustLevel":  "Official"
+    },
+    {
         "Name":  "ubuntu-20.04.4-desktop-amd64.iso",
         "OS":  "Ubuntu",
         "SHA256":  "f92f7dca5bb6690e1af0052687ead49376281c7b64fbe4179cc44025965b7d1c",
@@ -6885,7 +7532,7 @@
         "Name":  "ubuntu-11.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fa86559c1c1bea8a2246cb77ce1c4114e6b13e663369b9ed3a4310b86c011c57",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "ubuntu-21.04-desktop-amd64.iso",
@@ -6897,7 +7544,7 @@
         "Name":  "ubuntu-15.10-server-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fa97768bdc3f198b82180d39bf0c26f021ab716f5da98094cd220771095e3394",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "ubuntu-24.04.3-desktop-amd64.iso",
@@ -6909,7 +7556,7 @@
         "Name":  "kali-linux-2020.1-installer-netinst-i386.iso",
         "OS":  "Kali_Linux",
         "SHA256":  "fab46fd96194bc1172ab7b3882bf4cabf383b261c3192fbf8b8c78e29ab3e08d",
-        "TrustLevel":  "PublicIndex"
+        "TrustLevel":  "Official"
     },
     {
         "Name":  "kali-linux-2023.4-live-everything-amd64.iso",
@@ -6957,7 +7604,7 @@
         "Name":  "ubuntu-10.10-desktop-i386.iso",
         "OS":  "Ubuntu",
         "SHA256":  "fc5ca710694fe150d8023364b398c0868fe526a5c675969a8b77de917814927d",
-        "TrustLevel":  "Official"
+        "TrustLevel":  "PublicIndex"
     },
     {
         "Name":  "Rocky-9.0-x86_64-boot.iso",
