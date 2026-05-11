@@ -1,15 +1,36 @@
-New-Item -ItemType Directory -Path ".\Database" -Force | Out-Null
+$databasePath = ".\database.json"
 
-$data = @(
-    [PSCustomObject]@{
-        Name       = "test.iso"
-        OS         = "Test"
-        Version    = "1.0"
-        SHA256     = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
-        TrustLevel = "Test"
+$sumUrl = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS"
+
+try {
+    $wc = New-Object System.Net.WebClient
+    $content = $wc.DownloadString($sumUrl)
+}
+catch {
+    Write-Warning "Impossible de télécharger : $sumUrl"
+    return
+}
+
+$result = $content -split "`r?`n" | ForEach-Object {
+
+    $line = $_.Trim()
+
+    if ($line -match '^(?<Hash>[a-fA-F0-9]{64})\s+\*?(?<Name>debian(?:-[a-z]+)?-(?<Version>\d+\.\d+\.\d+)-amd64-netinst\.iso)$') {
+
+        [PSCustomObject]@{
+            Name       = $Matches.Name
+            OS         = "Debian"
+            Version    = $Matches.Version
+            SHA256     = $Matches.Hash.ToLower()
+            TrustLevel = "Official"
+            Source     = $sumUrl
+            Updated    = Get-Date
+        }
     }
-)
+}
 
-$data |
-ConvertTo-Json -Depth 4 |
-Set-Content ".\Database\CheckISO.json" -Encoding utf8
+
+# Sauvegarde
+$result | ConvertTo-Json -Depth 5 | Set-Content $databasePath -Encoding UTF8
+
+Write-Host "Base mise à jour : $($result.Count) entrées ajoutées"
