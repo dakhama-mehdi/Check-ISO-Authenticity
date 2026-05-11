@@ -40,7 +40,7 @@ else {
 # Fusion
 $database = @($database) + @($result)
 
-$unique = $merged | Sort-Object SHA256 -Unique
+$unique = $database | Sort-Object SHA256 -Unique
 
 # Sauvegarde
 $unique | ConvertTo-Json -Depth 5 | Set-Content $databasePath -Encoding UTF8
