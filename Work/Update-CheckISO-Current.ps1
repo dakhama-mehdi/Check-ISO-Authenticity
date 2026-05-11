@@ -1,5 +1,6 @@
 $databasePath = ".\Database\Update-Data.json"
 
+# Chek New Kali
 $sumUrl = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS"
 
 try {
@@ -11,7 +12,7 @@ catch {
     return
 }
 
-$result = $content -split "`r?`n" | ForEach-Object {
+$resultKali = $content -split "`r?`n" | ForEach-Object {
 
     $line = $_.Trim()
 
@@ -29,6 +30,43 @@ $result = $content -split "`r?`n" | ForEach-Object {
     }
 }
 
+#Check Update Ubunutu
+$baseUrl = "https://releases.ubuntu.com/releases/"
+
+$root = Invoke-WebRequest -Uri $baseUrl -UseBasicParsing
+
+$dirs = $root.Links.href | Where-Object {
+    $_ -match '^\d+\.\d+(\.\d+)?/$'
+} | Sort-Object -Unique
+
+$resultsUbuntu = foreach ($dir in $dirs) {
+
+    $version = $dir.TrimEnd("/")
+    $sumUrl  = "$baseUrl$dir`SHA256SUMS"
+
+    Write-Host $sumUrl
+
+    $wc = New-Object System.Net.WebClient
+    $content = $wc.DownloadString($sumUrl)
+
+    if (-not $content) {
+        continue
+    }
+
+    $content -split "`n" | ForEach-Object {
+
+    if ($_ -match '^(?<Hash>[a-fA-F0-9]{64})\s+\*?(?<Name>.+\.iso)$') {
+        [PSCustomObject]@{
+            Name       = $matches.Name.Trim()
+            OS         = "Ubuntu"
+            #Version    = "12.04.1"
+            SHA256     = $matches.Hash.ToLower()
+            TrustLevel = "Official"
+        }
+    }
+    }
+}
+
 # Lecture ancienne base
 if (Test-Path $databasePath) {
     $database = Get-Content $databasePath -Raw | ConvertFrom-Json
@@ -38,7 +76,7 @@ else {
 }
 
 # Fusion
-$database = @($database) + @($result)
+$database = @($database) + @($resultKali) + @($resultsUbuntu)
 
 $unique = $database | Sort-Object SHA256 -Unique
 
