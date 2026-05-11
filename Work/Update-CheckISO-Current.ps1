@@ -1,4 +1,4 @@
-$databasePath = ".\database.json"
+$databasePath = ".\Database\Update-database.json"
 
 $sumUrl = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS"
 
@@ -23,14 +23,26 @@ $result = $content -split "`r?`n" | ForEach-Object {
             Version    = $Matches.Version
             SHA256     = $Matches.Hash.ToLower()
             TrustLevel = "Official"
-            Source     = $sumUrl
-            Updated    = Get-Date
+            #Source     = $sumUrl
+            #Updated    = Get-Date
         }
     }
 }
 
+# Lecture ancienne base
+if (Test-Path $databasePath) {
+    $database = Get-Content $databasePath -Raw | ConvertFrom-Json
+}
+else {
+    $database = @()
+}
+
+# Fusion
+$database = @($database) + @($result)
+
+$unique = $merged | Sort-Object SHA256 -Unique
 
 # Sauvegarde
-$result | ConvertTo-Json -Depth 5 | Set-Content $databasePath -Encoding UTF8
+$unique | ConvertTo-Json -Depth 5 | Set-Content $databasePath -Encoding UTF8
 
 Write-Host "Base mise à jour : $($result.Count) entrées ajoutées"
