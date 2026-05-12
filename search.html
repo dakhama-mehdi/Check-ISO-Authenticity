@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CheckISO Search</title>
+
+<style>
+body{
+    background:#1e1e1e;
+    color:#ffffff;
+    font-family:Arial;
+    margin:40px;
+}
+
+h1{
+    color:#4fc3f7;
+}
+
+input{
+    width:100%;
+    max-width:900px;
+    padding:12px;
+    font-size:16px;
+    border:none;
+    border-radius:8px;
+    margin-bottom:10px;
+}
+
+button{
+    padding:12px 20px;
+    background:#4fc3f7;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+button:hover{
+    opacity:0.9;
+}
+
+.result{
+    margin-top:20px;
+    background:#2b2b2b;
+    padding:20px;
+    border-radius:10px;
+    white-space:pre-wrap;
+    overflow:auto;
+}
+
+.info{
+    margin-top:10px;
+    color:#bbbbbb;
+}
+</style>
+</head>
+
+<body>
+
+<h1>CheckISO Hash Search</h1>
+
+<input
+    type="text"
+    id="searchInput"
+    placeholder="Collez un SHA256 ou un nom ISO..."
+>
+
+<button onclick="searchISO()">Rechercher</button>
+
+<div class="info" id="info"></div>
+
+<div class="result" id="result">
+En attente...
+</div>
+
+<script>
+
+let database = null;
+
+async function loadDatabase(){
+
+    if(database !== null){
+        return;
+    }
+
+    document.getElementById("info").innerText =
+        "Chargement de la base JSON...";
+
+    const start = performance.now();
+
+    const response = await fetch("./Sources/linux-public-index-merged.json");
+
+    database = await response.json();
+
+    const elapsed = (performance.now() - start).toFixed(2);
+
+    document.getElementById("info").innerText =
+        "Base chargée en " + elapsed + " ms | " +
+        database.length + " entrées";
+}
+
+async function searchISO(){
+
+    const resultBox = document.getElementById("result");
+
+    const search = document
+        .getElementById("searchInput")
+        .value
+        .trim()
+        .toLowerCase();
+
+    if(search.length === 0){
+        return;
+    }
+
+    await loadDatabase();
+
+    resultBox.innerText = "Recherche en cours...";
+
+    const start = performance.now();
+
+    const results = database.filter(x => {
+
+        const hash =
+            (x.SHA256 || "").toLowerCase();
+
+        const name =
+            (x.Name || "").toLowerCase();
+
+        return hash.includes(search) ||
+               name.includes(search);
+    });
+
+    const elapsed = (performance.now() - start).toFixed(2);
+
+    if(results.length === 0){
+
+        resultBox.innerText =
+            "Aucun résultat.\nTemps : " +
+            elapsed + " ms";
+
+        return;
+    }
+
+    resultBox.innerText =
+        "Résultats : " + results.length +
+        "\nTemps : " + elapsed + " ms\n\n" +
+        JSON.stringify(results, null, 2);
+}
+
+</script>
+
+</body>
+</html>
