@@ -1,0 +1,476 @@
+﻿[
+    {
+        "Name":  "AlmaLinux-10.0-x86_64_v2-Live-GNOME.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "7f33d54f145f38d1031146bcd7997167d03b6c63fbeaf4a447e00a07a8608945",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-8.4-x86_64-boot.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "76e8f56892e6d90706b142868eec51b6b8c015ec3792f8d9e0730da93a2d1162",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-8.5-x86_64-Live-XFCE.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "775906ae18c730287133cbf26bccc016ff85a2d431bcb762afd684d019084693",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-8.6-beta-1-x86_64-boot.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "7bbcd5ad3815ec75e5b0f8207adf4c4dbb97a6a56e2b048ee41bdb27921887a0",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-8.6-x86_64-Live-MATE-RC1.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "7f07b094614ef05108a20da382f675f9a91b8d6a84fe7f60010007e3eac8b186",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-8.7-x86_64-Live-GNOME.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "702256796985ecdfe25e8baafea9e460c03abf659b701a004060640d17c77f63",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-8-latest-beta-x86_64-minimal.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "72fb1451e7d21418c2f4d94e63884fdb92dd7cba34d499dd4a070b6f5b4f150a",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-9.2-x86_64-Live-XFCE.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "7507f791dd5e2d3b3ec2411afe29adde345968113a594a3cba487a6a0bc9ae11",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-9.3-beta-1-x86_64-boot.iso",
+        "OS":  "AlmaLinux",
+        "SHA256":  "7bca61c7b67e27db9194ddacec3ad3983f25a781721a69bbf5586903d9075465",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-10.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "10.13.0",
+        "SHA256":  "75aa64071060402a594dcf1e14afd669ca0f8bf757b56d4c9c1a31b8f7c8f931",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-11.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.10.0",
+        "SHA256":  "721ef40ba86c01b555ea85bb4ca7917d28cb65d56e57a0f56af90443f0aec6a3",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-11.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.3.0",
+        "SHA256":  "7892981e1da216e79fb3a1536ce5ebab157afdd20048fe458f2ae34fbc26c19b",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.1.0",
+        "SHA256":  "7cb995d49332ccde18f6d0d0215d3bff1bd1065e8b6f557dcdeb630b138d40b3",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.4.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.4.0",
+        "SHA256":  "7f3eea6bf674584d9f162827a35d4bfd9e814513e88861315ce7526d1dded90f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.6.0",
+        "SHA256":  "7b3d8b1a55e0e2d4b065682e64cb4b833c095b89f9fd91de29a937948d3623db",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-501-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "5.0.1",
+        "SHA256":  "79b00e8a191e9bc9cbb334936f4ff67ea636899db034ca00b4f8984134615ce7",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-8.11.1-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "8.11.1",
+        "SHA256":  "7e0308d9e73ae55e1ab33bb147da5460e8dba57b3aa2414cc197404e51c32495",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-9.13.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.13.0",
+        "SHA256":  "71c7e9eb292acc880f84605b1ca2b997f25737fe0a43fc9586f61d35cd2eb43b",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Fedora-Server-dvd-x86_64-42-1.1.iso",
+        "OS":  "Fedora",
+        "SHA256":  "7fee9ac23b932c6a8be36fc1e830e8bba5f83447b0f4c81fe2425620666a7043",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "Fedora-Server-netinst-aarch64-35-1.2.iso",
+        "OS":  "Fedora",
+        "SHA256":  "7a70e82bd8902a749f1616722a30b96c838b109baccaee5f19870fa6eb55aa22",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-13.5-STABLE-powerpc-20250612-47807edf0ac2-259309-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "73ffac24e8133ae4d4b8a1ec2e527cbf01291bb1360c70e23c0d8cb73e7168f6",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250605-cda1b2b634ce-259305-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "77a1d5f9c9d92f0254692f6be0a1d415e708dbd2bdf5bb14f900504f871f7f69",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250612-47807edf0ac2-259309-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "7ac29735298a3faab824b20497a199a128fb19a034dd974a40802c8d741f2391",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250612-47807edf0ac2-259309-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "72dd016c4f36c984794fc3cd4e7d235873ef277e34b270093da0c9c5f2431a98",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.0-RELEASE-amd64-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "71db8160a2339634bd9fbabbf10dd868148ebc9e1b08c1d8c4e5b954d30941ec",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.0-RELEASE-amd64-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "7200214030125877561e70718781b435b703180c12575966ad1c7584a3e60dc6",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-amd64-20250612-5dbdbff46b08-271653-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "795957459c1f80dba46c34104aea39770fa22be7ca642b0685d1edd04b7f84b8",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-riscv-riscv64-20250605-6573b7db7143-271611-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "7392b55e6a4ba9094b680937de65572f1604797544327b2e20691b2af3105d38",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-riscv-riscv64-20250612-5dbdbff46b08-271653-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "7c399c3c93a855a24f784948d25f07eeb3971f3db2faf8a1bd49062000777dab",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64-20250606-fa02d9fceab7-277727-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "79fad00f948a9ffc396bbfbf2f3e791f768db61fdfc989a0de2adab6c989b1a8",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64-20250606-fa02d9fceab7-277727-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "761d922bad1607feae27bb4d2bd09e549a78ed40edf6d231f58b309599ceb087",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2019.4-gnome-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7584b559e7041133fde7d54fc1953ff076d8ace2ff1b7397d54a94df099baf7d",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.3a-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "72d75e87ac7c2be4c62e7ba434cc15ceadfb065ada2b396f3412576b28f4186d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.3-installer-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "72558ac80e6ab1c9c8afb6197cbd61101a5c87057c343de5b52abbe028d5ba68",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "73f4286bba63b68afb2bbe2c5b18949b93ba526404e11b226a2b25146d274b06",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.1-installer-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "784e403bd58e5b05e5c24d91dc44e405fb02674bb85ee0b290e0f2ea16113a39",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7790115f6df268d93924a9bf079021b6b8f0c28d6255476fd102efd387dfbbf6",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-purple-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7d63c66c4b8ccd6204cf53cb0bf18def2651f434dae3eda8b82839a5dc01fb93",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7755f44318e6183d8411128b8a56c2982dbf0dd4c62870f4e5ca28c6df73fd9a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.3-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7cc7c27ec4f168e03947e5cd483aa49c072b7115badeb9e3339069e341631965",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.2-live-i386.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7303994708b03e855b79d0048b2a5e6f73145701daeacaee28768cb7aff04304",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.3-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "793061c7367d4c3c89d1e8ebf849ee00386297f5ebaeeaf6d9b37ae9857d2e53",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.3-live-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7c5c3dc8cb98534974355ab6d09e7df95a171089c738edd5a19dcc7196873de9",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.2-installer-netinst-amd64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "731e02dde35fab5aab45d21bb7157c3d83ee784ff70edfabc57b84aa5f65daba",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.3-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "7a5ce065113af70d9c2924ff3019a986f4df784c5bc0929b10cc2d05892e9445",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2026.1-installer-netinst-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "78ae3ac951721f8c17ecfc59d0cd7effb71251112657056dfdc9807d06486865",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2026.1-live-arm64.iso",
+        "OS":  "Kali_Linux",
+        "SHA256":  "790e5cf5b9a67fcaa716f4a44a450ec912605d55c68fad5c57ca24bb0cb04c49",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-8.3-x86_64-boot.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "8.3",
+        "SHA256":  "7a0c39ec8c271c6112ea37ed9767d4ab98107a6c778e03d34d16cd5e4e0285f0",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-8.8-x86_64-dvd1.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "8.8",
+        "SHA256":  "7b8bdfe189cf24ae5c2d6a88f7a0b5f3012d23f9332c47943d538b4bc03a3704",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-9.1-20221215.1-x86_64-minimal.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "9.1",
+        "SHA256":  "750c373c3206ae79784e436cc94fffc122296cf1bf8129a427dcd6ba7fac5888",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04.1-server-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "748941711ef4aeca8a68fddea57f17cbdf5f767d7d3a6770280a976f33d533a8",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04.2-desktop-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7473c7c9236feda718f4532e77df46ec777bddda5301b390c99478aa3b89b56d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04.2-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "76d2e94e021eb87791f8d3b93ae5b2759981dfad4539fb6c7dd471f2351a9a90",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04.3-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "76f6f804f76433c51b8bb6c073070bfb4b36e4da9dc5904e9a380074de49f992",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04-alternate-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7b8ef81dcbb66d8220cc9c043eee2e183f5cd20c1ef97c95706c86c96a9ae969",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-12.04.1-server-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "77f43bc3332ce7a678b7b6b2fe9190e15276fd14d121be479f00bc18e570d323",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-12.04.4-dvd-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "74175945db37385c64df1a0e36762b5a7c90f7f65549dad985a14a8f633c6473",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.2-server-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "76524ab9502a34b983ed56af2d5a72835ce41aec1e2b4c0cb7788ef596958ed6",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.3-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "756a42474bc437f614caa09dbbc0808038d1a586d172894c113bb1c22b75d580",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.3-server-powerpc.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "775a33f786d80292c742b96891eccfbe9ac8c7463f8d28f3fc93bc4e4b1affe2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.4-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7d9337e7b19d74b197100035ffa4318999e2d6a875bba020cfe197faeb98e904",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-16.04.2-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "737ae7041212c628de5751d15c3016058b0e833fdc32e7420209b76ca3d0a535",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-16.04.2-server-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "736f2c5700313494a2282092ca0f8b0048883ed48c5fdcf585d6e1852a3a110f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-16.04.3-server-arm64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "78a13f990559596b25b70597b9716e0c25228570909920ab2a04e60f78eba6be",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-16.04.3-server-ppc64el.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "76e64c22bf39dfc9f27b8513ee7a8dab3dd32436af26593f17f9c97841e022d1",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-16.04.5-server-i386.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "76006856dddc7dee2bf82d3cbcc593ae0a9912218077f8cb6cced41b2d3f2c2d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-16.10-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "72b0d421da77f1e0c549b4efe6fc6c184e9909d6792f0d1e59b56d63e9705659",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.1.0-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7b37dfcd082726303528e47c82f88f29c1dc9232f8fd39120d13749ae83cc463",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.1-server-s390x.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "76f6a384cd943a14761263b725fbccb2ebb04f147efa0c9eb884868e97c2eaac",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.3-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7d8e0055d663bffa27c1718685085626cb59346e7626ba3d3f476322271f573e",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.3-server-ppc64el.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7497009cd83ba6958f0d2872f6a0c7fe7fcac343cce8ed3d444e691c80735095",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.3-server-s390x.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "79004f6aab622376475233e3ad42c552081d9eef07011473c237db0921f3d476",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.4-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "73b8d860e421000a6e35fdefbb0ec859b9385b0974cf8089f5d70a87de72f6b9",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7a1c2966f82268c14560386fbc467d58c3fbd2793f3b1f657baee609b80d39a8",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.10-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7b9f670c749f797a0f7481d619ce8807edac052c97e1a0df3b130c95efae4765",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-19.04-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7e8a0d07522f591dfee9bc9fcd7c05466763161e6cb0117906655bce1750b2fa",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-24.04.1-live-server-s390x.iso",
+        "OS":  "Ubuntu",
+        "SHA256":  "7f459d9a8ef1daa6c5768c5d8b59fd3aef59e6aef8d739a074fcd7b624a10172",
+        "TrustLevel":  "Official"
+    }
+]
