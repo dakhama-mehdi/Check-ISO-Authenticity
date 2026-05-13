@@ -75,34 +75,34 @@ En attente...
 </div>
 
 <script>
-    
-async function loadHashFile(prefix){
 
-    const url = "./Database/hash/" + prefix + ".json?v=" + Date.now();
+async function loadJsonFile(url){
 
-    console.log("Chargement :", url);
-
-    const response = await fetch(url, {
+    const response = await fetch(url + "?v=" + Date.now(), {
         cache: "no-store"
     });
 
     if(!response.ok){
-        console.log("Erreur HTTP :", response.status);
         return [];
     }
 
     const data = await response.json();
 
-    return Array.isArray(data) ? data : [data];
+    return Array.isArray(data)
+        ? data
+        : [data];
 }
 
 async function searchISO(){
 
-    const resultBox = document.getElementById("result");
-    const infoBox = document.getElementById("info");
+    const resultBox =
+        document.getElementById("result");
 
-    const search = document
-        .getElementById("searchInput")
+    const infoBox =
+        document.getElementById("info");
+
+    const search =
+        document.getElementById("searchInput")
         .value
         .trim()
         .toLowerCase();
@@ -111,40 +111,80 @@ async function searchISO(){
         return;
     }
 
-    if(!search.match(/^[a-f0-9]{1,64}$/)){
-        resultBox.innerText =
-            "Recherche SHA256 uniquement.\nCollez un hash complet ou le début du hash.";
-        return;
-    }
-
-    const prefix = search.substring(0,1);
-
-    infoBox.innerText = "Chargement de l'index : " + prefix + ".json";
-
     const start = performance.now();
 
-    const data = await loadHashFile(prefix);
+    let results = [];
 
-    const results = data.filter(x => {
-        const hash = (x.SHA256 || "").toLowerCase().trim();
-        return hash.startsWith(search);
-    });
+    // Recherche SHA256
+    if(search.match(/^[a-f0-9]{4,64}$/)){
 
-    const elapsed = (performance.now() - start).toFixed(2);
+        const prefix = search.substring(0,1);
 
-    infoBox.innerText =
-        "Index chargé : " + prefix + ".json | " +
-        data.length + " entrées";
+        infoBox.innerText =
+            "Recherche SHA256 dans " +
+            prefix + ".json";
+
+        const data = await loadJsonFile(
+            "./Database/hash/" + prefix + ".json"
+        );
+
+        results = data.filter(x => {
+
+            const hash =
+                (x.SHA256 || "")
+                .toLowerCase()
+                .trim();
+
+            return hash.startsWith(search);
+        });
+    }
+
+    // Recherche NOM ISO
+    else{
+
+        infoBox.innerText =
+            "Recherche nom ISO dans tous les index...";
+
+        const chars =
+            "0123456789abcdef".split("");
+
+        for(const c of chars){
+
+            const data = await loadJsonFile(
+                "./Database/hash/" + c + ".json"
+            );
+
+            const matches = data.filter(x => {
+
+                const name =
+                    (x.Name || "")
+                    .toLowerCase();
+
+                return name.includes(search);
+            });
+
+            results.push(...matches);
+        }
+    }
+
+    const elapsed =
+        (performance.now() - start).toFixed(2);
 
     if(results.length === 0){
+
         resultBox.innerText =
-            "Aucun résultat.\nTemps : " + elapsed + " ms";
+            "Aucun résultat.\nTemps : " +
+            elapsed + " ms";
+
         return;
     }
 
     resultBox.innerText =
-        "Résultats : " + results.length +
-        "\nTemps : " + elapsed + " ms\n\n" +
+        "Résultats : " +
+        results.length +
+        "\nTemps : " +
+        elapsed +
+        " ms\n\n" +
         JSON.stringify(results, null, 2);
 }
 
