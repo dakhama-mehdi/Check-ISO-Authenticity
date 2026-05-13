@@ -1,0 +1,366 @@
+﻿[
+    {
+        "Name":  "kali-linux-2020.1-live-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2020.1",
+        "SHA256":  "401e2398d2931a4b910597e8bdf334bb85e40ef02d4878816f3050179c089fef",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.3a-installer-netinst-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2021.3",
+        "SHA256":  "41732f9dfbef2276d2836d76838a3a998eae35642d4094ade975c427356c1689",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.3-installer-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.3",
+        "SHA256":  "41e3997b31639ec45363181d4fff68a2b6a1a07ed2e3458f1bcd11f3f2d9db9c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.1-live-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.1",
+        "SHA256":  "4260dd7b6ecb70792c4184fd3f8207128a701656372deb6c1aca71589285c664",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.4-live-everything-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.4",
+        "SHA256":  "434b02f2746d1f1d2f2c9a1a771d3fe0de741ed5b399d3261f07502aa1c16717",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.4-live-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2021.4",
+        "SHA256":  "44b728ab1d7ba6395da56858d4447dd56ab5995ec55ade9fae55f7aea6c82f52",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "AlmaLinux-10-latest-x86_64-dvd.iso",
+        "OS":  "AlmaLinux",
+        "Version":  "10.1",
+        "SHA256":  "4597a7483fd7b49bbb7a46958fe2574b7c575531e5ee64ad4d6c1d2779494400",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-everything-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.4",
+        "SHA256":  "45b226bc8753cb22cf489e4073c2d19d71c1377a0fd55ebdcf4d290324e3cbfb",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "AlmaLinux-8-latest-x86_64-dvd.iso",
+        "OS":  "AlmaLinux",
+        "Version":  "8",
+        "SHA256":  "463fa92155b886e31627f6713e1c2824343762245a914715ffd6f2efc300b7a1",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.1-installer-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.1",
+        "SHA256":  "46e05739a20b29db60ca1fff2e90685ea632071c314a9c2416d7c46acef27bf0",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.1-live-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2021.1",
+        "SHA256":  "477296c6416a3f588986582593af4ea913c9b82350663c86b23efd063e01b6b5",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-26.04-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "26.04",
+        "SHA256":  "487f87faaf547ea30e0aba4d5b53346292571256b25333a978db1692bcee9dd2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.1-live-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.1",
+        "SHA256":  "48c9f9c24a7dbe68277e591e5f3af588714190cde8263af2f9b35e7ad252750c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "AlmaLinux-9.7-x86_64-boot.iso",
+        "OS":  "AlmaLinux",
+        "Version":  "9.7",
+        "SHA256":  "494d09f608b325ef42899b5ce38ba1b17755a639f5558b9b98a031b0696e694a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.4-installer-netinst-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2025.4",
+        "SHA256":  "49f548d770fdac3cfc5215d476127c1f96854b91ea59ea5dcce92e3394afda12",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.4",
+        "SHA256":  "49f6826e302659378ff0b18eda28121dad7eeab4da3b8d171df034da4996a75e",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-netinst-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.2",
+        "SHA256":  "4aa5a328312640c9c6c03bd9f7656e21895a450ad9781f16335a4db4bf544295",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2021.3a-live-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2021.3",
+        "SHA256":  "4ae61badfcfcf2cba7d234ec7b07719455df655d4d6035d67cf33601afd686cf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.2",
+        "SHA256":  "4aeaac60c69fb7137beaaef1fa48c194431274bcb8abf2d9f01c1087c8263b6a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.4-live-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2020.4",
+        "SHA256":  "4d764a2ba67f41495c17247184d24b7f9ac9a7c57415bbbed663402aec78952b",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.2-installer-netinst-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2025.2",
+        "SHA256":  "4f0713280fb267e9836b96c4ac3dc00e20391627bc6b3e3aa3c807a815fdd969",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.4-installer-everything-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.4",
+        "SHA256":  "4fa526aafdabb5f30fe2234f25a479e31caa813af21bb08c3ee6d63438f0a0e2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "value":  [
+                      {
+                          "Name":  "ubuntu-07.10-desktop-i386.iso",
+                          "OS":  "Ubuntu",
+                          "SHA256":  "413b5ac2460f088f4aad9e4b48b0f81822f4eceee03b654cd146b196aff69ed1",
+                          "TrustLevel":  "PublicIndex"
+                      },
+                      {
+                          "Name":  "debian-mac-11.5.0-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "11.5.0",
+                          "SHA256":  "41e26335a8c0db107bf3b9a0fbc34a725667bfca72bc97c1f0088e6253f3f090",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-16.04.4-desktop-i386.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "16.04.6",
+                          "SHA256":  "431001ea336e9f0495ad9404286645a1e7caf6b5cc239837a072921ba32b180e",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "debian-mac-12.2.0-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "12.2.0",
+                          "SHA256":  "439c1134c1769371860fb6a3d85badcc3a025cdc87aa29278bd3b35d61697a30",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-16.10-desktop-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "16.10",
+                          "SHA256":  "4405c37d61b5cac6c89eaf379c035058ed7db8594abd209337276c7c4556787e",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "debian-5010-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "5.0.10",
+                          "SHA256":  "4406a75c885b0dc395d1c01291cd873be4ec784f0a20717508553486fae4d53f",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-14.04.2-desktop-amd64+mac.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "14.04.4",
+                          "SHA256":  "441c2ec93b27602b9b2648314b02f710f9335edabee8ed326b5ab50ac926d5da",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-20.04.1-live-server-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "20.04.2",
+                          "SHA256":  "443511f6bf12402c12503733059269a2e10dec602916c0a75263e5d990f6bb93",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-23.04-beta-desktop-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "23.04",
+                          "SHA256":  "44caf973bcd5bb0436ed402d3794d71bf262f2f5ed105937efa9ecf66eacd974",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "debian-edu-11.4.0-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "11.4.0",
+                          "SHA256":  "45ae39ba39400b4325bb8486f8f3a6ad183a7700d922520c13cd514beaebe9ef",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "debian-11.2.0-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "11.2.0",
+                          "SHA256":  "45c9feabba213bdc6d72e7469de71ea5aeff73faea6bfb109ab5bad37c3b43bd",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-22.04.4-live-server-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "22.04.2",
+                          "SHA256":  "45f873de9f8cb637345d6e66a583762730bbea30277ef7b32c9c3bd6700a32b2",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-11.10-desktop-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "11.10",
+                          "SHA256":  "462a1311378437b64dc507de7da6cab88528939dccee91940f94ce3e57c1cfab",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-05.04-install-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "SHA256":  "46fe40a9d72421fe9279721cbf3c10dd99778fce7989798280d02e19355721a6",
+                          "TrustLevel":  "PublicIndex"
+                      },
+                      {
+                          "Name":  "Rocky-8.7-x86_64-dvd1.iso",
+                          "OS":  "Rocky_Vault",
+                          "Version":  "8.7",
+                          "SHA256":  "4827dce1c58560d3ca470a5053e8d86ba059cbb77cfca3b5f6a5863d2aac5b84",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "debian-edu-10.13.0-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "10.13.0",
+                          "SHA256":  "483ddedea4bb03f958e79fd03cf4b56924c1f3449fc85dd94b9ab4cecefc72b8",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-24.10-desktop-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "24.10",
+                          "SHA256":  "489079483487f92ad0d2f3d4b6c88a7b197969eb286b277534047920854a8b03",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-13.04-server-amd64+mac.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "13.04",
+                          "SHA256":  "48af1ffd9f5c93fe41be03fde7a05c459f67fb05464db5c1841b5b7b81a6c661",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "debian-7.2.0-amd64-netinst.iso",
+                          "OS":  "Debian",
+                          "Version":  "7.2.0",
+                          "SHA256":  "48dd0a26678f383710e992954c15b4cf034cc4cdebdfb8902d6d1e5d2752f003",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-16.04-desktop-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "16.04.0",
+                          "SHA256":  "4bcec83ef856c50c6866f3b0f3942e011104b5ecc6d955d1e7061faff86070d4",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "Rocky-8.3-x86_64-dvd1.iso",
+                          "OS":  "Rocky_Vault",
+                          "Version":  "8.3",
+                          "SHA256":  "4be83f5edf28209ce5caa06995c1c3fc5112d0d260b9e8c1cc2fecd384abcee0",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-12.10-server-amd64+mac.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "12.10",
+                          "SHA256":  "4c3cc92224b73b4df7b697dd06314156a0af0705aa416cfd27b1015231cbe8e2",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-10.04.4-desktop-i386.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "10.04.1",
+                          "SHA256":  "4c4c982beede1094bcb20f93ccd8f79f63dec35b17d3e4b877d620f9faa47c38",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-12.04.3-alternate-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "12.04",
+                          "SHA256":  "4c77f0b31861b0f07d59daf497f50d977ea007f10a040064e4672c1cb87f191b",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "Rocky-8.8-x86_64-minimal.iso",
+                          "OS":  "Rocky_Vault",
+                          "Version":  "8.8",
+                          "SHA256":  "4ce0948699a26f66dffd705c0459d428439cef02d5db43d36a6ae62ba494fe9e",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-07.10-server-i386.iso",
+                          "OS":  "Ubuntu",
+                          "SHA256":  "4cf8042126ddcb4bca23d8a960c4a4cf093a9b47ac0509dc5b3f8e9f5ddbf752",
+                          "TrustLevel":  "PublicIndex"
+                      },
+                      {
+                          "Name":  "ubuntu-12.04.5-alternate-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "Version":  "12.04.1",
+                          "SHA256":  "4d5faa527e1660f0d84b801e47d9cec3181d0c77560825d7100746430e7bab70",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "Rocky-8.5-x86_64-minimal.iso",
+                          "OS":  "Rocky_Vault",
+                          "Version":  "8.5",
+                          "SHA256":  "4eb2ae6b06876205f2209e4504110fe4115b37540c21ecfbbc0ebc11084cb779",
+                          "TrustLevel":  "Official"
+                      },
+                      {
+                          "Name":  "ubuntu-06.06.1-desktop-i386.iso",
+                          "OS":  "Ubuntu",
+                          "SHA256":  "4eb6c5d66972670f784d6f25d336017b5a85606fbad86b0c7abd67a5d5865391",
+                          "TrustLevel":  "PublicIndex"
+                      },
+                      {
+                          "Name":  "ubuntu-24.10-live-server-amd64.iso",
+                          "OS":  "Ubuntu",
+                          "SHA256":  "4fce7c02a5e5dbe3426da4aa0f8b7845e9a36aff29c5884d206a08e51b2c4c47",
+                          "TrustLevel":  "PublicIndex"
+                      }
+                  ],
+        "Count":  30
+    }
+]
