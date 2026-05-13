@@ -12,7 +12,8 @@ function Get-LinuxVersions {
         if ($Name -eq "Debian") {
         $wc = New-Object System.Net.WebClient
         $root = $wc.DownloadString($Url)
-        } else {
+        } 
+        else {
         $root = Invoke-WebRequest -Uri $url -UseBasicParsing
         }
 
@@ -33,8 +34,13 @@ function Get-LinuxVersions {
         if ($line -match '^(?<Hash>[a-fA-F0-9]{64})\s+\*?(?<Name>debian(?:-[a-z]+)?-(?<Version>\d+\.\d+\.\d+)-amd64-netinst\.iso)$') {
         $Matches.Version
         } 
-        }  | Sort-Object Version -Unique 
+        } | Sort-Object Version -Unique 
         
+        } elseif ($Name -eq "Fedora") {
+
+       $versions = $root.Links.href |  Where-Object { $_ -match '^\d+/$' } |
+        ForEach-Object { [int]($_.TrimEnd('/')) } |
+        Where-Object { $_ -ge 35 }
         }
         else {
         $versions = $root.Links.href | Where-Object {
@@ -58,7 +64,7 @@ function Get-LinuxVersions {
         }
     }
 }
-function Get-HashFromVersions {
+function Get-HashFromVersionsold {
 
     param(
         [string]$SourceName,
@@ -150,6 +156,107 @@ function Get-HashFromVersions {
 
     return ($results | Sort-Object SHA256 -Unique)
 }
+function Get-HashFromVersions {
+
+    param(
+        [string]$SourceName,
+        [string]$BaseUrl,
+        [string[]]$Versions
+    )
+
+    $results = @()
+
+    #$SourceName = "Fedora"
+    #$BaseUrl = "https://download.fedoraproject.org/pub/fedora/linux/releases/"
+    #$Versions = $current.Versions
+        
+    foreach ($dir in $Versions) {
+   
+        $version = $dir.TrimEnd("/")
+
+        if ($SourceName -eq "Ubuntu" -or $SourceName -eq "Kali") {
+        $sumUrl  = "$baseUrl$dir`SHA256SUMS"
+        }
+        elseif ($SourceName -eq "Debian") {
+        $sumUrl = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS"
+        }   
+        else {
+
+        if ($SourceName -eq "Fedora_Workstation") {
+        $isoUrl = "$baseUrl$dir`/Workstation/x86_64/iso/"
+        } elseif ($SourceName -eq "Fedora_Server") {
+        $isoUrl = "$baseUrl$dir`/Server/x86_64/iso/"
+        }
+        else {
+        $isoUrl  = "$BaseUrl/$version/isos/x86_64/"
+        }
+        
+        try {
+            $page = Invoke-WebRequest -Uri $isoUrl -UseBasicParsing
+        }
+        catch {
+            Write-Warning "Impossible d'acceder  $isoUrl"
+            continue
+        }
+
+        $checkFile = $page.Links.href | Where-Object {
+            $_ -like "*CHECKSUM"
+        } | Select-Object -First 1
+
+        if (-not $checkFile) {
+            Write-Warning "CHECKSUM introuvable pour Rocky $version"
+            continue
+        }
+
+        $sumUrl = "$isoUrl$checkFile"
+
+        }
+
+        try {
+            $content = (New-Object System.Net.WebClient).DownloadString($sumUrl)
+        }
+        catch {
+            Write-Warning "Impossible de telecharger $sumUrl"
+            continue
+        }
+
+        if (-not $content) {
+        continue
+        }
+
+        $items = $content -split "`r?`n" | ForEach-Object {
+
+            $line = $_.Trim()
+
+            if ($SourceName -eq "Ubuntu" -or $SourceName -eq "Kali" ) {
+            $pattern = "^(?<Hash>[a-fA-F0-9]{64})\s+\*?(?<Name>.+\.iso)$"
+            } 
+            elseif ($SourceName -eq "Debian") {
+            $pattern = "^(?<Hash>[a-fA-F0-9]{64})\s+\*?(?<Name>debian(?:-[a-z]+)?-(?<Version>\d+\.\d+\.\d+).+?\.iso)$"
+            }
+            elseif ($sourceName -eq "Fedora_Workstation" -or $sourceName -eq "Fedora_Server") {
+            $pattern = '^SHA256 \((?<Name>.+\.iso)\) = (?<Hash>[a-fA-F0-9]{64})$'
+            }
+            else {
+            $pattern = "^SHA256\s+\((?<Name>$SourceName-.+x86_64.+\.iso)\)\s+=\s+(?<Hash>[a-fA-F0-9]{64})$"
+            }
+
+            if ($line -match $pattern) {
+                [PSCustomObject]@{
+                    Name       = $Matches.Name.Trim()
+                    OS         = $SourceName
+                    Version    = $version
+                    SHA256     = $Matches.Hash.ToLower()
+                    TrustLevel = "Official"
+                }
+            }
+        }
+
+        $results += $items
+    }
+
+    return ($results | Sort-Object SHA256 -Unique)
+}
 function Update-HashIndex {
 
     param(
@@ -202,6 +309,7 @@ $sources = @(
     @{ Name = "Ubuntu"; Url = "https://releases.ubuntu.com/releases/" },
     @{ Name = "AlmaLinux"; Url = "https://repo.almalinux.org/almalinux/" },
     @{ Name = "Debian"; Url = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS" }
+    @{ Name = "Fedora"; Url = "https://download.fedoraproject.org/pub/fedora/linux/releases/" }
 )
 
 $current = foreach ($source in $sources) {
@@ -270,35 +378,42 @@ foreach ($change in $changes) {
                 -BaseUrl "https://dl.rockylinux.org/pub/rocky" `
                 -Versions $change.Versions
         }
-
         "AlmaLinux" {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "AlmaLinux" `
                 -BaseUrl "https://repo.almalinux.org/almalinux" `
                 -Versions $change.Versions
         }
-
-         "Ubuntu" {
+        "Ubuntu"    {
             $resultsHash += Get-HashFromVersions `
             -SourceName "Ubuntu" `
             -BaseUrl "https://releases.ubuntu.com/releases/" `
             -Versions $change.Versions
         }
-
-        "Kali" {
+        "Kali"      {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Kali" `
                 -BaseUrl "https://old.kali.org/kali-images/" `
                 -Versions $change.Versions
         }
-
-        "Debian" {
+        "Debian"    {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Debian" `
                 -BaseUrl "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS" `
                 -Versions $change.Versions
         }
+        "Fedora"    {
+            $resultsHash += Get-HashFromVersions `
+                -SourceName "Fedora_Workstation" `
+                -BaseUrl "https://download.fedoraproject.org/pub/fedora/linux/releases/" `
+                -Versions $changes.Versions
+
+            $resultsHash += Get-HashFromVersions `
+                -SourceName "Fedora_Server" `
+                -BaseUrl "https://download.fedoraproject.org/pub/fedora/linux/releases/" `
+                -Versions $changes.Versions
     }
+}
 }
 
 if ($resultsHash) {
