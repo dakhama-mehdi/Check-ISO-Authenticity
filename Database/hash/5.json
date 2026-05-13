@@ -1,0 +1,357 @@
+[
+    {
+        "Name":  "ubuntu-20.04.5-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "20.04.4",
+        "SHA256":  "5035be37a7e9abbdc09f0d257f3e33416c1a0fb322ba860d42d74aa75c3468d4",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2020.4-installer-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2020.4",
+        "SHA256":  "50492d761e400c2b5e22c8f253dd6f75c27e4bc84e33c2eff272476a0588fb02",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "OPNsense-22.1-OpenSSL-dvd-amd64.iso",
+        "OS":  "OPNsense",
+        "SHA256":  "51084ca831421e34ffa627f0cdebf6d69d5dd1e9d35e9499d2d200c21f2a23bd",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-20.04.6-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "20.04.6",
+        "SHA256":  "510ce77afcb9537f198bc7daa0e5b503b6e67aaed68146943c231baeaab94df1",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-11.10-alternate-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "11.10",
+        "SHA256":  "52711ce28e881e023071eba0def1af19788b495ec6755f0f235fdc0b51943c28",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-14.1-RELEASE-amd64-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "5321791bd502c3714850e79743f5a1aedfeb26f37eeed7cb8eb3616d0aebf86b",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "Rocky-8.4-x86_64-boot.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "8.4",
+        "SHA256":  "53a62a72881b931bdad6b13bcece7c3a2d4ca9c4a2f1e1a8029d081dd25ea61f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250612-5dbdbff46b08-271653-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "53b6847f50c5d99b7738743c273d69b50d9c3faa4e7500af940c58a71f560f30",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-10.04.2-server-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.04.3",
+        "SHA256":  "53c38db12b56474c69aa827dfaba58e5af2b6fce51e3fc4b7bb4e093c23824bf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-13.0-RC4-amd64-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "542a6b41c45262a71e3712ffd497598832ffa978913076fbe886f0991f9976cc",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-12.04.3-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "12.04.3",
+        "SHA256":  "54574f47b1aef0f9e156afd86aa97cf76df89a957f9b5ab43552a427499ba7cb",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.4-installer-netinst-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2022.4",
+        "SHA256":  "54cf16e191c0b61334e9f6c1ce633c922398e13136d4b99723c64286b171646a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-13.2-RELEASE-amd64-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "54e5e5e84c8988afa34f291a9edd7b13f1c7dd6a9556289f7dbef1ea8394cc5a",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-12.04.2-desktop-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "12.04.1",
+        "SHA256":  "554a208e801f717c1e9d2b6adc7cdb24a30a3379ea3bb67eb70c06522d2a4797",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.2-desktop-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "14.04.1",
+        "SHA256":  "55669794a00c61f946f1608026909af0bc9018206d4130f52c9f99896350480a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-12.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.2.0",
+        "SHA256":  "55921f9b59b8fe90eb99da3e9dd427d0c8fb0c6a89f67714be7f03ac141b768e",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-9.0-x86_64-dvd.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "9.0",
+        "SHA256":  "55dbf904b35969be9f6d96f042b7470d1a3cb5c953bba47ab8f79740560d8a8d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-10-latest-x86_64-dvd.iso",
+        "OS":  "Rocky",
+        "Version":  "10.1",
+        "SHA256":  "55f96d45a052c0ed4f06309480155cb66281a008691eb7f3f359957205b1849a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2022.1-installer-netinst-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2022.1",
+        "SHA256":  "5616d0549032ffecd6932ab89496518832f4900a35e5b918022f56d8bc6d99c6",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "OPNsense-26.1.2-dvd-amd64.iso",
+        "OS":  "OPNsense",
+        "SHA256":  "56180fbe5894fded2f67eabc8fce8e85c23b70594162a42601706b4fbe0e552e",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-10.04.4-server-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.04.3",
+        "SHA256":  "564eb67534ab64dbddd4b5bed54ec96f447cbbeb27a8a1354eae85658559503f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2a-installer-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.2",
+        "SHA256":  "567d34e3af1e2504920af552f3edb7fe0e704f11a6099b137e97c986161c9efc",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "CentOS-6.10-x86_64-netinstall.iso",
+        "OS":  "CentOS",
+        "SHA256":  "56f7b078a3b443095ba006cdc85319c691251cda98c5d73d12ef6db7aff6b4c1",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "AlmaLinux-9-latest-x86_64-dvd.iso",
+        "OS":  "AlmaLinux",
+        "Version":  "9",
+        "SHA256":  "56f8bf5e44d293a040203b73b70f08bb7dc52f27654b047c20be8598f63ec1f8",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-11.10-alternate-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "11.10",
+        "SHA256":  "570c750de958874561c221fa25b14ed2633d189780297986e47aeb9ad5e5ff26",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.2-installer-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2025.2",
+        "SHA256":  "5723d46414b45575aa8e199740bbfde49e5b2501715ea999f0573e94d61e39d3",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-18.04.1-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "18.04.1",
+        "SHA256":  "5748706937539418ee5707bd538c4f5eabae485d17aa49fb13ce2c9b70532433",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-12.9.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.9.0",
+        "SHA256":  "577ee0ea544cbd9d98017461bdcbfdcb446e50cf6e153deea6b5947128cdc6ad",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Fedora-Workstation-Live-x86_64-33-1.2.iso",
+        "OS":  "Fedora",
+        "SHA256":  "582a825d564e2682334ac893c9160667c7f4578c0c8045a25ea534af7c13334b",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "Rocky-8.5-x86_64-boot.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "8.5",
+        "SHA256":  "5a0dc65d1308e47b51a49e23f1030b5ee0f0ece3702483a8a6554382e893333c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-10.1-x86_64-minimal.iso",
+        "OS":  "Rocky",
+        "Version":  "10",
+        "SHA256":  "5aafc2c86e606428cd7c5802b0d28c220f34c181a57eefff2cc6f65214714499",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.3-installer-netinst-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.3",
+        "SHA256":  "5ad10ae8931aaedee400465eaf17b0f27cb0cd7cf7d20cc324ded933c849426d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-15.0-CURRENT-i386-20250606-fa02d9fceab7-277727-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "5ad2795b1f248fc0cc1ab7c72e96205d24d652c37d01b57efbd1712eefadf339",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "CentOS-Stream-10-20241216.0-x86_64-boot.iso",
+        "OS":  "CentOS",
+        "SHA256":  "5b5487cf7d840de69df0304fcdc73428175575a13afd98090494b4b741363d07",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "OPNsense-20.7-OpenSSL-dvd-amd64.iso",
+        "OS":  "OPNsense",
+        "SHA256":  "5b6b7779d1353dab5d8920d0c9f3f90f93b6f225af7472baaa0e501b6d2109be",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "Fedora-Server-netinst-x86_64-31-1.9.iso",
+        "OS":  "Fedora",
+        "SHA256":  "5be8debd3e8fb4e86b9fbf67c7eb66ea598d2b7ad0c7ba8d505ce88067b43444",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-purple-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.2",
+        "SHA256":  "5c76db37e2a250a4622b2b46f388df7243139c1cad188cf625a30111ce9fc3a0",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.1-desktop-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "14.04.5",
+        "SHA256":  "5cd41b34c86799c92d316718d9763d225847bbc290aba0dc312623418e02d6cf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.4-installer-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.4",
+        "SHA256":  "5cfca5f2c5136d743da4e9235fbfaad515d112115da486db2033d8d1d4c5ee67",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-netinst-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.2",
+        "SHA256":  "5d10e3d8bbb90297d446d01a60312ff7eb25cbdfda32711c0038adb620bca2dd",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.1-installer-arm64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.1",
+        "SHA256":  "5da710fac36899ff132cfe5e14c7df594086d2d0d7b3503247d8945aa258eac9",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.10-beta-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.10",
+        "SHA256":  "5da9f31f36fcbb244249b4ce29db2a52f316df3a0069ee9876b259c052a447da",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2025.4-live-everything-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2025.4",
+        "SHA256":  "5dccf7b04ab19590413fccd08f8db68e59f39f72ad4b08f1c63836cd66155635",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2023.2-installer-netinst-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2023.2",
+        "SHA256":  "5de6c7880f01d4a10e8c08e0b945ea51e374b85c99a6240e9f7754d123b3db6f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "CentOS-Stream-9-20220509.0-aarch64-boot.iso",
+        "OS":  "CentOS",
+        "SHA256":  "5e027e49dc7496f8b1aec2a5e85d80615600fb282832cb66746dd19396ca0399",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-22.04.2-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "22.04.3",
+        "SHA256":  "5e38b55d57d94ff029719342357325ed3bda38fa80054f9330dc789cd2d43931",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-23.10-beta-live-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "23.10",
+        "SHA256":  "5e431c47de6c0616eae6d0db9ab1a3e75b95f848e99e9a8ef4165888e5fe18c2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "kali-linux-2024.2-installer-amd64.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2024.2",
+        "SHA256":  "5eb9dc96cccbdfe7610d3cbced1bd6ee89b5acdfc83ffee1f06e6d02b058390c",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-powerpc-20250605-6573b7db7143-271611-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "5ecb833d2112a0f56102d08c76825e2f122769037cd29a529f2e65c94070b75d",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "Fedora-Server-dvd-x86_64-36-1.5.iso",
+        "OS":  "Fedora",
+        "SHA256":  "5edaf708a52687b09f9810c2b6d2a3432edac1b18f4d8c908c0da6bde0379148",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "kali-linux-2021.3-installer-netinst-i386.iso",
+        "OS":  "Kali",
+        "Version":  "kali-2021.3",
+        "SHA256":  "5f53a8202fe3edcdee73acfc1f4dcae89b4d91be4708b66fcdd626b259578d66",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-riscv-riscv64-20250605-6573b7db7143-271611-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "5fb325e3519728a95127a1adf47505eafeb14f37f29a6f5a98948586ae38df3c",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-20.04.3-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "20.04.0",
+        "SHA256":  "5fdebc435ded46ae99136ca875afc6f05bde217be7dd018e1841924f71db46b5",
+        "TrustLevel":  "Official"
+    }
+]
