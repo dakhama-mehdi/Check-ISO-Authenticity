@@ -58,7 +58,7 @@ button:hover{
 
 <body>
 
-<h1>CheckISO Hash Search V4</h1>
+<h1>CheckISO Hash Search V5</h1>
 
 <input
     type="text"
@@ -75,8 +75,7 @@ En attente...
 </div>
 
 <script>
-<script>
-
+    
 async function loadHashFile(prefix){
 
     const url = "./Database/hash/" + prefix + ".json?v=" + Date.now();
@@ -148,8 +147,6 @@ async function searchISO(){
         "\nTemps : " + elapsed + " ms\n\n" +
         JSON.stringify(results, null, 2);
 }
-
-</script>
 
 </script>
 
