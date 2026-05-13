@@ -110,5 +110,21 @@
     "Versions": [
       "13.4.0"
     ]
+  },
+  {
+    "Name": "Fedora",
+    "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
+    "Versions": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
   }
 ]
