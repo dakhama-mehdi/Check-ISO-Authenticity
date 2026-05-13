@@ -249,13 +249,6 @@
         "TrustLevel":  "Official"
     },
     {
-        "Name":  "debian-13.4.0-amd64-netinst.iso",
-        "OS":  "Debian",
-        "Version":  "13.4.0",
-        "SHA256":  "0b813535dd76f2ea96eff908c65e8521512c92a0631fd41c95756ffd7d4896dc",
-        "TrustLevel":  "Official"
-    },
-    {
         "Name":  "Rocky-8.4-x86_64-minimal.iso",
         "OS":  "Rocky_Vault",
         "Version":  "8.4",
