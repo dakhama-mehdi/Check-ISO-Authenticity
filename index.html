@@ -82,12 +82,21 @@ button:hover{
     font-size:12px;
     word-break:break-all;
 }
+
+.stats{
+    margin-top:15px;
+    margin-bottom:15px;
+    display:flex;
+    gap:20px;
+    font-size:14px;
+    color:#bbbbbb;
+}
 </style>
 </head>
 
 <body>
 
-<h1>CheckISO Hash Search V5.2</h1>
+<h1>CheckISO Hash Search V5.3</h1>
 
 <input
     type="text"
@@ -208,12 +217,14 @@ async function searchISO(){
         return;
     }
 
-    let html = `
-<h3>
-Résultats : ${results.length}
-<br>
-Temps : ${elapsed} ms
-</h3>
+   infoBox.innerHTML = `
+<div class="stats">
+    <span>Résultats : ${results.length}</span>
+    <span>Temps : ${elapsed} ms</span>
+</div>
+`;
+
+let html = `
 
 <table class="resultTable">
 <thead>
