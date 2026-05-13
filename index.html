@@ -53,12 +53,41 @@ button:hover{
     margin-top:10px;
     color:#bbbbbb;
 }
+
+.resultTable{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+    font-size:14px;
+}
+
+.resultTable th{
+    background:#4fc3f7;
+    color:#000;
+    padding:10px;
+    text-align:left;
+}
+
+.resultTable td{
+    border-bottom:1px solid #444;
+    padding:8px;
+}
+
+.resultTable tr:hover{
+    background:#333;
+}
+
+.hash{
+    font-family:Consolas;
+    font-size:12px;
+    word-break:break-all;
+}
 </style>
 </head>
 
 <body>
 
-<h1>CheckISO Hash Search V5.1</h1>
+<h1>CheckISO Hash Search V5.2</h1>
 
 <input
     type="text"
@@ -179,13 +208,45 @@ async function searchISO(){
         return;
     }
 
-    resultBox.innerText =
-        "Résultats : " +
-        results.length +
-        "\nTemps : " +
-        elapsed +
-        " ms\n\n" +
-        JSON.stringify(results, null, 2);
+    let html = `
+<h3>
+Résultats : ${results.length}
+<br>
+Temps : ${elapsed} ms
+</h3>
+
+<table class="resultTable">
+<thead>
+<tr>
+    <th>OS</th>
+    <th>Version</th>
+    <th>ISO</th>
+    <th>SHA256</th>
+    <th>Source</th>
+</tr>
+</thead>
+<tbody>
+`;
+
+for(const item of results){
+
+    html += `
+    <tr>
+        <td>${item.OS || ""}</td>
+        <td>${item.Version || ""}</td>
+        <td>${item.Name || ""}</td>
+        <td class="hash">${item.SHA256 || ""}</td>
+        <td>${item.TrustLevel || ""}</td>
+    </tr>
+    `;
+}
+
+html += `
+</tbody>
+</table>
+`;
+
+resultBox.innerHTML = html;
 }
 
 </script>
