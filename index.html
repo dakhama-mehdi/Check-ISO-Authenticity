@@ -76,33 +76,34 @@ En attente...
 
 <script>
 
-let database = null;
+let cache = {};
 
-async function loadDatabase(){
+async function loadHashFile(prefix){
 
-    if(database !== null){
-        return;
+    if(cache[prefix]){
+        return cache[prefix];
     }
 
-    document.getElementById("info").innerText =
-        "Chargement de la base JSON...";
+    const response = await fetch("./Database/hash/" + prefix + ".json");
 
-    const start = performance.now();
+    if(!response.ok){
+        cache[prefix] = [];
+        return cache[prefix];
+    }
 
-    const response = await fetch("./Sources/linux-public-index-merged.json");
+    cache[prefix] = await response.json();
 
-    database = await response.json();
+    if(!Array.isArray(cache[prefix])){
+        cache[prefix] = [cache[prefix]];
+    }
 
-    const elapsed = (performance.now() - start).toFixed(2);
-
-    document.getElementById("info").innerText =
-        "Base chargée en " + elapsed + " ms | " +
-        database.length + " entrées";
+    return cache[prefix];
 }
 
 async function searchISO(){
 
     const resultBox = document.getElementById("result");
+    const infoBox = document.getElementById("info");
 
     const search = document
         .getElementById("searchInput")
@@ -114,31 +115,38 @@ async function searchISO(){
         return;
     }
 
-    await loadDatabase();
+    if(!search.match(/^[a-f0-9]{1,64}$/)){
 
-    resultBox.innerText = "Recherche en cours...";
+        resultBox.innerText =
+            "Recherche SHA256 uniquement.\nCollez un hash complet ou le début du hash.";
+
+        return;
+    }
+
+    const prefix = search.substring(0,1);
+
+    infoBox.innerText =
+        "Chargement de l'index : " + prefix + ".json";
 
     const start = performance.now();
 
-    const results = database.filter(x => {
+    const data = await loadHashFile(prefix);
 
-        const hash =
-            (x.SHA256 || "").toLowerCase();
-
-        const name =
-            (x.Name || "").toLowerCase();
-
-        return hash.includes(search) ||
-               name.includes(search);
+    const results = data.filter(x => {
+        const hash = (x.SHA256 || "").toLowerCase();
+        return hash.startsWith(search);
     });
 
     const elapsed = (performance.now() - start).toFixed(2);
 
+    infoBox.innerText =
+        "Index chargé : " + prefix + ".json | " +
+        data.length + " entrées";
+
     if(results.length === 0){
 
         resultBox.innerText =
-            "Aucun résultat.\nTemps : " +
-            elapsed + " ms";
+            "Aucun résultat.\nTemps : " + elapsed + " ms";
 
         return;
     }
