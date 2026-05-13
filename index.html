@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CheckISO Search V2</title>
+<title>CheckISO Search</title>
 
 <style>
 body{
@@ -58,7 +58,7 @@ button:hover{
 
 <body>
 
-<h1>CheckISO Hash Search V2</h1>
+<h1>CheckISO Hash Search V3</h1>
 
 <input
     type="text"
@@ -80,24 +80,29 @@ let cache = {};
 
 async function loadHashFile(prefix){
 
-    if(cache[prefix]){
-        return cache[prefix];
-    }
+    const url =
+        "./Database/hash/" + prefix + ".json?v=" + Date.now();
 
-    const response = await fetch("./Database/hash/" + prefix + ".json");
+    console.log("Chargement :", url);
+
+    const response = await fetch(url, {
+        cache: "no-store"
+    });
 
     if(!response.ok){
-        cache[prefix] = [];
-        return cache[prefix];
+
+        console.log("Erreur HTTP :", response.status);
+
+        return [];
     }
 
-    cache[prefix] = await response.json();
+    const data = await response.json();
 
-    if(!Array.isArray(cache[prefix])){
-        cache[prefix] = [cache[prefix]];
+    if(!Array.isArray(data)){
+        return [data];
     }
 
-    return cache[prefix];
+    return data;
 }
 
 async function searchISO(){
@@ -156,6 +161,12 @@ async function searchISO(){
         "\nTemps : " + elapsed + " ms\n\n" +
         JSON.stringify(results, null, 2);
 }
+    const url = "./Database/hash/" + prefix + ".json?v=" + Date.now();
+console.log("URL chargée :", url);
+
+const response = await fetch(url, {
+    cache: "no-store"
+});
 
 </script>
 
