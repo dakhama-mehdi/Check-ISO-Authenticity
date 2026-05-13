@@ -19,7 +19,7 @@ jobs:
       - name: Run CheckISO update script
         shell: pwsh
         run: |
-          .\work\Update-CheckISO-Current.ps1
+          .\work\Update_Chek_versions.ps1
 
       - name: Commit database update
         shell: pwsh
