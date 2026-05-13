@@ -160,7 +160,7 @@ async function searchISO(){
     const start = performance.now();
     let results = [];
 
-    if(search.match(/^[a-f0-9]{4,64}$/)){
+    if(search.match(/^[a-f0-9]{30,64}$/)){
 
         const prefix = search.substring(0,1);
 
