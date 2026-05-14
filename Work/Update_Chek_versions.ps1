@@ -53,7 +53,7 @@ function Get-LinuxVersions {
 
         $versions = $root.Links.href |  Where-Object { $_ -match '^\d+/$' } |
         ForEach-Object { [int]($_.TrimEnd('/')) } |
-        Where-Object { $_ -ge 30 }
+        Where-Object { $_ -ge 35 }
         }
         else {
         $versions = $root.Links.href | Where-Object {
@@ -232,8 +232,8 @@ $sources = @(
     @{ Name = "Ubuntu"; Url = "https://releases.ubuntu.com/releases/" },
     @{ Name = "AlmaLinux"; Url = "https://repo.almalinux.org/almalinux/" },
     @{ Name = "Debian"; Url = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS" }
-    #@{ Name = "Fedora"; Url = "https://download.fedoraproject.org/pub/fedora/linux/releases/" }
-    @{ Name = "Fedora"; Url = "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" }
+    @{ Name = "Fedora"; Url = "https://download.fedoraproject.org/pub/fedora/linux/releases/" }
+    #@{ Name = "Fedora"; Url = "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" }
     @{ Name = "Linuxmint"; Url = "https://mirrors.edge.kernel.org/linuxmint/stable/" }
 )
 
@@ -332,12 +332,12 @@ foreach ($change in $changes) {
         "Fedora"    {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Fedora_Workstation" `
-                -BaseUrl "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" `
+                -BaseUrl "https://download.fedoraproject.org/pub/fedora/linux/releases/" `
                 -Versions $change.Versions
 
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Fedora_Server" `
-                -BaseUrl "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" `
+                -BaseUrl "https://download.fedoraproject.org/pub/fedora/linux/releases/" `
                 -Versions $change.Versions
     }
         "Linuxmint"    {
