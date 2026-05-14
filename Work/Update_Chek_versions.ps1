@@ -333,12 +333,12 @@ foreach ($change in $changes) {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Fedora_Workstation" `
                 -BaseUrl "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" `
-                -Versions $changes.Versions
+                -Versions $change.Versions
 
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Fedora_Server" `
                 -BaseUrl "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" `
-                -Versions $changes.Versions
+                -Versions $change.Versions
     }
         "Linuxmint"    {
             $resultsHash += Get-HashFromVersions `
