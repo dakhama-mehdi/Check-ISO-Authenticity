@@ -78,6 +78,33 @@
     ]
   },
   {
+    "Name": "AlmaLinux",
+    "Url": "https://mirror.lt.ucsc.edu/almalinux/",
+    "Versions": [
+      "10",
+      "10.0",
+      "10.1",
+      "8",
+      "8.10",
+      "8.3",
+      "8.4",
+      "8.5",
+      "8.6",
+      "8.7",
+      "8.8",
+      "8.9",
+      "9",
+      "9.0",
+      "9.1",
+      "9.2",
+      "9.3",
+      "9.4",
+      "9.5",
+      "9.6",
+      "9.7"
+    ]
+  },
+  {
     "Name": "Debian",
     "Url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS",
     "Versions": [
@@ -87,6 +114,17 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": []
+    "Versions": [
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
   }
 ]

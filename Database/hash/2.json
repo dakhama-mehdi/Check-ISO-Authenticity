@@ -1,5 +1,12 @@
 [
   {
+    "Name": "AlmaLinux-9.4-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.4",
+    "SHA256": "20123bb9f8319143e792b906137236bdcb0d10b023c36626ca2d8e9f62144eb9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8-latest-x86_64-boot.iso",
     "OS": "Rocky",
     "Version": "8.10",
@@ -214,6 +221,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.6",
+    "SHA256": "27a346c74d8755516a4ad2057ea29c2450454f1a928628734f26e12b0b8120d7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.2-live-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2023.2",
@@ -235,6 +249,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-8.6-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.6",
+    "SHA256": "29111d9539830359aecec69ac12cf0e407c7500ffd0b9c46598b15e5fe1f4847",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.04.5-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.04",
@@ -246,6 +267,13 @@
     "OS": "Ubuntu",
     "Version": "16.04.2",
     "SHA256": "29a8b9009509b39d542ecb229787cdf48f05e739a932289de9e9858d7c487c80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-9.1-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.1",
+    "SHA256": "2a44e3f8a012c132da19b9aae2bf949e20b116f0a2a7ac3eca111972f4ac952f",
     "TrustLevel": "Official"
   },
   {

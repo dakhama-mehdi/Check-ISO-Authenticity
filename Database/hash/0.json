@@ -27,6 +27,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9-latest-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.2",
+    "SHA256": "00c91b923997c44822595998deb0cebcfaa53e93c2bed8745b04516badff431f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.4-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "12.04",
@@ -45,6 +52,13 @@
     "OS": "Debian",
     "Version": "12.5.0",
     "SHA256": "013f5b44670d81280b5b1bc02455842b250df2f0c6763398feb69af1a805a14f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-8.8-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.8",
+    "SHA256": "016e59963c2c3bd4c99c18ac957573968e23da51131104568fbf389b11df3e05",
     "TrustLevel": "Official"
   },
   {

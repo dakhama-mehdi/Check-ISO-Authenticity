@@ -134,6 +134,20 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "AlmaLinux-8-latest-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.9",
+    "SHA256": "f4d536fd1512fdf1936a8305454239bdcc9020f1b633d0ef37f1ff34a396b8d5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-9.2-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.2",
+    "SHA256": "f501de55f92e59a3fcf4ad252fdfc4e02ee2ad013d2e1ec818bb38052bcb3c32",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-15.04-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "15.04",
@@ -344,6 +358,13 @@
     "OS": "Rocky_Vault",
     "Version": "9.0",
     "SHA256": "fc6b306b9fc8d327d7545373ce88c48bd1f7e84d29548814a91e84676b7d26e4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-8.9-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.9",
+    "SHA256": "fc866e1280e7b3f066b1380e831e33e7f3e78bc9db7bfc27744d569eadd974b3",
     "TrustLevel": "Official"
   },
   {

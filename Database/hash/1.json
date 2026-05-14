@@ -40,6 +40,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9-latest-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.6",
+    "SHA256": "113521ec7f28aa4ab71ba4e5896719da69a0cc46cf341c4ebbd215877214f661",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "9.2",
@@ -343,6 +350,13 @@
     "OS": "CentOS",
     "SHA256": "1e06e8d01f3fdbc4bccfdac488b3bde5f76fa5b9f4bb6252ccb8a75d2b7ff32d",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "AlmaLinux-9-latest-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.4",
+    "SHA256": "1e5d7da3d84d5d9a5a1177858a5df21b868390bfccf7f0f419b1e59acc293160",
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2023.4-live-amd64.iso",

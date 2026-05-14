@@ -75,6 +75,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-8.8-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.8",
+    "SHA256": "831a8c9323426b3c73e5a204c9494d90be076f755d6b0fcfb94c165f078aa947",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.04.4-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "10.04.1",
@@ -221,6 +228,13 @@
     "OS": "Kali",
     "Version": "kali-2024.3",
     "SHA256": "8c03c801eb753fd11dc6582544610034ffaa0a0255e788b0cda13a453ef202f2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-8.6-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.6",
+    "SHA256": "8c3bd1ff3d88b5599147626fa2616d85edcc861ec00edd6863b81dbfb135874c",
     "TrustLevel": "Official"
   },
   {

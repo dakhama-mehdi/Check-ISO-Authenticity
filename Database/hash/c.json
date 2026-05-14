@@ -159,6 +159,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.0-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.0",
+    "SHA256": "c41ce7bc2f4ab27a3597b3e160fc8b01c56a6b58e1046a4a23b8518fb9e9a61f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.10-beta-alternate-i386.iso",
     "OS": "Ubuntu",
     "Version": "10.10",

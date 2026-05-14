@@ -32,6 +32,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-10-latest-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.0",
+    "SHA256": "a1549729bfb66a28e3546c953033c9928eae7280917bb1c490983dba3bb9941c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.3-live-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2024.3",
@@ -165,6 +172,13 @@
     "OS": "Ubuntu",
     "Version": "22.04.3",
     "SHA256": "a4acfda10b18da50e2ec50ccaf860d7f20b389df8765611142305c0e911d16fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-8.7-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.7",
+    "SHA256": "a4fc8c53878e09f63849f2357228db9e2b547beea6f2b47758da2995bd59356e",
     "TrustLevel": "Official"
   },
   {
@@ -383,6 +397,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-8-latest-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.9",
+    "SHA256": "ab861d80c8b68634f3c16d414a4141759a082548ad7b251d8924675fa09decab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-8.7-update-1-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "8.7",
+    "SHA256": "abab7abbc08b80f045293e4f6a41cc7376a6ed827423374c12e1db4537cc86ff",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "14.04.0",
@@ -523,6 +551,13 @@
     "OS": "Ubuntu",
     "Version": "12.04.3",
     "SHA256": "af224223de99e2a730b67d7785b657f549be0d63221188e105445f75fb8305c9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-9.3-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.3",
+    "SHA256": "af5377a1d16bbe599ea91a8761ad645f2f54687075802bdc0c0703ee610182e9",
     "TrustLevel": "Official"
   },
   {

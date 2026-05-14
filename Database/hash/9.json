@@ -338,6 +338,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.1-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.1",
+    "SHA256": "9f22bd98c8930b1d0b2198ddd273c6647c09298e10a0167197a3f8c293d03090",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-11.10.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.10.0",
