@@ -1,0 +1,318 @@
+﻿[
+    {
+        "Name":  "ubuntu-10.04-server-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.04.1",
+        "SHA256":  "9002caa1b03305c72fcb17fd064c2a65f0385bafc8cff2237a1ab0a2b0e86c40",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "linuxmint-18.2-kde-64bit.iso",
+        "OS":  "LinuxMint",
+        "Version":  "18.2",
+        "SHA256":  "9173901fbead7d2ece2454f8f51dbb375e1dfdfc74cfaef450342a3144955fe1",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-19.10-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "19.10",
+        "SHA256":  "921fd8b271c04aa86a321cc35b40e677f9b85f7903bf2204efb2389b0f0a64c1",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04.1-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.04.2",
+        "SHA256":  "92347467a9036b72450cc6c8f92316d85fa716a2be299a426988571b49a2db56",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-13.5-STABLE-amd64-20250605-cda1b2b634ce-259305-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "92f4399137f22425c7f2b1a420a1b8464e1150efab913796b4f59c401e5a38e1",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-powerpc-20250605-6573b7db7143-271611-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "930e9016ba1f5e151527dba13c54372f496f78f0935f16ac02b42c8520191414",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-11.10-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "11.10",
+        "SHA256":  "93384816bc09436f5b6d9dba79a915c7326f3cebc0f7a538e7f66b71dce188cf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-10.5.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "10.5.0",
+        "SHA256":  "93863e17ac24eeaa347dfb91dddac654f214c189e0379d7c28664a306e0301e7",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-20.04.2.0-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "20.04.4",
+        "SHA256":  "93bdab204067321ff131f560879db46bee3b994bf24836bb78538640f689e58f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-8.7-x86_64-boot.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "8.7",
+        "SHA256":  "94402815f251d982e748dc3466517db13fa5f9ea58fad491dcbd2cc821a360a2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-14.04.1-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "14.04.2",
+        "SHA256":  "946a6077af6f5f95a51f82fdc44051c7aa19f9cfc5f737954845a6050543d7c2",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-8.6.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "8.6.0",
+        "SHA256":  "9479c5c2df72ae3878116c43fb42eefae53d1fe363ce514a6afc8289064b9f5f",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-15.0-CURRENT-powerpc-20250606-fa02d9fceab7-277727-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "9496d632fa2de214e45962927e2a78646ee7d1771e5f0106bb0c1e5e205fd011",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-13.3-RELEASE-amd64-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "94b91af989767c974b36e10ad5c45bd6aa4aa71d9da825ceffa904bc02c4ff9c",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-14.4-RELEASE-amd64-dvd1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "953814f2a4dcfc32958902f3b1f30cf34b5ab872f405668793491481abfd177e",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "CentOS-8.5.2111-x86_64-boot.iso",
+        "OS":  "CentOS",
+        "SHA256":  "9602c69c52d93f51295c0199af395ca0edbe35e36506e32b8e749ce6c8f5b60a",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "linuxmint-20.1-cinnamon-64bit-edge.iso",
+        "OS":  "LinuxMint",
+        "Version":  "20.1",
+        "SHA256":  "966fead51235cb4f0cd023506d538df1eeecedf1b06971e12eac4b92c862fa2b",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-19.10-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "19.10",
+        "SHA256":  "96a8095001d447bbb9078925d72f7a77a3f62fbd78460093759af4394ce83d79",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "Rocky-8.8-x86_64-boot.iso",
+        "OS":  "Rocky_Vault",
+        "Version":  "8.8",
+        "SHA256":  "96c9d96c33ebacc8e909dcf8abf067b6bb30588c0c940a9c21bb9b83f3c99868",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "CentOS-7-x86_64-DVD-2009.iso",
+        "OS":  "CentOS",
+        "SHA256":  "974296e88ea7e659e3f7986bd2fd5a33e8078477b9942392f14c892d4e48268c",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-14.04.1-server-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "14.04.2",
+        "SHA256":  "976044842804eafc18390505508958b559c131211160ecae5e60694bdf171f78",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-12.04.2-desktop-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "12.04.2",
+        "SHA256":  "980042c434321c67a0cd10e043aec6376bf9d1008179f47ac781bbaf732051cc",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250612-e6928c33f60c-277883-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "9855b76fda713b8f809ac41db2f94df6712054a3bc9ee5ba5930185f8e886df2",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "Fedora-Workstation-Live-42-1.1.x86_64.iso",
+        "OS":  "Fedora",
+        "SHA256":  "98958d80e8a80eabe61275337f969c8e2212adc3a223d9bbdab9411bb1c95cba",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-mac-9.12.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.12.0",
+        "SHA256":  "9901cddf2870d9d0c75d7b822c41bbb96c757dcfde4ba50753e432b667849fcf",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-12.10-desktop-amd64+mac.iso",
+        "OS":  "Ubuntu",
+        "Version":  "12.10",
+        "SHA256":  "99506b1d50059821c30e354afd1082936712f7213a7390b75ef70f9f7ec10dc8",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04-alternate-i386.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.04.2",
+        "SHA256":  "99b0c0642f390afa825be3eb88a53d0b15879e259ea206e836fd7fbbca790a8a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-9.11.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.11.0",
+        "SHA256":  "9ae83aa5a732151ef2dc84538d1d4ffd6374df47cc01681da6348f9ec5a45bd4",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-edu-11.2.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.2.0",
+        "SHA256":  "9b87561bb799746da198301bff9e182ca36c59c999ce128a5c83738be1f14e53",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-powerpc-20250612-5dbdbff46b08-271653-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "9c08378e2aece866131a7f1fc6ec36b56d78f4084539dc1fd5f906ca1e63abac",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-edu-12.7.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.7.0",
+        "SHA256":  "9c0b85d69d342e77f2df689dfb3b4b77626883d7f067cc8533c5b8d130f12b33",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-12.04.1-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "12.04.0",
+        "SHA256":  "9c21c99bab91462b6ca779bfcaccb1de466b9ad0309a9dbd6d196b4918cc72ef",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "CentOS-Stream-9-latest-x86_64-dvd1.iso",
+        "OS":  "CentOS",
+        "SHA256":  "9c3d3a76e0aaeeec86f62cf0100a210e62bca7eb2777a84b2aa728a62a0de1e6",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "ubuntu-12.04-server-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "12.04.4",
+        "SHA256":  "9c769f0eb9740f785aa62cff54d9ae60dd6e73763d313c69734bf21924101d83",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "linuxmint-19.3-mate-32bit.iso",
+        "OS":  "LinuxMint",
+        "Version":  "19.3",
+        "SHA256":  "9d302939a07205383231c2e41f3712b2cea7f1bff0470eed2d16f6c6ef0abc0a",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-9.0.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "9.0.0",
+        "SHA256":  "9d98f339016dc2a3998881949a8f0678baede26b5106f18ef1168d7e13606773",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "linuxmint-19.3-xfce-32bit.iso",
+        "OS":  "LinuxMint",
+        "Version":  "19.3",
+        "SHA256":  "9daafa1d804fd34e5cd42dab919bbe43b7e94eefa2669398dc73b43c6616d206",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "FreeBSD-14.3-STABLE-amd64-20250605-6573b7db7143-271611-bootonly.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "9de2788df4f2bcf18aac7ceb1e63cf3e1d2a64094cf5a55d21e29e2c87c9d299",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "FreeBSD-13.5-STABLE-arm64-aarch64-20250605-cda1b2b634ce-259305-disc1.iso",
+        "OS":  "FreeBSD",
+        "SHA256":  "9e04ec0138519d65e4fa37029c186ad4125ab8e4cd45ed7328358e27c9439c76",
+        "TrustLevel":  "PublicIndex"
+    },
+    {
+        "Name":  "debian-7.3.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "7.3.0",
+        "SHA256":  "9e6cef96d6d9d3bb8ef254dde9dd5c1ba5667cc0207531c9ef0f1a6b9f3adb1d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "ubuntu-10.04.1-alternate-amd64.iso",
+        "OS":  "Ubuntu",
+        "Version":  "10.04.4",
+        "SHA256":  "9e8c537d143ed558e1ba83543ad1158a22089ef071f10dc749bdb958d7266166",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "linuxmint-17.2-cinnamon-64bit.iso",
+        "OS":  "LinuxMint",
+        "Version":  "17.2",
+        "SHA256":  "9eca98efa8917d56985aeb0671fba63dc540f6350210fa2838b1ddf89317468d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-12.1.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "12.1.0",
+        "SHA256":  "9f181ae12b25840a508786b1756c6352a0e58484998669288c4eec2ab16b8559",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "AlmaLinux-9.1-x86_64-boot.iso",
+        "OS":  "AlmaLinux",
+        "Version":  "9.1",
+        "SHA256":  "9f22bd98c8930b1d0b2198ddd273c6647c09298e10a0167197a3f8c293d03090",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "linuxmint-18-xfce-32bit.iso",
+        "OS":  "LinuxMint",
+        "Version":  "18",
+        "SHA256":  "9f3a4040181dcfbc027910ead361dbaf7cc3e90949ebeac0722c7e7d55fda837",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-mac-11.10.0-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "11.10.0",
+        "SHA256":  "9f75427f0de9344475e9c29af4526bf646d75ad987ed964ac6331248a3f9bf1d",
+        "TrustLevel":  "Official"
+    },
+    {
+        "Name":  "debian-6.0.8-amd64-netinst.iso",
+        "OS":  "Debian",
+        "Version":  "6.0.8",
+        "SHA256":  "9f86a05fea0d98441895584e91f8bfaaaa8e4d9421f0c9e52332616c60e1887c",
+        "TrustLevel":  "Official"
+    }
+]
