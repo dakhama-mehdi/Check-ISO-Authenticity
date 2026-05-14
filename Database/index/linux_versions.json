@@ -79,7 +79,7 @@
   },
   {
     "Name": "AlmaLinux",
-    "Url": "https://repo.almalinux.org/almalinux/",
+    "Url": "https://mirror.lt.ucsc.edu/almalinux/",
     "Versions": [
       "10",
       "10.0",
@@ -114,17 +114,6 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      35,
-      36,
-      37,
-      38,
-      39,
-      40,
-      41,
-      42,
-      43,
-      44
-    ]
+    "Versions": []
   }
 ]
