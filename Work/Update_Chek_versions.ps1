@@ -96,7 +96,7 @@ function Get-HashFromVersionsold {
             $page = Invoke-WebRequest -Uri $isoUrl -UseBasicParsing
         }
         catch {
-            Write-Warning "Impossible d'accéder à $isoUrl"
+            Write-Warning "Impossible d'accÃ©der Ã  $isoUrl"
             continue
         }
 
@@ -117,7 +117,7 @@ function Get-HashFromVersionsold {
             $content = (New-Object System.Net.WebClient).DownloadString($sumUrl)
         }
         catch {
-            Write-Warning "Impossible de télécharger $sumUrl"
+            Write-Warning "Impossible de tÃ©lÃ©charger $sumUrl"
             continue
         }
 
@@ -195,7 +195,7 @@ function Get-HashFromVersions {
             $page = Invoke-WebRequest -Uri $isoUrl -UseBasicParsing
         }
         catch {
-            Write-Warning "Impossible d'acceder� $isoUrl"
+            Write-Warning "Impossible d'acceder  $isoUrl"
             continue
         }
 
@@ -287,7 +287,7 @@ function Update-HashIndex {
             $existing = @()
         }
 
-        # sécurité : virer les anciens objets cassés avec value/count
+        # sÃ©curitÃ© : virer les anciens objets cassÃ©s avec value/count
         $existing = $existing | Where-Object {
             $_.SHA256 -match '^[a-fA-F0-9]{64}$'
         }
@@ -307,7 +307,7 @@ $sources = @(
     @{ Name = "Rocky-Pub"; Url = "https://dl.rockylinux.org/pub/rocky/" },
     @{ Name = "Kali"; Url = "https://old.kali.org/kali-images/" },
     @{ Name = "Ubuntu"; Url = "https://releases.ubuntu.com/releases/" },
-    @{ Name = "AlmaLinux"; Url = "https://repo.almalinux.org/almalinux/" },
+    @{ Name = "AlmaLinux"; Url = "https://mirror.lt.ucsc.edu/almalinux/" },
     @{ Name = "Debian"; Url = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS" }
     @{ Name = "Fedora"; Url = "https://download.fedoraproject.org/pub/fedora/linux/releases/" }
 )
@@ -324,7 +324,7 @@ $indexPath = ".\Database\index\linux_versions.json"
 if (-not (Test-Path $indexPath)) {
 
     $current | ConvertTo-Json -Depth 10 | Out-File $indexPath -Encoding utf8
-    Write-Host "Premier index créé."
+    Write-Host "Premier index crÃ©Ã©."
     $changes = $current
 }
 
@@ -381,7 +381,7 @@ foreach ($change in $changes) {
         "AlmaLinux" {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "AlmaLinux" `
-                -BaseUrl "https://repo.almalinux.org/almalinux" `
+                -BaseUrl "https://mirror.lt.ucsc.edu/almalinux/" `
                 -Versions $change.Versions
         }
         "Ubuntu"    {
