@@ -209,7 +209,7 @@ function Update-HashIndex {
             $existing = @()
         }
 
-        # sÃ©curitÃ© : virer les anciens objets cassÃ©s avec value/count
+        # securite : virer les anciens objets casses avec value/count
         $existing = $existing | Where-Object {
             $_.SHA256 -match '^[a-fA-F0-9]{64}$'
         }
@@ -249,7 +249,7 @@ $indexPath = ".\Database\index\linux_versions.json"
 if (-not (Test-Path $indexPath)) {
 
     $current | ConvertTo-Json -Depth 10 | Out-File $indexPath -Encoding utf8
-    Write-Host "Premier index crÃ©Ã©."
+    Write-Host "Premier index cree"
     $changes = $current
 }
 
@@ -350,7 +350,7 @@ foreach ($change in $changes) {
 }
 
 if ($resultsHash) {
-#Update-HashIndex -Items $resultsHash -HashDir ".\Database\hash"
+Update-HashIndex -Items $resultsHash -HashDir ".\Database\hash"
 }
 }
 
