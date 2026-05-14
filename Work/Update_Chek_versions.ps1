@@ -88,10 +88,6 @@ function Get-HashFromVersions {
 
     $results = @()
 
-    #$SourceName = "Linuxmint"
-    #$BaseUrl = "https://mirrors.edge.kernel.org/linuxmint/stable"
-    #$Versions = $current.Versions
-        
     foreach ($dir in $Versions) {
    
         $version = $dir.TrimEnd("/")
@@ -121,7 +117,7 @@ function Get-HashFromVersions {
             $page = Invoke-WebRequest -Uri $isoUrl -UseBasicParsing
         }
         catch {
-            Write-Warning "Impossible d'acceder� $isoUrl"
+            Write-Warning "Impossible d'acceder  $isoUrl"
             continue
         }
 
@@ -213,7 +209,7 @@ function Update-HashIndex {
             $existing = @()
         }
 
-        # sécurité : virer les anciens objets cassés avec value/count
+        # sÃ©curitÃ© : virer les anciens objets cassÃ©s avec value/count
         $existing = $existing | Where-Object {
             $_.SHA256 -match '^[a-fA-F0-9]{64}$'
         }
@@ -236,7 +232,8 @@ $sources = @(
     @{ Name = "Ubuntu"; Url = "https://releases.ubuntu.com/releases/" },
     @{ Name = "AlmaLinux"; Url = "https://repo.almalinux.org/almalinux/" },
     @{ Name = "Debian"; Url = "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS" }
-    @{ Name = "Fedora"; Url = "https://download.fedoraproject.org/pub/fedora/linux/releases/" }
+    #@{ Name = "Fedora"; Url = "https://download.fedoraproject.org/pub/fedora/linux/releases/" }
+    @{ Name = "Fedora"; Url = "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" }
     @{ Name = "Linuxmint"; Url = "https://mirrors.edge.kernel.org/linuxmint/stable/" }
 )
 
@@ -252,7 +249,7 @@ $indexPath = ".\Database\index\linux_versions.json"
 if (-not (Test-Path $indexPath)) {
 
     $current | ConvertTo-Json -Depth 10 | Out-File $indexPath -Encoding utf8
-    Write-Host "Premier index créé."
+    Write-Host "Premier index crÃ©Ã©."
     $changes = $current
 }
 
@@ -335,12 +332,12 @@ foreach ($change in $changes) {
         "Fedora"    {
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Fedora_Workstation" `
-                -BaseUrl "https://download.fedoraproject.org/pub/fedora/linux/releases/" `
+                -BaseUrl "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" `
                 -Versions $changes.Versions
 
             $resultsHash += Get-HashFromVersions `
                 -SourceName "Fedora_Server" `
-                -BaseUrl "https://download.fedoraproject.org/pub/fedora/linux/releases/" `
+                -BaseUrl "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/" `
                 -Versions $changes.Versions
     }
         "Linuxmint"    {
