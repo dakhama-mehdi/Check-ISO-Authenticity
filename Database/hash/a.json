@@ -490,9 +490,10 @@
   },
   {
     "Name": "Fedora-Server-dvd-x86_64-43-1.6.iso",
-    "OS": "Fedora",
+    "OS": "Fedora_Server",
+    "Version": "43",
     "SHA256": "aca06983bef83da9b43144c1a2ff4c8483e4745167c17f53725c16a16742e643",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-11.04-alternate-amd64.iso",

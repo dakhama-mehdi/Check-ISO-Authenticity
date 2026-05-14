@@ -197,6 +197,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Fedora-Workstation-Live-44-1.7.x86_64.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "44",
+    "SHA256": "1620295f6a00c27c3208f0c00b8ece4eab1ec69b9002152d97488bf26a426ddf",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-9.2.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.2.0",
@@ -218,9 +225,10 @@
   },
   {
     "Name": "Fedora-Server-netinst-x86_64-43-1.6.iso",
-    "OS": "Fedora",
+    "OS": "Fedora_Server",
+    "Version": "43",
     "SHA256": "16fd70ddae2c7de13e485637c3da1fb385dd8220389f988279ea3b3d561243cc",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2022.1-live-amd64.iso",

@@ -113,20 +113,18 @@
   },
   {
     "Name": "Fedora",
-    "Url": "https://mirror.math.princeton.edu/pub/fedora-archive/fedora/linux/releases/",
+    "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
     "Versions": [
-      30,
-      31,
-      32,
-      33,
-      34,
       35,
       36,
       37,
       38,
       39,
       40,
-      41
+      41,
+      42,
+      43,
+      44
     ]
   },
   {

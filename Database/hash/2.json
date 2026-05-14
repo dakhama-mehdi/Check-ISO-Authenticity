@@ -118,9 +118,10 @@
   },
   {
     "Name": "Fedora-Server-netinst-x86_64-42-1.1.iso",
-    "OS": "Fedora",
+    "OS": "Fedora_Server",
+    "Version": "42",
     "SHA256": "231f3e0d1dc8f565c01a9f641b3d16c49cae44530074bc2047fe2373a721c82f",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "debian-edu-12.10.0-amd64-netinst.iso",
