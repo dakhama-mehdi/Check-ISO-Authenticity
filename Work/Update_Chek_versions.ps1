@@ -143,7 +143,7 @@ function Get-HashFromVersions {
             $page = Invoke-WebRequest -Uri $isoUrl -UseBasicParsing
         }
         catch {
-            Write-Warning "Impossible d'acceder� $isoUrl"
+            Write-Warning "Impossible d'acceder  $isoUrl"
             continue
         }
         
@@ -308,7 +308,7 @@ function Update-HashIndex {
             $existing = @()
         }
 
-        # sécurité : virer les anciens objets cassés avec value/count
+        # sÃ©curitÃ© : virer les anciens objets cassÃ©s avec value/count
         $existing = $existing | Where-Object {
             $_.SHA256 -match '^[a-fA-F0-9]{64}$'
         }
@@ -470,7 +470,7 @@ foreach ($change in $changes) {
 }
 
 if ($resultsHash) {
-#Update-HashIndex -Items $resultsHash -HashDir ".\Database\hash"
+Update-HashIndex -Items $resultsHash -HashDir ".\Database\hash"
 }
 }
 
