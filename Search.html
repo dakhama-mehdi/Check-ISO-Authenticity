@@ -104,7 +104,7 @@ button:hover{
 
 <body>
 
-<h1>CheckISO Hash Search V5.3</h1>
+<h1>CheckISO Hash Search V5.4</h1>
 
 <input
     type="text"
@@ -218,7 +218,9 @@ async function searchISO(){
         <thead>
         <tr>
             <th>OS</th>
-            <th onclick="sortTableByVersion()">Version</th>
+            <th onclick="sortTableByVersion()" style="cursor:pointer">
+    		Version ▲▼
+			</th>
             <th>ISO</th>
             <th>SHA256</th>
             <th>Source</th>
@@ -227,6 +229,13 @@ async function searchISO(){
         <tbody>
     `;
 
+	results.sort((a, b) =>
+    b.Version.localeCompare(
+        a.Version,
+        undefined,
+        { numeric:true }
+    )
+	);
     for(const item of results.slice(0,100)){
 
         html += `
