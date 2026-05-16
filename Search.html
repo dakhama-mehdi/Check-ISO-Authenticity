@@ -229,9 +229,10 @@ async function searchISO(){
         <tbody>
     `;
 
-	results.sort((a, b) =>
+	results.sort((a, b) => {
     const va = (a.Version || "").toString();
     const vb = (b.Version || "").toString();
+	
    return vb.localeCompare(
         va,
         undefined,
