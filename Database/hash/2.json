@@ -42,6 +42,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.4",
+    "SHA256": "2127c0e4f271601ddb03f12c10c5b1ee3a711cd91e352658b290b12f9f8adca3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.04-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "10.04.0",
@@ -53,6 +60,13 @@
     "OS": "LinuxMint",
     "Version": "18",
     "SHA256": "2151852abb34bd62350fab807acc04b3f337d928c7c8092aebea7d0524587acf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U1-x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.1",
+    "SHA256": "21878b1136acdaa588556ac83c7e8700a0604c310cd05c22eb6a8329a85dfddd",
     "TrustLevel": "Official"
   },
   {
@@ -114,6 +128,13 @@
     "OS": "Kali",
     "Version": "kali-2021.3",
     "SHA256": "22995811b68817114c2f4bcab425377702882b9a2b19a62d8d8c6e85f691262b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U3-x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.3",
+    "SHA256": "22c68f84230b375aeb8fa035fab6f5f4ef6505c036ee068cd8fab5f0675b2c78",
     "TrustLevel": "Official"
   },
   {
@@ -179,10 +200,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U3-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.3",
+    "SHA256": "242f0ecc37417995137507862cb170215c0b5bd512c47badd16b623686ef39e2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.10-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "12.10",
     "SHA256": "256a2cc652ec86ff366907fd7b878e577b631cc6c6533368c615913296069d80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.5-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.5",
+    "SHA256": "257fb8a37919dd98d84fb83f9630d242f1cff5509a07179d93db5fec5d9cafea",
     "TrustLevel": "Official"
   },
   {
@@ -197,6 +232,13 @@
     "OS": "Ubuntu",
     "Version": "19.04",
     "SHA256": "25d483341ccd0d522a6660b00db933787c86c47b42f1845bcf997127f4b61e9d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.4-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "25e6e0201318ad1fbcd10c51dedca05d1328ef8bae5e604de47262b26877cf39",
     "TrustLevel": "Official"
   },
   {
@@ -225,6 +267,20 @@
     "OS": "Kali",
     "Version": "kali-2020.1",
     "SHA256": "26d032c1f473a8430ed6894a519b6a64b7836d63e3ea1c9e9d44a172eb9cb7e2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "271477ad6ea2676c7346576971b9acc2d32fabd9c2bbaf0e6302397626149306",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-15.1-BETA2-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "272b42ede1f04ea2587388fb0dff2363d176639b0cf73421cfffc6e8c546f9c2",
     "TrustLevel": "Official"
   },
   {
@@ -257,7 +313,7 @@
   },
   {
     "Name": "linuxmint-20.3-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "20.3",
     "SHA256": "27de0b1e6d743d0efc2c193ec88d56a49941ce3e7d58b03730a4bb1895c25be5",
     "TrustLevel": "Official"
@@ -288,6 +344,13 @@
     "OS": "Ubuntu",
     "Version": "20.04.0",
     "SHA256": "28ccdb56450e643bad03bb7bcf7507ce3d8d90e8bf09e38f6bd9ac298a98eaad",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.2-installer-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "2904aa3924ff193c93c89165e4cc13eb30f18de368212dbb7dc3be8e6f403cfb",
     "TrustLevel": "Official"
   },
   {
@@ -330,6 +393,13 @@
     "OS": "Fedora",
     "SHA256": "2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.3",
+    "SHA256": "2a5b8373332636a7282bd051bc65070a279f31b22b9dd371dc5f3a56bdcc6307",
+    "TrustLevel": "Official"
   },
   {
     "Name": "CentOS-Stream-10-latest-x86_64-dvd1.iso",
@@ -433,6 +503,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "kali-linux-2026.1-live-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "2d51acd4088af63a404e722c35a2e3079f73be924d7921b06ada82d3abf1b979",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.10-alternate-amd64.iso",
     "OS": "Ubuntu",
     "Version": "10.10",
@@ -476,7 +553,7 @@
   },
   {
     "Name": "linuxmint-20-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "20",
     "SHA256": "2f6ae466ec9b7c6255e997b82f162ae88bfe640a8df16d3e2f495b6281120af9",
     "TrustLevel": "Official"

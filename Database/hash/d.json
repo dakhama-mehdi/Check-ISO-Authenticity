@@ -101,6 +101,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U6-x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.6",
+    "SHA256": "d420b4d02ca8172236dfe60cb2c0d2b407645e9a8ed460c5ccdf7b6a868ea8de",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-12.11.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "12.11.0",
@@ -192,6 +199,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U0-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.0",
+    "SHA256": "d5fe339e2f6c4bc157e294bd218eb49c1a920473cae552fb00cfc8978ead3d67",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-11.9.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.9.0",
@@ -220,6 +234,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Leap-16.0-offline-installer-x86_64-Build171.1.install.iso",
+    "OS": "openSUSE",
+    "Version": "/16.0",
+    "SHA256": "d780a228058fb4688a31b5bde22d7b97c86e04a2ced33f3d7c8e88a710d96d24",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-11.8.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.8.0",
@@ -238,6 +259,20 @@
     "OS": "OPNsense",
     "SHA256": "d844c17194e3797c33384bea580d2a842c217a9186e75c686660846ed1207619",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.7",
+    "SHA256": "d88b649f384a08cbb13e87e3ab0fb4088a1c8c601e3678abbb916c700229f80e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.4-installer-netinst-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "d8be15781c996fcca541c371589f7486cb31f4069b7a2e7d81798e5550b8a1d0",
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-12.10-desktop-i386.iso",
@@ -358,6 +393,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U3-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.3",
+    "SHA256": "dca6fe850ae2d1eb486d6012b8ddd399f682283483cd9757358ffe6b23a791fa",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.5.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "7.5.0",
@@ -399,6 +441,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R8-U7-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.7",
+    "SHA256": "dd6ede6c0597189b7dffb800b32835002bd95f19c254734aeb58f58651aa03fb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-11.8.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.8.0",
@@ -410,6 +459,13 @@
     "OS": "Ubuntu",
     "Version": "17.04",
     "SHA256": "dd7879be4e2f9f31672f6e7681ecafeccfac294afd8ca1b04b78bc37fb44291c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R8-U0-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.0",
+    "SHA256": "dd8bdbba910bb0e49e170503541f26a4fbbf5f6c26f37bae9f77e5d18f411d20",
     "TrustLevel": "Official"
   },
   {

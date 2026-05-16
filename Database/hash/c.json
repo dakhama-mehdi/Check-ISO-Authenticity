@@ -42,6 +42,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2025.3-installer-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2025.3",
+    "SHA256": "c1494c8e6acfdd2f080051787010c9466fb850c5f7ef12100cd9e25c374981f6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-cinnamon-nocodecs-64bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
@@ -53,6 +60,13 @@
     "OS": "Kali",
     "Version": "kali-2024.1",
     "SHA256": "c150608cad5f8ec71608d0713d487a563d9b916a0199b1414b6ba09fce788ced",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "openSUSE-Leap-15.3-3-DVD-x86_64-Build38.1-Media.iso",
+    "OS": "openSUSE",
+    "Version": "/15.3",
+    "SHA256": "c1515358daec1ab7c3be2b7c28636eac2e18f0ad550b918ed0550722b87f8b49",
     "TrustLevel": "Official"
   },
   {
@@ -73,6 +87,13 @@
     "OS": "Debian",
     "Version": "10.1.0",
     "SHA256": "c183f06b94ab054c6183375ba453c379915b7d3506433e418150d6470cf3a1fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "c2096dc2194c915cf94c273b907a84043ea6adfcba18509f15a8c1d1bbfb211c",
     "TrustLevel": "Official"
   },
   {
@@ -115,6 +136,13 @@
     "OS": "Ubuntu",
     "Version": "24.04.3",
     "SHA256": "c2e6f4dc37ac944e2ed507f87c6188dd4d3179bf4a3f9e110d3c88d1f3294bdc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U5-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.5",
+    "SHA256": "c2fa76c502cf1d93dfbd084d494d963ab7ea0a6f5535a083b8547b34037e88e1",
     "TrustLevel": "Official"
   },
   {
@@ -194,6 +222,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "openSUSE-Leap-15.0-DVD-x86_64.iso",
+    "OS": "openSUSE",
+    "Version": "/15.0",
+    "SHA256": "c477428c7830ca76762d2f78603e13067c33952b936ff100189523e1fabe5a77",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.2-installer-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "c49ede57d4ba42f237f2b2582169d9abf42580dd235717395a3e6674454623e9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-9.6.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.6.0",
@@ -232,6 +274,13 @@
     "OS": "Debian",
     "Version": "5.0.8",
     "SHA256": "c6447d36098e39e4b45bd4e14c0fdd7dce79b6e150cefc2f297597592cfb5ff5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "openSUSE-Leap-15.1-DVD-x86_64.iso",
+    "OS": "openSUSE",
+    "Version": "/15.1",
+    "SHA256": "c6d3ed19fe5cc25c4667bf0b46cc86aebcfbca3b0073aed0a288834600cb8b97",
     "TrustLevel": "Official"
   },
   {
@@ -293,6 +342,13 @@
     "OS": "LinuxMint",
     "Version": "19",
     "SHA256": "c92a9baafdd599da057a97236f0a853ce1f8b3c7ad41e652ceba493f9ca5623f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "c92c79d7267c93245962cf696c9da8105bf40855744513fbaaec41db17d307e1",
     "TrustLevel": "Official"
   },
   {
@@ -378,6 +434,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U2-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.2",
+    "SHA256": "cac3c41cc2d3467ba8902a5d74575bcf460f129634d5a0d1d67d87094dd70b09",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-9.0.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.0.0",
@@ -385,10 +448,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R8-U8-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.8",
+    "SHA256": "cae39116245ff7c3c86d5305d9c11430ce5c4e512987563435ac59c37a082d7e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.04-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.04.0",
     "SHA256": "caf3fd69c77c439f162e2ba6040e9c320c4ff0d69aad1340a514319a9264df9f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "caf5ff7d7a4f73c85a6f1688300b936d3d7fd6965c52d80632e36709a09255a7",
     "TrustLevel": "Official"
   },
   {
@@ -419,6 +496,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.5",
+    "SHA256": "cb9a59df74ed3b3972461f83cfa7f3d90e5538efdfac8517e18be4f8900de970",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250612-47807edf0ac2-259309-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "cbcea8d13bb2e4c5519ae51646ebc78190d5a296bcc985f9901452ce58fab5c1",
@@ -429,6 +513,13 @@
     "OS": "AlmaLinux",
     "Version": "8.10",
     "SHA256": "cc3e61faf2dd6c9c80d3beeb47eaaba235ac13fe1b617209c3c1e546528ccb99",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-15.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.0",
+    "SHA256": "cc73a14d4b1cfada880b78deb0b94ae0f439167418c32a6708f68f79563cb50c",
     "TrustLevel": "Official"
   },
   {
@@ -495,6 +586,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2024.2-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "cd6f784b4e999daa50ab53950669920e0d6b7902be0945314ac234a0f5ee3344",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R8-U9-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.9",
+    "SHA256": "ce90b598be2e9889fa880128fc53b3e9c1f95d9e31859759e5e180602312c181",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.1-desktop-i386.iso",
     "OS": "Ubuntu",
     "Version": "16.04.5",
@@ -534,5 +639,12 @@
     "OS": "CentOS",
     "SHA256": "cf983a9d56ba2decbd6e1e04ae41c8c40cd510e36be8e42ea1ec6c8b39abaedd",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "cfa5861ecf1cddd79de6f957db40f37f318d3e96d4e491fa9fb00a617113e66a",
+    "TrustLevel": "Official"
   }
 ]

@@ -88,6 +88,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2024.4-live-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "434b02f2746d1f1d2f2c9a1a771d3fe0de741ed5b399d3261f07502aa1c16717",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-12.2.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "12.2.0",
@@ -143,6 +150,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "OracleLinux-R8-U5-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.5",
+    "SHA256": "45939e85542c19dd519aaad7c4dbe84a6fcadfaca348245f92ae4472fc7f50ac",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-10-latest-x86_64-dvd.iso",
     "OS": "AlmaLinux",
     "Version": "10.1",
@@ -151,7 +165,7 @@
   },
   {
     "Name": "linuxmint-22.3-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22.3",
     "SHA256": "45a835b5dddaf40e84d776549e0b19b3fbd49673b6cc6434ebddbfcd217df776",
     "TrustLevel": "Official"
@@ -161,6 +175,13 @@
     "OS": "Debian",
     "Version": "11.4.0",
     "SHA256": "45ae39ba39400b4325bb8486f8f3a6ad183a7700d922520c13cd514beaebe9ef",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.4-installer-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "45b226bc8753cb22cf489e4073c2d19d71c1377a0fd55ebdcf4d290324e3cbfb",
     "TrustLevel": "Official"
   },
   {
@@ -205,6 +226,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "openSUSE-Leap-15.4-DVD-x86_64-Media.iso",
+    "OS": "openSUSE",
+    "Version": "/15.4",
+    "SHA256": "4683345f242397c7fd7d89a50731a120ffd60a24460e21d2634e783b3c169695",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.1-cinnamon-32bit.iso",
     "OS": "LinuxMint",
     "Version": "18.1",
@@ -213,7 +241,7 @@
   },
   {
     "Name": "linuxmint-21.2-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.2",
     "SHA256": "46b1e171d678d0eba7916ed2b4eecac8993c5e94d3d5a1231ca7d480314f1553",
     "TrustLevel": "Official"
@@ -317,6 +345,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U6-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.6",
+    "SHA256": "499dd0df4969fbd06d0d3083a572504b51aca5a4428bcbff51a68c47925bcbad",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.7",
+    "SHA256": "49e93eb612455302ea5ce7fcb06bf466acd2ba099c28f0362a3118f9ee02296f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.4-installer-netinst-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.4",
@@ -324,10 +366,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.4-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "49f6826e302659378ff0b18eda28121dad7eeab4da3b8d171df034da4996a75e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-dvd.iso",
     "OS": "AlmaLinux",
     "Version": "9.3",
     "SHA256": "4a8c4ed4b79edd0977d7f88be7c07e12c4b748671a7786eb636c6700e58068d5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.2-installer-netinst-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "4aa5a328312640c9c6c03bd9f7656e21895a450ad9781f16335a4db4bf544295",
     "TrustLevel": "Official"
   },
   {
@@ -470,6 +526,13 @@
     "OS": "Linuxmint",
     "Version": "20.1",
     "SHA256": "4f9cc6fa8a2d6fd7ffdf88478812ff994e36470ecfe50761f7efd56e6d3d7018",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.4-installer-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "4fa526aafdabb5f30fe2234f25a479e31caa813af21bb08c3ee6d63438f0a0e2",
     "TrustLevel": "Official"
   },
   {

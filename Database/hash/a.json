@@ -46,6 +46,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "OracleLinux-R9-U5-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.5",
+    "SHA256": "a120db860253469d71051bd6924c82c10209f3fb8d139a5305a7f6cd9a68b086",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-23.10-beta-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "23.10",
@@ -116,6 +123,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.4-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "a308f7743a75d862561c35b3bfd8b401ebd447cc90c0aa7335c51889b99169c9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.4-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "a31c7b22dfc306fb096608f267a7296ebbe10a331ab7e2a2e646d2e073d45717",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9.1-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "9.1",
@@ -163,6 +184,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2025.3-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2025.3",
+    "SHA256": "a3f220224810d1111661040d64ddb62d0e68d2b7ed97bfd5fb3e5dd5768d02d9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-22.04.3-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "22.04.2",
@@ -174,6 +202,13 @@
     "OS": "FreeBSD",
     "SHA256": "a45467260e2151797e0c7493d9c2a22d52aa5507010368de8c79f325fa74b263",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OracleLinux-R9-U1-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.1",
+    "SHA256": "a46ac0b717881a2673c7dc981b3219f6dea747e3d6bd18908fcb8c1f42b82786",
+    "TrustLevel": "Official"
   },
   {
     "Name": "linuxmint-18.1-kde-32bit.iso",
@@ -208,6 +243,13 @@
     "OS": "Ubuntu",
     "Version": "18.04",
     "SHA256": "a55353d837cbf7bc006cf49eeff05ae5044e757498e30643a9199b9a25bc9a34",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R8-U4-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.4",
+    "SHA256": "a55e97eec90e8c810f23625a349af816e1fdf162428e2bf96b752ff562106d4b",
     "TrustLevel": "Official"
   },
   {
@@ -278,10 +320,24 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "openSUSE-Leap-15.6-DVD-x86_64-Build710.3-Media.iso",
+    "OS": "openSUSE",
+    "Version": "/15.6",
+    "SHA256": "a74d4072e639c75ca127df3d869c1e57bcc44a093a969550f348a3ead561fe4f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.3-alternate-i386.iso",
     "OS": "Ubuntu",
     "Version": "12.04.5",
     "SHA256": "a755fa3c0bdfd40844a543146fbd585031ef72eefab5335b6c14ef2c10016bf0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U0-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.0",
+    "SHA256": "a782e8c78a629ab1c19fcb32e76d3b81c7ef1b04060a0465253c103686339f3a",
     "TrustLevel": "Official"
   },
   {
@@ -296,6 +352,13 @@
     "OS": "Kali",
     "Version": "kali-2024.1",
     "SHA256": "a7b20aa0bfd34e557faf1335e9c0aa4000985ec58640265e945e6241a8012408",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "V996905-01.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.2",
+    "SHA256": "a7d0db29491f886e60f213ad6a297f70b180a1b8720999f8ed861ab4d56df5e8",
     "TrustLevel": "Official"
   },
   {
@@ -410,6 +473,13 @@
     "OS": "Kali",
     "Version": "kali-2024.1",
     "SHA256": "aa77ae4ef0d08fbe979a8f575b4b484929e2d208e77cf93d6ecd3a31c0fba7fc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.0",
+    "SHA256": "aa90f678f7791bef79bfd9ad5b219de40949cdf77e2050131627d2c3270e63c1",
     "TrustLevel": "Official"
   },
   {
@@ -558,6 +628,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-14.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "14.4",
+    "SHA256": "ade3d84e77fc601d1207ced8d6dd8952c3fb7685afa3cf6b6b44d76ed94b2d8e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-21.7.1-OpenSSL-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "ae012392cdc6bfdfacf993b00bdc12b4d7effd2296e513016439c5abf3727276",
@@ -588,6 +665,13 @@
     "OS": "Kali",
     "Version": "kali-2022.3",
     "SHA256": "ae977f455924f0268fac437d66e643827089b6f8dc5d76324d6296eb11d997fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R10-U0-x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "10.0",
+    "SHA256": "aebea7f7a7cfc08a81819ac9953246d0c9c885a6a1d37bf3785d7b9bdad2009b",
     "TrustLevel": "Official"
   },
   {

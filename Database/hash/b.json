@@ -14,7 +14,7 @@
   },
   {
     "Name": "linuxmint-21.2-cinnamon-64bit-edge.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.2",
     "SHA256": "b149f7fc4cbbc9f8fb547d50fef3e761a9c918ded55e67c33214997f007b91bd",
     "TrustLevel": "Official"
@@ -95,6 +95,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-14.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "14.3",
+    "SHA256": "b3c242b27e0dda3efc280c4a68f5cbe0b8dbc50d7993baadef7617bf32b17f0c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2021.3-live-i386.iso",
     "OS": "Kali",
     "Version": "kali-2021.3",
@@ -143,6 +150,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2024.4-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "b519437fcdc850ecd8a2136819bc0fdabe68f32042ef979bff5adaa148364789",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-8.8.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "8.8.0",
@@ -188,6 +202,13 @@
     "OS": "Linuxmint",
     "Version": "20.3",
     "SHA256": "b6b4bbfafdacf9e00f4c674ba237193b40347140917946cff0ede3b10dc6ea55",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.4-live-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "b6e0d3ebaa451de568b0bad1b40dee2217e8ae1463d9d91c80c9e1dc0b8599ed",
     "TrustLevel": "Official"
   },
   {
@@ -244,6 +265,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2024.2-live-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "b82da505f879855749b11062c59e34b9eeb990c2b53fa342dba7976b4368c387",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-22.04-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "22.04.4",
@@ -282,6 +310,13 @@
     "OS": "Ubuntu",
     "Version": "20.04.6",
     "SHA256": "b8f31413336b9393ad5d8ef0282717b2ab19f007df2e9ed5196c13d8f9153c8b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.4",
+    "SHA256": "b92b49553690420053b32dff54c7cce89463eb98c35a1b57706b7408a2ec24bc",
     "TrustLevel": "Official"
   },
   {
@@ -419,6 +454,13 @@
     "OS": "Ubuntu",
     "Version": "12.04",
     "SHA256": "bec39e79664aa189dea338993f636e54c5eda2f84c27def7b06bd6373ab87628",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.4-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "beca4f8fd7f58eda290812f538e1323d3ba1f1a34df4b203e85de4be42525bb6",
     "TrustLevel": "Official"
   },
   {

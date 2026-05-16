@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.5",
+    "SHA256": "e1f0fd6a0dae73c98f2fd6d845f9ff0926c66acc2f0b041b07fa5aa452f9e5e6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "10.04.2",
@@ -53,6 +60,13 @@
     "OS": "Ubuntu",
     "Version": "24.04.3",
     "SHA256": "e240e4b801f7bb68c20d1356b60968ad0c33a41d00d828e74ceb3364a0317be9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-15.1-BETA2-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "e24784b8957f9476bc1960bc089b726566143c8a1d81ea9de0cea68df34d3e9a",
     "TrustLevel": "Official"
   },
   {
@@ -247,6 +261,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R10-U0-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "10.0",
+    "SHA256": "e5c0a6ccf46298d2960fa46a2e6212790d45edf9d8a2c292cd14569a278477fb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-cinnamon-nocodecs-32bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
@@ -383,6 +404,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2025.3-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2025.3",
+    "SHA256": "eb6556f27ed29921df3b1eaacd02361e14d05eb290560aa7256505b7525b26a6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-17.10-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "17.10",
@@ -400,6 +428,13 @@
     "OS": "Debian",
     "Version": "13.1.0",
     "SHA256": "ebfa0ce7fc30917b226c4f2398622933f57a7e6c1dd4ff18e892b4a0944f0136",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.1-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.1",
+    "SHA256": "ec0d81bb949d8c4fa2c4622c027ada145997ca7a4f6f1f7e3095e608db5c6d93",
     "TrustLevel": "Official"
   },
   {
@@ -434,6 +469,13 @@
     "OS": "FreeBSD",
     "SHA256": "eda8c88328e6bdc3ded990f16bb0e7c37429c8de21f60ac8c1edd87d00bf855b",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "kali-linux-2023.4-installer-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "edb01099437463d6975a33ed6ceaf1bc4cca4d805f3dcf1afb3bd1557ddd211a",
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2024.1-installer-purple-amd64.iso",

@@ -48,6 +48,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "V984215-01.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.1",
+    "SHA256": "5302d4724721aa78e2dc5f96b254ff05eef8dbaccd0e0c44aabeb11251ef25fd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.1-RELEASE-amd64-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "5321791bd502c3714850e79743f5a1aedfeb26f37eeed7cb8eb3616d0aebf86b",
@@ -79,6 +86,13 @@
     "OS": "FreeBSD",
     "SHA256": "53b6847f50c5d99b7738743c273d69b50d9c3faa4e7500af940c58a71f560f30",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "openSUSE-Leap-15.5-DVD-x86_64-Build491.1-Media.iso",
+    "OS": "openSUSE",
+    "Version": "/15.5",
+    "SHA256": "53bcbcb82361c5261c9d0994ab0f94101bf28e61c06fe12d320984601be35a8f",
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-10.04.2-server-i386.iso",
@@ -244,10 +258,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-17.0.0-Leap_16.0-Build171.1.iso",
+    "OS": "openSUSE",
+    "Version": "/16.0",
+    "SHA256": "58e4dd0677d22805b708ba7201b71daf0f6bca6f8413c5a2010947e86ab686bc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8.5-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "8.5",
     "SHA256": "5a0dc65d1308e47b51a49e23f1030b5ee0f0ece3702483a8a6554382e893333c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-14.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "14.4",
+    "SHA256": "5a262316dd17badd83dba6355a259341479a5133cb29d54b2585cf20d46292c7",
     "TrustLevel": "Official"
   },
   {
@@ -311,6 +339,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2024.2-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "5c76db37e2a250a4622b2b46f388df7243139c1cad188cf625a30111ce9fc3a0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8.7-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "8.7",
@@ -322,6 +357,13 @@
     "OS": "Ubuntu",
     "Version": "14.04.5",
     "SHA256": "5cd41b34c86799c92d316718d9763d225847bbc290aba0dc312623418e02d6cf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.4-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "5cfca5f2c5136d743da4e9235fbfaad515d112115da486db2033d8d1d4c5ee67",
     "TrustLevel": "Official"
   },
   {
@@ -373,10 +415,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.6",
+    "SHA256": "5e47b3eb4c0156ae82d1d134153bc38b9c6c759cb5866ace458c952bdd3ae2cc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-netinst-x86_64-30-1.2.iso",
     "OS": "Fedora_Server",
     "Version": "30",
     "SHA256": "5e4eac4566d8c572bfb3bcf54b7d6c82006ec3c6c882a2c9235c6d3494d7b100",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.2-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "5eb9dc96cccbdfe7610d3cbced1bd6ee89b5acdfc83ffee1f06e6d02b058390c",
     "TrustLevel": "Official"
   },
   {

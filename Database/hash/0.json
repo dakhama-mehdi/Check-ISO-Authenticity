@@ -1,5 +1,12 @@
 [
   {
+    "Name": "kali-linux-2025.3-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2025.3",
+    "SHA256": "001bc48f0b689b6e114c170463b1d966c45bfdd13d30ef081e087f313f4d8459",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "RedHat-Enterprise-Linux-8.0-x86_64-dvd.iso",
     "OS": "Red_Hat",
     "SHA256": "005d4f88fff6d63b0fc01a10822380ef52570edd8834321de7be63002cc6cc43",
@@ -62,6 +69,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.4-live-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "021193cfeccbd9b76d692cae7827aba06795a8b190d8e130d053eeb6b4313354",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.4-installer-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.4",
@@ -87,6 +101,13 @@
     "OS": "Ubuntu",
     "Version": "12.04.2",
     "SHA256": "030d6f89d2c99700f05c72f1110cc61dc343f7106ace3651140c0c176bbcded9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2024.4-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "03308ecd80e25de59f5435858ee677afbcd8b70ed291f00a531941e6bcafe4c7",
     "TrustLevel": "Official"
   },
   {
@@ -347,6 +368,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U4-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.4",
+    "SHA256": "0e83d2211925bd51a84cc9321f90a6a4ccbc83cf567e393b75c23b0f6745c1f4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-9.6.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.6.0",
@@ -372,6 +400,13 @@
     "OS": "Rocky_Vault",
     "Version": "9.6",
     "SHA256": "0fad8d8b19a94a0222ea37152cdf5601229fe0178b651dc476e1cba41d2e6067",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "openSUSE-Leap-15.2-DVD-x86_64.iso",
+    "OS": "openSUSE",
+    "Version": "/15.2",
+    "SHA256": "0fd2d4e630b6579b933b5cb4930a8100acca6b4e29cd2738c4b7a9b2f76d80e4",
     "TrustLevel": "Official"
   }
 ]

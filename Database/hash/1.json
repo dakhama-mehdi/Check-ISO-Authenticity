@@ -115,6 +115,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-13.5-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.5",
+    "SHA256": "12ada1eb745df5b4f42a1afde4f0d2f333d389c8a7f07244e562b922443c2de7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-20.1-mate-64bit.iso",
     "OS": "LinuxMint",
     "Version": "20.1",
@@ -217,6 +224,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "kali-linux-2023.4-installer-netinst-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "16562f559513b3692d0dfa56fb46ba86a322ccdd677e0774c0a685c0dc40dee6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.6-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "16.04.4",
@@ -242,6 +256,13 @@
     "OS": "Ubuntu",
     "Version": "14.04.4",
     "SHA256": "175a080fdf87f8dd9d9454a3b92d5ef93fe403f7de07ba816a3175f3f544521b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "V996907-01.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.2",
+    "SHA256": "17bfc7c70327cbb4b48e5c3f7444e0ffcfbcdf10b54d666d5bf382ef69e1c6e6",
     "TrustLevel": "Official"
   },
   {
@@ -293,6 +314,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "openSUSE-Leap-42.3-DVD-x86_64.iso",
+    "OS": "openSUSE",
+    "Version": "/42.3",
+    "SHA256": "195baca6c5f3b7f3ad4d7984a7f7bd5c4a37be2eb67e58b65d07ac3a2b599e83",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-13.04-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "13.04",
@@ -304,6 +332,13 @@
     "OS": "Ubuntu",
     "Version": "10.04.3",
     "SHA256": "19a3c083b12fa09c97cbcfed09442a2c9786957c8d839ea6bd305bd55bcdc38a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U2-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.2",
+    "SHA256": "19cd5beeb5fa763556ae4b7ae730bffb0fd36e09788a781320a5fe1787c1f2be",
     "TrustLevel": "Official"
   },
   {
@@ -440,6 +475,13 @@
     "OS": "Fedora_Server",
     "Version": "33",
     "SHA256": "1f1f018e78f0cc23d08db0c85952344ea5c200e67b672da5b07507c066a52ccf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.4-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "1f6aad29795d4bc2fb9ba5ca07b02381d3e3fa28fe80ae54347d31aeac1e36e7",
     "TrustLevel": "Official"
   },
   {

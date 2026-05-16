@@ -19,6 +19,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "kali-linux-2024.4-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.4",
+    "SHA256": "f07c14ff6f5a89024b2d0d0427c3bc94de86b493a0598a2377286b87478da706",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-13.1.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.1.0",
@@ -71,6 +78,13 @@
     "OS": "Linuxmint",
     "Version": "19.3",
     "SHA256": "f1e0469b220b318151bf5c9515380705ddc5d4f59dd0f1af6e78fea599f05e4a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2025.3-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2025.3",
+    "SHA256": "f237246c2ec4391aa0d82f705736d70dd57476042fbfdaa9c9786904d770f745",
     "TrustLevel": "Official"
   },
   {
@@ -187,6 +201,13 @@
     "OS": "LinuxMint",
     "Version": "21",
     "SHA256": "f524114e4a10fb04ec428af5e8faf7998b18271ea72fbb4b63efe0338957c0f3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-14.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "14.3",
+    "SHA256": "f564822bc72d420d1e1a6faacb72f6056d828fcf539dfafd52e08503ef5fab68",
     "TrustLevel": "Official"
   },
   {
@@ -341,6 +362,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.4-live-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.4",
+    "SHA256": "fad1d9a5864faf3b7066dceae6302e588da0dfaace3b1c55e570fa8d38670723",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-i386-20250605-cda1b2b634ce-259305-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "fb624ec69845fefb47e0d962f4b2c95eb1262b4ff3f8b9209cca905fbad5b20f",
@@ -402,6 +430,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "kali-linux-2025.3-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2025.3",
+    "SHA256": "fcf1999799f6642b7d6c6bd79bc1e516be7340b7203fe86c6be3ac21f693f42a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.1-installer-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2024.1",
@@ -413,6 +448,13 @@
     "OS": "Debian",
     "Version": "8.9.0",
     "SHA256": "fd11d34f8abf1663a33cc10a9ed998160866ef94072d442159bcfa1438be70d4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.8",
+    "SHA256": "fd19b985ddd60175c36812c5a25b2126233132b399b5ee3351e13f64e5dbe7c5",
     "TrustLevel": "Official"
   },
   {
@@ -448,6 +490,13 @@
     "OS": "Debian",
     "Version": "10.8.0",
     "SHA256": "fe6d8e3bbea8721b379f9cd23266073027316695e0d6ab375a476e26da66232b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U1-x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.1",
+    "SHA256": "fe73070f659d6cfb5de68f8b57cfc25701c31991dd6188ff1948c74f2240a61e",
     "TrustLevel": "Official"
   },
   {

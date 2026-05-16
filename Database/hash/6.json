@@ -82,6 +82,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R9-U5-x86_64-boot.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.5",
+    "SHA256": "62afc3be0967454312e606729c5e92cd73ce30bde30fc079726dc6954363f1a5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.1-kde-64bit.iso",
     "OS": "LinuxMint",
     "Version": "18.1",
@@ -279,6 +286,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OracleLinux-R8-U2-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.2",
+    "SHA256": "67568941e976efb26a3d61cdbf98c5a46cd0b3463ec750992f305eee20957a6e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-13.2.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.2.0",
@@ -297,6 +311,13 @@
     "OS": "Rocky_Vault",
     "Version": "10.0",
     "SHA256": "678ea3e1eea6f5d6c220c46fab34f5e0add260e7b64f0139ee3b9f7b7ca7d2f3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "x86_64-boot-uek.iso",
+    "OS": "Oraclelinux",
+    "Version": "8.9",
+    "SHA256": "67929eda55820fa8f379234de2b4488d054edd94efe2d5110b0e7cc7b6137700",
     "TrustLevel": "Official"
   },
   {
@@ -379,6 +400,13 @@
     "OS": "Debian",
     "Version": "10.3.0",
     "SHA256": "6a901b5abe43d88b39d627e1339d15507cc38f980036b928f835e0f0e957d3d8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OracleLinux-R9-U6-x86_64-dvd.iso",
+    "OS": "Oraclelinux",
+    "Version": "9.6",
+    "SHA256": "6aab225832263299c209aa1096b665e36c789ea6d0da77c19920e6ad21620bb7",
     "TrustLevel": "Official"
   },
   {
@@ -519,7 +547,7 @@
   },
   {
     "Name": "linuxmint-21.1-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.1",
     "SHA256": "6fea221b5b0272d55de57f3d31498cdf76682f414e60d28131dc428e719efa8b",
     "TrustLevel": "Official"

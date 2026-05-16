@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2024.2-installer-netinst-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2024.2",
+    "SHA256": "30ee4d0db31e6e884555597a4ac34a4660da5b9d357c5c24879f44d9eaf2b0fb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-12.1.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "12.1.0",
@@ -282,7 +289,7 @@
   },
   {
     "Name": "linuxmint-21-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21",
     "SHA256": "3ad001dc15cb661c6652ce1d20ecdc85a939fa0b4b9325af5d0c65379cc3b17e",
     "TrustLevel": "Official"
@@ -401,6 +408,13 @@
     "OS": "Debian",
     "Version": "12.5.0",
     "SHA256": "3de7691e91a24c01d9bf872d151f5cd20503c92417be6e4982e1cda0c5ddd0d6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-14.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "14.3",
+    "SHA256": "3e285faab79b139a8f75dfdc2650e6a79e68fdbe0aa82645828de8f3cf584da1",
     "TrustLevel": "Official"
   },
   {
