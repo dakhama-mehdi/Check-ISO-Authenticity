@@ -165,6 +165,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-Server-dvd-x86_64-44-1.7.iso",
+    "OS": "Fedora_Server",
+    "Version": "44",
+    "SHA256": "85837793bfa36db6bc709b4cecd2ec116951b87d9c53c3d95eb2fac8dcf7cf1f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "14.04.0",

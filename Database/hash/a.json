@@ -641,6 +641,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Fedora-Server-netinst-x86_64-44-1.7.iso",
+    "OS": "Fedora_Server",
+    "Version": "44",
+    "SHA256": "ae20c06bea746913cadea7d80463e13f4bf55bee4df2918111c921c674b70283",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "12.04.0",
