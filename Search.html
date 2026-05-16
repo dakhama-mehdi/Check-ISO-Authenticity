@@ -230,12 +230,14 @@ async function searchISO(){
     `;
 
 	results.sort((a, b) =>
-    b.Version.localeCompare(
-        a.Version,
+    const va = (a.Version || "").toString();
+    const vb = (b.Version || "").toString();
+   return vb.localeCompare(
+        va,
         undefined,
         { numeric:true }
-    )
-	);
+    );
+	});
     for(const item of results.slice(0,100)){
 
         html += `
@@ -310,8 +312,8 @@ function sortTableByVersion(){
 
     rows.sort((a, b) => {
 
-        const va = a.children[1].innerText.trim();
-        const vb = b.children[1].innerText.trim();
+        const va = (a.children[1].innerText || "").trim();
+		const vb = (b.children[1].innerText || "").trim();
 
         return versionSortAsc
             ? va.localeCompare(vb, undefined, {
