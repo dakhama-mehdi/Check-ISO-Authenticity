@@ -188,7 +188,8 @@ async function searchISO(){
             );
 
             const matches = data.filter(x => {
-                const name = (x.Name || "").toLowerCase();
+                // const name = (x.Name || "").toLowerCase();
+				const name = (x.OS || "").toLowerCase();
                 return name.includes(search);
             });
 
@@ -217,7 +218,7 @@ async function searchISO(){
         <thead>
         <tr>
             <th>OS</th>
-            <th>Version</th>
+            <th onclick="sortTableByVersion()">Version</th>
             <th>ISO</th>
             <th>SHA256</th>
             <th>Source</th>
@@ -285,6 +286,38 @@ function handleSearchInput(event){
 
         searchISO();
     }
+}
+
+let versionSortAsc = true;
+
+function sortTableByVersion(){
+
+    const table = document.getElementById("resultTable");
+    const tbody = table.querySelector("tbody");
+
+    const rows = Array.from(
+        tbody.querySelectorAll("tr")
+    );
+
+    rows.sort((a, b) => {
+
+        const va = a.children[1].innerText.trim();
+        const vb = b.children[1].innerText.trim();
+
+        return versionSortAsc
+            ? va.localeCompare(vb, undefined, {
+                numeric:true
+            })
+            : vb.localeCompare(va, undefined, {
+                numeric:true
+            });
+    });
+
+    versionSortAsc = !versionSortAsc;
+
+    rows.forEach(row => {
+        tbody.appendChild(row);
+    });
 }
 
 </script>
