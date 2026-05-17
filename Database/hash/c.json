@@ -530,6 +530,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-edu-13.5.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.5.0",
+    "SHA256": "cc8565fbd9e05328eab8f7d06301a97f878164c1df1ea21a55ac94540cdf7295",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-15.10-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "15.10",

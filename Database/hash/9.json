@@ -149,6 +149,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "debian-13.5.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.5.0",
+    "SHA256": "95838884f5ea6c82421dfe6baaa5a639dbbe6756c1e380f9fe7a7cb0c1949d2a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OracleLinux-R10-U0-x86_64-boot-uek.iso",
     "OS": "Oraclelinux",
     "Version": "10.0",

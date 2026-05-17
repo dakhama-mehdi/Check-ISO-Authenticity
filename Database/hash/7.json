@@ -1,5 +1,12 @@
 [
   {
+    "Name": "debian-mac-13.5.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.5.0",
+    "SHA256": "70cdcfaa4e7a277616dde236e8b31f0f357fa7ea694b05c498db1e2ccee5e76d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.4-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "6.0.4",
