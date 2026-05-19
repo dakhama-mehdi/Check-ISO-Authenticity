@@ -314,6 +314,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "openSUSE-Leap-42.3-DVD-x86_64.iso",
+    "OS": "openSUSE",
+    "Version": "/42.3",
+    "SHA256": "195baca6c5f3b7f3ad4d7984a7f7bd5c4a37be2eb67e58b65d07ac3a2b599e83",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-13.04-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "13.04",
