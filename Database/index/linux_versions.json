@@ -198,6 +198,7 @@
       "checksum/OracleLinux-R9-U2-Server-x86_64.checksum",
       "checksum/OracleLinux-R9-U3-Server-x86_64.checksum",
       "checksum/OracleLinux-R9-U4-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U5-Server-x86_64.checksum",
       "checksum/OracleLinux-R9-U6-Server-x86_64.checksum"
     ]
   }
