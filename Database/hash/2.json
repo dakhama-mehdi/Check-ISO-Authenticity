@@ -1,5 +1,12 @@
 [
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.05.01",
+    "SHA256": "2008e6becc86d207272625c94a388d2ee3b14d6a24b401552d8105c4e82c96db",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.4",
@@ -358,6 +365,13 @@
     "OS": "AlmaLinux",
     "Version": "8.6",
     "SHA256": "29111d9539830359aecec69ac12cf0e407c7500ffd0b9c46598b15e5fe1f4847",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.10.14-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.10.14",
+    "SHA256": "292269ba9bf8335b6a885921a00d311cdc1dcbe9a1375f297f7f3ecfe31c36a7",
     "TrustLevel": "Official"
   },
   {

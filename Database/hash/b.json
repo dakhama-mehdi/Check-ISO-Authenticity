@@ -226,6 +226,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.10.01",
+    "SHA256": "b72dd6ffef7507f8b7cddd7c69966841650ba0f82c29a318cb2d182eb3fcb1db",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.3-RELEASE-amd64-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "b72fcea82e38a1f86267034887d8c1d71cefd845e5bb95229086b6b652ad6c27",
@@ -433,6 +440,13 @@
     "OS": "Ubuntu",
     "Version": "10.10",
     "SHA256": "bcd8e92c6796a7801392789391f16309e3713cec2d1834d25ce55a150fd1e00a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.11.01",
+    "SHA256": "bceb3dded8935c1d3521c475a69ae557e082839b46d921c8b400524470b5c965",
     "TrustLevel": "Official"
   },
   {

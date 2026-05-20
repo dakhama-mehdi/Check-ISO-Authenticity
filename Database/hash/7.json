@@ -191,6 +191,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.01.01",
+    "SHA256": "74b109b4b36d20bef8f4203e30b8d223e0ab297a09d1a1213a02894472aa530a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.6-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "16.04",
@@ -250,6 +257,13 @@
     "OS": "Linuxmint",
     "Version": "20",
     "SHA256": "761fb276da9746a068f4c8aa42e8d4981f352db92babe0ef8a08713eeb38246f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.03.29",
+    "SHA256": "764ca6b3c6e726cacdce5e116f949a1244fb1907ebdc0e8bf089fe98878d9893",
     "TrustLevel": "Official"
   },
   {

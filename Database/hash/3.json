@@ -69,6 +69,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.05.03",
+    "SHA256": "329b00c3e8cf094a28688c50a066b5ac6352731ccdff467f9fd7155e52d36cec",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.1-installer-netinst-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2023.1",
@@ -260,6 +267,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.07.01",
+    "SHA256": "398dceea2d04767fbb8b61a9e824f2c8f5eacf62b2cb5006fd63321d978d48bc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "14.04.3",
@@ -334,6 +348,13 @@
     "OS": "Ubuntu",
     "Version": "25.04",
     "SHA256": "3bdf7673f7af4589b7f0e934ccc113f9549e3f498208c4b83c7d0f53ac5d65f6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.08.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.08.01",
+    "SHA256": "3bf1287333de5c26663b70a17ce7573f15dc60780b140cbbd1c720338c0abac5",
     "TrustLevel": "Official"
   },
   {
@@ -476,6 +497,13 @@
     "OS": "LinuxMint",
     "Version": "18",
     "SHA256": "3fb60a7698f5d80e68526016da3e4455d8a19be6b1cb0eeb5b59dbdd8cf1ffb3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.11.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.11.01",
+    "SHA256": "3fde01031127fb49d3fb489dd92f8d1fc0a7fc4fdfff220936031a00a7673a2e",
     "TrustLevel": "Official"
   },
   {

@@ -53,6 +53,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2026.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.04.01",
+    "SHA256": "f14bf46afbe782d28835aed99bfa2fe447903872cb9f4b21153196d6ed1d48ae",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-13.4.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.4.0",

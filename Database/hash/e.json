@@ -444,6 +444,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "archlinux-2022.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.04.01",
+    "SHA256": "ec6aa0b0cc774415b2b28d110156326985bed5635ad7c9b16523fdad7da689a8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-9.2.1-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.2.1",

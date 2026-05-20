@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2026.02.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.02.01",
+    "SHA256": "c0ee0dab0a181c1d6e3d290a81ae9bc41c329ecaa00816ca7d62a685aeb8d972",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2021.3-installer-i386.iso",
     "OS": "Kali",
     "Version": "kali-2021.3",
@@ -125,6 +132,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2025.12.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.12.01",
+    "SHA256": "c2b1f13a68482db3aad008f14bb75cb15a44cd38fa8a1aa15e6675a50d4c4374",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.2-cinnamon-oem-64bit.iso",
     "OS": "LinuxMint",
     "Version": "17.2",
@@ -143,6 +157,13 @@
     "OS": "Oraclelinux",
     "Version": "9.5",
     "SHA256": "c2fa76c502cf1d93dfbd084d494d963ab7ea0a6f5535a083b8547b34037e88e1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.02.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.02.01",
+    "SHA256": "c30718ab8e4af1a3b315ce8440f29bc3631cb67e9656cfe1e0b9fc81a5c6bf9c",
     "TrustLevel": "Official"
   },
   {
@@ -410,6 +431,13 @@
     "OS": "Ubuntu",
     "Version": "17.04",
     "SHA256": "ca5d9a8438e2434b9a3ac2be67b5c5fa2c1f8e3e40b954519462935195464034",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.04.01",
+    "SHA256": "ca729065b0853da0e57e400346df2deac8aaaf7caa1eca3fa34b4b49cce1ea00",
     "TrustLevel": "Official"
   },
   {

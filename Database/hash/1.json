@@ -61,6 +61,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2025.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.04.01",
+    "SHA256": "1155af9c142387c45eb6fbdbf32f5652fb514ce15a4d17a83e6056a996895026",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-21.2-cinnamon-64bit.iso",
     "OS": "LinuxMint",
     "Version": "21.2",
@@ -119,6 +126,13 @@
     "OS": "FreeBsd",
     "Version": "13.5",
     "SHA256": "12ada1eb745df5b4f42a1afde4f0d2f333d389c8a7f07244e562b922443c2de7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2024.01.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.01.01",
+    "SHA256": "12addd7d4154df1caf5f258b80ad72e7a724d33e75e6c2e6adc1475298d47155",
     "TrustLevel": "Official"
   },
   {
@@ -224,6 +238,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "archlinux-2024.09.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.09.01",
+    "SHA256": "1652f3cee1b9857742123d392bb467bc5472ecd59a977bd6e17b7c379607b20c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.4-installer-netinst-i386.iso",
     "OS": "Kali",
     "Version": "kali-2023.4",
@@ -273,6 +294,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.10.01",
+    "SHA256": "17fe2053a114f2002efed53b39f740dd9778f5b689c9467a310b2649a80a6bfd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-10.7.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "10.7.0",
@@ -291,6 +319,13 @@
     "OS": "Rocky",
     "Version": "10",
     "SHA256": "18543988d9a1a5632d142c3dc288136dcc48ab71628f92ebcd40ada7f4ecd110",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.08.05",
+    "SHA256": "187cf50f8f0619426e98835fdeaa4f3b3dd6a3471b2efc496f50d25ffe0e19db",
     "TrustLevel": "Official"
   },
   {
@@ -356,6 +391,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.07.01",
+    "SHA256": "1a2c1cdea0118b60525f55ee616e9cd4cf68fe17db906ce3d8e46fd06f9907eb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-17.10.1-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "17.10",
@@ -381,6 +423,13 @@
     "OS": "Kali",
     "Version": "kali-2022.1",
     "SHA256": "1b3042badf87544ab4031bae44a45619d5abd7113fdf7a5e2b6202516e3007ea",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.05.01",
+    "SHA256": "1b4a04ef8a7350852a13070ee498442b087a607a18840b4dd7d99867eb5f6a4c",
     "TrustLevel": "Official"
   },
   {

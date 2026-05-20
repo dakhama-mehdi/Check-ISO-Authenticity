@@ -169,6 +169,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.09.01",
+    "SHA256": "961002fab836819b599e770aa25ff02bff1697d1d051140062066a5ff47d6712",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-20.1-cinnamon-64bit-edge.iso",
     "OS": "Linuxmint",
     "Version": "20.1",

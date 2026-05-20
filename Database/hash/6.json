@@ -54,6 +54,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.01.01",
+    "SHA256": "61dbae312cf677be38a93f424c91abadd8a8ed1f3a602b697aac4c57a7872645",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.1.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "7.1.0",
@@ -414,6 +421,13 @@
     "OS": "FreeBSD",
     "SHA256": "6b1159a204fd614410d32b15993416c745917e6de1781aa608e53d8c6b3d24a4",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "archlinux-2022.06.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.06.01",
+    "SHA256": "6b3bfe8d4e0d0f82cc3322f9565e92b0c44f27105889a665a8626ce47fbf7ab8",
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-16.04.5-desktop-amd64.iso",

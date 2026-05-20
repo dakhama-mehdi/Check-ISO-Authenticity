@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2022.05.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.05.01",
+    "SHA256": "d0605dc6a648be9bcb431a86f14f50fb87696cfc0e8b27ec4fd16d3de4029a1a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.2-RELEASE-amd64-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "d063e48b81b99005c8097e60377c23fb07e4116c5f0c0b41a5dc368fc4df6bf9",
@@ -483,6 +490,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2022.12.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.12.01",
+    "SHA256": "de301b9f18973e5902b47bb00380732af38d8ca70084b573ae7cf36a818eb84c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.0-RELEASE-amd64-dvd1.iso",
     "OS": "FreeBSD",
     "SHA256": "de4fa9d7d199051860b80b84fbae51279a5ff5d92a2729a52bf0a3f79a5feb99",
@@ -531,6 +545,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2023.06.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.06.01",
+    "SHA256": "def774822f77da03b12ed35704e48f35ce61d60101071151a6d221994e0b567e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.10-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.10",
@@ -542,6 +563,13 @@
     "OS": "Fedora",
     "SHA256": "df4bbb951340236e13157bd44e90420364f6e5141914e7a7b9e90ab46c7b611d",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "archlinux-2022.11.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.11.01",
+    "SHA256": "df6749df55b02cec98e5a9177c7957acfb96fe14d04553b6e4714100a4824f68",
+    "TrustLevel": "Official"
   },
   {
     "Name": "debian-12.12.0-amd64-netinst.iso",

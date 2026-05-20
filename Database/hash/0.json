@@ -13,6 +13,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "archlinux-2024.03.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.03.01",
+    "SHA256": "0062e39e57d492672712467fdb14371fca4e3a5c57fed06791be95da8d4a60e3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8.5-x86_64-dvd1.iso",
     "OS": "Rocky_Vault",
     "Version": "8.5",
@@ -205,6 +212,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "archlinux-2025.06.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.06.01",
+    "SHA256": "06ee9907fef3a9843a5b1408bbb426cf5c703aa00ca191ee24daa7ddda82a6a7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19.2-xfce-32bit.iso",
     "OS": "LinuxMint",
     "Version": "19.2",
@@ -337,6 +351,20 @@
     "OS": "LinuxMint",
     "Version": "17.1",
     "SHA256": "0c74cf14d644a266fdcd1ef4f2cbdd03906405624d205229ada0f70620a64a3e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.09.01",
+    "SHA256": "0d71c9bc56af75c07e89cd41eaa5570ac914677ad6bc8e84935dc720ce58f960",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.07.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.07.01",
+    "SHA256": "0dbac20eddeef67d3b3e9c109a51b77140cf4ee33cc0b408181454f6c41d0a91",
     "TrustLevel": "Official"
   },
   {

@@ -20,6 +20,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2025.03.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.03.01",
+    "SHA256": "8150e3c1a479de9134baa13cea4ff78856cca5ebeb9bdfa87ecfce2e47ac9b5b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.03.01",
+    "SHA256": "816758ba8fd8a06dff539b9af08eb8100c8bad526ac19ef4486bce99cd3ca18c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-18.10-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "18.10",
@@ -212,6 +226,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.10.01",
+    "SHA256": "86bde4fa571579120190a0946d54cd2b3a8bf834ef5c95ed6f26fbb59104ea1d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-22.10-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "22.10",
@@ -258,6 +279,13 @@
     "OS": "FreeBSD",
     "SHA256": "88f6c52e42dc0b656ad417b15cc928439aafbaf949b62d6259d96b097212332d",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.02.01",
+    "SHA256": "891ebab4661cedb0ae3b8fe15a906ae2ba22e284551dc293436d5247220933c5",
+    "TrustLevel": "Official"
   },
   {
     "Name": "debian-8.10.0-amd64-netinst.iso",
