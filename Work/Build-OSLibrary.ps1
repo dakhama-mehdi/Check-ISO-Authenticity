@@ -61,7 +61,7 @@ function Convert-HashIndexToOSLibrary {
     LastUpdate         = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm:ss UTC")
 }
 
-$statsPath = Join-Path $filePath "stats.json"
+$statsPath = Join-Path $OutputDir "stats.json"
 
 $stats |
     ConvertTo-Json |
