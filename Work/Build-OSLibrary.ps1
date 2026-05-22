@@ -65,7 +65,7 @@ $stats |
     ConvertTo-Json |
     Out-File ".\Work\stats.json" -Encoding utf8 -Force
 
-Write-Host "Stats generated"
+Write-Host "Stats generated $stats"
 }
 
 Convert-HashIndexToOSLibrary `
