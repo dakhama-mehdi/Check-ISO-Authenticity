@@ -61,9 +61,13 @@ function Convert-HashIndexToOSLibrary {
     LastUpdate         = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm:ss UTC")
 }
 
+$statsDir = Join-Path (Get-Location) "Work"
+
+$statsPath = Join-Path $statsDir "stats.json"
+
 $stats |
     ConvertTo-Json |
-    Out-File ".\Work\stats.json" -Encoding utf8 -Force
+    Out-File $statsPath -Encoding utf8 -Force
 
 Write-Host "Stats generated $stats"
 }
