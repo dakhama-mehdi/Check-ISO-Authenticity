@@ -54,6 +54,18 @@ function Convert-HashIndexToOSLibrary {
 
         Write-Host "Created $filePath : $($data.Count) entries"
     }
+
+    $stats = [PSCustomObject]@{
+    TotalHashes        = $allItems.Count
+    TotalDistributions = $groups.Count
+    LastUpdate         = (Get-Date).ToUniversalTime().ToString("yyyy-MM-dd HH:mm:ss UTC")
+}
+
+$stats |
+    ConvertTo-Json |
+    Out-File ".\Work\stats.json" -Encoding utf8 -Force
+
+Write-Host "Stats generated"
 }
 
 Convert-HashIndexToOSLibrary `
