@@ -1,0 +1,359 @@
+[
+  {
+    "Name": "archlinux-2024.03.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.03.01",
+    "SHA256": "0062e39e57d492672712467fdb14371fca4e3a5c57fed06791be95da8d4a60e3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.06.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.06.01",
+    "SHA256": "06ee9907fef3a9843a5b1408bbb426cf5c703aa00ca191ee24daa7ddda82a6a7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.09.01",
+    "SHA256": "0d71c9bc56af75c07e89cd41eaa5570ac914677ad6bc8e84935dc720ce58f960",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.07.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.07.01",
+    "SHA256": "0dbac20eddeef67d3b3e9c109a51b77140cf4ee33cc0b408181454f6c41d0a91",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.04.01",
+    "SHA256": "1155af9c142387c45eb6fbdbf32f5652fb514ce15a4d17a83e6056a996895026",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2024.01.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.01.01",
+    "SHA256": "12addd7d4154df1caf5f258b80ad72e7a724d33e75e6c2e6adc1475298d47155",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2024.09.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.09.01",
+    "SHA256": "1652f3cee1b9857742123d392bb467bc5472ecd59a977bd6e17b7c379607b20c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.10.01",
+    "SHA256": "17fe2053a114f2002efed53b39f740dd9778f5b689c9467a310b2649a80a6bfd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.08.05",
+    "SHA256": "187cf50f8f0619426e98835fdeaa4f3b3dd6a3471b2efc496f50d25ffe0e19db",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.07.01",
+    "SHA256": "1a2c1cdea0118b60525f55ee616e9cd4cf68fe17db906ce3d8e46fd06f9907eb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.05.01",
+    "SHA256": "1b4a04ef8a7350852a13070ee498442b087a607a18840b4dd7d99867eb5f6a4c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.05.01",
+    "SHA256": "2008e6becc86d207272625c94a388d2ee3b14d6a24b401552d8105c4e82c96db",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.10.14-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.10.14",
+    "SHA256": "292269ba9bf8335b6a885921a00d311cdc1dcbe9a1375f297f7f3ecfe31c36a7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.05.03",
+    "SHA256": "329b00c3e8cf094a28688c50a066b5ac6352731ccdff467f9fd7155e52d36cec",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.07.01",
+    "SHA256": "398dceea2d04767fbb8b61a9e824f2c8f5eacf62b2cb5006fd63321d978d48bc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.08.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.08.01",
+    "SHA256": "3bf1287333de5c26663b70a17ce7573f15dc60780b140cbbd1c720338c0abac5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.11.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.11.01",
+    "SHA256": "3fde01031127fb49d3fb489dd92f8d1fc0a7fc4fdfff220936031a00a7673a2e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.09.03-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.09.03",
+    "SHA256": "41c5d5c181faebcff9a6cdd9e270d87dd9d766507687e4555c7852d198d0ad48",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.02.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.02.01",
+    "SHA256": "45f097416d604ac20e982d2137534ffbe00990ba36dcb9bd259c05a4515f20cd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.11.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.11.01",
+    "SHA256": "477f50617d648e46d6e326549aa56ab92115a29a97f2ca364e944cea06970608",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.05.01",
+    "SHA256": "4af795aab6530e8344553961d0a0e8e84f9622a131ee7d44b0b86b035b2d9ff7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.08.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.08.01",
+    "SHA256": "4b1af44dbeed97acec0204a95f6393818bb8fd903b423a20b7ea141f80b27e59",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.06.01",
+    "SHA256": "4cc7e1c9f4e97b384f0d8731f317b5995bde256fcc17160d32359cab923c5892",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.12.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.12.01",
+    "SHA256": "50c688670abf27345b3effa03068b0302810f8da0db80d06d11a932c3ef99056",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.04.01",
+    "SHA256": "52aea58f88c9a80afe64f0536da868251ef4878de5a5e0227fcada9f132bd7ab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.07.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.07.01",
+    "SHA256": "54974bcac724e97ec242552a8b7d01e037ca8a944100f366bbb6c80865b311df",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2024.08.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.08.01",
+    "SHA256": "55284a14f71df3e1e45a1e732097f2ca0034c0fc0d912e58812c2eededa0828f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.03.01",
+    "SHA256": "569f7331bbcb882d130035324ab5feb1cd9807ccc9a49aa61102d40121518db6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2024.12.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.12.01",
+    "SHA256": "56b246d1a569f1670c0f98198f5c9a32558d54d010cd3434356cc1e20ad97945",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.04.05-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.04.05",
+    "SHA256": "5934a1561f33a49574ba8bf6dbbdbd18c933470de4e2f7562bec06d24f73839b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.01.01",
+    "SHA256": "61dbae312cf677be38a93f424c91abadd8a8ed1f3a602b697aac4c57a7872645",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.06.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.06.01",
+    "SHA256": "6b3bfe8d4e0d0f82cc3322f9565e92b0c44f27105889a665a8626ce47fbf7ab8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.01.01",
+    "SHA256": "74b109b4b36d20bef8f4203e30b8d223e0ab297a09d1a1213a02894472aa530a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.03.29",
+    "SHA256": "764ca6b3c6e726cacdce5e116f949a1244fb1907ebdc0e8bf089fe98878d9893",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.03.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.03.01",
+    "SHA256": "8150e3c1a479de9134baa13cea4ff78856cca5ebeb9bdfa87ecfce2e47ac9b5b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.03.01",
+    "SHA256": "816758ba8fd8a06dff539b9af08eb8100c8bad526ac19ef4486bce99cd3ca18c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.10.01",
+    "SHA256": "86bde4fa571579120190a0946d54cd2b3a8bf834ef5c95ed6f26fbb59104ea1d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.02.01",
+    "SHA256": "891ebab4661cedb0ae3b8fe15a906ae2ba22e284551dc293436d5247220933c5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.09.01",
+    "SHA256": "961002fab836819b599e770aa25ff02bff1697d1d051140062066a5ff47d6712",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.10.01",
+    "SHA256": "b72dd6ffef7507f8b7cddd7c69966841650ba0f82c29a318cb2d182eb3fcb1db",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2024.11.01",
+    "SHA256": "bceb3dded8935c1d3521c475a69ae557e082839b46d921c8b400524470b5c965",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2026.02.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.02.01",
+    "SHA256": "c0ee0dab0a181c1d6e3d290a81ae9bc41c329ecaa00816ca7d62a685aeb8d972",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2025.12.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2025.12.01",
+    "SHA256": "c2b1f13a68482db3aad008f14bb75cb15a44cd38fa8a1aa15e6675a50d4c4374",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.02.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.02.01",
+    "SHA256": "c30718ab8e4af1a3b315ce8440f29bc3631cb67e9656cfe1e0b9fc81a5c6bf9c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.04.01",
+    "SHA256": "ca729065b0853da0e57e400346df2deac8aaaf7caa1eca3fa34b4b49cce1ea00",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.05.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.05.01",
+    "SHA256": "d0605dc6a648be9bcb431a86f14f50fb87696cfc0e8b27ec4fd16d3de4029a1a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.12.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.12.01",
+    "SHA256": "de301b9f18973e5902b47bb00380732af38d8ca70084b573ae7cf36a818eb84c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2023.06.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2023.06.01",
+    "SHA256": "def774822f77da03b12ed35704e48f35ce61d60101071151a6d221994e0b567e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.11.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.11.01",
+    "SHA256": "df6749df55b02cec98e5a9177c7957acfb96fe14d04553b6e4714100a4824f68",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2022.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2022.04.01",
+    "SHA256": "ec6aa0b0cc774415b2b28d110156326985bed5635ad7c9b16523fdad7da689a8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "archlinux-2026.04.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.04.01",
+    "SHA256": "f14bf46afbe782d28835aed99bfa2fe447903872cb9f4b21153196d6ed1d48ae",
+    "TrustLevel": "Official"
+  }
+]

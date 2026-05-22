@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "Fedora-Workstation-Live-44-1.7.x86_64.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "44",
+    "SHA256": "1620295f6a00c27c3208f0c00b8ece4eab1ec69b9002152d97488bf26a426ddf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-31-1.9.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "31",
+    "SHA256": "1d73ce30bfb96274c53b09013ea23320f0f64a1b0c663217110a5baf0b2c6528",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-netinst-x86_64-30-1.2.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "30",
+    "SHA256": "28c94f90adc926ea035d56f5bf59058a9305566adb70c0c50d7a13fc6ab838cf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-32-1.6.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "32",
+    "SHA256": "4d0f6653e2e0860c99ffe0ef274a46d875fb85bd2a40cb896dce1ed013566924",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-38-1.6.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "38",
+    "SHA256": "7a444a2e19012023bf0b015ae30135bafc5fd20f4f333310d42b118745093992",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-34-1.2.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "34",
+    "SHA256": "865c4457dd066d3074c35a8847c8dac1380667c96a4f6d74526324dba14f1b5c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-osb-40-1.14.x86_64.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "40",
+    "SHA256": "8d3cb4d99f27eb932064915bc9ad34a7529d5d073a390896152a8a899518573f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-37-1.7.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "37",
+    "SHA256": "9c69005baafdba6e4ff04c1cf4779121b7fc9aacab80b4633394576da336a515",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-41-1.4.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "41",
+    "SHA256": "a2dd3caf3224b8f3a640d9e31b1016d2a4e98a6d7cb435a1e2030235976d6da2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-30-1.2.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "30",
+    "SHA256": "a4e2c49368860887f1cc1166b0613232d4d5de6b46f29c9756bc7cfd5e13f39f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-39-1.5.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "39",
+    "SHA256": "af52046e43c6f06afd3456d2a9a36dd9782fcb204f05a21b1c31f593db36a8e8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Workstation-Live-x86_64-40-1.14.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "40",
+    "SHA256": "dd1faca950d1a8c3d169adf2df4c3644ebb62f8aac04c401f2393e521395d613",
+    "TrustLevel": "Official"
+  }
+]
