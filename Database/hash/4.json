@@ -354,7 +354,7 @@
   {
     "Name": "AlmaLinux-9.7-x86_64-boot.iso",
     "OS": "AlmaLinux",
-    "Version": "9.7",
+    "Version": "9.8",
     "SHA256": "494d09f608b325ef42899b5ce38ba1b17755a639f5558b9b98a031b0696e694a",
     "TrustLevel": "Official"
   },

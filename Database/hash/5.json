@@ -252,9 +252,9 @@
     "TrustLevel": "PublicIndex"
   },
   {
-    "Name": "AlmaLinux-9-latest-x86_64-dvd.iso",
+    "Name": "AlmaLinux-9.7-x86_64-dvd.iso",
     "OS": "AlmaLinux",
-    "Version": "9",
+    "Version": "9.8",
     "SHA256": "56f8bf5e44d293a040203b73b70f08bb7dc52f27654b047c20be8598f63ec1f8",
     "TrustLevel": "Official"
   },

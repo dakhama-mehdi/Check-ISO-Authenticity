@@ -178,9 +178,9 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
+    "Name": "AlmaLinux-9.7-x86_64-minimal.iso",
     "OS": "AlmaLinux",
-    "Version": "9",
+    "Version": "9.8",
     "SHA256": "d51ed22cf272a0f30fcf55579d2748ff6ee1fddd6e36ba728cb386b933ceb7fc",
     "TrustLevel": "Official"
   },

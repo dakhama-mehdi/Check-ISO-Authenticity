@@ -245,9 +245,10 @@
   },
   {
     "Name": "Fedora-Workstation-Live-42-1.1.x86_64.iso",
-    "OS": "Fedora",
+    "OS": "Fedora_Workstation",
+    "Version": "42",
     "SHA256": "98958d80e8a80eabe61275337f969c8e2212adc3a223d9bbdab9411bb1c95cba",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "debian-mac-9.12.0-amd64-netinst.iso",
