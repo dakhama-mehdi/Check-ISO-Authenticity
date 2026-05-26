@@ -12,10 +12,24 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-9-20260526.0-x86_64-boot.iso",
+    "OS": "Centos",
+    "Version": "9-stream",
+    "SHA256": "0d81b7fa57b1cecb27f516b309d477d98da63548801fc6a5013c6f47331e504d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-7-x86_64-NetInstall-2003.iso",
     "OS": "CentOS",
     "SHA256": "101bc813d2af9ccf534d112cbe8670e6d900425b297d1a4d2529c5ad5f226372",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "CentOS-Stream-10-20260526.0-x86_64-dvd1.iso",
+    "OS": "Centos",
+    "Version": "10-stream",
+    "SHA256": "134abeaaaec249825d53386555b613b861d81648bd00db1ef444cc389c535d0a",
+    "TrustLevel": "Official"
   },
   {
     "Name": "CentOS-Stream-8-x86_64-20191219-dvd1.iso",
@@ -102,6 +116,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-10-20260526.0-x86_64-boot.iso",
+    "OS": "Centos",
+    "Version": "10-stream",
+    "SHA256": "6e91bd7db73a3c8f557f3316c0a660856dfb7116a5cf8874df40773e7df6c1c6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-8.5.2111-x86_64-boot.iso",
     "OS": "CentOS",
     "SHA256": "9602c69c52d93f51295c0199af395ca0edbe35e36506e32b8e749ce6c8f5b60a",
@@ -142,6 +163,13 @@
     "OS": "CentOS",
     "SHA256": "ad697cdf6e67d9783429505facfb2057a5a578b68fad8c23d71e5404c07eaea8",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "CentOS-Stream-9-20260526.0-x86_64-dvd1.iso",
+    "OS": "Centos",
+    "Version": "9-stream",
+    "SHA256": "b08178533815e4f06ccbe885a7472281dd8606e44da62797685e267a030f9fa2",
+    "TrustLevel": "Official"
   },
   {
     "Name": "CentOS-Stream-8-aarch64-20220513-boot.iso",
