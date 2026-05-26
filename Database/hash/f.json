@@ -95,6 +95,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-18.1-Education-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "18.1",
+    "SHA256": "f24b83bc1bf4f90618fb56e817fe3c1e67328e68720a8350131080db38bf9437",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-i386-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "f277813fa6d9a6ff1240a4ff3133493130c745850df7663fe7d1dd4f75f4e8bf",
@@ -314,6 +321,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-mailgateway_5.2-1.iso",
+    "OS": "Proxmox",
+    "Version": "5.2-1",
+    "SHA256": "f94959111557dc83c0a6131333608d9b562694f63ac91238813fe4f823426c8d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-8-x86_64-20220210-boot.iso",
     "OS": "CentOS",
     "SHA256": "f9a40be784fe10dd40b353db0a9d0463cf7611e1b98be420f80d71c916118684",
@@ -410,6 +424,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-security-7.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.1",
+    "SHA256": "fbed8991a65fe15d848c7a388aad5f180c2a4d0e530f954f655c8177d95db1cb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-ve_4.4-eb2d6f1e-2.iso",
+    "OS": "Proxmox",
+    "Version": "4.4-eb2d6f1e-2",
+    "SHA256": "fc40797ef103b63ca5156f009ee1fb6ea605bb9dfe2b0c443211c9c210cb54c9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.10-desktop-i386.iso",
     "OS": "Ubuntu",
     "Version": "10.10",
@@ -472,6 +500,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-home-6.3.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.3.2",
+    "SHA256": "fd3f6b19e43eee3475cefd9f57bbc73f521e60707b538e47cbf549c3f24339de",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8.5-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "8.5",
@@ -511,6 +546,13 @@
     "OS": "Rocky_Vault",
     "Version": "8.6",
     "SHA256": "fe77cc293a2f2fe6ddbf5d4bc2b5c820024869bc7ea274c9e55416d215db0cc5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-home-6.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.1",
+    "SHA256": "fee55007c6eb20372389705540d2c8ada4f7ba46e0ab67d3346829e34a5f8963",
     "TrustLevel": "Official"
   },
   {

@@ -184,6 +184,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_7.4-1.iso",
+    "OS": "Proxmox",
+    "Version": "7.4-1",
+    "SHA256": "55b672c4b0d2bdcbff9910eea43df3b269aaab3f23e7a1df18b82d92eb995916",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9.0-x86_64-dvd.iso",
     "OS": "Rocky_Vault",
     "Version": "9.0",
@@ -236,6 +243,13 @@
     "OS": "Archlinux",
     "Version": "2024.12.01",
     "SHA256": "56b246d1a569f1670c0f98198f5c9a32558d54d010cd3434356cc1e20ad97945",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-r2-Core PA-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "17.3-r2",
+    "SHA256": "56b9f7d2464f9bd643635786e7128bc3bcd3e4634877edf33a1a1a1de35e13d1",
     "TrustLevel": "Official"
   },
   {

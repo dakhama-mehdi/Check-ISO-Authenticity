@@ -20,6 +20,20 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Parrot-spin-htb-7.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.2",
+    "SHA256": "b0a1eaa274e615ec03154709887c4dd06246a1dbc7c629f0436315ce607a9001",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-security-7.0_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.0",
+    "SHA256": "b0a9602f15f7372bc942c14544f690216f089d56be055c3abfe93cf3c12c0b18",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-21.2-cinnamon-64bit-edge.iso",
     "OS": "Linuxmint",
     "Version": "21.2",
@@ -85,6 +99,13 @@
     "OS": "Linuxmint",
     "Version": "21.3",
     "SHA256": "b284afcc298cc6f5da6ab4d483318c453b2074485974b71b16fdfc7256527cb1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18.1-Lite-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "18.1",
+    "SHA256": "b29ff7674cabb3d0698bdd0b39c1dbfc9def15f84d4a396de1ace1454c1e7a6d",
     "TrustLevel": "Official"
   },
   {
@@ -164,6 +185,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-datacenter-manager_1.0-2.iso",
+    "OS": "Proxmox",
+    "Version": "1.0-2",
+    "SHA256": "b4b98ed3e8f4dabb1151ebb713d6e7109aeba00d95b88bf65f954dd9ef1e89e1",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.4-installer-netinst-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2024.4",
@@ -182,6 +210,13 @@
     "OS": "LinuxMint",
     "Version": "19.1",
     "SHA256": "b580052c4652ac8f1cbcd9057a0395642a722707d17e1a77844ff7fb4db36b70",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18.1-Core PA-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "18.1",
+    "SHA256": "b59615b6a8ad6b574ee5b0a2a331d753b97953df032874d3793159d996d90efe",
     "TrustLevel": "Official"
   },
   {
@@ -341,6 +376,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-home-7.0_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.0",
+    "SHA256": "b9097becbed4737a8d232cfc4547dd30dfbe90254e9d53ca20dab9641be09759",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "x86_64-boot.iso",
     "OS": "Oraclelinux",
     "Version": "8.4",
@@ -408,6 +450,13 @@
     "OS": "FreeBSD",
     "SHA256": "ba96f2e55ffba42ab72b1c22673038d9a9cad1392dfbfc1dc69e7f275eca7d95",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "Parrot-htb-6.0_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.0",
+    "SHA256": "baccfb733569f8ee3caecc9acd26df426cd154eb099882777291eb5c1665fcb8",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpcspe-20250605-cda1b2b634ce-259305-bootonly.iso",

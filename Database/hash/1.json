@@ -329,6 +329,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-spin-lxqt-7.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.2",
+    "SHA256": "18692074a9473d6211ee8dff55a1206f4ba8833693cf6a5652609deec5cb4372",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2022.08.05",

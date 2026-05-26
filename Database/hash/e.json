@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-security-6.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.2",
+    "SHA256": "e13d8fe66d02b261dd7e0d8ecda6db9adc378c989223e0c96c4a1cc0257d841b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-netinst-x86_64-34-1.2.iso",
     "OS": "Fedora_Server",
     "Version": "34",
@@ -144,6 +151,13 @@
     "OS": "Debian",
     "Version": "7.8.0",
     "SHA256": "e39c36d6adc0fd86c6edb0e03e22919086c883b37ca194d063b8e3e8f6ff6a3a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-mailgateway_6.4-1.iso",
+    "OS": "Proxmox",
+    "Version": "6.4-1",
+    "SHA256": "e3da927685bf4849679d6b19a9cb7e5a8e531fc6a86fabea732a0f6013ba43ba",
     "TrustLevel": "Official"
   },
   {
@@ -472,6 +486,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-backup-server_3.4-1.iso",
+    "OS": "Proxmox",
+    "Version": "3.4-1",
+    "SHA256": "ed4777f570f2589843765fff9e942288ff16a6cc3728655733899188479b7e08",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpcspe-20250605-cda1b2b634ce-259305-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "eda8c88328e6bdc3ded990f16bb0e7c37429c8de21f60ac8c1edd87d00bf855b",
@@ -503,6 +524,13 @@
     "OS": "Rocky_Vault",
     "Version": "9.4",
     "SHA256": "ee3ac97fdffab58652421941599902012179c37535aece76824673105169c4a2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-htb-6.3.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.3.2",
+    "SHA256": "ee8448b62778b5c740923636d08b9341f34f73c440f1362262a66469f4ca854b",
     "TrustLevel": "Official"
   },
   {
@@ -538,6 +566,13 @@
     "OS": "Rocky_Vault",
     "Version": "9.3",
     "SHA256": "eef8d26018f4fcc0dc101c468f65cbf588f2184900c556f243802e9698e56729",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-security-7.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.2",
+    "SHA256": "ef290592760c26e2a24bf41e3187caf7f8d21662b95cb6c28aff5b96cfd56c04",
     "TrustLevel": "Official"
   }
 ]

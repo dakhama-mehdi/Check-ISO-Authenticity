@@ -13,6 +13,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Zorin-OS-18.1-Pro Lite-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "18.1",
+    "SHA256": "406f4a90481acd4d6939c3ece4a0ac8731db2dc73ffddbfedc9adc3439f6d524",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250605-cda1b2b634ce-259305-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "4163ef29c1048c225fcd3ae6c57e7cb7fa7842c7c6185dda3661581474f56a46",
@@ -141,6 +148,13 @@
     "OS": "Ubuntu",
     "Version": "20.04.2",
     "SHA256": "443511f6bf12402c12503733059269a2e10dec602916c0a75263e5d990f6bb93",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18.1-Core-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "18.1",
+    "SHA256": "44649b97bd307fc4c8529205d098ebbf98575a1e1ba2ee7d7005b697af1721d5",
     "TrustLevel": "Official"
   },
   {
@@ -279,6 +293,13 @@
     "OS": "Kali",
     "Version": "kali-2021.1",
     "SHA256": "477296c6416a3f588986582593af4ea913c9b82350663c86b23efd063e01b6b5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-spin-mate-7.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.2",
+    "SHA256": "47778cd125e49c56d93b3531f4ee445a8e4f8cc9c1ab6c46c96b2efda7d2e090",
     "TrustLevel": "Official"
   },
   {
@@ -529,6 +550,20 @@
     "OS": "FreeBSD",
     "SHA256": "4e46461621d1c965be263276877713b23a566c45709fb58b058c001cf7fbe339",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "Parrot-htb-6.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.2",
+    "SHA256": "4e80321ee8a144a0a31328a22580a5dee4d5b4cc41504b1b039bcc8ad9b13f3d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-ve_9.2-1.iso",
+    "OS": "Proxmox",
+    "Version": "9.2-1",
+    "SHA256": "4e88fe416df9b527624a175f24c9aa07c714d3332afb1ee3dbf3879573ef2c6c",
+    "TrustLevel": "Official"
   },
   {
     "Name": "Rocky-8.5-x86_64-minimal.iso",

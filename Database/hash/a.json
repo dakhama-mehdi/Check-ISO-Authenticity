@@ -510,6 +510,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_6.4-1.iso",
+    "OS": "Proxmox",
+    "Version": "6.4-1",
+    "SHA256": "ab71b03057fdeea29804f96f0ff4483203b8c7a25957a4f69ed0002b5f34e607",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.3-xfce-32bit.iso",
     "OS": "LinuxMint",
     "Version": "18.3",
@@ -528,6 +535,13 @@
     "OS": "AlmaLinux",
     "Version": "8.9",
     "SHA256": "ab861d80c8b68634f3c16d414a4141759a082548ad7b251d8924675fa09decab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-security-6.0_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.0",
+    "SHA256": "ab9cce4aea0229c1d97f771f7a806924a9a24728eec3702516e9e8fbaa3dfbc1",
     "TrustLevel": "Official"
   },
   {

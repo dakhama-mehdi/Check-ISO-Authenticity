@@ -47,6 +47,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "proxmox-backup-server_2.4-1.iso",
+    "OS": "Proxmox",
+    "Version": "2.4-1",
+    "SHA256": "721e21a88ae93dba73ca3e4a494b438190acadb99993ec755a19e721a86f0395",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-11.10.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.10.0",
@@ -601,6 +608,13 @@
     "OS": "Ubuntu",
     "Version": "19.04",
     "SHA256": "7e8a0d07522f591dfee9bc9fcd7c05466763161e6cb0117906655bce1750b2fa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-ve_3.4-102d4547-6.iso",
+    "OS": "Proxmox",
+    "Version": "3.4-102d4547-6",
+    "SHA256": "7ee18dbb4f1a6436615c0a8b3a169ecbc3d1eb6c8ae456d41bf210a7caac4ff1",
     "TrustLevel": "Official"
   },
   {

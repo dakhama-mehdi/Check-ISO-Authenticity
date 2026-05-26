@@ -14,6 +14,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-mailgateway_7.3-1.iso",
+    "OS": "Proxmox",
+    "Version": "7.3-1",
+    "SHA256": "9085684327fc36d8006b7160d34733e916300a0ad6bf498ea83cfb901fc2d9d4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.3-live-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.3",
@@ -32,6 +39,13 @@
     "OS": "Kali",
     "Version": "kali-2023.1",
     "SHA256": "90bb0e48968aa7956d6b36ab8092168e7d7657d61e0e85e47d6b0febca6e48d4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-spin-enlightenment-7.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.1",
+    "SHA256": "91278cc3932bf33f786c22dcd1935e718feb3803e3fcb443cf70663ed361a6f0",
     "TrustLevel": "Official"
   },
   {
@@ -201,6 +215,13 @@
     "OS": "Rocky_Vault",
     "Version": "8.8",
     "SHA256": "96c9d96c33ebacc8e909dcf8abf067b6bb30588c0c940a9c21bb9b83f3c99868",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-spin-mate-7.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.1",
+    "SHA256": "9708d6c709a5724f092e3900cfbf8c76b64c2f7321b4171e94bf7d65fbe4f5fe",
     "TrustLevel": "Official"
   },
   {
@@ -426,6 +447,13 @@
     "OS": "Ubuntu",
     "Version": "10.04.4",
     "SHA256": "9e8c537d143ed558e1ba83543ad1158a22089ef071f10dc749bdb958d7266166",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-htb-6.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.1",
+    "SHA256": "9ea96a8fc159682d7d03306f183db96399c79f892d7e76403d76649fd96465d7",
     "TrustLevel": "Official"
   },
   {

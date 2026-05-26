@@ -70,6 +70,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.3-r2-Core-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "17.3-r2",
+    "SHA256": "c1510d1e16ec50c884faeb4e32326ba8d2e38d2cf22698b649168011d00220f6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "openSUSE-Leap-15.3-3-DVD-x86_64-Build38.1-Media.iso",
     "OS": "openSUSE",
     "Version": "/15.3",
@@ -384,6 +391,13 @@
     "OS": "OPNsense",
     "SHA256": "c97c4073d469650cc2a14a988c29b434a3d08060ded410fd242f751582f99806",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "Parrot-home-6.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.2",
+    "SHA256": "c985272d46831d2739e50ed22384a13c85695a89c2a6c3ac6dce930b5b59fe99",
+    "TrustLevel": "Official"
   },
   {
     "Name": "linuxmint-19-xfce-64bit-v2.iso",

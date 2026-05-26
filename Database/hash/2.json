@@ -131,6 +131,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_9.0-1.iso",
+    "OS": "Proxmox",
+    "Version": "9.0-1",
+    "SHA256": "228f948ae696f2448460443f4b619157cab78ee69802acc0d06761ebd4f51c3e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2021.3a-installer-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2021.3",
@@ -190,6 +197,13 @@
     "OS": "Debian",
     "Version": "12.2.0",
     "SHA256": "23ab444503069d9ef681e3028016250289a33cc7bab079259b73100daee0af66",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-mail-gateway_9.0-1.iso",
+    "OS": "Proxmox",
+    "Version": "9.0-1",
+    "SHA256": "23bf1e50bba06f6f850360740c0388462b921b414d2e4f3ea859e5150f498c8e",
     "TrustLevel": "Official"
   },
   {
@@ -312,6 +326,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-htb-6.4_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.4",
+    "SHA256": "27898a00a2e5a5f934b61764e23e18e0e7406e53c8c33a8ead5797ea46be64a4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.6",
@@ -393,6 +414,13 @@
     "OS": "Ubuntu",
     "Version": "16.04.2",
     "SHA256": "29a8b9009509b39d542ecb229787cdf48f05e739a932289de9e9858d7c487c80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-mail-gateway_8.2-1.iso",
+    "OS": "Proxmox",
+    "Version": "8.2-1",
+    "SHA256": "2a348db5bf588450d1d47a8746d3713efc390c7fe1fc5ddf379045542999b549",
     "TrustLevel": "Official"
   },
   {
@@ -566,10 +594,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-home-7.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.1",
+    "SHA256": "2ea59e6afe1d3e5951c1f1b9bc5a0b1ae49c0504d57fd8d24a6ff4d0ae6a1f79",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-20-cinnamon-64bit.iso",
     "OS": "Linuxmint",
     "Version": "20",
     "SHA256": "2f6ae466ec9b7c6255e997b82f162ae88bfe640a8df16d3e2f495b6281120af9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-backup-server_4.2-1.iso",
+    "OS": "Proxmox",
+    "Version": "4.2-1",
+    "SHA256": "2fb299deac3929253712c9c3dfc9237edbe70af83c8848467616b771a1d5453e",
     "TrustLevel": "Official"
   },
   {

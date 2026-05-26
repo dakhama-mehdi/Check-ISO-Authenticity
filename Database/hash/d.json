@@ -1,5 +1,12 @@
 [
   {
+    "Name": "proxmox-backup-server_1.1-1.iso",
+    "OS": "Proxmox",
+    "Version": "1.1-1",
+    "SHA256": "d01d2cb3cac56ea2ebf0ed590db1199e44d8fd21b090d1b576e740abfa5e8d65",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-mate-64bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
@@ -67,6 +74,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_8.4-1.iso",
+    "OS": "Proxmox",
+    "Version": "8.4-1",
+    "SHA256": "d237d70ca48a9f6eb47f95fd4fd337722c3f69f8106393844d027d28c26523d8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.2-mate-64bit.iso",
     "OS": "LinuxMint",
     "Version": "17.2",
@@ -101,10 +115,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-security-6.3.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.3.2",
+    "SHA256": "d34eb244f338949c76e506d86b193db192b98bd1447e269be24f8b5bab197a02",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.2.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "8.2.0",
     "SHA256": "d393d17ac6b3113c81186e545c416a00f28ed6e05774284bb5e8f0df39fcbcb9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-security-6.4_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.4",
+    "SHA256": "d3f62af2d7d13372fcf0708ea8e5a12ebe819777a5b0d5a0921b39f6f6e1eefc",
     "TrustLevel": "Official"
   },
   {
@@ -351,6 +379,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-home-7.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.2",
+    "SHA256": "db9907512d215e68a529249e9f72530c0ef5950bf8e3da6ccb52203d732db48f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9.0-x86_64-minimal.iso",
     "OS": "Rocky_Vault",
     "Version": "9.0",
@@ -514,6 +549,13 @@
     "OS": "Rocky_Vault",
     "Version": "10.0",
     "SHA256": "de75c2f7cc566ea964017a1e94883913f066c4ebeb1d356964e398ed76cadd12",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Pro-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "17.3",
+    "SHA256": "de7b8ffe409fca8d3f473b853709f522d42fc45e68d1fd933453bbd72db86396",
     "TrustLevel": "Official"
   },
   {

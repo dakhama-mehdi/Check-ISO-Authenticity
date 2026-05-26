@@ -55,6 +55,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-spin-enlightenment-7.2_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.2",
+    "SHA256": "01311c9bd040e9e7616997da7e2270d3029ac59269692c1252a5476286ba602b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-12.5.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "12.5.0",
@@ -400,6 +407,13 @@
     "OS": "Ubuntu",
     "Version": "16.10",
     "SHA256": "0e52cc7c7c4cc9e91f4e984c1232192394c6caf8e7170c1aeefb37bdef1f0625",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Pro Lite-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "17.3",
+    "SHA256": "0e7f034525976e8608f796909ac34c649d939aa88e6e19656f56476a49876f58",
     "TrustLevel": "Official"
   },
   {

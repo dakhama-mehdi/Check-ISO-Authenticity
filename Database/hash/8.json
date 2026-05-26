@@ -110,6 +110,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-home-6.0_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.0",
+    "SHA256": "8330e8baedcbf24bbfdfca4fca6263e8ea9198227220441a0e6118280cdbc842",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-9.3.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.3.0",
@@ -183,6 +190,13 @@
     "OS": "Fedora_Server",
     "Version": "44",
     "SHA256": "85837793bfa36db6bc709b4cecd2ec116951b87d9c53c3d95eb2fac8dcf7cf1f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-security-6.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.1",
+    "SHA256": "859eb3f2943248c2198d29f090e67b7aaaa576e3c59925addc62016ccfb7e4a1",
     "TrustLevel": "Official"
   },
   {

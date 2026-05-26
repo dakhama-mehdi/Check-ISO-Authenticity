@@ -118,6 +118,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Parrot-home-6.4_amd64.iso",
+    "OS": "Parrot",
+    "Version": "6.4",
+    "SHA256": "33a8b404f2a13d7fe8098e004d1b106123764877fba55bf91e1b531d4246e9c0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-arm64-aarch64-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "33c1b50e8c1a15b7468f38b2c923329708d9bfb0d941c721a8dc689d2c64fc55",
@@ -189,6 +196,20 @@
     "OS": "AlmaLinux",
     "Version": "9.4",
     "SHA256": "34c4285d524605da6dbd76b0b475338f6ea0a28bb88929bf14b04db68f1e1620",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Parrot-spin-lxqt-7.1_amd64.iso",
+    "OS": "Parrot",
+    "Version": "7.1",
+    "SHA256": "34dc3ea08acd44c251029514b0ae671b3504a8a626d8d79a43ad2bbdf6153190",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-r2-Education-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "17.3-r2",
+    "SHA256": "34ead2b43b9b18c61549a70e370be9788bbba688b936a1af454db59899953ef3",
     "TrustLevel": "Official"
   },
   {
@@ -264,6 +285,13 @@
     "OS": "Debian",
     "Version": "10.8.0",
     "SHA256": "396553f005ad9f86a51e246b1540c60cef676f9c71b95e22b753faef59f89bee",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18.1-Pro-64-bit.iso",
+    "OS": "ZorinOS",
+    "Version": "18.1",
+    "SHA256": "3984789a2762d1aa359eda5fe19c757e3e5ea9a1bd5a4acc52099c3979905ded",
     "TrustLevel": "Official"
   },
   {
