@@ -689,6 +689,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-25.11.11278.b77b3de87756-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "25.11.11278.b77b3de87756",
+    "SHA256": "af1f85e4c4fb06fa2c72809ebdda0f1ca5ed27d499a742a31d350eb2d79318ee",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.5-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "12.04.3",

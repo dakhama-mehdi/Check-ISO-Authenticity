@@ -361,6 +361,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260526.0-x86_64-boot.iso",
+    "OS": "Centos",
+    "Version": "9-stream",
+    "SHA256": "0d81b7fa57b1cecb27f516b309d477d98da63548801fc6a5013c6f47331e504d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2025.07.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2025.07.01",

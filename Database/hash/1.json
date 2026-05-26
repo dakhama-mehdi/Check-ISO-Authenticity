@@ -150,6 +150,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260526.0-x86_64-dvd1.iso",
+    "OS": "Centos",
+    "Version": "10-stream",
+    "SHA256": "134abeaaaec249825d53386555b613b861d81648bd00db1ef444cc389c535d0a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.3-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "16.04.1",

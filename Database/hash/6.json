@@ -512,6 +512,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260526.0-x86_64-boot.iso",
+    "OS": "Centos",
+    "Version": "10-stream",
+    "SHA256": "6e91bd7db73a3c8f557f3316c0a660856dfb7116a5cf8874df40773e7df6c1c6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.3-live-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2024.3",
