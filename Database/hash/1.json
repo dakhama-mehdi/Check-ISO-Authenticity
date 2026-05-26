@@ -439,6 +439,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "AlmaLinux-10.2-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.2",
+    "SHA256": "1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-arm64-aarch64-20250605-6573b7db7143-271611-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "1b7db6cf06fce051d1a4c3be3dd4cc4d81af671eec117dbd1beb0c9f8c31c2be",

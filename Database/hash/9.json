@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-10.2-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.2",
+    "SHA256": "90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.3-live-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.3",

@@ -109,6 +109,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-10.2-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.2",
+    "SHA256": "b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-arm64-aarch64-20250612-e6928c33f60c-277883-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "b406e1846fe288d80bdef0cd4cb4c19069fd77a92ee413595dd41d3c69536624",
