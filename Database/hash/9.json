@@ -103,6 +103,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-22.7-OpenSSL-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "22.7",
+    "SHA256": "9345057e993cd55dfa5280beefd33f1dc2243681defff3c5f11b84fa2c7910f8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-10.5.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "10.5.0",

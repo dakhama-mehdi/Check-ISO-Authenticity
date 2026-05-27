@@ -69,6 +69,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.1.2-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "8259592094d48d06190f0e3d23471a0cc2304e7d076c6ba4437a5c3b2b1ad020",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "825fad20d3bf263f360a2183068db9e7dae57860d265eb3a7048cdc3aea39ca8",
@@ -179,6 +186,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.1-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "856c00a4ddf62f40cdc0871cd9fb6bbd455fb4dcca9337713b95ff42a41c88b2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "x86_64-boot-uek.iso",
     "OS": "Oraclelinux",
     "Version": "8.6",
@@ -282,6 +296,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-25.7-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "889d81fa738d472b996008c35718278e2076d19b7bbc108f2dc04353e01766fd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8-latest-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "8.9",
@@ -313,6 +334,20 @@
     "OS": "Debian",
     "Version": "10.6.0",
     "SHA256": "89eca24c5fe87d0ed30ae72bd6e2531b00f13dbfbe1c3babdd045fff86c1e0c7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "89fcf5bdb1d2ea2ea6ba4cdc1268ea0a1e22b944330d7bee0711c8630cc905af",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.7-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "8a235d2cba717b9b2ea4d5588028c087adc6ff472ae8efd381a26a9640298c67",
     "TrustLevel": "Official"
   },
   {
@@ -355,6 +390,13 @@
     "OS": "OPNsense",
     "SHA256": "8b7e0c24a1c3de96d2b08cb0e98ee5b7d33f80dfc57bfb90b590e94843508d86",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-26.1.2-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "8b81427b049ca291bed982a85c6eb821e9887f70b79c1d8183c24721e037f938",
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-16.04.7-desktop-amd64.iso",

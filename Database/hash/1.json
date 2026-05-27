@@ -33,6 +33,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-24.7-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "11031aecabce97f6d5502f943d347704b5a888ec213d7f9229200877d72f297c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-505-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "5.0.5",
@@ -168,6 +175,13 @@
     "OS": "Kali",
     "Version": "kali-2024.3",
     "SHA256": "13b232790f6e67b1d7dd93fde1f1f6fc57fa7253490e1a34d78b9d63ee52dcad",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "13b9f31651aa165862965566238eaecf66563a3b037fb7f8912a6d0440170bdb",
     "TrustLevel": "Official"
   },
   {
@@ -437,6 +451,13 @@
     "OS": "Kali",
     "Version": "kali-2022.1",
     "SHA256": "1b3042badf87544ab4031bae44a45619d5abd7113fdf7a5e2b6202516e3007ea",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.1.2-OpenSSL-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.1",
+    "SHA256": "1b32287c13cc445a9a7a365b7879d00d3413ea53faf4cb23b3ef77b7916a1b7c",
     "TrustLevel": "Official"
   },
   {

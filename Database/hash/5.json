@@ -41,6 +41,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.1.2-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "519b19cbb433a736d51c1f18d614c4e84ad5a71773d2eb3ea9aa7beb5ee01015",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.2",
@@ -287,6 +294,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.1-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "5731a3f21c5dbe221acf5b4777ed686f705f27e7560ffb05d29a68ea4e7c7e50",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-18.04.1-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "18.04.1",
@@ -298,6 +312,13 @@
     "OS": "Debian",
     "Version": "12.9.0",
     "SHA256": "577ee0ea544cbd9d98017461bdcbfdcb446e50cf6e153deea6b5947128cdc6ad",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "57c05e935790f9b2b800a19374948284889988741cfbaf6fae7600f7a4451022",
     "TrustLevel": "Official"
   },
   {

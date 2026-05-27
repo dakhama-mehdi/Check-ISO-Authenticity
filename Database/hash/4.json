@@ -151,6 +151,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-24.7-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "4452df716417cac324bb06322fc4428870ac2a64fd6ae47675a421e8db0a18b5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-18.1-Core-64-bit.iso",
     "OS": "ZorinOS",
     "Version": "18.1",
@@ -426,6 +433,13 @@
     "OS": "Kali",
     "Version": "kali-2024.2",
     "SHA256": "4aa5a328312640c9c6c03bd9f7656e21895a450ad9781f16335a4db4bf544295",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.7-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "4adbbd69d0ce1766395555475ea29713f9043735a0c9067206d9945cb626200a",
     "TrustLevel": "Official"
   },
   {

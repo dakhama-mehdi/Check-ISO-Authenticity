@@ -228,6 +228,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.1.2-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "24ae4c3f178bcc53475ab0b2ec50a7b06e9541f5080c156e5aa967c12a8d343e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.7-OpenSSL-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.7",
+    "SHA256": "2537f37247d98e27634c34cdf23f30f95d0ed00ac0af01c2d9675580a790f8fb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.10-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "12.10",
@@ -432,9 +446,10 @@
   },
   {
     "Name": "Fedora-Workstation-Live-43-1.6.x86_64.iso",
-    "OS": "Fedora",
+    "OS": "Fedora_Workstation",
+    "Version": "43",
     "SHA256": "2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "x86_64-boot-uek.iso",
@@ -461,6 +476,13 @@
     "OS": "Debian",
     "Version": "10.6.0",
     "SHA256": "2af8f43d4a7ab852151a7f630ba596572213e17d3579400b5648eba4cc974ed0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "2b0ea23de4d09eed952f074e561d55b06b5d323bf9d68a2eae34c3118c304318",
     "TrustLevel": "Official"
   },
   {

@@ -445,6 +445,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-24.1-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.1",
+    "SHA256": "ec08755245017cd449a8d174b6ea7c4e2038c454a8abecfad0d0378729d8b331",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2026.1-installer-purple-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2026.1",

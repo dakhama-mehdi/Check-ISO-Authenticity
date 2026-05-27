@@ -198,6 +198,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-24.7-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "a44711b6c088d6d12434afef9a3ccadc4ef1b56e44babd13e4b199589170c51a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-riscv-riscv64-20250612-47807edf0ac2-259309-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "a45467260e2151797e0c7493d9c2a22d52aa5507010368de8c79f325fa74b263",
@@ -236,6 +243,13 @@
     "OS": "AlmaLinux",
     "Version": "8.7",
     "SHA256": "a4fc8c53878e09f63849f2357228db9e2b547beea6f2b47758da2995bd59356e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "a51e4499df6394042ad804daa8e376c291e8475860343a0a44d93d8c8cf4636e",
     "TrustLevel": "Official"
   },
   {
@@ -423,6 +437,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-24.7-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "a94207c3515389c3fab5c6d72eeda4951526f9f50f06794ad9a4c1478bc8e8d0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-arm64-aarch64-20250612-e6928c33f60c-277883-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "a9c546ecb9677e1d2b95734e41e099f4c773ce29431ebff84b5f577911426e08",
@@ -480,6 +501,13 @@
     "OS": "Oraclelinux",
     "Version": "8.0",
     "SHA256": "aa90f678f7791bef79bfd9ad5b219de40949cdf77e2050131627d2c3270e63c1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "aaca6d4c44371673c555be354317533cf91ced86fc86c026716325c29c451d79",
     "TrustLevel": "Official"
   },
   {

@@ -6,6 +6,7 @@
       "10",
       "10.0",
       "10.1",
+      "10.2",
       "8",
       "8.10",
       "8.4",
@@ -117,7 +118,23 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": []
+    "Versions": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
   },
   {
     "Name": "Linuxmint",
@@ -209,6 +226,21 @@
       "7.0/",
       "7.1/",
       "7.2/"
+    ]
+  },
+  {
+    "Name": "Opnsense",
+    "Url": "https://pkg.opnsense.org/releases/",
+    "Versions": [
+      "22.1",
+      "22.7",
+      "23.1",
+      "23.7",
+      "24.1",
+      "24.7",
+      "25.1",
+      "25.7",
+      "26.1"
     ]
   },
   {

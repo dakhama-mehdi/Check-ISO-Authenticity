@@ -1,5 +1,12 @@
 [
   {
+    "Name": "OPNsense-25.7-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "705e112e3c0566e6e568605173a8353a51d48074d48facf5c5831d2a0f7fb175",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-13.5.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.5.0",
@@ -202,6 +209,13 @@
     "OS": "Archlinux",
     "Version": "2025.01.01",
     "SHA256": "74b109b4b36d20bef8f4203e30b8d223e0ab297a09d1a1213a02894472aa530a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "74ec824288adde409074f6855cb0110b860d0b28c33fbd6a30f12473a5e97d54",
     "TrustLevel": "Official"
   },
   {

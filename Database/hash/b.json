@@ -555,6 +555,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-23.7-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "bf67374d04fb00a29d80f9870ac86491b0a87d5dd386c2bd97def0691547e263",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250612-5dbdbff46b08-271653-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "bfa02fb251b53aeef2a9aaef8e0c6109bbe3ea2298b991c2352cb719f5a104e9",

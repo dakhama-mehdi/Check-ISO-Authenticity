@@ -102,6 +102,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-23.1-OpenSSL-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "f25c10113ef1ea13c031fc6102f8e6caf73a7296b12bcc287670026cab29c7c7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-i386-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "f277813fa6d9a6ff1240a4ff3133493130c745850df7663fe7d1dd4f75f4e8bf",
@@ -225,6 +232,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-25.7-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "f58f57da42a2a6d445b6e04780572d6e2d6d9ceaff8a9e5f7bbefd0fedeaa3c0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.5-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "14.04.3",
@@ -345,6 +359,13 @@
     "OS": "Ubuntu",
     "Version": "15.04",
     "SHA256": "fa3df5f845335eea6fe7f6f6a8c6b0291aa54d0b65a4dc17aa06536a73db3725",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.7-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "fa4b30df3f5fd7a2b1a1b2bdfaecfe02337ee42f77e2d0ae8a60753ea7eb153e",
     "TrustLevel": "Official"
   },
   {
