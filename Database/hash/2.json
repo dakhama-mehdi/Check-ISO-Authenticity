@@ -145,6 +145,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.3-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "22c52e8cac9ab17adeef3e82fb4b59d519af51e6af2ff6c0c7849c04894548b2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OracleLinux-R9-U3-x86_64-boot.iso",
     "OS": "Oraclelinux",
     "Version": "9.3",
@@ -510,6 +517,13 @@
     "OS": "Rocky_Vault",
     "Version": "10.0",
     "SHA256": "2bb073606d8d83cbd3c0e25c5e6cd8e5c60c0e989e6e84f0c415c05e163640d3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "2bc01d2553758c0637d786442c654a47ecba4c6368c91f503e09ab09f46e4dd4",
     "TrustLevel": "Official"
   },
   {

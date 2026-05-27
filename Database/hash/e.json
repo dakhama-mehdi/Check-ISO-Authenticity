@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Zorin-OS-17-Core-Beta-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e0161965695e5f6e838b878756628d0a0c0359632a14576cb90d8e87173e032e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "e01cdba7bb3609f48e7e1b073e46c09cb61b0a964cbd967a537498475937d776",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2021.3-installer-netinst-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2021.3",
@@ -282,10 +296,31 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.1-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e611126598f7b103e097bbab9bb8c33144d6fb54b0936cd468547e9c19397dfe",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-cinnamon-nocodecs-32bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
     "SHA256": "e61ed8f5df9283e86926fb7c414f36f7649ce716517093807a193aaf7d396bb8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.2-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e67af8323b0d6561593de114c9c4c0a73b5da9f998d65cfcb4e9a36d552f9641",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.2-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e68d49172964e4d0aa39ac1d77674d724b0b835658836a56fc1b318680deaed6",
     "TrustLevel": "Official"
   },
   {
@@ -425,6 +460,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-18-Core-Beta-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "eb75aa2c69fadb2a004ffba5faf57ef6ecea55263857f8939a81e7a0be2b6deb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-17.10-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "17.10",
@@ -436,6 +478,13 @@
     "OS": "Fedora",
     "SHA256": "ebf2dfaa31b27106c809015003cfb70773afa794d611555faa4b56d6e53b1aa6",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "Zorin-OS-16-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "ebf8f35a1dfe8bfb4f15463567b6f5df5924491dfc8c69ad893dfa42b834e1da",
+    "TrustLevel": "Official"
   },
   {
     "Name": "debian-edu-13.1.0-amd64-netinst.iso",

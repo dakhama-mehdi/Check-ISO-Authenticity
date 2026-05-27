@@ -103,8 +103,8 @@
   },
   {
     "Name": "Zorin-OS-18.1-Lite-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "18.1",
+    "OS": "Zorin_OS",
+    "Version": "18",
     "SHA256": "b29ff7674cabb3d0698bdd0b39c1dbfc9def15f84d4a396de1ace1454c1e7a6d",
     "TrustLevel": "Official"
   },
@@ -369,6 +369,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Zorin-OS-18-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "b8e4e7de04448c5255420fed5f3bb22fa5a5e397d9ca1144da54a3310b3760b2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.04.6-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.04.6",
@@ -387,6 +394,13 @@
     "OS": "Oraclelinux",
     "Version": "8.4",
     "SHA256": "b92b49553690420053b32dff54c7cce89463eb98c35a1b57706b7408a2ec24bc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.2-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "b95877c5e2093e3d16dde4cc0e4ba2127e4137fc1c56abf85dc6cce9d160a983",
     "TrustLevel": "Official"
   },
   {
@@ -575,6 +589,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-16-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "bfc42bd2328dcce7a90b1a24de2a9e19e243b90af3df76a0767b39ec650ef04c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-22.04.5-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "22.04",
@@ -586,6 +607,13 @@
     "OS": "Debian",
     "Version": "9.2.0",
     "SHA256": "bfe87c28bc842956cb31cd06737e821cdb67efcd043f64384c3688634bf6914a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Education-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "bffc80870e99ad95d23dc6903398adcc39549acfac729b53d975344723499c81",
     "TrustLevel": "Official"
   }
 ]

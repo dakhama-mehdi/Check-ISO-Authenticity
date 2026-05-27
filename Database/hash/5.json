@@ -48,6 +48,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-18-Core-Beta-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "51d3732e06590395de9d5e36e6f7da24a0fa1550c1c72fc709be3d3f186d60b4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.2",
@@ -332,6 +339,20 @@
     "OS": "Debian",
     "Version": "10.0.0",
     "SHA256": "58405101948aff46d5261e0a4d3e8f98ea3dc5366a9ada881ebe921eafd5f737",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "58b99c071958c2039f51ddf2e10e7afb483fed3fcef5d91702bcb5db7b9e2432",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "58cc54a7d0974367bf9b5563c828a39a3d19a25b188c9ce211a6c9467794e762",
     "TrustLevel": "Official"
   },
   {

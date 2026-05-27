@@ -164,6 +164,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.1-Core-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "d478f2bf2f8c7e7e680969ecc391341dc971f2cdddba47712b7da3ae524c5c96",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-dvd.iso",
     "OS": "Rocky",
     "Version": "9",
@@ -203,6 +210,13 @@
     "OS": "Debian",
     "Version": "12.13.0",
     "SHA256": "d4b01475b0116305892707be14c5a402835339f4ada1fd6dbf99ff17425a5194",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.2-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "d501fd16476c0f2230fca90f28b1c5e69187c475186771d4b2400d55628e7234",
     "TrustLevel": "Official"
   },
   {
@@ -363,6 +377,13 @@
     "OS": "LinuxMint",
     "Version": "17.2",
     "SHA256": "da6352e20327b8b8452ff2e3bb17651efef21975dfa6332c6075c7484bdff8ac",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Education-64-bit-r3.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "da9b2f4003c967aec86e859614dfa8e0f826148622dd8e1467656229464827f6",
     "TrustLevel": "Official"
   },
   {
@@ -598,6 +619,13 @@
     "OS": "Ubuntu",
     "Version": "26.04",
     "SHA256": "dec49008a71f6098d0bcfc822021f4d042d5f2db279e4d75bdd981304f1ca5d9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "def3e85f4a0d2769bdd614c63be9d4ac9ca23355b55653e35e68625a214df847",
     "TrustLevel": "Official"
   },
   {

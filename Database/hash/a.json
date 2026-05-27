@@ -232,6 +232,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-15.3-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "a4d9153c3c0c7b15ff00d5ffd7c6d11aed88a6d90c971822dc9f1ef7b450346f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Workstation-Live-x86_64-30-1.2.iso",
     "OS": "Fedora_Workstation",
     "Version": "30",
@@ -319,6 +326,13 @@
     "OS": "Fedora",
     "SHA256": "a6d2fe8ee9af06c9b9701b64ef51befcec4c95dfc594cafdf4f18b7622a8c3c5",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "a6f4ec594708d2926f0d32977859139f77a6ef1ec754031ad4d2123d8d7a4d67",
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-12.04.4-dvd-amd64.iso",
@@ -584,6 +598,13 @@
     "OS": "Ubuntu",
     "Version": "14.04.0",
     "SHA256": "ababb88a492e08759fddcf4f05e5ccc58ec9d47fa37550d63931d0a5fa4f7388",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.2-Education-Lite-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "ac3f1dac47282393849813c1f16336b70e0c8cd80365ab6ebbe5a34f9fd075b7",
     "TrustLevel": "Official"
   },
   {

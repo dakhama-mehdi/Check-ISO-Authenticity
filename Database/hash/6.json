@@ -116,6 +116,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Zorin-OS-16.2-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "62f76b9ab2379a9cdfdf00a55b50beb5c0b67e150a54e555861ec3a02cde8585",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.1-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "16.04.0",
@@ -355,6 +362,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.3-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "67b7e64bc2cf89025a67c51936a9fab9a5f733285c52c652cb771ae81ea060d6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-12.8.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "12.8.0",
@@ -414,6 +428,20 @@
     "OS": "LinuxMint",
     "Version": "17.3",
     "SHA256": "694bf952d68eb5a69560a756e578d85531be1498b08dd30aee6919c9139a7434",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "69b1b5b990fa87a9a87a513579b201a3fec34990e9b534186dd4f71e3f8406ef",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16-Core-64-bit-r4.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "69e1be7e078c401e7991fff2e8a5f854ed04ebaba7a1b98a74d552644aa9f523",
     "TrustLevel": "Official"
   },
   {
@@ -513,9 +541,9 @@
     "TrustLevel": "PublicIndex"
   },
   {
-    "Name": "Zorin-OS-17.3-r2-Lite-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "17.3-r2",
+    "Name": "Zorin-OS-17.3-Lite-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
     "SHA256": "6d3ed727c5295ca29eda578177ce918267ea775b70a80d5812fd97f614a76cb8",
     "TrustLevel": "Official"
   },

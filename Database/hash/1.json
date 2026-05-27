@@ -96,6 +96,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.1-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "1227f39356af112eb4ac4f4edecb83729345b90774e0584a3e60c30f64c2543d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Lite-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "12323d2550974751346b000775e3fb6dc0b2001a1998576d4479f6458a6276af",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-9.4.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.4.0",
@@ -284,6 +298,13 @@
     "OS": "Fedora_Server",
     "Version": "43",
     "SHA256": "16fd70ddae2c7de13e485637c3da1fb385dd8220389f988279ea3b3d561243cc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "171d488a613559a6d4152f73212b0a37f764bbb7b962dfe8d96e96d57f42ac5d",
     "TrustLevel": "Official"
   },
   {

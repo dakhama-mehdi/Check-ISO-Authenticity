@@ -69,10 +69,38 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-16-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "01467263735f5b0aa16b8991c2e0882b32f20f68e941c8d10f3eb2b4b5ff5f1e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8-latest-x86_64-boot.iso",
     "OS": "AlmaLinux",
     "Version": "8.8",
     "SHA256": "016e59963c2c3bd4c99c18ac957573968e23da51131104568fbf389b11df3e05",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "0191e343586d40e1fdaa90dddae0b8c2105223babb63640c05daf29881a4ccfd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Education-Lite-32-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "0192fccb564238113070ffb0e095559ad0c29b67951d070ed5fd6bd8412ef92b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "01b5a263a7c55c57db296ca43dad378eed3f541e77b3adb660b614bf3e372fee",
     "TrustLevel": "Official"
   },
   {
@@ -299,6 +327,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-18-Core-64-bit-r3.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "09959ce793b8a065b70207e46cd646b1de805fc7e0bad925ce28df6e04b7f807",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.4-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "16.04.1",
@@ -445,6 +480,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-18-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "0eb9c12166721e77c7a131e433ae8833fc2aa916104be615850795826f4cfc33",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "16.04.6",
@@ -470,6 +512,13 @@
     "OS": "openSUSE",
     "Version": "/15.2",
     "SHA256": "0fd2d4e630b6579b933b5cb4930a8100acca6b4e29cd2738c4b7a9b2f76d80e4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Lite-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "0fe6470e9f8fff9b9d01cd1330076815da61c2021850b6ef4fb6edc8c1b04aca",
     "TrustLevel": "Official"
   }
 ]

@@ -74,6 +74,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "Zorin-OS-16.2-Lite-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "4235eca2ffe692371d467753acd6e00c4d4c5feb90fd137d187d935da5237d91",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.1-live-i386.iso",
     "OS": "Kali",
     "Version": "kali-2023.1",
@@ -426,6 +433,13 @@
     "OS": "AlmaLinux",
     "Version": "9.3",
     "SHA256": "4a8c4ed4b79edd0977d7f88be7c07e12c4b748671a7786eb636c6700e58068d5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "4aa1f30b88dc067ad2a601e42658ddd2b6da22e9d62d079056c2d3f4701714ce",
     "TrustLevel": "Official"
   },
   {

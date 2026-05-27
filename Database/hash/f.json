@@ -96,8 +96,8 @@
   },
   {
     "Name": "Zorin-OS-18.1-Education-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "18.1",
+    "OS": "Zorin_OS",
+    "Version": "18",
     "SHA256": "f24b83bc1bf4f90618fb56e817fe3c1e67328e68720a8350131080db38bf9437",
     "TrustLevel": "Official"
   },
@@ -160,6 +160,13 @@
     "OS": "Debian",
     "Version": "11.8.0",
     "SHA256": "f3563b504e72481051847890896acc625a8bfadf797a20b83378494fd5b94819",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "f37e7f16eab82bbc7549ab139c287489d505cdff2ff2dac8554417845912758c",
     "TrustLevel": "Official"
   },
   {
@@ -567,6 +574,13 @@
     "OS": "Rocky_Vault",
     "Version": "8.6",
     "SHA256": "fe77cc293a2f2fe6ddbf5d4bc2b5c820024869bc7ea274c9e55416d215db0cc5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "fe7b77b537f189b57e82a3681c5e282d897b4bc91634c090552b95cb9dc225f6",
     "TrustLevel": "Official"
   },
   {

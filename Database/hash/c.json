@@ -70,9 +70,9 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Zorin-OS-17.3-r2-Core-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "17.3-r2",
+    "Name": "Zorin-OS-17.3-Core-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
     "SHA256": "c1510d1e16ec50c884faeb4e32326ba8d2e38d2cf22698b649168011d00220f6",
     "TrustLevel": "Official"
   },
@@ -366,6 +366,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-16.1-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "c7ec8c78fc3a4116ce2695e5d07d88382440d7bb1f395e67ce1eaba358fdae41",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.1-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "14.04.3",
@@ -563,6 +570,13 @@
     "OS": "FreeBSD",
     "SHA256": "cbcea8d13bb2e4c5519ae51646ebc78190d5a296bcc985f9901452ce58fab5c1",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "cbd88b3e68510da82a4ea994fb0a591da53f33eea19803385ebda665f9c230cd",
+    "TrustLevel": "Official"
   },
   {
     "Name": "AlmaLinux-8-latest-x86_64-boot.iso",

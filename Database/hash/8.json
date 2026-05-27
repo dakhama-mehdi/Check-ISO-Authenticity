@@ -247,6 +247,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-17.1-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "866249c1fe44e72f5b290f718aa6870f452e0d469883b240ccfbd8450888194b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-15.10-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "15.10",
@@ -492,6 +499,13 @@
     "OS": "Ubuntu",
     "Version": "12.04.0",
     "SHA256": "8e5edafb4b59817a9da51545c99c4c780c7cceb511e32d4c5ac519332224081f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "8ea874c562483f9f8e3b3dd32c54edc4b53a7827fbde30fd9ceee6a422503a36",
     "TrustLevel": "Official"
   },
   {

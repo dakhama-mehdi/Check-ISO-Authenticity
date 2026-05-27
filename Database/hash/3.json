@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-15.3-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "307d0244433e6d2a64ba790f2164b791886f52643346c2c0f85daaaddc0f7891",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19.3-xfce-64bit.iso",
     "OS": "LinuxMint",
     "Version": "19.3",
@@ -206,9 +213,9 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Zorin-OS-17.3-r2-Education-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "17.3-r2",
+    "Name": "Zorin-OS-17.3-Education-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
     "SHA256": "34ead2b43b9b18c61549a70e370be9788bbba688b936a1af454db59899953ef3",
     "TrustLevel": "Official"
   },

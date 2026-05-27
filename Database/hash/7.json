@@ -219,6 +219,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Zorin-OS-18-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "74ff02113608b0430576b5f08d181d9bf828b1be1760df760a18ce8e30e58300",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.6-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "16.04",
@@ -237,6 +244,13 @@
     "OS": "Ubuntu",
     "Version": "14.04.1",
     "SHA256": "756a42474bc437f614caa09dbbc0808038d1a586d172894c113bb1c22b75d580",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "75750cc5aa20af5412b29f3545f263ee0c067caa0bc888722fd5b02410cf3ef0",
     "TrustLevel": "Official"
   },
   {
