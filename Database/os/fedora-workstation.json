@@ -21,6 +21,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-Workstation-Live-43-1.6.x86_64.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "43",
+    "SHA256": "2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Workstation-Live-x86_64-32-1.6.iso",
     "OS": "Fedora_Workstation",
     "Version": "32",

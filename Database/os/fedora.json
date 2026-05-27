@@ -18,12 +18,6 @@
     "TrustLevel": "PublicIndex"
   },
   {
-    "Name": "Fedora-Workstation-Live-43-1.6.x86_64.iso",
-    "OS": "Fedora",
-    "SHA256": "2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77",
-    "TrustLevel": "PublicIndex"
-  },
-  {
     "Name": "Fedora-Xfce-Live-x86_64-33-1.2.iso",
     "OS": "Fedora",
     "SHA256": "2d397bedaa15b1cc197eb33e82ac27773ae4b0a74e1fb7294ce5290b732b0bc8",

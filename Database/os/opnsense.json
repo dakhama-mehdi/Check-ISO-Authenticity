@@ -1,9 +1,65 @@
 [
   {
+    "Name": "OPNsense-23.7-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "03c774f53520414c73cdcaa4fe3b34c4165395963bef74c533c3878a07b80138",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.7-OpenSSL-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.7",
+    "SHA256": "061ea4ca261bcd8397ae1a4acf2fb32f0fbbb6ac00d617e1f4151318f66cc77d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-23.1-OpenSSL-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "06d4d1ea3e46082e3f5316bb1aee4f10be90529ad996d3bcdcf99e7f5d721dc5",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-24.7-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "11031aecabce97f6d5502f943d347704b5a888ec213d7f9229200877d72f297c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "13b9f31651aa165862965566238eaecf66563a3b037fb7f8912a6d0440170bdb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.1.2-OpenSSL-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.1",
+    "SHA256": "1b32287c13cc445a9a7a365b7879d00d3413ea53faf4cb23b3ef77b7916a1b7c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1.2-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "24ae4c3f178bcc53475ab0b2ec50a7b06e9541f5080c156e5aa967c12a8d343e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.7-OpenSSL-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.7",
+    "SHA256": "2537f37247d98e27634c34cdf23f30f95d0ed00ac0af01c2d9675580a790f8fb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "2b0ea23de4d09eed952f074e561d55b06b5d323bf9d68a2eae34c3118c304318",
+    "TrustLevel": "Official"
   },
   {
     "Name": "OPNsense-24.1-dvd-amd64.iso",
@@ -12,10 +68,45 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "OPNsense-26.1-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "3901b83750dd19ca26632b61bf5fe7ac86b8cfa0bfb3e633928c37416a14e5f9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1.6-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "3c16267c791abfc3e41d5249fcb0c245c03cb91e2f1aa4d53017f0f3454d03a1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-24.7-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "4452df716417cac324bb06322fc4428870ac2a64fd6ae47675a421e8db0a18b5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.7-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "4adbbd69d0ce1766395555475ea29713f9043735a0c9067206d9945cb626200a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-22.1-OpenSSL-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "51084ca831421e34ffa627f0cdebf6d69d5dd1e9d35e9499d2d200c21f2a23bd",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-26.1.2-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "519b19cbb433a736d51c1f18d614c4e84ad5a71773d2eb3ea9aa7beb5ee01015",
+    "TrustLevel": "Official"
   },
   {
     "Name": "OPNsense-26.1.2-dvd-amd64.iso",
@@ -24,10 +115,108 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "OPNsense-26.1-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "5731a3f21c5dbe221acf5b4777ed686f705f27e7560ffb05d29a68ea4e7c7e50",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "57c05e935790f9b2b800a19374948284889988741cfbaf6fae7600f7a4451022",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-20.7-OpenSSL-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "5b6b7779d1353dab5d8920d0c9f3f90f93b6f225af7472baaa0e501b6d2109be",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-26.1.6-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "60e698b7f935b647b72a424c78acaa1772a050bb4bd593ca001ea9a1634d5643",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "68efe0e5c20bd5fbe42918f000685ec10a1756126e37ca28f187b2ad7e5889ca",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1.6-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "6ba3633d9c0f96d82c792015a45f4b8aac45ea8fa2bdba3c5e534d0c90a4f08c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-24.1-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.1",
+    "SHA256": "6bc86a13bda81702382383b1e9b31550177bafe88fa599e0c2ed8064040461b1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-24.1-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "24.1",
+    "SHA256": "6d1e22713bf031d0a36a73b3820cd1564f426cae9c67a6ade4b7fa6518afa2d5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.7-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "705e112e3c0566e6e568605173a8353a51d48074d48facf5c5831d2a0f7fb175",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "74ec824288adde409074f6855cb0110b860d0b28c33fbd6a30f12473a5e97d54",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1.2-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "8259592094d48d06190f0e3d23471a0cc2304e7d076c6ba4437a5c3b2b1ad020",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "856c00a4ddf62f40cdc0871cd9fb6bbd455fb4dcca9337713b95ff42a41c88b2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.7-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "889d81fa738d472b996008c35718278e2076d19b7bbc108f2dc04353e01766fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "89fcf5bdb1d2ea2ea6ba4cdc1268ea0a1e22b944330d7bee0711c8630cc905af",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.7-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "8a235d2cba717b9b2ea4d5588028c087adc6ff472ae8efd381a26a9640298c67",
+    "TrustLevel": "Official"
   },
   {
     "Name": "OPNsense-23.7-dvd-amd64.iso",
@@ -36,10 +225,73 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "OPNsense-26.1.2-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "8b81427b049ca291bed982a85c6eb821e9887f70b79c1d8183c24721e037f938",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.7-OpenSSL-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "22.7",
+    "SHA256": "9345057e993cd55dfa5280beefd33f1dc2243681defff3c5f11b84fa2c7910f8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-24.7-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "a44711b6c088d6d12434afef9a3ccadc4ef1b56e44babd13e4b199589170c51a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.1-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.1",
+    "SHA256": "a51e4499df6394042ad804daa8e376c291e8475860343a0a44d93d8c8cf4636e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-24.7-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.7",
+    "SHA256": "a94207c3515389c3fab5c6d72eeda4951526f9f50f06794ad9a4c1478bc8e8d0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "aaca6d4c44371673c555be354317533cf91ced86fc86c026716325c29c451d79",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-21.7.1-OpenSSL-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "ae012392cdc6bfdfacf993b00bdc12b4d7effd2296e513016439c5abf3727276",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-23.7-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "23.7",
+    "SHA256": "bf67374d04fb00a29d80f9870ac86491b0a87d5dd386c2bd97def0691547e263",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-24.1-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.1",
+    "SHA256": "c4c53e5dd80660cc67b349fa588b3ca11efd9f45d09f6cb391d8e19b48dd7fcc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.1.2-OpenSSL-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.1",
+    "SHA256": "c6bbc0755d9458cc6484a98f074b62beaa30c5f02bd728ee1b0e896d2613b4b4",
+    "TrustLevel": "Official"
   },
   {
     "Name": "OPNsense-22.1.2-OpenSSL-dvd-amd64.iso",
@@ -48,10 +300,38 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "OPNsense-22.7-OpenSSL-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.7",
+    "SHA256": "cf1603e20d4268d917b40344ddadd2f147c3e167dbe1f6cd254a2afcb586fb4d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.1.6-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.1",
+    "SHA256": "cf8deca3033b66138930d417c879cb93b7930d1ca8dabd7e1aea914f9a551f4a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-22.1.2-OpenSSL-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "22.1",
+    "SHA256": "d066d5620e28c22ff1d8de18532b61f8c7317b3258d5bdafb6a7a8dbb1eea002",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-24.7-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "d844c17194e3797c33384bea580d2a842c217a9186e75c686660846ed1207619",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-22.1.2-OpenSSL-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "22.1",
+    "SHA256": "dea720e15e67063d839bbf48017d32eb27071d58afee36bec40029319f5cc47e",
+    "TrustLevel": "Official"
   },
   {
     "Name": "OPNsense-21.1-OpenSSL-dvd-amd64.iso",
@@ -70,5 +350,33 @@
     "OS": "OPNsense",
     "SHA256": "e551195a59422d926c090be741bc25b8dbeea5491791bcdffff0de6da07a4941",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "OPNsense-24.1-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "24.1",
+    "SHA256": "ec08755245017cd449a8d174b6ea7c4e2038c454a8abecfad0d0378729d8b331",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-23.1-OpenSSL-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "23.1",
+    "SHA256": "f25c10113ef1ea13c031fc6102f8e6caf73a7296b12bcc287670026cab29c7c7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.7-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "f58f57da42a2a6d445b6e04780572d6e2d6d9ceaff8a9e5f7bbefd0fedeaa3c0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-25.7-dvd-amd64.iso.bz2",
+    "OS": "Opnsense",
+    "Version": "25.7",
+    "SHA256": "fa4b30df3f5fd7a2b1a1b2bdfaecfe02337ee42f77e2d0ae8a60753ea7eb153e",
+    "TrustLevel": "Official"
   }
 ]
