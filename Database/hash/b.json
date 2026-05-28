@@ -562,6 +562,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Rocky-10-latest-x86_64-boot.iso",
+    "OS": "Rocky",
+    "Version": "10.2",
+    "SHA256": "bf3a75907948563d0c11f3d1b8546ee9216e18a3ea2dc0a67eb4c45452e210f9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.4-alternate-i386.iso",
     "OS": "Ubuntu",
     "Version": "12.04",

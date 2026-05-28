@@ -575,6 +575,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-21.0.0-Leap_16.1-Build30.3.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "2d2a0dbbe8353467cf153df82c0387bfdfb9637d9898e745b760d04e7ded3ea3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Xfce-Live-x86_64-33-1.2.iso",
     "OS": "Fedora",
     "SHA256": "2d397bedaa15b1cc197eb33e82ac27773ae4b0a74e1fb7294ce5290b732b0bc8",
