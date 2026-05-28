@@ -1,5 +1,12 @@
 [
   {
+    "Name": "Rocky-10-latest-x86_64-dvd.iso",
+    "OS": "Rocky",
+    "Version": "10.2",
+    "SHA256": "16ca9c96cdb221ba6e1f68579f21bd69fd8da81c6a921d9068949796f91c8feb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-10.1-x86_64-boot.iso",
     "OS": "Rocky",
     "Version": "10",
@@ -53,6 +60,20 @@
     "OS": "Rocky",
     "Version": "8.10",
     "SHA256": "642ada8a49dbeca8cca6543b31196019ee3d649a0163b5db0e646c7409364eeb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Rocky-10-latest-x86_64-minimal.iso",
+    "OS": "Rocky",
+    "Version": "10.2",
+    "SHA256": "aac6ac3ce781b91a91ce78463405f66c611a5dca4b3840c79e5e01d97302f6c8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Rocky-10-latest-x86_64-boot.iso",
+    "OS": "Rocky",
+    "Version": "10.2",
+    "SHA256": "bf3a75907948563d0c11f3d1b8546ee9216e18a3ea2dc0a67eb4c45452e210f9",
     "TrustLevel": "Official"
   },
   {
