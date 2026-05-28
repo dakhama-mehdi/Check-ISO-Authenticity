@@ -343,6 +343,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso",
+    "OS": "Fedora_KDE",
+    "Version": "43",
+    "SHA256": "181fe3e265fb5850c929f5afb7bdca91bb433b570ef39ece4a7076187435fdab",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-10.7.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "10.7.0",
