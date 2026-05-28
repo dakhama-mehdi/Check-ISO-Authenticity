@@ -7,13 +7,6 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Zorin-OS-17.3-r2-Education-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "17.3-r2",
-    "SHA256": "34ead2b43b9b18c61549a70e370be9788bbba688b936a1af454db59899953ef3",
-    "TrustLevel": "Official"
-  },
-  {
     "Name": "Zorin-OS-18.1-Pro-64-bit.iso",
     "OS": "ZorinOS",
     "Version": "18.1",
@@ -42,20 +35,6 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Zorin-OS-17.3-r2-Lite-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "17.3-r2",
-    "SHA256": "6d3ed727c5295ca29eda578177ce918267ea775b70a80d5812fd97f614a76cb8",
-    "TrustLevel": "Official"
-  },
-  {
-    "Name": "Zorin-OS-18.1-Lite-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "18.1",
-    "SHA256": "b29ff7674cabb3d0698bdd0b39c1dbfc9def15f84d4a396de1ace1454c1e7a6d",
-    "TrustLevel": "Official"
-  },
-  {
     "Name": "Zorin-OS-18.1-Core PA-64-bit.iso",
     "OS": "ZorinOS",
     "Version": "18.1",
@@ -63,24 +42,10 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Zorin-OS-17.3-r2-Core-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "17.3-r2",
-    "SHA256": "c1510d1e16ec50c884faeb4e32326ba8d2e38d2cf22698b649168011d00220f6",
-    "TrustLevel": "Official"
-  },
-  {
     "Name": "Zorin-OS-17.3-Pro-64-bit.iso",
     "OS": "ZorinOS",
     "Version": "17.3",
     "SHA256": "de7b8ffe409fca8d3f473b853709f522d42fc45e68d1fd933453bbd72db86396",
-    "TrustLevel": "Official"
-  },
-  {
-    "Name": "Zorin-OS-18.1-Education-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "18.1",
-    "SHA256": "f24b83bc1bf4f90618fb56e817fe3c1e67328e68720a8350131080db38bf9437",
     "TrustLevel": "Official"
   }
 ]
