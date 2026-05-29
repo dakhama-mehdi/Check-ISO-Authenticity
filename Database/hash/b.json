@@ -534,6 +534,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-25.11.11422.25f538306313-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "25.11.11422.25f538306313",
+    "SHA256": "bd36cf92e8cafb7d9462c0d24f26ea11674ea2372773a16792d6e3193be3e67e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.4-installer-netinst-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2025.4",
