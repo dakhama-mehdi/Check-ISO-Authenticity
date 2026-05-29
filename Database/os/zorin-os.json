@@ -1,0 +1,401 @@
+[
+  {
+    "Name": "Zorin-OS-16-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "01467263735f5b0aa16b8991c2e0882b32f20f68e941c8d10f3eb2b4b5ff5f1e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "0191e343586d40e1fdaa90dddae0b8c2105223babb63640c05daf29881a4ccfd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Education-Lite-32-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "0192fccb564238113070ffb0e095559ad0c29b67951d070ed5fd6bd8412ef92b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "01b5a263a7c55c57db296ca43dad378eed3f541e77b3adb660b614bf3e372fee",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Core-64-bit-r3.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "09959ce793b8a065b70207e46cd646b1de805fc7e0bad925ce28df6e04b7f807",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "0eb9c12166721e77c7a131e433ae8833fc2aa916104be615850795826f4cfc33",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Lite-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "0fe6470e9f8fff9b9d01cd1330076815da61c2021850b6ef4fb6edc8c1b04aca",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "1227f39356af112eb4ac4f4edecb83729345b90774e0584a3e60c30f64c2543d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Lite-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "12323d2550974751346b000775e3fb6dc0b2001a1998576d4479f6458a6276af",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "171d488a613559a6d4152f73212b0a37f764bbb7b962dfe8d96e96d57f42ac5d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "22c52e8cac9ab17adeef3e82fb4b59d519af51e6af2ff6c0c7849c04894548b2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "2bc01d2553758c0637d786442c654a47ecba4c6368c91f503e09ab09f46e4dd4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "307d0244433e6d2a64ba790f2164b791886f52643346c2c0f85daaaddc0f7891",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Education-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "34ead2b43b9b18c61549a70e370be9788bbba688b936a1af454db59899953ef3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.2-Lite-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "4235eca2ffe692371d467753acd6e00c4d4c5feb90fd137d187d935da5237d91",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "4aa1f30b88dc067ad2a601e42658ddd2b6da22e9d62d079056c2d3f4701714ce",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Core-Beta-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "51d3732e06590395de9d5e36e6f7da24a0fa1550c1c72fc709be3d3f186d60b4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "58b99c071958c2039f51ddf2e10e7afb483fed3fcef5d91702bcb5db7b9e2432",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "58cc54a7d0974367bf9b5563c828a39a3d19a25b188c9ce211a6c9467794e762",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.2-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "62f76b9ab2379a9cdfdf00a55b50beb5c0b67e150a54e555861ec3a02cde8585",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "67b7e64bc2cf89025a67c51936a9fab9a5f733285c52c652cb771ae81ea060d6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "69b1b5b990fa87a9a87a513579b201a3fec34990e9b534186dd4f71e3f8406ef",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16-Core-64-bit-r4.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "69e1be7e078c401e7991fff2e8a5f854ed04ebaba7a1b98a74d552644aa9f523",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Lite-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "6d3ed727c5295ca29eda578177ce918267ea775b70a80d5812fd97f614a76cb8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "74ff02113608b0430576b5f08d181d9bf828b1be1760df760a18ce8e30e58300",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "75750cc5aa20af5412b29f3545f263ee0c067caa0bc888722fd5b02410cf3ef0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "866249c1fe44e72f5b290f718aa6870f452e0d469883b240ccfbd8450888194b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "8ea874c562483f9f8e3b3dd32c54edc4b53a7827fbde30fd9ceee6a422503a36",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Education-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "90c1fb5e88007023b6e1ff602a2099915f7c3749367eb8b9a31df16950dde45c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Core-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "934df8549b44f8d72db8348fddd1b08f99cdd46cfee8660206fa9ec814ace69d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Lite-32-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "95e4159ebb5b532932ade79cd0c439235e726dc30c8a00036820b7a96ee2f865",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "98666287ca5afae215def4804aca479bf3b439e028bc8f4e4d8ecddb6dd27339",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "a4d9153c3c0c7b15ff00d5ffd7c6d11aed88a6d90c971822dc9f1ef7b450346f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "a6f4ec594708d2926f0d32977859139f77a6ef1ec754031ad4d2123d8d7a4d67",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.2-Education-Lite-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "ac3f1dac47282393849813c1f16336b70e0c8cd80365ab6ebbe5a34f9fd075b7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18.1-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "b29ff7674cabb3d0698bdd0b39c1dbfc9def15f84d4a396de1ace1454c1e7a6d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Core-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "b8e4e7de04448c5255420fed5f3bb22fa5a5e397d9ca1144da54a3310b3760b2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.2-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "b95877c5e2093e3d16dde4cc0e4ba2127e4137fc1c56abf85dc6cce9d160a983",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "bfc42bd2328dcce7a90b1a24de2a9e19e243b90af3df76a0767b39ec650ef04c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Education-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "bffc80870e99ad95d23dc6903398adcc39549acfac729b53d975344723499c81",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.3-Core-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "c1510d1e16ec50c884faeb4e32326ba8d2e38d2cf22698b649168011d00220f6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "c7ec8c78fc3a4116ce2695e5d07d88382440d7bb1f395e67ce1eaba358fdae41",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "cbd88b3e68510da82a4ea994fb0a591da53f33eea19803385ebda665f9c230cd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Core-64-bit-r2.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "d478f2bf2f8c7e7e680969ecc391341dc971f2cdddba47712b7da3ae524c5c96",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.2-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "d501fd16476c0f2230fca90f28b1c5e69187c475186771d4b2400d55628e7234",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Education-64-bit-r3.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "da9b2f4003c967aec86e859614dfa8e0f826148622dd8e1467656229464827f6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-15.3-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "15",
+    "SHA256": "def3e85f4a0d2769bdd614c63be9d4ac9ca23355b55653e35e68625a214df847",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17-Core-Beta-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e0161965695e5f6e838b878756628d0a0c0359632a14576cb90d8e87173e032e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.3-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "e01cdba7bb3609f48e7e1b073e46c09cb61b0a964cbd967a537498475937d776",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e611126598f7b103e097bbab9bb8c33144d6fb54b0936cd468547e9c19397dfe",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.2-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e67af8323b0d6561593de114c9c4c0a73b5da9f998d65cfcb4e9a36d552f9641",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.2-Core-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "e68d49172964e4d0aa39ac1d77674d724b0b835658836a56fc1b318680deaed6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18-Core-Beta-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "eb75aa2c69fadb2a004ffba5faf57ef6ecea55263857f8939a81e7a0be2b6deb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "ebf8f35a1dfe8bfb4f15463567b6f5df5924491dfc8c69ad893dfa42b834e1da",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-18.1-Education-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "18",
+    "SHA256": "f24b83bc1bf4f90618fb56e817fe3c1e67328e68720a8350131080db38bf9437",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-16.1-Education-Lite-64-bit.iso",
+    "OS": "Zorin_OS",
+    "Version": "16",
+    "SHA256": "f37e7f16eab82bbc7549ab139c287489d505cdff2ff2dac8554417845912758c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Zorin-OS-17.1-Education-64-bit-r1.iso",
+    "OS": "Zorin_OS",
+    "Version": "17",
+    "SHA256": "fe7b77b537f189b57e82a3681c5e282d897b4bc91634c090552b95cb9dc225f6",
+    "TrustLevel": "Official"
+  }
+]

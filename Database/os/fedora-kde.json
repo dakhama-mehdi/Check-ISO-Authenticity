@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso",
+    "OS": "Fedora_KDE",
+    "Version": "43",
+    "SHA256": "181fe3e265fb5850c929f5afb7bdca91bb433b570ef39ece4a7076187435fdab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-KDE-Desktop-Live-44-1.7.x86_64.iso",
+    "OS": "Fedora_KDE",
+    "Version": "44",
+    "SHA256": "c8295961d4c41adbf785a31a17c21a971d3b7415fda72dcad0c11c49577bf03a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-KDE-Desktop-Live-42-1.1.x86_64.iso",
+    "OS": "Fedora_KDE",
+    "Version": "42",
+    "SHA256": "cf4beecc21ffae86d0e368797cbcc02ba7f4c6549c626db01b1d3f4e1444da85",
+    "TrustLevel": "Official"
+  }
+]
