@@ -67,6 +67,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.2-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.2",
+    "SHA256": "f18412a1936d6f7df1e8e8857c98aeb53f752d43c732affee9c7a5615d4331b5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-504-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "5.0.4",
@@ -156,10 +163,24 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "f348b45ef42b1dc74c4381e933b1dc911a21156eb83375319584d61ded88adaa",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-11.8.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.8.0",
     "SHA256": "f3563b504e72481051847890896acc625a8bfadf797a20b83378494fd5b94819",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.0-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.0",
+    "SHA256": "f373dbdb9ce80c4f1b4a50d565356a1172d42ad00cf2c4cbe3131d0b566db5b4",
     "TrustLevel": "Official"
   },
   {
@@ -273,6 +294,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-13.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.0",
+    "SHA256": "f78d4e5f53605592863852b39fa31a12f15893dc48cacecd875f2da72fa67ae5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.10-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "14.10",
@@ -302,9 +330,10 @@
   },
   {
     "Name": "FreeBSD-12.4-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "12.4",
     "SHA256": "f889113f4cb0dc50b443b3e5753861cfda1b6c08beb0c9bfc6b212572f19dc9f",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-21.10-desktop-amd64.iso",
@@ -535,6 +564,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "fdc5aa3f5c32b96ff965d4b3f7ab12264805092ccfd76aefe2f6b0592c934107",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8.5-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "8.5",
@@ -591,10 +627,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "fef068cf6dea26923ab84b62ba9f21461ca0bdec90a0741c8ffb0e1ca29e410d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250605-cda1b2b634ce-259305-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "ff210900706534b963c3793476b59cb03d68818ae268bf13c8dc58f2d9a7ac78",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.1",
+    "SHA256": "ff4c749ea0aaaceedb2432ba3e0fd0c1b64f5a72141b1ec06b9ced52b5de0dbf",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.0-CURRENT-amd64-20250612-e6928c33f60c-277883-bootonly.iso",

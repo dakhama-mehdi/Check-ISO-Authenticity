@@ -104,6 +104,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "c19a48715b2bd42ac65af0db0509c3720d765e6badcebaa96c978897f6496409",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2026.1-live-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2026.1",
@@ -312,6 +319,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "c69e289b3579f1be9f3728e1a6b3e447619d421d0b0f4a596314ee82551def1c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-22.1.2-OpenSSL-vga-amd64.img.bz2",
     "OS": "Opnsense",
     "Version": "22.1",
@@ -359,6 +373,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "c7e410ecb5f6c95183d789e818b0733d7fb21236ed97599203d7c6505eff69cd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "9.4",
@@ -370,6 +391,13 @@
     "OS": "Zorin_OS",
     "Version": "16",
     "SHA256": "c7ec8c78fc3a4116ce2695e5d07d88382440d7bb1f395e67ce1eaba358fdae41",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.0-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "13.0",
+    "SHA256": "c81a911f9d5fc7404877dd679771d776e1447cc38b31e1c07042d2620e49d4ac",
     "TrustLevel": "Official"
   },
   {
@@ -546,6 +574,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-11.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.4",
+    "SHA256": "cafc5a8d95a639d426d72f897690d8f54ba723fba299e44d39f424674092ee51",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "cb0c1a7069d9bb9a01efd066edc17279ecd081a29dc9421f8f575bc520053da3",
@@ -674,6 +709,13 @@
     "OS": "Kali",
     "Version": "kali-2024.2",
     "SHA256": "cd6f784b4e999daa50ab53950669920e0d6b7902be0945314ac234a0f5ee3344",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.2-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.2",
+    "SHA256": "ce15a111cd2b4c7972c35cfafd4b373c0b725fd70ce64397d2e33b6124b3d092",
     "TrustLevel": "Official"
   },
   {

@@ -1,5 +1,26 @@
 [
   {
+    "Name": "FreeBSD-12.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.1",
+    "SHA256": "00d65d47deceabec56440dea3f5c5dfe2dc915da4dda0a56911c8c2d20231b2d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "018a36681307ec3e3fe63d7c76ffc4cc53a111c36d9053e43c44856b11547d2a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "13.1",
+    "SHA256": "02e77c57bd0a306e3fc92296b3640433a3bd7e4ba39d82db94dfd885f5bb1f78",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-i386-20250605-6573b7db7143-271611-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "047df38becd18a0fbf4ba3ddb50f1a4effb4e33a8efa88d36a50db3bf4c1b0ff",
@@ -18,16 +39,51 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-11.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.0",
+    "SHA256": "08b12f2dc378f7a61b5469219824c74a2f9faef580acc85ffab45365df79872d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250605-6573b7db7143-271611-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "0908363c0d2a052ad5c2ec7809f82ea42fe36b8a9286b3c47da662cf525f8520",
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "0a78639efd981b89df87133886760630ac819249e068aaaf82723d721db4d955",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "13.4",
+    "SHA256": "0ada110707d7c1dfa7afde0c174b03926e44c7d4b547d7b5ef89ff37c2dfb57e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.0-RELEASE-amd64-dvd1.iso",
     "OS": "FreeBSD",
     "SHA256": "0afdbf68df6c7f47b58cb5624afa6f2382d3ba0f4eb0feb84391342cfa7c94bd",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "0c3d64ce48c3ef761761d0fea07e1935e296f8c045c249118bc91a7faf053a6b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.2-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.2",
+    "SHA256": "107e4c6e42607ca55b6479a34aeba19e05d0fc1a82a36ad8e633f33169bb4fdb",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpcspe-20250605-6573b7db7143-271611-disc1.iso",
@@ -61,6 +117,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "195a270b4fd2db4f9e3a1451384f2d3bfa699696d110873b62bcf7540524da0d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-arm64-aarch64-20250605-6573b7db7143-271611-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "1b7db6cf06fce051d1a4c3be3dd4cc4d81af671eec117dbd1beb0c9f8c31c2be",
@@ -92,6 +155,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-13.4-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.4",
+    "SHA256": "26cb85a60fdede0e6f4a55e9ff100cc2eb70af24ab1f8a3b2ef5cc1dea152608",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.1-BETA2-amd64-disc1.iso",
     "OS": "FreeBsd",
     "Version": "15.1",
@@ -99,10 +169,31 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.2-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.2",
+    "SHA256": "289522e2f4e1260859505adab6d7b54ab83d19aeb147388ff7e28019984da5dc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-amd64-20250612-e6928c33f60c-277883-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "2b6c726ff5d6bc7c02e117feb890c4878ca495e6b4816a2945e65bba54aa4f76",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-12.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.1",
+    "SHA256": "2c2ff1dba6b0e169d7e1a7181473a5869c71ce4cd3e76e512ef12bff43d72b4e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-9.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "9.3",
+    "SHA256": "30c0baa7d51a4b3130108c862bbc9439f60a3a6362b13183c1ae0be959ae9a95",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-20250612-e6928c33f60c-277883-disc1.iso",
@@ -148,16 +239,31 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "3f33fc506b18d752564c3ba92419592a489fceef43f73827c42a4e4d31fd4b7d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.3-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.3",
     "SHA256": "4064f704baadf204ab4f75dda987e717b8da252840675ee5feef8f5be7e9356c",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250605-cda1b2b634ce-259305-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "4163ef29c1048c225fcd3ae6c57e7cb7fa7842c7c6185dda3661581474f56a46",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "4256102c55046d6d4f3e159610255497fff6616173ceca08b575a2559cb00ef7",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.0-CURRENT-amd64-20250606-fa02d9fceab7-277727-disc1.iso",
@@ -172,10 +278,25 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-11.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.1",
+    "SHA256": "49e8f32e0a097a1ab411cb85f1adf6d78ba931ff557a07cd1e84af62a47c2d6f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "4aacf25cd0aec136da6345d01fa35650b9812b0260e0ce8f6845c4c8b4ca377d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-12.4-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "12.4",
     "SHA256": "4bf1f0b91b0c20e11d4fe4ebe54e0aaa4a421e474c0785477d9cb17b5dfc0fb6",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.0-CURRENT-i386-20250612-e6928c33f60c-277883-bootonly.iso",
@@ -203,9 +324,17 @@
   },
   {
     "Name": "FreeBSD-14.1-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.1",
     "SHA256": "5321791bd502c3714850e79743f5a1aedfeb26f37eeed7cb8eb3616d0aebf86b",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.4",
+    "SHA256": "536b2b7ba3e32ccf222886dced4bce12c7888a402b8400832398f6402dc464c2",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250612-5dbdbff46b08-271653-disc1.iso",
@@ -221,9 +350,17 @@
   },
   {
     "Name": "FreeBSD-13.2-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.2",
     "SHA256": "54e5e5e84c8988afa34f291a9edd7b13f1c7dd6a9556289f7dbef1ea8394cc5a",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.0-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.0",
+    "SHA256": "5964301f5b9c7f9cb7dab297452ce9583848cf200f2b582470b6d7c971c15ce7",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.4-RELEASE-amd64-bootonly.iso",
@@ -233,16 +370,51 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-9.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "9.3",
+    "SHA256": "5a3c82653d77bba7d7ded8bd7efbedc09d52cf4045d98ce52a82c9e0f8fa9b0e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-i386-20250606-fa02d9fceab7-277727-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "5ad2795b1f248fc0cc1ab7c72e96205d24d652c37d01b57efbd1712eefadf339",
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-13.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.1",
+    "SHA256": "5b29c2cd5a604ad24810c994027ec13c9efc53778a307831f6181dfdaf02939f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.0-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.0",
+    "SHA256": "5e47941e5e4c34c5ff1f4f33309a3633c9d0a0a9c1ef6857daf520482e167d55",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-20250605-6573b7db7143-271611-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "5ecb833d2112a0f56102d08c76825e2f122769037cd29a529f2e65c94070b75d",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.0-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.0",
+    "SHA256": "5f03fd91c1b604579e2830b33da16f1c7e586f5274e36e0e26e4f4ff497d63e8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.3",
+    "SHA256": "5f0c10ff9af582c7fca90f65868702aa02e80f344c186f0bc75639a687d65641",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-riscv-riscv64-20250605-6573b7db7143-271611-bootonly.iso",
@@ -252,15 +424,23 @@
   },
   {
     "Name": "FreeBSD-12.4-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "12.4",
     "SHA256": "606435637b76991f96df68f561badf03266f3d5452e9f72ed9b130d96b188800",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-i386-20250612-5dbdbff46b08-271653-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "639062bb6a50e8d6d9d3386f5624ad6d60111a65a7566ede62a39454077b3ead",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-12.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.0",
+    "SHA256": "63abec8aeb915f1a021dd2df6c7767251f9b6e87f403b7ddf9a423446d0a5453",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250605-6573b7db7143-271611-bootonly.iso",
@@ -281,6 +461,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "66a64ba413ce8e4ae14974bc7d1358ba8d02b711418db9dc4d2270a4cb48832d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250612-e6928c33f60c-277883-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "67a36aee7dee35c3c741b7683487effcdeedd30179d4580e7351243dc509fba2",
@@ -293,10 +480,18 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-13.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.1",
+    "SHA256": "697d81653fa246b921ddfcf1d15562c55249cc727b11fa3e47f470e2cf2b6a40",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.2-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.2",
     "SHA256": "6b1159a204fd614410d32b15993416c745917e6de1781aa608e53d8c6b3d24a4",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-amd64-20250605-cda1b2b634ce-259305-bootonly.iso",
@@ -311,6 +506,20 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "70f039126e430b9f2cc051d38f648eb3c18215c72fe069a67838debe961f6e5e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.2-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.2",
+    "SHA256": "710d237907f1753dbfbecb1186e401d9635156eeef6914f24f632f3219e59d3b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.0-RELEASE-amd64-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "71db8160a2339634bd9fbabbf10dd868148ebc9e1b08c1d8c4e5b954d30941ec",
@@ -318,9 +527,10 @@
   },
   {
     "Name": "FreeBSD-14.0-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.0",
     "SHA256": "7200214030125877561e70718781b435b703180c12575966ad1c7584a3e60dc6",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250612-47807edf0ac2-259309-bootonly.iso",
@@ -345,6 +555,13 @@
     "OS": "FreeBSD",
     "SHA256": "761d922bad1607feae27bb4d2bd09e549a78ed40edf6d231f58b309599ceb087",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "77644b94e664b1f05734b52587c3e0bb248c101f70b05c9cfa9b388475cc9774",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250605-cda1b2b634ce-259305-disc1.iso",
@@ -376,6 +593,13 @@
     "OS": "FreeBSD",
     "SHA256": "7ac29735298a3faab824b20497a199a128fb19a034dd974a40802c8d741f2391",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "7ac73b2a899024e1d9e71e55b5c9b9ac13938468206c72c5a1cf23c7e0a715b4",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-riscv-riscv64-20250612-5dbdbff46b08-271653-disc1.iso",
@@ -446,9 +670,10 @@
   },
   {
     "Name": "FreeBSD-13.3-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.3",
     "SHA256": "94b91af989767c974b36e10ad5c45bd6aa4aa71d9da825ceffa904bc02c4ff9c",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.4-RELEASE-amd64-dvd1.iso",
@@ -457,10 +682,31 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "95d4eb6ed5c565af8bc2b950e19484cb00c967922674efaf6b5391649a7dc1a1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "97908f5cd00d86cafeb2c265bfabbd0aa79f87e9b6b31ecdb756bc96a4a62e93",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250612-e6928c33f60c-277883-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "9855b76fda713b8f809ac41db2f94df6712054a3bc9ee5ba5930185f8e886df2",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "996412ff2e0cd11d27c2c44ec6311f22138b9bfc7c8d904cfce2f9f0719c3157",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.1-BETA2-amd64-dvd1.iso",
@@ -495,9 +741,10 @@
   },
   {
     "Name": "FreeBSD-14.2-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.2",
     "SHA256": "a3c771e2fa958e922a5771047d524d7df3ce501e58bed5c65f0226e4d31ebd30",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-riscv-riscv64-20250612-47807edf0ac2-259309-disc1.iso",
@@ -524,16 +771,37 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "a7f606b448683f975597269b3a69783f80e9bdc74230decf182c48abaac222d0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpcspe-20250612-e6928c33f60c-277883-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "a81dec3bbdd1cffb8d742a712b5213a24334126585f815ebb45f1b2fa7e3061f",
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "a8b58e036503466acfbfd2af3dd9717febe595bff6b289a232e3fa54fc74736d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-arm64-aarch64-20250612-e6928c33f60c-277883-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "a9c546ecb9677e1d2b95734e41e099f4c773ce29431ebff84b5f577911426e08",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.4-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.4",
+    "SHA256": "a9c552ea01a751a092cdf75b28f67959277d025dbd24d6f62adc6ac37468c13d",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-riscv-riscv64-20250605-cda1b2b634ce-259305-disc1.iso",
@@ -546,6 +814,27 @@
     "OS": "FreeBSD",
     "SHA256": "aa3e8eb6f825ae5a394864daaaea37cdb2544de27f496ea64025068a30cdc7c4",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-12.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.1",
+    "SHA256": "aa9d34b458826486999ed3e872436b6712ae38cede5ea41de4ab923e3419d461",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.1",
+    "SHA256": "ab1539894e74aef77c1c4729fbd2362fc3bd30b71f24db68e1b0307723b72752",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.3",
+    "SHA256": "ab214a24c8fb3c2e0ca94eb09493a504d48a1fc5d85eeda1bc9c179f83c877c2",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.4-RELEASE-amd64-disc1.iso",
@@ -574,9 +863,10 @@
   },
   {
     "Name": "FreeBSD-14.2-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.2",
     "SHA256": "b158612828166e5fb7b34a76718387b0ed40ef425cfdb88a067aa349713dcae4",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64-20250605-6573b7db7143-271611-disc1.iso",
@@ -599,9 +889,10 @@
   },
   {
     "Name": "FreeBSD-13.3-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.3",
     "SHA256": "b72fcea82e38a1f86267034887d8c1d71cefd845e5bb95229086b6b652ad6c27",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.2-RELEASE-amd64-disc1.iso",
@@ -628,6 +919,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-12.2-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.2",
+    "SHA256": "bc997989eafb41fcabd6ed55e379134c7322425391d1cd0e5eff37759fc7f865",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-9.0-RELEASE-amd64-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "bcc69320cd2f227411d55967113abc8ffa5ede0a6526090ca3fb5ab776fead9d",
@@ -646,10 +944,24 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "c19a48715b2bd42ac65af0db0509c3720d765e6badcebaa96c978897f6496409",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpcspe-20250612-5dbdbff46b08-271653-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "c35495289aaa8d38514ac85eeecf1a0e6261a25b3089b49308f18cf17d3c7c97",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "c69e289b3579f1be9f3728e1a6b3e447619d421d0b0f4a596314ee82551def1c",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250605-cda1b2b634ce-259305-disc1.iso",
@@ -658,10 +970,31 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "c7e410ecb5f6c95183d789e818b0733d7fb21236ed97599203d7c6505eff69cd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.0-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "13.0",
+    "SHA256": "c81a911f9d5fc7404877dd679771d776e1447cc38b31e1c07042d2620e49d4ac",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.1-RC1-amd64-dvd1.iso",
     "OS": "FreeBSD",
     "SHA256": "c9d6656efd6b210f2b1c081190c61b124b398ba54feb3e207dedfb83682f5ef0",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.4",
+    "SHA256": "cafc5a8d95a639d426d72f897690d8f54ba723fba299e44d39f424674092ee51",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250606-fa02d9fceab7-277727-bootonly.iso",
@@ -683,10 +1016,18 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-11.2-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.2",
+    "SHA256": "ce15a111cd2b4c7972c35cfafd4b373c0b725fd70ce64397d2e33b6124b3d092",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.2-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.2",
     "SHA256": "d063e48b81b99005c8097e60377c23fb07e4116c5f0c0b41a5dc368fc4df6bf9",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-arm64-aarch64-20250612-47807edf0ac2-259309-disc1.iso",
@@ -701,10 +1042,52 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-11.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.3",
+    "SHA256": "d268db365e26305ec3d51b29211caad903749c33a4a8f2cf661d671f8e0ba0b0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.3",
+    "SHA256": "d27432b1c904e8939c87f6d6d415baa3f27841dc666f890610cdc5e8d6607663",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpcspe-20250606-fa02d9fceab7-277727-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "d307b02b891f6a82ac62f7604a549b78f25c6d69f4dbfba0d47da6481259e966",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-13.0-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.0",
+    "SHA256": "d3df1818c0b90ae8d4c88c447dd158c3c3a3ddada4171ac7b0fe55baa040c821",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.4",
+    "SHA256": "d76c1ded99b2c1005b1ff94cc0c811fbcd8a2d04196432009ab5f203c2146914",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.3",
+    "SHA256": "d9e17e06962d01730e24369407bad14a8845b80ecc65cd5e97ea27e67ca5b3c7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "d9f1d52639821bbd818844f1899a5cf2a5601143ca76c095158405bf14719ebb",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-STABLE-arm64-aarch64-20250605-6573b7db7143-271611-bootonly.iso",
@@ -726,6 +1109,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.3",
+    "SHA256": "e35ff29e9499537fe8360304645d2e287e8b5627167207c5e9acef39bd2aa742",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.1-RELEASE-amd64-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "e40f99eaef691b1545149e242d0ca3808bfcd9711a08bd11e2cb5e62d290c884",
@@ -736,6 +1126,20 @@
     "OS": "FreeBSD",
     "SHA256": "e4b4824a8e29740f97f5fb5ae97efec562aa2deee59b6af3e088c003e5ad35e7",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "e643b7beb38fe659c255069c883476b5c9e834c66a969dadded801f10cedba37",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-9.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "9.3",
+    "SHA256": "e6962c2605c6a191a9c238545576eff3a5a2c2c96b5058c26c8c54b6cf701914",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-powerpc-20250605-cda1b2b634ce-259305-disc1.iso",
@@ -774,6 +1178,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-12.2-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.2",
+    "SHA256": "f18412a1936d6f7df1e8e8857c98aeb53f752d43c732affee9c7a5615d4331b5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-i386-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "f277813fa6d9a6ff1240a4ff3133493130c745850df7663fe7d1dd4f75f4e8bf",
@@ -784,6 +1195,20 @@
     "OS": "FreeBSD",
     "SHA256": "f338e24645f0bcc792b8417411ed737d8057cd2f470f9d2b601c143352d6d459",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "f348b45ef42b1dc74c4381e933b1dc911a21156eb83375319584d61ded88adaa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.0-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.0",
+    "SHA256": "f373dbdb9ce80c4f1b4a50d565356a1172d42ad00cf2c4cbe3131d0b566db5b4",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.3-RELEASE-amd64-disc1.iso",
@@ -799,10 +1224,18 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-13.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.0",
+    "SHA256": "f78d4e5f53605592863852b39fa31a12f15893dc48cacecd875f2da72fa67ae5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-12.4-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "12.4",
     "SHA256": "f889113f4cb0dc50b443b3e5753861cfda1b6c08beb0c9bfc6b212572f19dc9f",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-13.5-STABLE-i386-20250605-cda1b2b634ce-259305-bootonly.iso",
@@ -817,10 +1250,31 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "fdc5aa3f5c32b96ff965d4b3f7ab12264805092ccfd76aefe2f6b0592c934107",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "fef068cf6dea26923ab84b62ba9f21461ca0bdec90a0741c8ffb0e1ca29e410d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64le-20250605-cda1b2b634ce-259305-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "ff210900706534b963c3793476b59cb03d68818ae268bf13c8dc58f2d9a7ac78",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.1",
+    "SHA256": "ff4c749ea0aaaceedb2432ba3e0fd0c1b64f5a72141b1ec06b9ced52b5de0dbf",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-15.0-CURRENT-amd64-20250612-e6928c33f60c-277883-bootonly.iso",

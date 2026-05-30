@@ -41,6 +41,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.1",
+    "SHA256": "00d65d47deceabec56440dea3f5c5dfe2dc915da4dda0a56911c8c2d20231b2d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.4-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "12.04",
@@ -80,6 +87,13 @@
     "OS": "AlmaLinux",
     "Version": "8.8",
     "SHA256": "016e59963c2c3bd4c99c18ac957573968e23da51131104568fbf389b11df3e05",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "018a36681307ec3e3fe63d7c76ffc4cc53a111c36d9053e43c44856b11547d2a",
     "TrustLevel": "Official"
   },
   {
@@ -136,6 +150,13 @@
     "OS": "LinuxMint",
     "Version": "21",
     "SHA256": "02a80ca98f82838e14bb02753bd73ee0da996c9cda3f027ae1c0ffb4612c8133",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "13.1",
+    "SHA256": "02e77c57bd0a306e3fc92296b3640433a3bd7e4ba39d82db94dfd885f5bb1f78",
     "TrustLevel": "Official"
   },
   {
@@ -314,6 +335,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-11.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.0",
+    "SHA256": "08b12f2dc378f7a61b5469219824c74a2f9faef580acc85ffab45365df79872d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8.3-x86_64-boot.iso",
     "OS": "AlmaLinux",
     "Version": "8.3",
@@ -362,6 +390,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "0a78639efd981b89df87133886760630ac819249e068aaaf82723d721db4d955",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.4-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "13.4",
+    "SHA256": "0ada110707d7c1dfa7afde0c174b03926e44c7d4b547d7b5ef89ff37c2dfb57e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-8.10.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "8.10.0",
@@ -407,6 +449,13 @@
     "OS": "Fedora_Server",
     "Version": "34",
     "SHA256": "0b9dc87d060c7c4ef89f63db6d4d1597dd3feaf4d635ca051d87f5e8c89e8675",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "0c3d64ce48c3ef761761d0fea07e1935e296f8c045c249118bc91a7faf053a6b",
     "TrustLevel": "Official"
   },
   {

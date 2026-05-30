@@ -147,6 +147,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.3",
+    "SHA256": "e35ff29e9499537fe8360304645d2e287e8b5627167207c5e9acef39bd2aa742",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-13.0.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.0.0",
@@ -310,6 +317,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "e643b7beb38fe659c255069c883476b5c9e834c66a969dadded801f10cedba37",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-17.2-Education-64-bit.iso",
     "OS": "Zorin_OS",
     "Version": "17",
@@ -321,6 +335,13 @@
     "OS": "Zorin_OS",
     "Version": "17",
     "SHA256": "e68d49172964e4d0aa39ac1d77674d724b0b835658836a56fc1b318680deaed6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-9.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "9.3",
+    "SHA256": "e6962c2605c6a191a9c238545576eff3a5a2c2c96b5058c26c8c54b6cf701914",
     "TrustLevel": "Official"
   },
   {

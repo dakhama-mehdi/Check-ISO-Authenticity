@@ -165,9 +165,10 @@
   },
   {
     "Name": "FreeBSD-14.2-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.2",
     "SHA256": "a3c771e2fa958e922a5771047d524d7df3ce501e58bed5c65f0226e4d31ebd30",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2020.1a-installer-i386.iso",
@@ -403,6 +404,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "a7f606b448683f975597269b3a69783f80e9bdc74230decf182c48abaac222d0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-13.10-desktop-i386.iso",
     "OS": "Ubuntu",
     "Version": "13.10",
@@ -437,6 +445,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "a8b58e036503466acfbfd2af3dd9717febe595bff6b289a232e3fa54fc74736d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-23.04-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "23.04",
@@ -462,6 +477,13 @@
     "OS": "FreeBSD",
     "SHA256": "a9c546ecb9677e1d2b95734e41e099f4c773ce29431ebff84b5f577911426e08",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.4-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.4",
+    "SHA256": "a9c552ea01a751a092cdf75b28f67959277d025dbd24d6f62adc6ac37468c13d",
+    "TrustLevel": "Official"
   },
   {
     "Name": "Rocky-8.6-x86_64-minimal.iso",
@@ -518,6 +540,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.1",
+    "SHA256": "aa9d34b458826486999ed3e872436b6712ae38cede5ea41de4ab923e3419d461",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-10-latest-x86_64-minimal.iso",
     "OS": "Rocky",
     "Version": "10.2",
@@ -549,6 +578,20 @@
     "OS": "Debian",
     "Version": "7.6.0",
     "SHA256": "ab1008f5460c66e4ab601958ffd6df15bc274ffb3d83072830e8b577c699a429",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.1",
+    "SHA256": "ab1539894e74aef77c1c4729fbd2362fc3bd30b71f24db68e1b0307723b72752",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.3",
+    "SHA256": "ab214a24c8fb3c2e0ca94eb09493a504d48a1fc5d85eeda1bc9c179f83c877c2",
     "TrustLevel": "Official"
   },
   {

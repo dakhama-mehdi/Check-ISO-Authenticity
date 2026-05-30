@@ -8,9 +8,10 @@
   },
   {
     "Name": "FreeBSD-13.3-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.3",
     "SHA256": "4064f704baadf204ab4f75dda987e717b8da252840675ee5feef8f5be7e9356c",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "Zorin-OS-18.1-Pro Lite-64-bit.iso",
@@ -78,6 +79,13 @@
     "OS": "Zorin_OS",
     "Version": "16",
     "SHA256": "4235eca2ffe692371d467753acd6e00c4d4c5feb90fd137d187d935da5237d91",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "4256102c55046d6d4f3e159610255497fff6616173ceca08b575a2559cb00ef7",
     "TrustLevel": "Official"
   },
   {
@@ -408,6 +416,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-11.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.1",
+    "SHA256": "49e8f32e0a097a1ab411cb85f1adf6d78ba931ff557a07cd1e84af62a47c2d6f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "x86_64-boot.iso",
     "OS": "Oraclelinux",
     "Version": "8.7",
@@ -447,6 +462,13 @@
     "OS": "Kali",
     "Version": "kali-2024.2",
     "SHA256": "4aa5a328312640c9c6c03bd9f7656e21895a450ad9781f16335a4db4bf544295",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "4aacf25cd0aec136da6345d01fa35650b9812b0260e0ce8f6845c4c8b4ca377d",
     "TrustLevel": "Official"
   },
   {
@@ -493,9 +515,10 @@
   },
   {
     "Name": "FreeBSD-12.4-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "12.4",
     "SHA256": "4bf1f0b91b0c20e11d4fe4ebe54e0aaa4a421e474c0785477d9cb17b5dfc0fb6",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-12.10-server-amd64+mac.iso",

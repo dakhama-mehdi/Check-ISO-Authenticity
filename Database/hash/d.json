@@ -22,9 +22,10 @@
   },
   {
     "Name": "FreeBSD-14.2-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.2",
     "SHA256": "d063e48b81b99005c8097e60377c23fb07e4116c5f0c0b41a5dc368fc4df6bf9",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "linuxmint-18-mate-32bit.iso",
@@ -88,6 +89,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-11.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.3",
+    "SHA256": "d268db365e26305ec3d51b29211caad903749c33a4a8f2cf661d671f8e0ba0b0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.3-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.3",
+    "SHA256": "d27432b1c904e8939c87f6d6d415baa3f27841dc666f890610cdc5e8d6607663",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.2-mate-64bit.iso",
     "OS": "LinuxMint",
     "Version": "17.2",
@@ -133,6 +148,13 @@
     "OS": "Debian",
     "Version": "8.2.0",
     "SHA256": "d393d17ac6b3113c81186e545c416a00f28ed6e05774284bb5e8f0df39fcbcb9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.0-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.0",
+    "SHA256": "d3df1818c0b90ae8d4c88c447dd158c3c3a3ddada4171ac7b0fe55baa040c821",
     "TrustLevel": "Official"
   },
   {
@@ -290,6 +312,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-11.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.4",
+    "SHA256": "d76c1ded99b2c1005b1ff94cc0c811fbcd8a2d04196432009ab5f203c2146914",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Leap-16.0-offline-installer-x86_64-Build171.1.install.iso",
     "OS": "openSUSE",
     "Version": "/16.0",
@@ -370,6 +399,20 @@
     "OS": "AlmaLinux",
     "Version": "9.0",
     "SHA256": "d9c644122aafdb3aa6b635d252d59d7f719fa5de5e77ec103eff9c5fe291c1b6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.3",
+    "SHA256": "d9e17e06962d01730e24369407bad14a8845b80ecc65cd5e97ea27e67ca5b3c7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-uefi-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "d9f1d52639821bbd818844f1899a5cf2a5601143ca76c095158405bf14719ebb",
     "TrustLevel": "Official"
   },
   {

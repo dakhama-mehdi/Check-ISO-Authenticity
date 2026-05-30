@@ -42,9 +42,10 @@
   },
   {
     "Name": "FreeBSD-14.2-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.2",
     "SHA256": "b158612828166e5fb7b34a76718387b0ed40ef425cfdb88a067aa349713dcae4",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "Rocky-9.0-20220805.0-x86_64-minimal.iso",
@@ -283,9 +284,10 @@
   },
   {
     "Name": "FreeBSD-13.3-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.3",
     "SHA256": "b72fcea82e38a1f86267034887d8c1d71cefd845e5bb95229086b6b652ad6c27",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2024.3-installer-everything-amd64.iso",
@@ -504,6 +506,13 @@
     "OS": "Ubuntu",
     "Version": "10.04.1",
     "SHA256": "bbd09816d7ea83a5451036a94ef16c76c0722f676a9aa19e6846eccb8dd299bd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.2-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.2",
+    "SHA256": "bc997989eafb41fcabd6ed55e379134c7322425391d1cd0e5eff37759fc7f865",
     "TrustLevel": "Official"
   },
   {

@@ -14,6 +14,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.1-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.1",
+    "SHA256": "70f039126e430b9f2cc051d38f648eb3c18215c72fe069a67838debe961f6e5e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-11.2-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.2",
+    "SHA256": "710d237907f1753dbfbecb1186e401d9635156eeef6914f24f632f3219e59d3b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.4-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "6.0.4",
@@ -49,9 +63,10 @@
   },
   {
     "Name": "FreeBSD-14.0-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.0",
     "SHA256": "7200214030125877561e70718781b435b703180c12575966ad1c7584a3e60dc6",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "proxmox-backup-server_2.4-1.iso",
@@ -365,6 +380,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "77644b94e664b1f05734b52587c3e0bb248c101f70b05c9cfa9b388475cc9774",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-powerpc-powerpc64-20250605-cda1b2b634ce-259305-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "77a1d5f9c9d92f0254692f6be0a1d415e708dbd2bdf5bb14f900504f871f7f69",
@@ -519,6 +541,13 @@
     "OS": "FreeBSD",
     "SHA256": "7ac29735298a3faab824b20497a199a128fb19a034dd974a40802c8d741f2391",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "7ac73b2a899024e1d9e71e55b5c9b9ac13938468206c72c5a1cf23c7e0a715b4",
+    "TrustLevel": "Official"
   },
   {
     "Name": "debian-edu-10.3.0-amd64-netinst.iso",

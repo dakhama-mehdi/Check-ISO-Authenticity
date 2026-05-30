@@ -13,6 +13,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-11.2-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "11.2",
+    "SHA256": "107e4c6e42607ca55b6479a34aeba19e05d0fc1a82a36ad8e633f33169bb4fdb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpcspe-20250605-6573b7db7143-271611-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "108d1e6614a7bc71646aae3c5c023881105dffb9be51ff48d9b8bb8bccaea33a",
@@ -409,6 +416,13 @@
     "OS": "Fedora_Server",
     "Version": "38",
     "SHA256": "192af621553aa32154697029e34cbe30152a9e23d72d55f31918b166979bbcf5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.4-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.4",
+    "SHA256": "195a270b4fd2db4f9e3a1451384f2d3bfa699696d110873b62bcf7540524da0d",
     "TrustLevel": "Official"
   },
   {

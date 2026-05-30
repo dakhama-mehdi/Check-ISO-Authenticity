@@ -173,9 +173,10 @@
   },
   {
     "Name": "FreeBSD-13.3-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.3",
     "SHA256": "94b91af989767c974b36e10ad5c45bd6aa4aa71d9da825ceffa904bc02c4ff9c",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2020.3-installer-netinst-amd64.iso",
@@ -202,6 +203,13 @@
     "OS": "Oraclelinux",
     "Version": "10.0",
     "SHA256": "95a3aea84b7aba03a685af6738178fda483056c0dd16b0e0a36464151f1b4ce7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "95d4eb6ed5c565af8bc2b950e19484cb00c967922674efaf6b5391649a7dc1a1",
     "TrustLevel": "Official"
   },
   {
@@ -273,6 +281,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "97908f5cd00d86cafeb2c265bfabbd0aa79f87e9b6b31ecdb756bc96a4a62e93",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "12.04.2",
@@ -325,6 +340,13 @@
     "OS": "Ubuntu",
     "Version": "12.10",
     "SHA256": "99506b1d50059821c30e354afd1082936712f7213a7390b75ef70f9f7ec10dc8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "996412ff2e0cd11d27c2c44ec6311f22138b9bfc7c8d904cfce2f9f0719c3157",
     "TrustLevel": "Official"
   },
   {

@@ -14,9 +14,10 @@
   },
   {
     "Name": "FreeBSD-12.4-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "12.4",
     "SHA256": "606435637b76991f96df68f561badf03266f3d5452e9f72ed9b130d96b188800",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "ubuntu-14.04.5-server-i386.iso",
@@ -164,6 +165,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.0-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.0",
+    "SHA256": "63abec8aeb915f1a021dd2df6c7767251f9b6e87f403b7ddf9a423446d0a5453",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9.1-update-1-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.1",
@@ -300,6 +308,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.2",
+    "SHA256": "66a64ba413ce8e4ae14974bc7d1358ba8d02b711418db9dc4d2270a4cb48832d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-dvd-x86_64-38-1.6.iso",
     "OS": "Fedora_Server",
     "Version": "38",
@@ -431,6 +446,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-13.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.1",
+    "SHA256": "697d81653fa246b921ddfcf1d15562c55249cc727b11fa3e47f470e2cf2b6a40",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-16-Education-Lite-64-bit.iso",
     "OS": "Zorin_OS",
     "Version": "16",
@@ -467,9 +489,10 @@
   },
   {
     "Name": "FreeBSD-13.2-RELEASE-amd64-dvd1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.2",
     "SHA256": "6b1159a204fd614410d32b15993416c745917e6de1781aa608e53d8c6b3d24a4",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "archlinux-2022.06.01-x86_64.iso",

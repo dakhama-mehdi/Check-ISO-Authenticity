@@ -84,9 +84,10 @@
   },
   {
     "Name": "FreeBSD-14.1-RELEASE-amd64-disc1.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "14.1",
     "SHA256": "5321791bd502c3714850e79743f5a1aedfeb26f37eeed7cb8eb3616d0aebf86b",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "linuxmint-17.2-cinnamon-nocodecs-64bit.iso",
@@ -100,6 +101,13 @@
     "OS": "LinuxMint",
     "Version": "18.3",
     "SHA256": "535dbb3ef4f7db6b9584d5093d6ae05a861f7f6e03fee487c76189bc5248de20",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-13.4-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.4",
+    "SHA256": "536b2b7ba3e32ccf222886dced4bce12c7888a402b8400832398f6402dc464c2",
     "TrustLevel": "Official"
   },
   {
@@ -165,9 +173,10 @@
   },
   {
     "Name": "FreeBSD-13.2-RELEASE-amd64-bootonly.iso",
-    "OS": "FreeBSD",
+    "OS": "FreeBsd",
+    "Version": "13.2",
     "SHA256": "54e5e5e84c8988afa34f291a9edd7b13f1c7dd6a9556289f7dbef1ea8394cc5a",
-    "TrustLevel": "PublicIndex"
+    "TrustLevel": "Official"
   },
   {
     "Name": "archlinux-2024.08.01-x86_64.iso",
@@ -370,6 +379,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.0-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "12.0",
+    "SHA256": "5964301f5b9c7f9cb7dab297452ce9583848cf200f2b582470b6d7c971c15ce7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8.5-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "8.5",
@@ -381,6 +397,13 @@
     "OS": "FreeBsd",
     "Version": "14.4",
     "SHA256": "5a262316dd17badd83dba6355a259341479a5133cb29d54b2585cf20d46292c7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-9.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "9.3",
+    "SHA256": "5a3c82653d77bba7d7ded8bd7efbedc09d52cf4045d98ce52a82c9e0f8fa9b0e",
     "TrustLevel": "Official"
   },
   {
@@ -416,6 +439,13 @@
     "OS": "FreeBSD",
     "SHA256": "5ad2795b1f248fc0cc1ab7c72e96205d24d652c37d01b57efbd1712eefadf339",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-13.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "13.1",
+    "SHA256": "5b29c2cd5a604ad24810c994027ec13c9efc53778a307831f6181dfdaf02939f",
+    "TrustLevel": "Official"
   },
   {
     "Name": "CentOS-Stream-10-20241216.0-x86_64-boot.iso",
@@ -520,6 +550,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-12.0-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.0",
+    "SHA256": "5e47941e5e4c34c5ff1f4f33309a3633c9d0a0a9c1ef6857daf520482e167d55",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "x86_64-boot.iso",
     "OS": "Oraclelinux",
     "Version": "8.6",
@@ -551,6 +588,20 @@
     "OS": "Fedora",
     "SHA256": "5edaf708a52687b09f9810c2b6d2a3432edac1b18f4d8c908c0da6bde0379148",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-11.0-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "11.0",
+    "SHA256": "5f03fd91c1b604579e2830b33da16f1c7e586f5274e36e0e26e4f4ff497d63e8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-12.3-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "12.3",
+    "SHA256": "5f0c10ff9af582c7fca90f65868702aa02e80f344c186f0bc75639a687d65641",
+    "TrustLevel": "Official"
   },
   {
     "Name": "kali-linux-2021.3-installer-netinst-i386.iso",

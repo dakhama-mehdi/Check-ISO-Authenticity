@@ -14,6 +14,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-9.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "9.3",
+    "SHA256": "30c0baa7d51a4b3130108c862bbc9439f60a3a6362b13183c1ae0be959ae9a95",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19.3-xfce-64bit.iso",
     "OS": "LinuxMint",
     "Version": "19.3",
@@ -532,6 +539,13 @@
     "OS": "LinuxMint",
     "Version": "17.2",
     "SHA256": "3f266b9728317adae07d02dbb14a2f5e1e9798df2ab950800f9c1c690f872360",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-10.3-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "10.3",
+    "SHA256": "3f33fc506b18d752564c3ba92419592a489fceef43f73827c42a4e4d31fd4b7d",
     "TrustLevel": "Official"
   },
   {
