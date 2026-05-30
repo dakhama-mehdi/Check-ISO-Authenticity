@@ -157,35 +157,13 @@
   },
   {
     "Name": "FreeBsd",
-    "Url": "http://ftp-archive.freebsd.org/pub/FreeBSD-Archive/old-releases/ISO-IMAGES/",
+    "Url": "https://download.freebsd.org/releases/ISO-IMAGES/",
     "Versions": [
-      "10.1",
-      "10.2",
-      "10.3",
-      "10.4",
-      "11.0",
-      "11.1",
-      "11.2",
-      "11.3",
-      "11.4",
-      "12.0",
-      "12.1",
-      "12.2",
-      "12.3",
-      "12.4",
-      "13.0",
-      "13.1",
-      "13.2",
-      "13.3",
-      "13.4",
       "13.5",
-      "14.0",
-      "14.1",
-      "14.2",
       "14.3",
       "14.4",
       "15.0",
-      "9.3"
+      "15.1"
     ]
   },
   {

@@ -441,6 +441,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC1-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "b9bd51d536f35e9e101985c6ce6b9f12fb7779ccd9a619edec28c57fc050a8dd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-18.04.3-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "18.04.2",

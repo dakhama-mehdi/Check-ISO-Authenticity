@@ -609,6 +609,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-15.1-RC1-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "de57f9c92f966a2f15106510d01b95ca63c262406f2b9087f468462ef2890e42",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-11.0.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.0.0",

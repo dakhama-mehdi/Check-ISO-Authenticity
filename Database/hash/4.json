@@ -332,6 +332,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC1-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "47eac61f306c82a52b4634bf21387c4e179da5987882307f6dceff043ca024d8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8.7-x86_64-dvd1.iso",
     "OS": "Rocky_Vault",
     "Version": "8.7",
