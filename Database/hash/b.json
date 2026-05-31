@@ -564,6 +564,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.590.ec942ba042da-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.590.ec942ba042da",
+    "SHA256": "bde0aebf31b59860cb3f6bbea30b5632feac5dd458e1bb0ebce1e15bc88fdf78",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-kde-32bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
