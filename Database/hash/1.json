@@ -433,6 +433,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.889.b51242d7d436-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.889.b51242d7d436",
+    "SHA256": "198efa245c37696d241e8bd84f0812b726942b4008625cab37bebbea827f5efe",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-13.04-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "13.04",
