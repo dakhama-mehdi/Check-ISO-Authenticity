@@ -1,0 +1,22 @@
+
+===== 2026-06-02 10:46:02 =====
+
+Name       : Rocky-10.2-x86_64-dvd1.iso
+OS         : Rocky
+Version    : 10.2
+SHA256     : 16ca9c96cdb221ba6e1f68579f21bd69fd8da81c6a921d9068949796f91c8feb
+TrustLevel : Official
+
+Name       : Rocky-10.2-x86_64-minimal.iso
+OS         : Rocky
+Version    : 10.2
+SHA256     : aac6ac3ce781b91a91ce78463405f66c611a5dca4b3840c79e5e01d97302f6c8
+TrustLevel : Official
+
+Name       : Rocky-10.2-x86_64-boot.iso
+OS         : Rocky
+Version    : 10.2
+SHA256     : bf3a75907948563d0c11f3d1b8546ee9216e18a3ea2dc0a67eb4c45452e210f9
+TrustLevel : Official
+
+
