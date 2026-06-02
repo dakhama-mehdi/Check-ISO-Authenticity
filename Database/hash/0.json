@@ -557,6 +557,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260601.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "0fa79a5ff789918522911d5c84c87269ef3c69f634d3b2a00cbf0bf66ee25fe4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "9.6",

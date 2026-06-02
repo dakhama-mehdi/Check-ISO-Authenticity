@@ -20,3 +20,115 @@ SHA256     : bf3a75907948563d0c11f3d1b8546ee9216e18a3ea2dc0a67eb4c45452e210f9
 TrustLevel : Official
 
 
+
+===== 2026-06-02 13:06:08 =====
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 19cd2a93245e4687a064d2a45152781be13f7a7452b128b3dfd822e0eb647d1d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 2069de31f5b565a463ef35b6b068b8cc21f3c120238c3885eba60f2ca7143260
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC1-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 47eac61f306c82a52b4634bf21387c4e179da5987882307f6dceff043ca024d8
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 55e2b256b15c9317cd92898aa90bab45ac3f1d874c1e3447e62f253f60d14ea0
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC1-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : b9bd51d536f35e9e101985c6ce6b9f12fb7779ccd9a619edec28c57fc050a8dd
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC1-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : de57f9c92f966a2f15106510d01b95ca63c262406f2b9087f468462ef2890e42
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-21.0.0-Leap_16.1-Build30.3.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : 2d2a0dbbe8353467cf153df82c0387bfdfb9637d9898e745b760d04e7ded3ea3
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260601.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 0fa79a5ff789918522911d5c84c87269ef3c69f634d3b2a00cbf0bf66ee25fe4
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260601.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 398f3415d3c0f0c99d06dc2b9d88ce896856eb0e0480b6189a94fa43ed10f1d0
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260601.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 6686aa34a25e25f5b36154646843c2f2346e09c3534343247d14c9fa1b90d817
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260601.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : a5ae1f62667b061002aa84743494c20825e8a7df54b231c1697dd05b45d52037
+TrustLevel : Official
+
+Name       : archlinux-2026.06.01-x86_64.iso
+OS         : Archlinux
+Version    : 2026.06.01
+SHA256     : ec7a9c89aed7a59a76266ccf723c5e88480e47d7088c4482436f882fa37c3989
+TrustLevel : Official
+
+

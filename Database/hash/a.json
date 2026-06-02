@@ -282,6 +282,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260601.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "a5ae1f62667b061002aa84743494c20825e8a7df54b231c1697dd05b45d52037",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-18.04.1-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "18.04.5",

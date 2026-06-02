@@ -380,6 +380,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.8-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.8",
+    "SHA256": "7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-10.2-RELEASE-amd64-uefi-disc1.iso",
     "OS": "FreeBsd",
     "Version": "10.2",
@@ -500,6 +507,13 @@
     "OS": "Ubuntu",
     "Version": "18.04.5",
     "SHA256": "7a1c2966f82268c14560386fbc467d58c3fbd2793f3b1f657baee609b80d39a8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-9.8-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.8",
+    "SHA256": "7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814",
     "TrustLevel": "Official"
   },
   {

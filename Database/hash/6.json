@@ -301,6 +301,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260601.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "6686aa34a25e25f5b36154646843c2f2346e09c3534343247d14c9fa1b90d817",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.1-installer-i386.iso",
     "OS": "Kali",
     "Version": "kali-2023.1",

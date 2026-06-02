@@ -173,6 +173,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.8-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.8",
+    "SHA256": "445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-18.1-Core-64-bit.iso",
     "OS": "ZorinOS",
     "Version": "18.1",

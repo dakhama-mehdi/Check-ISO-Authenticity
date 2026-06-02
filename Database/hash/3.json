@@ -330,6 +330,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260601.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "398f3415d3c0f0c99d06dc2b9d88ce896856eb0e0480b6189a94fa43ed10f1d0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "14.04.3",
