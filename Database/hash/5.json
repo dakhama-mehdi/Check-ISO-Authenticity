@@ -221,6 +221,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC2-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "55e2b256b15c9317cd92898aa90bab45ac3f1d874c1e3447e62f253f60d14ea0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-22-xfce-64bit.iso",
     "OS": "LinuxMint",
     "Version": "22",

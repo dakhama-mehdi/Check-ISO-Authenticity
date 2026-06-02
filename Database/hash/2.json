@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC2-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "2069de31f5b565a463ef35b6b068b8cc21f3c120238c3885eba60f2ca7143260",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-13.2.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.2.0",

@@ -454,6 +454,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC2-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "19cd2a93245e4687a064d2a45152781be13f7a7452b128b3dfd822e0eb647d1d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OracleLinux-R9-U2-x86_64-boot-uek.iso",
     "OS": "Oraclelinux",
     "Version": "9.2",
