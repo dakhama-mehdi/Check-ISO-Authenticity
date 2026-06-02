@@ -213,7 +213,7 @@ button:hover{
 
         <div class="statItem">
             <div class="statLabel">Autor</div>
-            <div class="statValue" id="authorName"></div>
+            <div class="statValue" id="authorName">Dakhama Mehdi</div>
         </div>
     </div>
 
@@ -240,15 +240,9 @@ button:hover{
 En attente...
 </div>
 
-<div class="footer">
-    <span>CheckISO © 2026 - It-connect.fr</span>
-    <span>Base communautaire de hashes ISO</span>
-</div>
-
 <script>
 
 const BASE_URL = "https://dakhama-mehdi.github.io/Check-ISO-Authenticity";
-// const BASE_URL = "";
 
 let allResults = [];
 let filteredResults = [];
@@ -382,6 +376,7 @@ else{
 
         results.push(...data);
     }
+	document.getElementById("supportedDistributions").style.display = "none";
 }
 
     const elapsed = (performance.now() - start).toFixed(2);
@@ -450,9 +445,10 @@ function handleSearchInput(event){
 
         document.getElementById("result").innerHTML = "En attente...";
 		allResults = [];
-filteredResults = [];
-currentPage = 1;
+		filteredResults = [];
+		currentPage = 1;
         document.getElementById("info").innerHTML = "";
+		document.getElementById("supportedDistributions").style.display = "block";
 
         return;
     }
@@ -578,6 +574,45 @@ function updatePageInfo(){
 loadProjectStats()
 
 </script>
+
+<div id="supportedDistributions" style="margin-top:100px;">
+
+<div class="footer">
+    <span>Support OS</span><br></br>
+</div>
+
+<table class="resultTable">
+
+<tr>
+    <th>Distribution</th>
+    <th>Versions</th>
+    <th>Distribution</th>
+    <th>Versions</th>
+	<th>Distribution</th>
+    <th>Versions</th>
+</tr>
+
+<tr><td>AlmaLinux</td><td>8+</td><td>archlinux</td><td>2022+</td><td>CentOS</td><td>Stream 9-10</td></tr>
+<tr><td>Debian</td><td>5+</td><td>Fedora</td><td>30+</td><td>FreeBSD</td><td>All</td></tr>
+<tr><td>Kali</td><td>All</td><td>Linuxmint</td><td>17+</td><td>NixOS</td><td>25.11+</td></tr>
+<tr><td>Opensuse</td><td>15+</td><td>Opnsense</td><td>22+</td><td>Oraclelinux</td><td>8+</td></tr>
+<tr><td>Parrot</td><td>6+</td><td>Proxmox</td><td>All</td><td>RHL</td><td>8-9</td></tr>
+<tr><td>Rocky</td><td>8+</td><td>Ubuntu</td><td>All</td><td>ZorinOS</td><td>15+</td></tr>
+</table>
+
+<div class="footer">
+    <span>CheckISO © 2026 - Dakhama Mehdi</span>
+    <span>Base communautaire de hashes ISO</span>
+</div>
+
+
+</div>
+
+<script>
+...
+</script>
+
+</body>
 
 </body>
 </html>
