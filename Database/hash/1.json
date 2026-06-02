@@ -301,7 +301,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Rocky-10-latest-x86_64-dvd.iso",
+    "Name": "Rocky-10.2-x86_64-dvd1.iso",
     "OS": "Rocky",
     "Version": "10.2",
     "SHA256": "16ca9c96cdb221ba6e1f68579f21bd69fd8da81c6a921d9068949796f91c8feb",

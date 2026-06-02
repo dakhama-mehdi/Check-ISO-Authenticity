@@ -554,7 +554,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "Rocky-10-latest-x86_64-minimal.iso",
+    "Name": "Rocky-10.2-x86_64-minimal.iso",
     "OS": "Rocky",
     "Version": "10.2",
     "SHA256": "aac6ac3ce781b91a91ce78463405f66c611a5dca4b3840c79e5e01d97302f6c8",

@@ -1,0 +1,2095 @@
+[
+  {
+    "Name": "ubuntu-12.04.4-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04",
+    "SHA256": "00f516e0cd0b885ab6a71c4acd763c30286222958dd3ce11952167736076d889",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.1-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.2",
+    "SHA256": "030d6f89d2c99700f05c72f1110cc61dc343f7106ace3651140c0c176bbcded9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.10",
+    "SHA256": "06c9add74e07687ce8dac11ab8a3e4cbf3928fb81891a3ca3ced3fb6ccfb37a0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.1",
+    "SHA256": "071d5a534c1a2d61d64c6599c47c992c778e08b054daecc2540d57929e4ab1fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.4-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "07e4bb5569814eab41fafac882ba127893e3ff0bdb7ec931c9b2d040e3e94e7a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.10",
+    "SHA256": "098a5fdd59b1d70ab1605f3e596502044911b98bf22648c29d58270a85d1ec68",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.4-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.1",
+    "SHA256": "0a03608988cfd2e50567990dc8be96fb3c501e198e2e6efcb846d89efc7b89f2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.6-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.6",
+    "SHA256": "0a704ba33285558a76a88ef79dcf7fbaf1455c4889ab69939875ccc21bf3696d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04-beta-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04",
+    "SHA256": "0b5fc5eb91f108e60551517474107560d9325b23b8a1c69e3690dbf7cc6df583",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.2-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.2",
+    "SHA256": "0e11b516e5ec5aa3fc80ced967c798204392fc6676246e0395c8c9229b11745b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.10",
+    "SHA256": "0e52cc7c7c4cc9e91f4e984c1232192394c6caf8e7170c1aeefb37bdef1f0625",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.6",
+    "SHA256": "0f3086aa44edd38531898b32ee3318540af9c643c27346340deb2f9bc1c3de7e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.2-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "0fa4bb43f4653cf36cb18b67e68944b1d24ef4f8f202d27968123e0d803982ec",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.1-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "107ae1ee8d8263b6fc40c0c809451a1a2e4f21ad3e1d5613f4090e07b695cdd9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.1-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.2",
+    "SHA256": "10f19c5b2b8d6db711582e0e27f5116296c34fe4b313ba45f9b201a5007056cb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.1",
+    "SHA256": "1384ac8f2c2a6479ba2a9cbe90a585618834560c477a699a4a7ebe7b5345ddc1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "11.04",
+    "SHA256": "13dc0105f81e47308c5fab5fc6d71c7030fcc2a5721df654cd4c26406da4ffab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.6-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.4",
+    "SHA256": "16afb1375372c57471ea5e29803a89a5a6bd1f6aabea2e5e34ac1ab7eb9786ac",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.1-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.4",
+    "SHA256": "175a080fdf87f8dd9d9454a3b92d5ef93fe403f7de07ba816a3175f3f544521b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.3-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "17c21ea831ce3082e239d56644a22e6df0aa3c7e331f6c0b98a7d521e7b85d37",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-25.04-beta-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "25.04",
+    "SHA256": "18bddad75f68b584ac28ff2d0c114e3b77b7f8ea790a5c2171fd30694c92154d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.04-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "13.04",
+    "SHA256": "1993643f7460baf7c3dec5084f3d709007825c9c86fc62652ffbaa12190b9793",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.2-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "19a3c083b12fa09c97cbcfed09442a2c9786957c8d839ea6bd305bd55bcdc38a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.10.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "17.10",
+    "SHA256": "1a3d2d32ada795e5df47293745a7479bcb3e4e29d8ee1eaa114350b691cf38d3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.5-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.0",
+    "SHA256": "1b885436e606442ac1765894df189951c6bfda2df5a9c77ccbb4adf88d2e0465",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "207a53944d5e8bbb278f4e1d8797491bfbb759c2ebd4a162f41e1383bde38ab2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.3-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "208fb66dddda345aa264f7c85d011d6aeaa5588075eea6eee645fd5307ef3cac",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.0",
+    "SHA256": "212cdd71b95b8ee957b826782983890c536ba1fde547e42e9764ee5c12f43c2d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.0",
+    "SHA256": "22580b9f3b186cc66818e60f44c46f795d708a1ad86b9225c458413b638459c4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.04-beta-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.04",
+    "SHA256": "234679ceda05858dbf3a99bcfc2d2337b6bb87dced9cf0e5e4af116f7417dd1b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.3-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "236c88f31631ff531304ba6d85a8f4ef63ce4f53e2e1fbca3390da5b324abe61",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.5-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "24156b487290b26f150f58a53efab0cf8572e6ad6302446b98afe7b4b70a8e8f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.1-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "241863b776153656b74ad78ef3ec18c132fc85015dde9876966e07a7089c4d78",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.10",
+    "SHA256": "256a2cc652ec86ff366907fd7b878e577b631cc6c6533368c615913296069d80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-19.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "19.04",
+    "SHA256": "25d483341ccd0d522a6660b00db933787c86c47b42f1845bcf997127f4b61e9d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.3-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "266242224706bb498a30a8b2abecb830c94284a5c8269109783b8f739227e1e0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "13.04",
+    "SHA256": "269e84cea4b1d30d7bd9c1167d9f79a966a99987d39054fcd647d77cce15cb0e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.4-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.0",
+    "SHA256": "28ccdb56450e643bad03bb7bcf7507ce3d8d90e8bf09e38f6bd9ac298a98eaad",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04",
+    "SHA256": "2980570ea889f3467a04df15c8421ef1dc80ecef7bb37243da97f5714cf3f8ef",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.1-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.2",
+    "SHA256": "29a8b9009509b39d542ecb229787cdf48f05e739a932289de9e9858d7c487c80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "13.10",
+    "SHA256": "2bead0f1f451734461ff88f913f4b02ba9e873b15f097a5c231bdb3763ea42e3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "2c18c5474f45d5ce10c4620640eebb28ab098371baae9d568f06609d6fd911ac",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.4-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.0",
+    "SHA256": "2cd07fd3c2786df06d8e3ddcf6ff5752550d04c08bd45b4f69e1d2789d908328",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "2d8dedd4dd295680afd1e410f767296d236409f489cd81972b7fd77782b4594a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-19.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "19.04",
+    "SHA256": "2da6f8b5c65b71b040c5c510311eae1798545b8ba801c9b63e9e3fd3c0457cbe",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.10",
+    "SHA256": "2e37611224dad7e40336f6dcfa24c3c693f32f751ec38c931291893d0c1b1d0d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.3-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.0",
+    "SHA256": "2e763f7f3546be33ebc9a59311b2eee3b0b0c8e021fae65431c219b531d26d32",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "11.10",
+    "SHA256": "31d5254e83457dfe7b46e6c2553b27b41e6e942122edb2b2ff5c3e9a82ad3256",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-25.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "25.10",
+    "SHA256": "32e30d72ae4798c633323a2684d94a11582bb03a6ab38d2b0d5ae5eabc5e577b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.2",
+    "SHA256": "3380883b70108793ae589a249cccec88c9ac3106981f995962469744c3cbd46d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "15.10",
+    "SHA256": "33873f5312261f858d212a47f2344073a6d0366c9607cef3b3f593e87e3aa8de",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "33df5aa8f187adb0bebab0416777e102bcd2de7da113ebad0d211a39617f90c0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "347232658fb14a7ff473ae8854b588da3df70e36b97e4f70e00f18c7b64e4b31",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "11.04",
+    "SHA256": "36578e6fa82e4c1194cb619d20e1f7fe4c6964b23b06a84835a3972c0cc7225c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "13.10",
+    "SHA256": "369a1f604df30e097f063829b27c39941a26e5771c53b35aa9ea0e0e0abb3a56",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.5-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04",
+    "SHA256": "3756b3201007a88da35ee0957fbe6666c495fb3d8ef2e851ed2bd1115dc36446",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.04-beta-desktop-legacy-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.04",
+    "SHA256": "3772efd5021fd5f76ad6772178c6e398c14632fe7f56f3472fa097ee62ae2daa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.4-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "3906a634a53305b2c4ecb8d693187f72f7834e9d58203338f762f4afcc28e6b5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "39eeb28bdb8af630850e75e54b9864ca07640a2bb10bd10055763236b99f9b1d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04",
+    "SHA256": "3a4c9877b483ab46d7c3fbe165a0db275e1ae3cfe56a5657e5a47c2f99a99d1e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.5",
+    "SHA256": "3a80be812e7767e1e78b4e1aeab4becd11a677910877250076096fe3b470ba22",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.4",
+    "SHA256": "3aeb42816253355394897ae80d99a9ba56217c0e98e05294b51f0f5b13bceb54",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-25.04-beta-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "25.04",
+    "SHA256": "3bdf7673f7af4589b7f0e934ccc113f9549e3f498208c4b83c7d0f53ac5d65f6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "3d720b4044c3f8baf14f706b09f012df82f269291b9f0ba0b3fc88e2bf07d0bd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.4-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.2",
+    "SHA256": "3de19967318906fd57252ef67ed3ad411b89e3ea6b81205e26517530d7a8cd0b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.2-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.1",
+    "SHA256": "3ef50e758698b5a8bb9c9c328f9a8c89ab2ebd31f689994f0a8f25618e34628a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.10",
+    "SHA256": "3ef833828009fb69d5c584f3701d6946f89fa304757b7947e792f9491caa270e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.0",
+    "SHA256": "3f22ba74de710bdfe96800d030480889449566fae91131f0bdce75056690946a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.5-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "3f8fe0a5987cf508317300963af7845b01a8e45fc7e7d3eb2b094a40ed8d0a3b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-19.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "19.10",
+    "SHA256": "3fe242f4b330ead8191b3c200bcf1d8d3be4243d62fe6b866a778499370c9dbb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.4-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.6",
+    "SHA256": "431001ea336e9f0495ad9404286645a1e7caf6b5cc239837a072921ba32b180e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.10",
+    "SHA256": "4405c37d61b5cac6c89eaf379c035058ed7db8594abd209337276c7c4556787e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.2-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.4",
+    "SHA256": "441c2ec93b27602b9b2648314b02f710f9335edabee8ed326b5ab50ac926d5da",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.1-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.2",
+    "SHA256": "443511f6bf12402c12503733059269a2e10dec602916c0a75263e5d990f6bb93",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.04-beta-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.04",
+    "SHA256": "44caf973bcd5bb0436ed402d3794d71bf262f2f5ed105937efa9ecf66eacd974",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.4-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.2",
+    "SHA256": "45f873de9f8cb637345d6e66a583762730bbea30277ef7b32c9c3bd6700a32b2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "11.10",
+    "SHA256": "462a1311378437b64dc507de7da6cab88528939dccee91940f94ce3e57c1cfab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-26.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.04",
+    "SHA256": "487f87faaf547ea30e0aba4d5b53346292571256b25333a978db1692bcee9dd2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.10",
+    "SHA256": "489079483487f92ad0d2f3d4b6c88a7b197969eb286b277534047920854a8b03",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.04-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "13.04",
+    "SHA256": "48af1ffd9f5c93fe41be03fde7a05c459f67fb05464db5c1841b5b7b81a6c661",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.0",
+    "SHA256": "4bcec83ef856c50c6866f3b0f3942e011104b5ecc6d955d1e7061faff86070d4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.10-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "12.10",
+    "SHA256": "4c3cc92224b73b4df7b697dd06314156a0af0705aa416cfd27b1015231cbe8e2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.4-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "4c4c982beede1094bcb20f93ccd8f79f63dec35b17d3e4b877d620f9faa47c38",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.3-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04",
+    "SHA256": "4c77f0b31861b0f07d59daf497f50d977ea007f10a040064e4672c1cb87f191b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.5-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.1",
+    "SHA256": "4d5faa527e1660f0d84b801e47d9cec3181d0c77560825d7100746430e7bab70",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.10",
+    "SHA256": "4fce7c02a5e5dbe3426da4aa0f8b7845e9a36aff29c5884d206a08e51b2c4c47",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.5-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.4",
+    "SHA256": "5035be37a7e9abbdc09f0d257f3e33416c1a0fb322ba860d42d74aa75c3468d4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.6-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.6",
+    "SHA256": "510ce77afcb9537f198bc7daa0e5b503b6e67aaed68146943c231baeaab94df1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.10-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "11.10",
+    "SHA256": "52711ce28e881e023071eba0def1af19788b495ec6755f0f235fdc0b51943c28",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.2-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "53c38db12b56474c69aa827dfaba58e5af2b6fce51e3fc4b7bb4e093c23824bf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "54574f47b1aef0f9e156afd86aa97cf76df89a957f9b5ab43552a427499ba7cb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.2-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.1",
+    "SHA256": "554a208e801f717c1e9d2b6adc7cdb24a30a3379ea3bb67eb70c06522d2a4797",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.2-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "55669794a00c61f946f1608026909af0bc9018206d4130f52c9f99896350480a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.4-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "564eb67534ab64dbddd4b5bed54ec96f447cbbeb27a8a1354eae85658559503f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.10-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "11.10",
+    "SHA256": "570c750de958874561c221fa25b14ed2633d189780297986e47aeb9ad5e5ff26",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.1",
+    "SHA256": "5748706937539418ee5707bd538c4f5eabae485d17aa49fb13ce2c9b70532433",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.1-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.5",
+    "SHA256": "5cd41b34c86799c92d316718d9763d225847bbc290aba0dc312623418e02d6cf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "5da9f31f36fcbb244249b4ce29db2a52f316df3a0069ee9876b259c052a447da",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.2-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.3",
+    "SHA256": "5e38b55d57d94ff029719342357325ed3bda38fa80054f9330dc789cd2d43931",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.10-beta-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.10",
+    "SHA256": "5e431c47de6c0616eae6d0db9ab1a3e75b95f848e99e9a8ef4165888e5fe18c2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.0",
+    "SHA256": "5fdebc435ded46ae99136ca875afc6f05bde217be7dd018e1841924f71db46b5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.5-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.2",
+    "SHA256": "6071b0844ecbb8aa9a246b15c7aa20e798d42ed5b41c1b71aaea1f4283985ba4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.3-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "61d5e67c70d97b33c13537461a0b153b41304ef412bb0e9d813bb157068c3c65",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.1-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.0",
+    "SHA256": "62fc3e810c7631fbbd45d9c960ec749fc1eb66e5c56039423e3e94a5391a437a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.2-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "63b7c9474398295355f01f57a1657405ae85b1c21953c6c996bbb6374f07e3aa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "64e7ae589c2da741fa3a9b1e18f69944f0e1f853ca9bfc2c6bf4a735982a5214",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "15.04",
+    "SHA256": "6501c8545374665823384bbb6235f865108f56d8a30bbf69dd18df73c14ccb84",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "13.10",
+    "SHA256": "68f496b24305a544fa027ab42e4b92f3d18616f4eced6a3f6b9111109b923bb5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.0",
+    "SHA256": "6b505fd3b6f816f8ff058710f127a9900e9233e496783ce08a0022814d224810",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.6-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.6",
+    "SHA256": "6c647b1ab4318e8c560d5748f908e108be654bad1e165f7cf4f3c1fc43995934",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.10-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "13.10",
+    "SHA256": "6e18666347acd135d93b4117a7252624d2fc4a77e8a3b3f2a4215d4b5c43714e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.1-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.3",
+    "SHA256": "6f45199d4e737fa4b16d4434fb74b17fbee23a6f4b5dca1cd5d579da5312ba80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.10",
+    "SHA256": "72b0d421da77f1e0c549b4efe6fc6c184e9909d6792f0d1e59b56d63e9705659",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.2-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.3",
+    "SHA256": "736f2c5700313494a2282092ca0f8b0048883ed48c5fdcf585d6e1852a3a110f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.2-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.5",
+    "SHA256": "737ae7041212c628de5751d15c3016058b0e833fdc32e7420209b76ca3d0a535",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.4-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.4",
+    "SHA256": "73b8d860e421000a6e35fdefbb0ec859b9385b0974cf8089f5d70a87de72f6b9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-dvd-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.4",
+    "SHA256": "74175945db37385c64df1a0e36762b5a7c90f7f65549dad985a14a8f633c6473",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.2-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "7473c7c9236feda718f4532e77df46ec777bddda5301b390c99478aa3b89b56d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.1-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.0",
+    "SHA256": "748941711ef4aeca8a68fddea57f17cbdf5f767d7d3a6770280a976f33d533a8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.6-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04",
+    "SHA256": "7509cabb2f9f6ba0a95f8454d432be2ef26679d31ce35baa626acc5321460fab",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "756a42474bc437f614caa09dbbc0808038d1a586d172894c113bb1c22b75d580",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.5-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.6",
+    "SHA256": "76006856dddc7dee2bf82d3cbcc593ae0a9912218077f8cb6cced41b2d3f2c2d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.2-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "76524ab9502a34b983ed56af2d5a72835ce41aec1e2b4c0cb7788ef596958ed6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.2-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "76d2e94e021eb87791f8d3b93ae5b2759981dfad4539fb6c7dd471f2351a9a90",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.3-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.2",
+    "SHA256": "76f6f804f76433c51b8bb6c073070bfb4b36e4da9dc5904e9a380074de49f992",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.1-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.2",
+    "SHA256": "77f43bc3332ce7a678b7b6b2fe9190e15276fd14d121be479f00bc18e570d323",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.5",
+    "SHA256": "7a1c2966f82268c14560386fbc467d58c3fbd2793f3b1f657baee609b80d39a8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.1.0-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.2",
+    "SHA256": "7b37dfcd082726303528e47c82f88f29c1dc9232f8fd39120d13749ae83cc463",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.0",
+    "SHA256": "7b8ef81dcbb66d8220cc9c043eee2e183f5cd20c1ef97c95706c86c96a9ae969",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.10",
+    "SHA256": "7b9f670c749f797a0f7481d619ce8807edac052c97e1a0df3b130c95efae4765",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.3-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.1",
+    "SHA256": "7d8e0055d663bffa27c1718685085626cb59346e7626ba3d3f476322271f573e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "7d9337e7b19d74b197100035ffa4318999e2d6a875bba020cfe197faeb98e904",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-19.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "19.04",
+    "SHA256": "7e8a0d07522f591dfee9bc9fcd7c05466763161e6cb0117906655bce1750b2fa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.10",
+    "SHA256": "818affdaea8d38bbbe620009bfa788a7cbc583c7c61c2d278f61dd3c43e030a0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.2-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "81bed02ad95a7f2c0f4f73233aa7e0041edfc4e7395040d0ec24c8724c01cf6c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.1",
+    "SHA256": "81fae9cc21e2b1e3a9a4526c7dad3131b668e346c580702235ad4d02645d9455",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.4-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.5",
+    "SHA256": "8283440880dd2ac4c6d07ee9b8ccf2df57637cb07ebe830ccd9f7b0da9e919b2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "837a6ec168913951bf6371a6df6837217790f4210045c9f991eab641533726fe",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.1-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "84a2e12313695847fdefc78e780487c17d940aff4f2e22ec62130581bde3aa7a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.3",
+    "SHA256": "84aeaf7823c8c61baa0ae862d0a06b03409394800000b3235854a6b38eb4856f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "85c738fefe7c9ff683f927c23f5aa82864866c2391aeb376abfec2dfc08ea873",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "15.10",
+    "SHA256": "86aa35a986eba6e5ad30e3d486d57efe6803ae7ea4859b0216953e9e62871131",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.10",
+    "SHA256": "874452797430a94ca240c95d8503035aa145bd03ef7d84f9b23b78f3c5099aed",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.1",
+    "SHA256": "8762f7e74e4d64d72fceb5f70682e6b069932deedb4949c6975d0f0fe0a91be3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04-beta-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.2",
+    "SHA256": "884667782ef3f3237695c68725f9f1f79d2d1cf2db94d3eb9d64a018341e87ee",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.2-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.2",
+    "SHA256": "8acd2f56bfcba2f7ac74a7e4a5e565ce68c024c38525c0285573e41c86ae90c0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-25.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "25.04",
+    "SHA256": "8b44046211118639c673335a80359f4b3f0d9e52c33fe61c59072b1b61bdecc5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.7-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04",
+    "SHA256": "8ba7e2687fb8a2152504475e92e489aace543059fd4ba7ffe10111c42394853b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.5-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04",
+    "SHA256": "8c5fc24894394035402f66f3824beb7234b757dd2b5531379cb310cedfdf0996",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.2",
+    "SHA256": "8d52f3127f2b7ffa97698913b722e3219187476a9b936055d737f3e00aecd24d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.3-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.2",
+    "SHA256": "8d5b84835082e6187504eead904f2672c2a9f3ef4ea5da9ddb6e2d6cf203d485",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.1-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "8e5edafb4b59817a9da51545c99c4c780c7cceb511e32d4c5ac519332224081f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.10.1-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "17.10",
+    "SHA256": "8ff73f1b622276758475c3bd5190b382774626de5a82c50930519381f6c3a3f8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "9002caa1b03305c72fcb17fd064c2a65f0385bafc8cff2237a1ab0a2b0e86c40",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-19.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "19.10",
+    "SHA256": "921fd8b271c04aa86a321cc35b40e677f9b85f7903bf2204efb2389b0f0a64c1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.2",
+    "SHA256": "92347467a9036b72450cc6c8f92316d85fa716a2be299a426988571b49a2db56",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "11.10",
+    "SHA256": "93384816bc09436f5b6d9dba79a915c7326f3cebc0f7a538e7f66b71dce188cf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.2.0-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.4",
+    "SHA256": "93bdab204067321ff131f560879db46bee3b994bf24836bb78538640f689e58f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.1-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.2",
+    "SHA256": "946a6077af6f5f95a51f82fdc44051c7aa19f9cfc5f737954845a6050543d7c2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-19.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "19.10",
+    "SHA256": "96a8095001d447bbb9078925d72f7a77a3f62fbd78460093759af4394ce83d79",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.1-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.2",
+    "SHA256": "976044842804eafc18390505508958b559c131211160ecae5e60694bdf171f78",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.2",
+    "SHA256": "980042c434321c67a0cd10e043aec6376bf9d1008179f47ac781bbaf732051cc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.10-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "12.10",
+    "SHA256": "99506b1d50059821c30e354afd1082936712f7213a7390b75ef70f9f7ec10dc8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.2",
+    "SHA256": "99b0c0642f390afa825be3eb88a53d0b15879e259ea206e836fd7fbbca790a8a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.5-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.5",
+    "SHA256": "9bc6028870aef3f74f4e16b900008179e78b130e6b0b9a140635434a46aa98b0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.1-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "9c21c99bab91462b6ca779bfcaccb1de466b9ad0309a9dbd6d196b4918cc72ef",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.4",
+    "SHA256": "9c769f0eb9740f785aa62cff54d9ae60dd6e73763d313c69734bf21924101d83",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.1-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.4",
+    "SHA256": "9e8c537d143ed558e1ba83543ad1158a22089ef071f10dc749bdb958d7266166",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.3-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.4",
+    "SHA256": "a06cd926f5855d4f21fb4bc9978a35312f815fbda0d0ef7fdc846861f4fc4600",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.10-beta-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.10",
+    "SHA256": "a124395732aba12098417e5fd65eee019d0d2e0b47d005b965036456f9f52ef7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.2-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.2",
+    "SHA256": "a2cb36dc010d98ad9253ea5ad5a07fd6b409e3412c48f1860536970b073c98f5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-alternate-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.5",
+    "SHA256": "a3a9083f78890fee246d06f0b1065d2a64ced4b2428f7693b0272e6d4bb22073",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.3-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "a3b345908a826e262f4ea1afeb357fd09ec0558cf34e6c9112cead4bb55ccdfb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "15.04",
+    "SHA256": "a3cfac5c32b217db2cab43f261dcbe2cc546d99ca23e113312fedb78733aef6b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.2",
+    "SHA256": "a435f6f393dda581172490eda9f683c32e495158a780b5a1de422ee77d98e909",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.3-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.3",
+    "SHA256": "a4acfda10b18da50e2ec50ccaf860d7f20b389df8765611142305c0e911d16fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04",
+    "SHA256": "a55353d837cbf7bc006cf49eeff05ae5044e757498e30643a9199b9a25bc9a34",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.1-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.5",
+    "SHA256": "a5b0ea5918f850124f3d72ef4b85bda82f0fcd02ec721be19c1a6952791c8ee8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.3-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "a5c02e25a8f6ab335269adb1a6c176edff075093b90854439b4a90fce9b31f28",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-dvd-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04",
+    "SHA256": "a7006397548606a681c6cab5e0fd9178b6081be9d371f52f94ece5586c54603c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.3-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.5",
+    "SHA256": "a755fa3c0bdfd40844a543146fbd585031ef72eefab5335b6c14ef2c10016bf0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.1",
+    "SHA256": "a7f5c7b0cdd0e9560d78f1e47660e066353bb8a79eb78d1fc3f4ea62a07e6cbc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "13.10",
+    "SHA256": "a7f7fcb03e5323a3619b84218c935dd9e54a348ee6ebd55748d81886a3272171",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.10",
+    "SHA256": "a80e87f21a6744e9ad744716d5b3b4bea509c861b597d699407b96de5d7e18af",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.04",
+    "SHA256": "a8cd6ccff865e17dd136658f6388480c9a5bc57274b29f7d5bd0ed855a9281a5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "aa01bd5f0a7dd7e645c6852cf4974289b8e111520bd0b86e8ca4151b9ccd572d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.2-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.5",
+    "SHA256": "aaed1111f4cde22bc62858f20a8f8a323baef1192044ea875bc27499ca8bd02d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.0",
+    "SHA256": "ababb88a492e08759fddcf4f05e5ccc58ec9d47fa37550d63931d0a5fa4f7388",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.04-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "11.04",
+    "SHA256": "ace74120f86f1d970383d3e2a43910f129537db7e828fdbaec2bdd8ff88d5c3b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.0",
+    "SHA256": "add4614b6fe3bb8e7dddcaab0ea97c476fbd4ffe288f2a4912cb06f1a47dcfa0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "ae50988cbba3616a4a33191781b4d8b4a24cb4010900670856ada1e660e00ea8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.5-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "af224223de99e2a730b67d7785b657f549be0d63221188e105445f75fb8305c9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.6-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04",
+    "SHA256": "b17d7c1e9d0321ad5810ba77b69aef43f0f29a5422b08120e6ee0576c4527c0e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.0",
+    "SHA256": "b20b956b5f65dff3650b3ef4e758a78a2a87152101a04ea1804f993d8e551ceb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.7-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.7",
+    "SHA256": "b23488689e16cad7a269eb2d3a3bf725d3457ee6b0868e00c8762d3816e25848",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "b41db9661970046e95aa2daf4bc3f42c1cbf5f0fbebfe1f06d43c7dea0a6b4ca",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.3",
+    "SHA256": "b45165ed3cd437b9ffad02a2aad22a4ddc69162470e2622982889ce5826f6e3d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "13.04",
+    "SHA256": "b4b20e0293c2305e83a60c605d39cabf43115794d574c68f1492d49fee0ab3d8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-netbook-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "b5fb67403769ca8d3a45b78da16d895101fdab731af4266e6e23881c2bbe4144",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "17.04",
+    "SHA256": "b718c7fb1066589af52f4ba191775b0fb514c5fb6fa7d91367043e1db06d8a0b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.4",
+    "SHA256": "b85286d9855f549ed9895763519f6a295a7698fb9c5c5345811b3eefadfb6f07",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-25.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "25.04",
+    "SHA256": "b87366b62eddfbecb60e681ba83299c61884a0d97569abe797695c8861f5dea4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.6",
+    "SHA256": "b8b172cbdf04f5ff8adc8c2c1b4007ccf66f00fc6a324a6da6eba67de71746f6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.6-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.6",
+    "SHA256": "b8f31413336b9393ad5d8ef0282717b2ab19f007df2e9ed5196c13d8f9153c8b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.3",
+    "SHA256": "b98dac940a82b110e6265ca78d1320f1f7103861e922aa1a54e4202686e9bbd3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.10",
+    "SHA256": "b98f13cd86839e70cb7757d46840230496b3febea309dd73bd5f81383474e47b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.3-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.2",
+    "SHA256": "b9beac143e36226aa8a0b03fc1cbb5921cff80123866e718aaeba4edb81cfa63",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.4-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "bbd09816d7ea83a5451036a94ef16c76c0722f676a9aa19e6846eccb8dd299bd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.6-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.6",
+    "SHA256": "bcc02554c37d438545658be7964e1bc05bdb11289ae16bfbf94626b80d42656f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "bcd8e92c6796a7801392789391f16309e3713cec2d1834d25ce55a150fd1e00a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.5-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04",
+    "SHA256": "bec39e79664aa189dea338993f636e54c5eda2f84c27def7b06bd6373ab87628",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04",
+    "SHA256": "bf48efb08cb1962bebaabeb81e4a0a00c6fd7dff5ff50927d0ba84923d0deed4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04",
+    "SHA256": "bfd1cee02bc4f35db939e69b934ba49a39a378797ce9aee20f6e3e3e728fefbf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-netbook-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "c06b55f15418563777386e07dd4e4157b39be94ad092426fd0c010cbc18348ee",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.1",
+    "SHA256": "c0ba532d8fadaa3334023f96925b93804e859dba2b4c4e4cda335bd1ebe43064",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.4",
+    "SHA256": "c0d025e560d54434a925b3707f8686a7f588c42a5fbc609b8ea2447f88847041",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.3-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.4",
+    "SHA256": "c2571c4c2fc17bef1fad9e5db5e7afdb4bd29cd8ab51e42f9c036238c4e54caa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.3",
+    "SHA256": "c2e6f4dc37ac944e2ed507f87c6188dd4d3179bf4a3f9e110d3c88d1f3294bdc",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.3-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.3",
+    "SHA256": "c3514bf0056180d09376462a7a1b4f213c1d6e8ea67fae5c25099c6fd3d8274b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-22.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "22.04.2",
+    "SHA256": "c396e956a9f52c418397867d1ea5c0cf1a99a49dcf648b086d2fb762330cc88d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.6-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.6",
+    "SHA256": "c3b0e016e77e6bcfc608ab3e3d2aa33367fc83e3bf645014ecf36689fe330b80",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.3-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.0",
+    "SHA256": "c3bbe7d11c079494d75e6e8bd8eeff474fbb409996ba69eef43da9666a2b391b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "c46753063ce93569cc6d9b7bc1d893982f7d47aa2c6e8a9180f886da8da86453",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.10",
+    "SHA256": "c753dbdf665a77e466f07b8f040af00111d609352484a5a915df82e66dd0d163",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-23.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "23.04",
+    "SHA256": "c7cda48494a6d7d9665964388a3fc9c824b3bef0c9ea3818a1be982bc80d346b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.1-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "c88d1900d2ed224b0e8b5c9da895c7a6a1a26780f233a360c862c0d41e85d7ce",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.5-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.4",
+    "SHA256": "c94de1cc2e10160f325eb54638a5b5aa38f181d60ee33dae9578d96d932ee5f8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "17.04",
+    "SHA256": "ca5d9a8438e2434b9a3ac2be67b5c5fa2c1f8e3e40b954519462935195464034",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.2",
+    "SHA256": "cab6b0458601520242eb0337ccc9797bf20ad08bf5b23926f354198928191da5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.0",
+    "SHA256": "caf3fd69c77c439f162e2ba6040e9c320c4ff0d69aad1340a514319a9264df9f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.4-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "cb60ac3b63b7159e8cf99cb0d2a253ab0ed09a089f899653336958692378dce2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.10-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "13.10",
+    "SHA256": "cb988e3361dfbd09f3378a4691a60ccb0bc0dfc45d1a0c3a503e89e16f9cf98c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "15.10",
+    "SHA256": "cc991993e3d9f57f27199877ac416157228fe6896212968d6e8c5aebd74e7ab0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "11.04",
+    "SHA256": "ccb7e6f1d1575f92f76e61413bd5b2235dd86c4e9a47b5d74bfe8352e95b9699",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.1-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.5",
+    "SHA256": "cea23ae1ce57e7ee2495b74cc232358523d8d0a754a3aa3dd7d8f9d55408f5ae",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.10",
+    "SHA256": "cf9250781dadd919f23c9d9612212cad653e35fccc2fbcf6853f67ad09e067ba",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.5",
+    "SHA256": "d1f10ea7ca59266567fa8d2522ad800e1aa063f139630f925d2484d8e169b4c2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.2-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.1",
+    "SHA256": "d1f2bf834bbe9bb43faf16f9be992a6f3935e65be0edece1dee2aa6eb1767423",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "d2236063ddd7a71652976011f2ac462c60d26c42e20226125498ba64d98ee8bd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.2-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.1",
+    "SHA256": "d3373add648c26e9bb3133397b5fcc22acd8aed8d54e116f3c6c0c0a0c041d98",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.04-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "11.04",
+    "SHA256": "d58bb6ccf46a5cb8f464b7099ad0b06cc9fd7c636fa60435cc2b7d18519bafe4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.2-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.2",
+    "SHA256": "d6dab0c3a657988501b4bd76f1297c053df710e06e0c3aece60dead24f270b4d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.3",
+    "SHA256": "d7fe3d6a0419667d2f8eff12796996328daa2d4f90cd9f87aa9371b362f987bf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.10",
+    "SHA256": "d91eee1b74fb81f4235fdaed21e7566bbe8965ec6b7206a122f2025365621ad6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "d942fd8a056f635062899b58e9e875eb89eaec9be09a0fefa713f4e162bb647e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "d94cf3c884dc7b8960992acec61fcfa6b4a0566cc02ad19895aefc1971f201bf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04-desktop-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.2",
+    "SHA256": "d9a217e80fb6dc2576d5ccca4c44376c25e6016de47a48e07345678d660fac51",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "dc40522fe5e70b2fed5737d1beb29da87b0072cc275e086ebed30cb83ecf1dd8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-25.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "25.10",
+    "SHA256": "dc54870e5261c0abad19f74b8146659d10e625971792bd42d7ecde820b60a1d0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.5",
+    "SHA256": "dc76b5ef8b242e2f4f05a0ca2265a1d5e7ace12da5d39c817ec251e0b2461d6f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.5",
+    "SHA256": "dc7dee086faabc9553d5ff8ff1b490a7f85c379f49de20c076f11fb6ac7c0f34",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "17.04",
+    "SHA256": "dd201dc338480d1f6ad52e4c40abbc9bfbf12eba71aeac8a87858a94951b002a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "17.04",
+    "SHA256": "dd7879be4e2f9f31672f6e7681ecafeccfac294afd8ca1b04b78bc37fb44291c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.5-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "dde07d37647a1d2d9247e33f14e91acb10445a97578384896b4e1d985f754cc1",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-26.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.04",
+    "SHA256": "dec49008a71f6098d0bcfc822021f4d042d5f2db279e4d75bdd981304f1ca5d9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.10",
+    "SHA256": "defdc1ad3af7b661fe2b4ee861fb6fdb5f52039389ef56da6efc05e6adfe3d45",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.3-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "dfc72a13b06cbd2dbd5750a71c62781c8531bbf023920b6dec668d1b066cc540",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.10",
+    "SHA256": "e1c74e163b06e28bfd71ef322ce986fb6098d03704408f9dc2eaf3ef6f7f86b9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.2",
+    "SHA256": "e1fb9e4901fe6f909788a87655d0a31ce364bfe7040d2a571170731236310c10",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.4-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.1",
+    "SHA256": "e20cf9e0812b52287ca22ac1815bc933c0cfef2be88191110b697d8943bef19e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.1-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.3",
+    "SHA256": "e240e4b801f7bb68c20d1356b60968ad0c33a41d00d828e74ceb3364a0317be9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.6-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.5",
+    "SHA256": "e27d13d089a027601099b050fd6080785aae99c1a8eb7848774b8d44f1f679b9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.3-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.1",
+    "SHA256": "e28a99e1754a5b04741cd09ff557df2173a0177df79782aa0eb952d3d9803a2b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.2-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.2",
+    "SHA256": "e2ce1771e352b04cfdef5bf6583f6a7d62b1f2967903fae512506d18d251a434",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.04.3-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.04.1",
+    "SHA256": "e2de881389dea452bad351e7bc90bd8a36bb216ed6981c5e0452978d0cac98af",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.4-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.3",
+    "SHA256": "e2ecdace33c939527cbc9e8d23576381c493b071107207d2040af72595f8990b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-beta-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "e3ed5ba713eb9b1c6b8edd5248c4d02a9ac34db55325cd3e2e92d3c686eb2585",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-21.04-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "21.04",
+    "SHA256": "e4089c47104375b59951bad6c7b3ee5d9f6d80bfac4597e43a716bb8f5c1f3b0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "11.04",
+    "SHA256": "e4ba7267d7a301ff2fb52fb7b4f143cc404ea56a0f2ce2cc63bdaaa4102381ad",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.4-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.1",
+    "SHA256": "e514191df0c633e92966b1b4f39966d8a4e4c30665dcc2e5a774a6bfb881ac87",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.1",
+    "SHA256": "e5b72e9cfe20988991c9cd87bde43c0b691e3b67b01f76d23f8150615883ce11",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.5-alternate-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "e6968717510705572ccac56d6ec0e68daab60b7e79ae3b442d8edbe8756805e5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-21.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "21.10",
+    "SHA256": "e84f546dfc6743f24e8b1e15db9cc2d2c698ec57d9adfb852971772d1ce692d4",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.4-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.2",
+    "SHA256": "e907d92eeec9df64163a7e454cbc8d7755e8ddc7ed42f99dbc80c40f1a138433",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.2-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04.0",
+    "SHA256": "ea6ccb5b57813908c006f42f7ac8eaa4fc603883a2d07876cf9ed74610ba2f53",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "17.10",
+    "SHA256": "eb921425349d2a51f90edc3977f83fb6fd8aed082b31515f1bde00d46b260492",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.0",
+    "SHA256": "eca367bb12f7bf197cfb2ab4835ac073b9ed902a8c37c075c28dd6b9f0e4bb55",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.04-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "13.04",
+    "SHA256": "edf1194d7bc99b64dca177deecade9e13f0a8c3339c9fd8832471a2e7ed1dda5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-16.04.6-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "16.04.7",
+    "SHA256": "eecb9c8160cdb08adf0c2f17daa1d403f5a55f14a856a5973f32f267eb9db039",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04",
+    "SHA256": "f295570badb09a606d97ddfc3421d7bf210b4a81c07ba81e9c040eda6ddea6a0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.04-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "15.04",
+    "SHA256": "f510169ddc03121d11a627ae3a231e1272d8e4d75f9ef76f73daa5b809c5b6d8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "f5ce20686a2f3201f04a309d04171ee15757f00954b33b87f3f1d36b3b0f5356",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-18.04.6-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "18.04",
+    "SHA256": "f730be589aa1ba923ebe6eca573fa66d09ba14c4c104da2c329df652d42aff11",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.10-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "14.10",
+    "SHA256": "f79edea19575e2cabb5ff9aeca787ea821fcfdbf81ce89823c26b020d9940956",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-21.10-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "21.10",
+    "SHA256": "f8d3ab0faeaecb5d26628ae1aa21c9a13e0a242c381aa08157db8624d574b830",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04-alternate-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.1",
+    "SHA256": "f8d54df0afbab6a6248f6e2bcab3e68f01c04d52b0bb1f889d880ad3bc881ccb",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.3-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.3",
+    "SHA256": "f8e3086f3cea0fb3fefb29937ab5ed9d19e767079633960ccb50e76153effc98",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-20.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "20.04.0",
+    "SHA256": "f92f7dca5bb6690e1af0052687ead49376281c7b64fbe4179cc44025965b7d1c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04.3",
+    "SHA256": "fa28d4b4821d6e8c5e5543f8d9f5ed8176400e078fe9177fa2774214b7296c84",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "15.04",
+    "SHA256": "fa3df5f845335eea6fe7f6f6a8c6b0291aa54d0b65a4dc17aa06536a73db3725",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-11.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "11.10",
+    "SHA256": "fa86559c1c1bea8a2246cb77ce1c4114e6b13e663369b9ed3a4310b86c011c57",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-21.04-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "21.04",
+    "SHA256": "fa95fb748b34d470a7cfa5e3c1c8fa1163e2dc340cd5a60f7ece9dc963ecdf88",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-15.10-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "15.10",
+    "SHA256": "fa97768bdc3f198b82180d39bf0c26f021ab716f5da98094cd220771095e3394",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.3-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.3",
+    "SHA256": "faabcf33ae53976d2b8207a001ff32f4e5daae013505ac7188c9ea63988f8328",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-12.04.4-server-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "12.04",
+    "SHA256": "fbe7f159337551cc5ce9f0ff72acefef567f3dcd30750425287588c554978501",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-10.10-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "10.10",
+    "SHA256": "fc5ca710694fe150d8023364b398c0868fe526a5c675969a8b77de917814927d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-14.04-server-amd64+mac.iso",
+    "OS": "Ubuntu",
+    "Version": "14.04.3",
+    "SHA256": "fd3a2254cd417b10458e88f04c2d594f351b09a659a459f443b3e3f4b8bfe099",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-13.04-desktop-i386.iso",
+    "OS": "Ubuntu",
+    "Version": "13.04",
+    "SHA256": "fe4c4de422734dccc9d33d0e3990ef3440b7648d5c05acae372d5ffc80ca719d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-17.10-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "17.10",
+    "SHA256": "ffb9f5a90c9a9a8e77f0826d6358d4d096edf60a74d0a216f995236ccd052a28",
+    "TrustLevel": "Official"
+  }
+]
