@@ -197,7 +197,7 @@ button:hover{
 
     <div class="statsBox compactStats" id="projectStats">
         <div class="statItem">
-            <div class="statLabel">Hashes</div>
+            <div class="statLabel">Total Hashes</div>
             <div class="statValue" id="totalHashes">-</div>
         </div>
 
@@ -211,14 +211,10 @@ button:hover{
             <div class="statValue" id="lastUpdate">-</div>
         </div>
 
-        <div class="statItem">
-            <div class="statLabel">Autor</div>
-            <div class="statValue" id="authorName">Dakhama Mehdi</div>
-        </div>
     </div>
 
     <div class="links">
-        <a href="#" title="Aide">Aide</a>
+        <a href="#" title="Help">Help</a>
         <a href="#" title="Article">Article</a>
         <a href="https://github.com/dakhama-mehdi/Check-ISO-Authenticity" target="_blank">GitHub</a>
     </div>
@@ -228,7 +224,7 @@ button:hover{
 <input
     type="text"
     id="searchInput"
-    placeholder="Collez un SHA256 ou un nom ISO..."
+    placeholder="Paste SHA256 or OS name..."
     onkeyup="handleSearchInput(event)"
 >
 
@@ -237,7 +233,7 @@ button:hover{
 <div class="info" id="info"></div>
 
 <div class="result" id="result">
-En attente...
+Pending...
 </div>
 
 <script>
@@ -262,7 +258,6 @@ async function loadProjectStats(){
     document.getElementById("totalHashes").innerText = s.TotalHashes || "-";
     document.getElementById("totalDistributions").innerText = s.TotalDistributions || "-";
     document.getElementById("lastUpdate").innerText = s.LastUpdate || "-";
-    document.getElementById("authorName").innerText = s.Author || "LogonIT.FR";
 }
 
 async function loadJsonFile(path){
@@ -443,7 +438,7 @@ function handleSearchInput(event){
 
 	if(event.target.value.trim() === ""){
 
-        document.getElementById("result").innerHTML = "En attente...";
+        document.getElementById("result").innerHTML = "Pending...";
 		allResults = [];
 		filteredResults = [];
 		currentPage = 1;
@@ -595,14 +590,14 @@ loadProjectStats()
 <tr><td>AlmaLinux</td><td>8+</td><td>archlinux</td><td>2022+</td><td>CentOS</td><td>Stream 9-10</td></tr>
 <tr><td>Debian</td><td>5+</td><td>Fedora</td><td>30+</td><td>FreeBSD</td><td>All</td></tr>
 <tr><td>Kali</td><td>All</td><td>Linuxmint</td><td>17+</td><td>NixOS</td><td>25.11+</td></tr>
-<tr><td>Opensuse</td><td>15+</td><td>Opnsense</td><td>22+</td><td>Oraclelinux</td><td>8+</td></tr>
+<tr><td>Opensuse</td><td>Leap 15+</td><td>Opnsense</td><td>22+</td><td>Oraclelinux</td><td>8+</td></tr>
 <tr><td>Parrot</td><td>6+</td><td>Proxmox</td><td>All</td><td>RHL</td><td>8-9</td></tr>
 <tr><td>Rocky</td><td>8+</td><td>Ubuntu</td><td>All</td><td>ZorinOS</td><td>15+</td></tr>
 </table>
 
 <div class="footer">
-    <span>CheckISO © 2026 - Dakhama Mehdi</span>
-    <span>Base communautaire de hashes ISO</span>
+    <span>© 2026_V1.0 - Dakhama Mehdi</span>
+    <span>Community ISO Hash Database</span>
 </div>
 
 
