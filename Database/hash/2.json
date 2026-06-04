@@ -417,6 +417,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.1183.6b316287bae2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1183.6b316287bae2",
+    "SHA256": "28e527f54815b2f8f93424ae43f78402fcb21aae42577e88c4acdfb1c2a2f984",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.2-installer-i386.iso",
     "OS": "Kali",
     "Version": "kali-2024.2",

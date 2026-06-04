@@ -261,6 +261,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.1183.6b316287bae2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1183.6b316287bae2",
+    "SHA256": "973547f33a6fb2f89609535a87a10e8a4b1e0dd7181b5849803f804b5ab627d8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-7-x86_64-DVD-2009.iso",
     "OS": "CentOS",
     "SHA256": "974296e88ea7e659e3f7986bd2fd5a33e8078477b9942392f14c892d4e48268c",
