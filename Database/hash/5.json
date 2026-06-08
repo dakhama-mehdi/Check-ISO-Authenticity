@@ -55,6 +55,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC3-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "51d767b127b1c558dd1712844131c31e27f56141925fb61b5e0983a19598f4a3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.2",

@@ -455,6 +455,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC3-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "ba0d896b2efbcca255d3e6ace368631fc57195169d1cdf928a0523f074543730",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-dvd.iso",
     "OS": "Rocky_Vault",
     "Version": "9.5",
@@ -547,6 +554,13 @@
     "OS": "Archlinux",
     "Version": "2024.11.01",
     "SHA256": "bceb3dded8935c1d3521c475a69ae557e082839b46d921c8b400524470b5c965",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-graphical-26.05.1415.9b696460ac78-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1415.9b696460ac78",
+    "SHA256": "bcfa1f70f5d22a17c6403a2cb8babbe3a06abf2cd144d628e72566f03ae54201",
     "TrustLevel": "Official"
   },
   {

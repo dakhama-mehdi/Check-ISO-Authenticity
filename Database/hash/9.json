@@ -500,6 +500,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "nixos-minimal-26.05.1415.9b696460ac78-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1415.9b696460ac78",
+    "SHA256": "9e2a0cf8d62d177e3f3e2f612dc81627db9fbb7fbf46b261d6dc3ce8836d4420",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.3.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "7.3.0",

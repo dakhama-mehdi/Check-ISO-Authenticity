@@ -596,6 +596,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC3-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "de2bb5a38d148eea3b44df589bd7e41936dd344a5da79310b8012a033fc91485",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2022.12.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2022.12.01",

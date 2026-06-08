@@ -344,6 +344,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-15.1-RC3-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "51d767b127b1c558dd1712844131c31e27f56141925fb61b5e0983a19598f4a3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.1-RELEASE-amd64-disc1.iso",
     "OS": "FreeBsd",
     "Version": "14.1",
@@ -942,6 +949,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RC3-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "ba0d896b2efbcca255d3e6ace368631fc57195169d1cdf928a0523f074543730",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-amd64-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "ba96f2e55ffba42ab72b1c22673038d9a9cad1392dfbfc1dc69e7f275eca7d95",
@@ -1129,6 +1143,13 @@
     "OS": "FreeBSD",
     "SHA256": "db61ece867f5ab3b534f4f980cf9e707e48ac893fc0a3ad18d227a20f87ed0cc",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "FreeBSD-15.1-RC3-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "de2bb5a38d148eea3b44df589bd7e41936dd344a5da79310b8012a033fc91485",
+    "TrustLevel": "Official"
   },
   {
     "Name": "FreeBSD-14.0-RELEASE-amd64-dvd1.iso",
