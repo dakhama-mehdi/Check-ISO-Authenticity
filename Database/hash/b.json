@@ -337,6 +337,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.1550.bd0ff2d3eac2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1550.bd0ff2d3eac2",
+    "SHA256": "b845c3bbafbe1c03e3ecede866f398f4dccb0e494342e6d95edfc3315da7efee",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-22.04-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "22.04.4",
