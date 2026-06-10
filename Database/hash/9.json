@@ -371,6 +371,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260609.1-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "9a2c6e15933085a910cf5c43fd87659d83cfb4d3afa630d7108f6b9e86b93011",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OracleLinux-R9-U2-x86_64-boot.iso",
     "OS": "Oraclelinux",
     "Version": "9.2",

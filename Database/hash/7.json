@@ -531,6 +531,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260609.1-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "7a5da9b5e6269674165a80234957a3aecad10fc7c2f6931764024f8b4a245d45",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.4.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "8.4.0",
@@ -700,6 +707,13 @@
     "OS": "Fedora_Server",
     "Version": "32",
     "SHA256": "7f4afd2a26c718f9f15e4bbfd9c2e8849f81036d2a82a4e81fa4a313a833da9c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "agama-installer.x86_64-21.0.0-Leap_16.1-Build32.2.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "7fd142393a89ddd1b900e0532fb00a84127536ec0fe78bde710a53dea6108c67",
     "TrustLevel": "Official"
   },
   {
