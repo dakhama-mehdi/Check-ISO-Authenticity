@@ -229,7 +229,12 @@
   {
     "Name": "Zorin_OS",
     "Url": "https://mirror.math.princeton.edu/pub/zorinos/",
-    "Versions": []
+    "Versions": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ]
   },
   {
     "Name": "Archlinux",
