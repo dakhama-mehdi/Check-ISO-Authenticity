@@ -302,6 +302,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-21.0.0-Leap_16.1-Build33.4.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "981e4a044419c9deb76ba0d8bb6713e40b5461ba03a29b3c663244474bacdcb3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpc64le-20250612-e6928c33f60c-277883-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "9855b76fda713b8f809ac41db2f94df6712054a3bc9ee5ba5930185f8e886df2",

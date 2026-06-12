@@ -653,10 +653,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260611.1-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "ef01e004c779e501d1502db1d798561c6336e87d5d6f7be148e8daa10abd2402",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Parrot-security-7.2_amd64.iso",
     "OS": "Parrot",
     "Version": "7.2",
     "SHA256": "ef290592760c26e2a24bf41e3187caf7f8d21662b95cb6c28aff5b96cfd56c04",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-9-20260611.1-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "ef6b6f312c422f889415ca512696f9b5fffcfe52718b3bb651759c0da4be9b2e",
     "TrustLevel": "Official"
   }
 ]
