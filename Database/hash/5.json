@@ -158,6 +158,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.1947.a0374025a863-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1947.a0374025a863",
+    "SHA256": "5490e6430a95064e7e58d3e731087ff70c7a57cbeae459dd5c56f0f7469991f2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2022.07.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2022.07.01",

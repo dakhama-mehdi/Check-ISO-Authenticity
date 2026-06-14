@@ -384,6 +384,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-15.1-RELEASE-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.4-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "12.04.3",

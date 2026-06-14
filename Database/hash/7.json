@@ -138,6 +138,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.1947.a0374025a863-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.1947.a0374025a863",
+    "SHA256": "736a1615dd5aeccc351a4e4a9149129e30b6e0c4e2dc68ffe8567754f96d85c5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.2-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "16.04.3",

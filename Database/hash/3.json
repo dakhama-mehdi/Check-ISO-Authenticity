@@ -509,6 +509,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RELEASE-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-amd64-20250612-47807edf0ac2-259309-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "3edb0321631dc7ae8bbc605bde4fe497833e7e7a86a0ba2b5fa24ab26be63065",

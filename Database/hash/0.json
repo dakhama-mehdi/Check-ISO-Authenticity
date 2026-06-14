@@ -139,6 +139,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.1-RELEASE-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.1",
+    "SHA256": "027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.2-installer-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2025.2",
