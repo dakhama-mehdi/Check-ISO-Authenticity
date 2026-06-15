@@ -238,7 +238,8 @@ Pending...
 
 <script>
 
-const BASE_URL = "https://checkiso.logonit.fr/";
+// const BASE_URL = "https://checkiso.logonit.fr/";
+	const BASE_URL = "";
 
 let allResults = [];
 let filteredResults = [];
@@ -247,7 +248,7 @@ const pageSize = 50;
 
 async function loadProjectStats(){
 
-    const stats = await loadJsonFile("/Database/os/stats.json");
+    const stats = await loadJsonFile("./Database/os/stats.json");
 
     if(stats.length === 0){
         return;
@@ -329,7 +330,7 @@ async function searchISO(){
         infoBox.innerText = "Recherche SHA256 dans " + prefix + ".json";
 
         const data = await loadJsonFile(
-            "/Database/hash/" + prefix + ".json"
+            "./Database/hash/" + prefix + ".json"
         );
 
         results = data.filter(x => {
@@ -366,7 +367,7 @@ else{
     for(const osFile of osFiles){
 
         const data = await loadJsonFile(
-            "/Database/os/" + osFile + ".json"
+            "./Database/os/" + osFile + ".json"
         );
 
         results.push(...data);
