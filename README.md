@@ -40,7 +40,7 @@ A compromised ISO can contain:
 
 Once deployed… it's already too late.
 
-[Online Linux Hash DataBase Community ](https://dakhama-mehdi.github.io/Check-ISO-Authenticity/Search.html) 
+[Online Linux Hash DataBase Community ](https://dakhama-mehdi.github.io/Check-ISO-Authenticity/) 
 
 ## The Problem
 
