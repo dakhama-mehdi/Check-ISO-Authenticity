@@ -200,6 +200,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-10-20260615.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "455d34ed7fa117295d9165587d7a8095bb6c2fc5ebb8329bb8c12823021a2933",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OracleLinux-R8-U5-x86_64-dvd.iso",
     "OS": "Oraclelinux",
     "Version": "8.5",

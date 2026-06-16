@@ -104,6 +104,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-21.0.0-Leap_16.1-Build33.6.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "534a28282d4b8c6c39364276243f5c5a72c26fef5f994ed3750d5ff5f47527a0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.3-kde-32bit.iso",
     "OS": "LinuxMint",
     "Version": "18.3",

@@ -480,6 +480,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260615.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "0d79ac869fa71c8a8724ddd54a47a5bca144c6917f91c2920afe043df187b27d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-9-20260526.0-x86_64-boot.iso",
     "OS": "Centos",
     "Version": "9-stream",

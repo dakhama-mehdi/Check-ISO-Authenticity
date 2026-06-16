@@ -131,6 +131,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260615.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "7312de222eb7ce3648b89ed23c2de93245e2f72bad0e0d2b931b338d4396d360",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.2-installer-netinst-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.2",

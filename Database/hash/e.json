@@ -672,5 +672,12 @@
     "Version": "9-stream",
     "SHA256": "ef6b6f312c422f889415ca512696f9b5fffcfe52718b3bb651759c0da4be9b2e",
     "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-9-20260615.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "efc4101ddddab139d2dda7d805e1b6e10ecc682890d2d37209f1d1cb54e8a98c",
+    "TrustLevel": "Official"
   }
 ]

@@ -2626,3 +2626,355 @@ SHA256     : 5490e6430a95064e7e58d3e731087ff70c7a57cbeae459dd5c56f0f7469991f2
 TrustLevel : Official
 
 
+
+===== 2026-06-16 07:57:46 =====
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-44-1.7.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 44
+SHA256     : 1620295f6a00c27c3208f0c00b8ece4eab1ec69b9002152d97488bf26a426ddf
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-43-1.6.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 43
+SHA256     : 2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-42-1.1.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 42
+SHA256     : 98958d80e8a80eabe61275337f969c8e2212adc3a223d9bbdab9411bb1c95cba
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-43-1.6.iso
+OS         : Fedora_Server
+Version    : 43
+SHA256     : 16fd70ddae2c7de13e485637c3da1fb385dd8220389f988279ea3b3d561243cc
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-44-1.7.iso
+OS         : Fedora_Server
+Version    : 44
+SHA256     : 85837793bfa36db6bc709b4cecd2ec116951b87d9c53c3d95eb2fac8dcf7cf1f
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-43-1.6.iso
+OS         : Fedora_Server
+Version    : 43
+SHA256     : aca06983bef83da9b43144c1a2ff4c8483e4745167c17f53725c16a16742e643
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-44-1.7.iso
+OS         : Fedora_Server
+Version    : 44
+SHA256     : ae20c06bea746913cadea7d80463e13f4bf55bee4df2918111c921c674b70283
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso
+OS         : Fedora_KDE
+Version    : 43
+SHA256     : 181fe3e265fb5850c929f5afb7bdca91bb433b570ef39ece4a7076187435fdab
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-44-1.7.x86_64.iso
+OS         : Fedora_KDE
+Version    : 44
+SHA256     : c8295961d4c41adbf785a31a17c21a971d3b7415fda72dcad0c11c49577bf03a
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-42-1.1.x86_64.iso
+OS         : Fedora_KDE
+Version    : 42
+SHA256     : cf4beecc21ffae86d0e368797cbcc02ba7f4c6549c626db01b1d3f4e1444da85
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 19cd2a93245e4687a064d2a45152781be13f7a7452b128b3dfd822e0eb647d1d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 2069de31f5b565a463ef35b6b068b8cc21f3c120238c3885eba60f2ca7143260
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC3-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 51d767b127b1c558dd1712844131c31e27f56141925fb61b5e0983a19598f4a3
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 55e2b256b15c9317cd92898aa90bab45ac3f1d874c1e3447e62f253f60d14ea0
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC3-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : ba0d896b2efbcca255d3e6ace368631fc57195169d1cdf928a0523f074543730
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC3-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : de2bb5a38d148eea3b44df589bd7e41936dd344a5da79310b8012a033fc91485
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-21.0.0-Leap_16.1-Build33.6.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : 534a28282d4b8c6c39364276243f5c5a72c26fef5f994ed3750d5ff5f47527a0
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260615.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 0d79ac869fa71c8a8724ddd54a47a5bca144c6917f91c2920afe043df187b27d
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260615.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 455d34ed7fa117295d9165587d7a8095bb6c2fc5ebb8329bb8c12823021a2933
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260615.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 7312de222eb7ce3648b89ed23c2de93245e2f72bad0e0d2b931b338d4396d360
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260615.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : efc4101ddddab139d2dda7d805e1b6e10ecc682890d2d37209f1d1cb54e8a98c
+TrustLevel : Official
+
+Name       : Parrot-spin-enlightenment-7.2_amd64.iso
+OS         : Parrot
+Version    : 7.2
+SHA256     : 01311c9bd040e9e7616997da7e2270d3029ac59269692c1252a5476286ba602b
+TrustLevel : Official
+
+Name       : Parrot-spin-lxqt-7.2_amd64.iso
+OS         : Parrot
+Version    : 7.2
+SHA256     : 18692074a9473d6211ee8dff55a1206f4ba8833693cf6a5652609deec5cb4372
+TrustLevel : Official
+
+Name       : Parrot-htb-6.4_amd64.iso
+OS         : Parrot
+Version    : 6.4
+SHA256     : 27898a00a2e5a5f934b61764e23e18e0e7406e53c8c33a8ead5797ea46be64a4
+TrustLevel : Official
+
+Name       : Parrot-home-7.1_amd64.iso
+OS         : Parrot
+Version    : 7.1
+SHA256     : 2ea59e6afe1d3e5951c1f1b9bc5a0b1ae49c0504d57fd8d24a6ff4d0ae6a1f79
+TrustLevel : Official
+
+Name       : Parrot-home-6.4_amd64.iso
+OS         : Parrot
+Version    : 6.4
+SHA256     : 33a8b404f2a13d7fe8098e004d1b106123764877fba55bf91e1b531d4246e9c0
+TrustLevel : Official
+
+Name       : Parrot-spin-lxqt-7.1_amd64.iso
+OS         : Parrot
+Version    : 7.1
+SHA256     : 34dc3ea08acd44c251029514b0ae671b3504a8a626d8d79a43ad2bbdf6153190
+TrustLevel : Official
+
+Name       : Parrot-spin-mate-7.2_amd64.iso
+OS         : Parrot
+Version    : 7.2
+SHA256     : 47778cd125e49c56d93b3531f4ee445a8e4f8cc9c1ab6c46c96b2efda7d2e090
+TrustLevel : Official
+
+Name       : Parrot-htb-6.2_amd64.iso
+OS         : Parrot
+Version    : 6.2
+SHA256     : 4e80321ee8a144a0a31328a22580a5dee4d5b4cc41504b1b039bcc8ad9b13f3d
+TrustLevel : Official
+
+Name       : Parrot-home-6.0_amd64.iso
+OS         : Parrot
+Version    : 6.0
+SHA256     : 8330e8baedcbf24bbfdfca4fca6263e8ea9198227220441a0e6118280cdbc842
+TrustLevel : Official
+
+Name       : Parrot-security-6.1_amd64.iso
+OS         : Parrot
+Version    : 6.1
+SHA256     : 859eb3f2943248c2198d29f090e67b7aaaa576e3c59925addc62016ccfb7e4a1
+TrustLevel : Official
+
+Name       : Parrot-spin-enlightenment-7.1_amd64.iso
+OS         : Parrot
+Version    : 7.1
+SHA256     : 91278cc3932bf33f786c22dcd1935e718feb3803e3fcb443cf70663ed361a6f0
+TrustLevel : Official
+
+Name       : Parrot-spin-mate-7.1_amd64.iso
+OS         : Parrot
+Version    : 7.1
+SHA256     : 9708d6c709a5724f092e3900cfbf8c76b64c2f7321b4171e94bf7d65fbe4f5fe
+TrustLevel : Official
+
+Name       : Parrot-htb-6.1_amd64.iso
+OS         : Parrot
+Version    : 6.1
+SHA256     : 9ea96a8fc159682d7d03306f183db96399c79f892d7e76403d76649fd96465d7
+TrustLevel : Official
+
+Name       : Parrot-security-6.0_amd64.iso
+OS         : Parrot
+Version    : 6.0
+SHA256     : ab9cce4aea0229c1d97f771f7a806924a9a24728eec3702516e9e8fbaa3dfbc1
+TrustLevel : Official
+
+Name       : Parrot-spin-htb-7.2_amd64.iso
+OS         : Parrot
+Version    : 7.2
+SHA256     : b0a1eaa274e615ec03154709887c4dd06246a1dbc7c629f0436315ce607a9001
+TrustLevel : Official
+
+Name       : Parrot-security-7.0_amd64.iso
+OS         : Parrot
+Version    : 7.0
+SHA256     : b0a9602f15f7372bc942c14544f690216f089d56be055c3abfe93cf3c12c0b18
+TrustLevel : Official
+
+Name       : Parrot-home-7.0_amd64.iso
+OS         : Parrot
+Version    : 7.0
+SHA256     : b9097becbed4737a8d232cfc4547dd30dfbe90254e9d53ca20dab9641be09759
+TrustLevel : Official
+
+Name       : Parrot-htb-6.0_amd64.iso
+OS         : Parrot
+Version    : 6.0
+SHA256     : baccfb733569f8ee3caecc9acd26df426cd154eb099882777291eb5c1665fcb8
+TrustLevel : Official
+
+Name       : Parrot-home-6.2_amd64.iso
+OS         : Parrot
+Version    : 6.2
+SHA256     : c985272d46831d2739e50ed22384a13c85695a89c2a6c3ac6dce930b5b59fe99
+TrustLevel : Official
+
+Name       : Parrot-security-6.3.2_amd64.iso
+OS         : Parrot
+Version    : 6.3.2
+SHA256     : d34eb244f338949c76e506d86b193db192b98bd1447e269be24f8b5bab197a02
+TrustLevel : Official
+
+Name       : Parrot-security-6.4_amd64.iso
+OS         : Parrot
+Version    : 6.4
+SHA256     : d3f62af2d7d13372fcf0708ea8e5a12ebe819777a5b0d5a0921b39f6f6e1eefc
+TrustLevel : Official
+
+Name       : Parrot-home-7.2_amd64.iso
+OS         : Parrot
+Version    : 7.2
+SHA256     : db9907512d215e68a529249e9f72530c0ef5950bf8e3da6ccb52203d732db48f
+TrustLevel : Official
+
+Name       : Parrot-security-6.2_amd64.iso
+OS         : Parrot
+Version    : 6.2
+SHA256     : e13d8fe66d02b261dd7e0d8ecda6db9adc378c989223e0c96c4a1cc0257d841b
+TrustLevel : Official
+
+Name       : Parrot-htb-6.3.2_amd64.iso
+OS         : Parrot
+Version    : 6.3.2
+SHA256     : ee8448b62778b5c740923636d08b9341f34f73c440f1362262a66469f4ca854b
+TrustLevel : Official
+
+Name       : Parrot-security-7.2_amd64.iso
+OS         : Parrot
+Version    : 7.2
+SHA256     : ef290592760c26e2a24bf41e3187caf7f8d21662b95cb6c28aff5b96cfd56c04
+TrustLevel : Official
+
+Name       : Parrot-security-7.1_amd64.iso
+OS         : Parrot
+Version    : 7.1
+SHA256     : fbed8991a65fe15d848c7a388aad5f180c2a4d0e530f954f655c8177d95db1cb
+TrustLevel : Official
+
+Name       : Parrot-home-6.3.2_amd64.iso
+OS         : Parrot
+Version    : 6.3.2
+SHA256     : fd3f6b19e43eee3475cefd9f57bbc73f521e60707b538e47cbf549c3f24339de
+TrustLevel : Official
+
+Name       : Parrot-home-6.1_amd64.iso
+OS         : Parrot
+Version    : 6.1
+SHA256     : fee55007c6eb20372389705540d2c8ada4f7ba46e0ab67d3346829e34a5f8963
+TrustLevel : Official
+
+
