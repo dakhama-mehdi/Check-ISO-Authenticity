@@ -1,5 +1,12 @@
 [
   {
+    "Name": "debian-7.3.0-amd64-CD-13.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "b0534bb1855513ee97956b85001f4759251155eecc27cb6f7913458cb300351f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2021.1-installer-i386.iso",
     "OS": "Kali",
     "Version": "kali-2021.1",
@@ -34,6 +41,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-8.11.0-amd64-CD-35.iso",
+    "OS": "Debian",
+    "Version": "8.11.0",
+    "SHA256": "b0ed8178ad01bfcdea7ae49429735de059c9660ab561b4dd57dffc317217d69c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.2.0-amd64-CD-16.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "b12e850254228fb6fc5ea5d7c59730ece4661cddb47d86f383b997e546bac118",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-21.2-cinnamon-64bit-edge.iso",
     "OS": "Linuxmint",
     "Version": "21.2",
@@ -55,6 +76,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-8.11.1-amd64-CD-69.iso",
+    "OS": "Debian",
+    "Version": "8.11.1",
+    "SHA256": "b16f6260095130123f2865673dc928c30f65ce37ade956d1364148b65707d570",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.6-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "14.04",
@@ -62,10 +90,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.0.0-amd64-CD-37.iso",
+    "OS": "Debian",
+    "Version": "7.0.0",
+    "SHA256": "b19b2da3271f1ab1ec4f8a429b237fd8483f6881a7500283613ea4b613fc9275",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-13.0.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "13.0.0",
     "SHA256": "b1dba9018e3be83412d7f202af1ce95983c4da6492c87d8cfb80d1df28719e78",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-update-7.11.0-amd64-CD-8.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "b1f3476736ddf99e4808ddbac4cf72e154652a4a8b09308baf56902fb74d069a",
     "TrustLevel": "Official"
   },
   {
@@ -110,6 +152,27 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.0.0-amd64-CD-54.iso",
+    "OS": "Debian",
+    "Version": "7.0.0",
+    "SHA256": "b2e24502aa14f97079380430c6b6c98e104a452bdde0eb471839479d95b40ac3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.3.0-amd64-CD-57.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "b2e8ea4a44218b9eeeba1ab5398836e6d138872a8c24e8007589835fe09fe699",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-update-6.0.10-amd64-CD-1.iso",
+    "OS": "Debian",
+    "Version": "6.0.10",
+    "SHA256": "b2f689bee2fcd659fbc354782394f474f0d8ed698625cde0dfa0d61c2ae2ffa7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-10.7.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "10.7.0",
@@ -117,10 +180,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-8.11.0-amd64-CD-24.iso",
+    "OS": "Debian",
+    "Version": "8.11.0",
+    "SHA256": "b33ab531aae390a4547897ee5ce1effd51f0098327f65dbd116bc73372dc5358",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-9.13.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.13.0",
     "SHA256": "b36eed37d9e71877fdcf7585fb141673ddad6fe7663422b400223f4f8d88afc8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.11.0-amd64-CD-8.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "b3874d45b801ff37f93a599bcdee0596134a8a7cf3c94c2d4ecce84bc7073721",
     "TrustLevel": "Official"
   },
   {
@@ -151,6 +228,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "debian-7.3.0-amd64-CD-25.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "b4102488c6bec36458a3dbe73c80e538d85bb38dd0bac7869073f080ae33ab83",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.1-mate-64bit.iso",
     "OS": "LinuxMint",
     "Version": "18.1",
@@ -162,6 +246,13 @@
     "OS": "Ubuntu",
     "Version": "12.04.3",
     "SHA256": "b41db9661970046e95aa2daf4bc3f42c1cbf5f0fbebfe1f06d43c7dea0a6b4ca",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.3.0-amd64-CD-15.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "b433d2fcf069e18bb41cec771c8ea26c0f2b32e0e82aac1ea83fd98dc0956197",
     "TrustLevel": "Official"
   },
   {
@@ -221,6 +312,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.2.0-amd64-CD-38.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "b5b4a585b822bba726115362c7d9ce9c19e428129f98e435d6eb2a463f9733c1",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.1-mate-32bit.iso",
     "OS": "LinuxMint",
     "Version": "17.1",
@@ -241,6 +339,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "debian-7.11.0-amd64-CD-30.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "b68e3331cf60ca0cef17aed1abd25f989a49abfdda929e2bd544cf0447b83265",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.9.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "7.9.0",
@@ -259,6 +364,13 @@
     "OS": "Kali",
     "Version": "kali-2024.4",
     "SHA256": "b6e0d3ebaa451de568b0bad1b40dee2217e8ae1463d9d91c80c9e1dc0b8599ed",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-6.0.10-amd64-CD-50.iso",
+    "OS": "Debian",
+    "Version": "6.0.10",
+    "SHA256": "b709340a7c5517899d9410328bfa4fea4791ce4816ffb54c63ab188fd0215ce5",
     "TrustLevel": "Official"
   },
   {
@@ -303,6 +415,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "debian-7.2.0-amd64-CD-47.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "b78185892aa61dde2a0e70a8d6084f734aeaa4e7f04399fc1948adb978d67078",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-7-x86_64-NetInstall-2009.iso",
     "OS": "CentOS",
     "SHA256": "b79079ad71cc3c5ceb3561fff348a1b67ee37f71f4cddfec09480d4589c191d6",
@@ -313,6 +432,13 @@
     "OS": "NixOS",
     "Version": "25.11.11278.b77b3de87756",
     "SHA256": "b7ab965ab5c7130aaab82ac9ecf685c97c3e7f681aff2e2aa3022f7a8cfd63ee",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-update-5.0.9-amd64-CD-3.iso",
+    "OS": "Debian",
+    "Version": "5.0.9",
+    "SHA256": "b7b425d603b751a4a7375008982b55796bf3bb126c9376da5ff429514f3c45a5",
     "TrustLevel": "Official"
   },
   {
@@ -330,10 +456,31 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.3.0-amd64-CD-8.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "b8287c4fda26b5e209154ea5ca3c6a2db5db592a193f4ded111cf0b48cc82602",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-update-7.2.0-amd64-CD-3.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "b82c636d0d594a7e0f76304d8568fa1b899c3182597f0f5b284e710c057c0fc6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.2-live-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2024.2",
     "SHA256": "b82da505f879855749b11062c59e34b9eeb990c2b53fa342dba7976b4368c387",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-update-5.0.4-amd64-CD-3.iso",
+    "OS": "Debian",
+    "Version": "5.0.4",
+    "SHA256": "b845bd990d5cf3bc255831be87f6721c2dbdcca88eb6f08f79db217a261792a0",
     "TrustLevel": "Official"
   },
   {
@@ -406,6 +553,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-6.0.10-amd64-CD-52.iso",
+    "OS": "Debian",
+    "Version": "6.0.10",
+    "SHA256": "b93333076f65f4a8dacc997a6d00be8120cd97cfa0ff2ecdec032f72fc80b2ee",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-17.2-Lite-64-bit.iso",
     "OS": "Zorin_OS",
     "Version": "17",
@@ -448,6 +602,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.2.0-amd64-CD-40.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "b9b71354c9183fb4d515c880cae195dcb52d7cb8a85923a8a82037e6b301533e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-6.0.10-amd64-CD-34.iso",
+    "OS": "Debian",
+    "Version": "6.0.10",
+    "SHA256": "b9bc9e04a98e905fcc1aa08ffdc595e490ca997341db4d8f38a41f591ee4538c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.1-RC1-amd64-bootonly.iso",
     "OS": "FreeBsd",
     "Version": "15.1",
@@ -469,6 +637,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-8.11.1-amd64-CD-25.iso",
+    "OS": "Debian",
+    "Version": "8.11.1",
+    "SHA256": "ba0e4a40ec3f5b12725c6d9053d75e67bea14ebf132444d514aa932227f3700b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-dvd.iso",
     "OS": "Rocky_Vault",
     "Version": "9.5",
@@ -487,6 +662,20 @@
     "OS": "FreeBSD",
     "SHA256": "ba96f2e55ffba42ab72b1c22673038d9a9cad1392dfbfc1dc69e7f275eca7d95",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "debian-6.0.10-amd64-CD-18.iso",
+    "OS": "Debian",
+    "Version": "6.0.10",
+    "SHA256": "baa487f9256753996c3b434ba0f1215f7f2e9b2e63e4cf32f87e49eb3d75a5b7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.0.0-amd64-CD-9.iso",
+    "OS": "Debian",
+    "Version": "7.0.0",
+    "SHA256": "bac80c5f235926739b98a1e7d5e93bf94f9a5e5a4e38ffc7637a58b24ea9e398",
+    "TrustLevel": "Official"
   },
   {
     "Name": "Parrot-htb-6.0_amd64.iso",
@@ -516,10 +705,38 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.11.0-amd64-CD-53.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "bb210dd555fc1919f272a69920310a4489c63fe128a68d136b1d33aa3f1cf6db",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19.1-cinnamon-64bit.iso",
     "OS": "LinuxMint",
     "Version": "19.1",
     "SHA256": "bb4b3ad584f2fec1d91ad60fe57ad4044e5c0934a5e3d229da129c9513862eb0",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.3.0-amd64-CD-47.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "bb737a9f7eda066899ac1269f41fcad0f86822338f2f217bc806133f215e8a94",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-8.11.0-amd64-CD-11.iso",
+    "OS": "Debian",
+    "Version": "8.11.0",
+    "SHA256": "bb7fad3db746d4101bb8701aa08e3c496126c643fc0f9adb31dda517618709bd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.3.0-amd64-CD-60.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "bb97b9dd2bfade8b3479c60c2ab16587a9b7e761e823f9df333d19a4c4ee2474",
     "TrustLevel": "Official"
   },
   {
@@ -534,6 +751,20 @@
     "OS": "FreeBsd",
     "Version": "12.2",
     "SHA256": "bc997989eafb41fcabd6ed55e379134c7322425391d1cd0e5eff37759fc7f865",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.0.0-amd64-CD-50.iso",
+    "OS": "Debian",
+    "Version": "7.0.0",
+    "SHA256": "bcb850fe3fb0dee7f87730b2db42442ef8faeeae2cf71047367193b4dea6d038",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.2.0-amd64-CD-3.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "bcbab3e8791eedbf7b19e4d07eea918fa415f2a71344bdb5bd5ca69f1865c790",
     "TrustLevel": "Official"
   },
   {
@@ -578,10 +809,31 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.3.0-amd64-CD-63.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "bd6eafb280b832ef49a387ec10a019f6d895338ce2e248ba0b5eb268ffec162e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.4-installer-netinst-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2025.4",
     "SHA256": "bd85a8e8230e52cb4a0a7600d433220f7b630d306377b7c7e81ded65acfe2808",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.11.0-amd64-CD-36.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "bda762e0a3e95f5b52296ff8a9b588dc30f634f7680316e8bff0613c5bc4a97d",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.11.0-amd64-CD-27.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "bdbb08a1fc27004e51058d1308aac84a0206c26aed89f623654d77b5b9f570dd",
     "TrustLevel": "Official"
   },
   {
@@ -592,10 +844,38 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.2.0-amd64-CD-13.iso",
+    "OS": "Debian",
+    "Version": "7.2.0",
+    "SHA256": "be48210dfebc40622248ed78d01147d26ab204d59983fa5764d840acba8eb042",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-kde-32bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
     "SHA256": "be64bf240a47df03fedca1b8aeb9357896e3dedd55446a0f87eca4f638c9d28c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-8.11.1-amd64-CD-58.iso",
+    "OS": "Debian",
+    "Version": "8.11.1",
+    "SHA256": "be730ebb495c965e656dcacd094b69e2cfc732865c6f75ba92ea802ae652d996",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-8.11.0-amd64-CD-49.iso",
+    "OS": "Debian",
+    "Version": "8.11.0",
+    "SHA256": "be9fd55507281151903933d3ec751d60ef03f80915b5885c2def63d972c48b5a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-update-5.0.6-amd64-CD-1.iso",
+    "OS": "Debian",
+    "Version": "5.0.6",
+    "SHA256": "beb863469737d3ceec382010733c1f98a782aaa3a5ee5db98ca6842121f91643",
     "TrustLevel": "Official"
   },
   {
@@ -634,6 +914,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-7.11.0-amd64-CD-28.iso",
+    "OS": "Debian",
+    "Version": "7.11.0",
+    "SHA256": "bf83256d661ec1c757af92275a1e7ba8aac750fe77778b45f0ea36861370937c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250612-5dbdbff46b08-271653-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "bfa02fb251b53aeef2a9aaef8e0c6109bbe3ea2298b991c2352cb719f5a104e9",
@@ -647,10 +934,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.2-live-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "bfafd9f44dfed524d5683a26802b6e50a953228bbbea0c14ead52286201e01d6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-16-Education-64-bit.iso",
     "OS": "Zorin_OS",
     "Version": "16",
     "SHA256": "bfc42bd2328dcce7a90b1a24de2a9e19e243b90af3df76a0767b39ec650ef04c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-7.3.0-amd64-CD-59.iso",
+    "OS": "Debian",
+    "Version": "7.3.0",
+    "SHA256": "bfcda543665b8148b80924763516002f9b765fd3421ffe4e9d73b1c5ed6f8d8d",
     "TrustLevel": "Official"
   },
   {

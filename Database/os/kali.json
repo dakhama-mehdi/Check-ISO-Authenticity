@@ -56,6 +56,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.2-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "147217f34f75eb8a71f5c3902a33512a3a9d052b1aa5272627a89dc474bf866e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.4-installer-netinst-i386.iso",
     "OS": "Kali",
     "Version": "kali-2023.4",
@@ -67,6 +74,13 @@
     "OS": "Kali",
     "Version": "kali-2022.1",
     "SHA256": "172b24b051311f40c8da05f346ec036ee373e0b1eed19b6db31252bd05a9a0f8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "17e21022ebcf80b62b2db5001422f9aba46b52d4f86aec0cfde030d61f1446a2",
     "TrustLevel": "Official"
   },
   {
@@ -172,6 +186,13 @@
     "OS": "Kali",
     "Version": "kali-2022.1",
     "SHA256": "275e2ff3f4fc2645123cd1a3058426d6e5213eb9652aa0e29fb19dd893668491",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "2811cae0fc79c0999152b8c54d3259e94e3b42d04c799781d7c2e055d2e101f1",
     "TrustLevel": "Official"
   },
   {
@@ -343,6 +364,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.2a-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "4aeaac60c69fb7137beaaef1fa48c194431274bcb8abf2d9f01c1087c8263b6a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.2-installer-netinst-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2025.2",
@@ -361,6 +389,13 @@
     "OS": "Kali",
     "Version": "kali-2022.1",
     "SHA256": "5616d0549032ffecd6932ab89496518832f4900a35e5b918022f56d8bc6d99c6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2a-installer-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "567d34e3af1e2504920af552f3edb7fe0e704f11a6099b137e97c986161c9efc",
     "TrustLevel": "Official"
   },
   {
@@ -392,6 +427,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.2-installer-netinst-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "5d10e3d8bbb90297d446d01a60312ff7eb25cbdfda32711c0038adb620bca2dd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.1-installer-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2024.1",
@@ -403,6 +445,13 @@
     "OS": "Kali",
     "Version": "kali-2025.4",
     "SHA256": "5dccf7b04ab19590413fccd08f8db68e59f39f72ad4b08f1c63836cd66155635",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "5de6c7880f01d4a10e8c08e0b945ea51e374b85c99a6240e9f7754d123b3db6f",
     "TrustLevel": "Official"
   },
   {
@@ -427,10 +476,24 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.2-installer-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "61271c71b40ccaa9542a2a318bfc86b45d88734f35586646b9e67459d64c5952",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.1-live-i386.iso",
     "OS": "Kali",
     "Version": "kali-2024.1",
     "SHA256": "6257bbbbe544d30898505911fa8e74cc29852e5657fdada43f95ae72156e61e5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2a-installer-netinst-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "6548633ecc10868d48c6638e31f7d356749d7787306cd9feb839ec968770aa4d",
     "TrustLevel": "Official"
   },
   {
@@ -459,6 +522,13 @@
     "OS": "Kali",
     "Version": "kali-2025.4",
     "SHA256": "65f572dfbc735488d840af0d734b6f3e9786737b79ea95a7a578024bd28c9319",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-live-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "66674c95818017fd4f1c4bb04c1387b028ca1ac40f798cfc1d9e4ba276e8bf16",
     "TrustLevel": "Official"
   },
   {
@@ -553,6 +623,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2023.2a-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "7790115f6df268d93924a9bf079021b6b8f0c28d6255476fd102efd387dfbbf6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2022.1-installer-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2022.1",
@@ -599,6 +676,13 @@
     "OS": "Kali",
     "Version": "kali-2023.3",
     "SHA256": "7cc7c27ec4f168e03947e5cd483aa49c072b7115badeb9e3339069e341631965",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "7d63c66c4b8ccd6204cf53cb0bf18def2651f434dae3eda8b82839a5dc01fb93",
     "TrustLevel": "Official"
   },
   {
@@ -651,6 +735,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2020.2-installer-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2020.2",
+    "SHA256": "8f31707efe50e204fbe35bb584412af712515c4af4662c468acd6e0f11785b38",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.3-live-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.3",
@@ -683,6 +774,13 @@
     "OS": "Kali",
     "Version": "kali-2025.3",
     "SHA256": "93f59b2d2eaff7b875fa7fcc1a680f259b7c62b7718dafdc46b00441164d1b01",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2a-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "94ce3f6b81be33e2f80de157d69222efbfe6c404491b25292a8058a62096c594",
     "TrustLevel": "Official"
   },
   {
@@ -812,6 +910,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2020.2-installer-netinst-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2020.2",
+    "SHA256": "ac95852806c6c8066b7dacc6c693674fc21e815ecf7e4722f1e024a1acba59a2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2020.1-live-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2020.1",
@@ -837,6 +942,13 @@
     "OS": "Kali",
     "Version": "kali-2022.3",
     "SHA256": "ae977f455924f0268fac437d66e643827089b6f8dc5d76324d6296eb11d997fd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2020.2-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2020.2",
+    "SHA256": "ae9a3b6a1e016cd464ca31ef5055506cecfc55a10f61bf1acb8313eddbe12ad7",
     "TrustLevel": "Official"
   },
   {
@@ -900,6 +1012,20 @@
     "OS": "Kali",
     "Version": "kali-2024.4",
     "SHA256": "beca4f8fd7f58eda290812f538e1323d3ba1f1a34df4b203e85de4be42525bb6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-live-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "bfafd9f44dfed524d5683a26802b6e50a953228bbbea0c14ead52286201e01d6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2-installer-netinst-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "c097f0ef0958b1dbd3613d8b9fdc59f7aa905e133089e5b46540d44b6996e687",
     "TrustLevel": "Official"
   },
   {
@@ -1029,6 +1155,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2020.2-live-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2020.2",
+    "SHA256": "d4833fc2095415ffd2e05fb7525d8519b62f3be9af366cffdd4cdd887c0cec62",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.3-installer-netinst-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2024.3",
@@ -1054,6 +1187,13 @@
     "OS": "Kali",
     "Version": "kali-2023.3",
     "SHA256": "dd4069ab3e5e06767bc5a650d1dd8bb2825982e76d459bf1bdf7ac34b2021df8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2020.2-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2020.2",
+    "SHA256": "def160159e12ff52fb5f4991240bd760500d7cd5ee38601a8bf35809a20f9450",
     "TrustLevel": "Official"
   },
   {
@@ -1089,6 +1229,20 @@
     "OS": "Kali",
     "Version": "kali-2025.2",
     "SHA256": "e5ba90aaf3d507fd3bf85e9cd6760a09fd2e74185e063895a1bad11d8c3c6507",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2020.2-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2020.2",
+    "SHA256": "e90e0cfb4bc8fc640219dba66c9fe4308c9502164e432c47a30af50ce9cb3ba2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2a-installer-netinst-i386.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "ea30fe459761adc3ff4b5caeb37da99dae1253b520b0cff97b1a892b7740b9f5",
     "TrustLevel": "Official"
   },
   {
@@ -1159,6 +1313,13 @@
     "OS": "Kali",
     "Version": "kali-2022.3",
     "SHA256": "f87618a6df20b6fdf4edebee1c6f1d808dee075a431229b3f75a5208e3c9c0e8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2023.2a-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2023.2",
+    "SHA256": "f8c054fda06229b5ba26c7a367989eeeac91a4813318255eff173b7d7144bae1",
     "TrustLevel": "Official"
   },
   {
