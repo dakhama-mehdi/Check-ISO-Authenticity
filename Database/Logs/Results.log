@@ -3886,3 +3886,127 @@ SHA256     : fee55007c6eb20372389705540d2c8ada4f7ba46e0ab67d3346829e34a5f8963
 TrustLevel : Official
 
 
+
+===== 2026-06-18 15:29:18 =====
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 19cd2a93245e4687a064d2a45152781be13f7a7452b128b3dfd822e0eb647d1d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 2069de31f5b565a463ef35b6b068b8cc21f3c120238c3885eba60f2ca7143260
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC3-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 51d767b127b1c558dd1712844131c31e27f56141925fb61b5e0983a19598f4a3
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC2-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 55e2b256b15c9317cd92898aa90bab45ac3f1d874c1e3447e62f253f60d14ea0
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC3-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : ba0d896b2efbcca255d3e6ace368631fc57195169d1cdf928a0523f074543730
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RC3-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : de2bb5a38d148eea3b44df589bd7e41936dd344a5da79310b8012a033fc91485
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-21.0.0-Leap_16.1-Build33.6.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : 534a28282d4b8c6c39364276243f5c5a72c26fef5f994ed3750d5ff5f47527a0
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260615.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 0d79ac869fa71c8a8724ddd54a47a5bca144c6917f91c2920afe043df187b27d
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260615.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 455d34ed7fa117295d9165587d7a8095bb6c2fc5ebb8329bb8c12823021a2933
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260615.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 7312de222eb7ce3648b89ed23c2de93245e2f72bad0e0d2b931b338d4396d360
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260615.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : efc4101ddddab139d2dda7d805e1b6e10ecc682890d2d37209f1d1cb54e8a98c
+TrustLevel : Official
+
+

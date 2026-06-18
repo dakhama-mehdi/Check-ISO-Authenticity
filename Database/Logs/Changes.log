@@ -292,3 +292,15 @@ CentOS      Updated 10-stream/, 9-stream/
 Parrot      Updated 6.0/, 6.1/, 6.2/, 6.3.2/, 6.4/, 7.0/, 7.1/, 7.2/
 
 
+
+===== 2026-06-18 15:29:15 =====
+
+Name      Status    Versions
+----      ------    --------
+AlmaLinux Updated   10.2, 8.9, 9.8
+Debian    NewSource 
+FreeBsd   Updated   15.1
+OpenSuse  Updated   /16.1
+CentOS    Updated   10-stream/, 9-stream/
+
+
