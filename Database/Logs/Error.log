@@ -126,3 +126,12 @@
 2026-06-16 10:59:49 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-06-18 07:41:29 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-06-18 15:24:09 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-06-18 15:27:15 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-06-18 15:27:20 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R8-U4-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."
+2026-06-18 15:27:24 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R8-U9-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (504) Gateway Time-out."
+2026-06-18 15:27:51 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R9-U1-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."
+2026-06-18 15:27:51 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R9-U2-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."
+2026-06-18 15:27:51 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R9-U3-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."
+2026-06-18 15:27:51 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R9-U4-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."
+2026-06-18 15:27:51 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R9-U5-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."
+2026-06-18 15:27:51 - Cannot download https://linux.oracle.com/security/gpg/checksum/OracleLinux-R9-U6-Server-x86_64.checksum - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (502) Bad Gateway."

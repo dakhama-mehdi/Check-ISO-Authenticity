@@ -141,7 +141,26 @@
   {
     "Name": "Oraclelinux",
     "Url": "https://linux.oracle.com/security/gpg/archive.html",
-    "Versions": []
+    "Versions": [
+      "checksum/OracleLinux-R10-U0-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U0-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U1-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U2-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U3-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U4-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U5-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U6-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U7-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U8-Server-x86_64.checksum",
+      "checksum/OracleLinux-R8-U9-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U0-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U1-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U2-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U3-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U4-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U5-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U6-Server-x86_64.checksum"
+    ]
   },
   {
     "Name": "CentOS",
@@ -154,7 +173,16 @@
   {
     "Name": "Parrot",
     "Url": "https://download.parrot.sh/parrot/iso/",
-    "Versions": []
+    "Versions": [
+      "6.0/",
+      "6.1/",
+      "6.2/",
+      "6.3.2/",
+      "6.4/",
+      "7.0/",
+      "7.1/",
+      "7.2/"
+    ]
   },
   {
     "Name": "Opnsense",
