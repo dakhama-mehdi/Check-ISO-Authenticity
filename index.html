@@ -228,7 +228,7 @@ button:hover{
     onkeyup="handleSearchInput(event)"
 >
 
-<button onclick="searchISO()">Rechercher</button>
+<button onclick="searchISO()">Search</button>
 
 <div class="info" id="info"></div>
 
@@ -327,7 +327,7 @@ async function searchISO(){
 
         const prefix = search.substring(0,1);
 
-        infoBox.innerText = "Recherche SHA256 dans " + prefix + ".json";
+        infoBox.innerText = "Search SHA256 in " + prefix + ".json";
 
         const data = await loadJsonFile(
             "./Database/hash/" + prefix + ".json"
@@ -345,7 +345,7 @@ else{
     if(cleanSearch.length < 4){
         infoBox.innerText = "";
         resultBox.innerText =
-            "Saisissez au moins 4 caractères pour une recherche par distribution.";
+            "Enter minimum 4 characters to search on OS.";
         return;
     }
 
@@ -362,7 +362,7 @@ else{
     }
 
     infoBox.innerText =
-        "Recherche dans l'index OS : " + osFiles.join(", ");
+        "Search in index OS : " + osFiles.join(", ");
 
     for(const osFile of osFiles){
 
