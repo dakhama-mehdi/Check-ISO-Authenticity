@@ -110,6 +110,13 @@
   },
   {
     "Name": "Debian",
+    "Url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS",
+    "Versions": [
+      "13.5.0"
+    ]
+  },
+  {
+    "Name": "Debian_old",
     "Url": "https://cdimage.debian.org/mirror/cdimage/archive/",
     "Versions": [
       "10.0.0/",
@@ -223,11 +230,7 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",

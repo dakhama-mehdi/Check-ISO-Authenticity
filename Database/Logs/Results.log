@@ -9508,3 +9508,43 @@ SHA256     : cf4beecc21ffae86d0e368797cbcc02ba7f4c6549c626db01b1d3f4e1444da85
 TrustLevel : Official
 
 
+
+===== 2026-06-19 08:58:09 =====
+
+Name       : debian-mac-13.5.0-amd64-netinst.iso
+OS         : Debian
+Version    : 13.5.0
+SHA256     : 70cdcfaa4e7a277616dde236e8b31f0f357fa7ea694b05c498db1e2ccee5e76d
+TrustLevel : Official
+
+Name       : debian-13.5.0-amd64-netinst.iso
+OS         : Debian
+Version    : 13.5.0
+SHA256     : 95838884f5ea6c82421dfe6baaa5a639dbbe6756c1e380f9fe7a7cb0c1949d2a
+TrustLevel : Official
+
+Name       : debian-edu-13.5.0-amd64-netinst.iso
+OS         : Debian
+Version    : 13.5.0
+SHA256     : cc8565fbd9e05328eab8f7d06301a97f878164c1df1ea21a55ac94540cdf7295
+TrustLevel : Official
+
+Name       : debian-mac-13.5.0-amd64-netinst.iso
+OS         : Debian
+Version    : 5.0.6
+SHA256     : 70cdcfaa4e7a277616dde236e8b31f0f357fa7ea694b05c498db1e2ccee5e76d
+TrustLevel : Official
+
+Name       : debian-13.5.0-amd64-netinst.iso
+OS         : Debian
+Version    : 7.7.0
+SHA256     : 95838884f5ea6c82421dfe6baaa5a639dbbe6756c1e380f9fe7a7cb0c1949d2a
+TrustLevel : Official
+
+Name       : debian-edu-13.5.0-amd64-netinst.iso
+OS         : Debian
+Version    : 9.4.0
+SHA256     : cc8565fbd9e05328eab8f7d06301a97f878164c1df1ea21a55ac94540cdf7295
+TrustLevel : Official
+
+
