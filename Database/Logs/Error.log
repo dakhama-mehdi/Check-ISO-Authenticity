@@ -200,3 +200,4 @@
 2026-06-18 15:39:57 - Cannot download https://cdimage.debian.org/mirror/cdimage/archive/9.7.0/amd64/iso-cd/SHA256SUMS - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
 2026-06-18 15:39:58 - Cannot download https://cdimage.debian.org/mirror/cdimage/archive/9.8.0/amd64/iso-cd/SHA256SUMS - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
 2026-06-18 15:39:59 - Cannot download https://cdimage.debian.org/mirror/cdimage/archive/9.9.0/amd64/iso-cd/SHA256SUMS - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
+2026-06-20 07:20:53 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
