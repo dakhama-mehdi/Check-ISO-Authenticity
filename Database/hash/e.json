@@ -154,6 +154,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.2462.e8210c649915-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.2462.e8210c649915",
+    "SHA256": "e2a0fb6758ad35e772b0d3a9bbe339c1e98ff62389ea364704b75d8135e1939c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.04.2",

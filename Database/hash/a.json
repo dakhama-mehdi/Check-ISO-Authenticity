@@ -471,6 +471,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.2462.e8210c649915-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.2462.e8210c649915",
+    "SHA256": "a5f2b88aea7fd3c5ce559ae54188e7b53fcc5de83b2c9d95603d74afdb120db5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19-mate-64bit.iso",
     "OS": "LinuxMint",
     "Version": "19",
