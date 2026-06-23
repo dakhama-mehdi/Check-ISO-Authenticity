@@ -54,7 +54,7 @@ Because every deployment starts with a source.
 
 ## Availability
 
-- PowerShell Script
+* PowerShell Script
 * Standalone EXE
 * Microsoft Store Application
 * Online Hash Database
