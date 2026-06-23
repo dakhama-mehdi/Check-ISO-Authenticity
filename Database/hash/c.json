@@ -424,6 +424,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.3021.34268251cf55-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.3021.34268251cf55",
+    "SHA256": "c69e95ba4f7fd04338cc4937f68265f5d815df6a9b40859824e8529b85d18e9d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-22.1.2-OpenSSL-vga-amd64.img.bz2",
     "OS": "Opnsense",
     "Version": "22.1",
