@@ -340,6 +340,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260622.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "d56982ea243ee2d2ee1a70b8af5340931cc24c7c4628b543c5de932c64e27f62",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.3-installer-netinst-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2024.3",

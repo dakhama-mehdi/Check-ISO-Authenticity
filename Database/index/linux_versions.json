@@ -255,7 +255,6 @@
     "Name": "FreeBsd",
     "Url": "https://download.freebsd.org/releases/ISO-IMAGES/",
     "Versions": [
-      "13.5",
       "14.3",
       "14.4",
       "15.0",
@@ -298,7 +297,8 @@
       "checksum/OracleLinux-R9-U3-Server-x86_64.checksum",
       "checksum/OracleLinux-R9-U4-Server-x86_64.checksum",
       "checksum/OracleLinux-R9-U5-Server-x86_64.checksum",
-      "checksum/OracleLinux-R9-U6-Server-x86_64.checksum"
+      "checksum/OracleLinux-R9-U6-Server-x86_64.checksum",
+      "checksum/OracleLinux-R9-U7-Server-x86_64.checksum"
     ]
   },
   {

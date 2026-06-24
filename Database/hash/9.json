@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260622.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "901b063c1c075f839210ab6c05bab724af534d0e05dbeb07c31215cb1e08669b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-10.2-x86_64-dvd.iso",
     "OS": "AlmaLinux",
     "Version": "10.2",

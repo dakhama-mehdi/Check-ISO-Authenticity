@@ -614,6 +614,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260622.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "e9fb09d785f4f181924dce3a00f97ae1f02e9b16c79d07cf0faddc84092d19d9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.0.0-amd64-CD-35.iso",
     "OS": "Debian",
     "Version": "7.0.0",
