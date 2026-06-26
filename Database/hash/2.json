@@ -813,6 +813,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.3123.667d5cf1c595-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.3123.667d5cf1c595",
+    "SHA256": "2c7f79092f329cee1d9824f32bafd611670862113edc6b95b6ab79c8bc1d50b3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.04.4-alternate-amd64.iso",
     "OS": "Ubuntu",
     "Version": "10.04.0",
