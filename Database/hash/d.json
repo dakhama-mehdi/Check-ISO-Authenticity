@@ -674,6 +674,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.3250.4062d36ebeae-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.3250.4062d36ebeae",
+    "SHA256": "dbf3c6ddbc6919e1634d069f28892a6c9856338270ee4232b5092ed14e585a66",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.3.0-amd64-CD-42.iso",
     "OS": "Debian",
     "Version": "7.3.0",

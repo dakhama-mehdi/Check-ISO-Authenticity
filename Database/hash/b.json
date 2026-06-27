@@ -546,6 +546,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.3250.4062d36ebeae-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.3250.4062d36ebeae",
+    "SHA256": "b92ac555e0e3770dd087d49d228fc6611703ef92fdb402e667a9af8e3825ac65",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "x86_64-boot.iso",
     "OS": "Oraclelinux",
     "Version": "8.4",
