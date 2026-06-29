@@ -504,6 +504,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.3494.714a5f8c4ead-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.3494.714a5f8c4ead",
+    "SHA256": "998d1d8e83a813af597c07cffb4d8876bb84450beb1a3b45bbd10d3c41411f9e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.04-alternate-i386.iso",
     "OS": "Ubuntu",
     "Version": "10.04.2",

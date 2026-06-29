@@ -626,6 +626,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.3494.714a5f8c4ead-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.3494.714a5f8c4ead",
+    "SHA256": "49f2bd2edad3beb6545315a47ef9fc2b84bf56a8a9ef9a4ba0bf81b5c7927dce",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.4-installer-netinst-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2025.4",
