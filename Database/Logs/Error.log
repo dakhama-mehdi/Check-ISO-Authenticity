@@ -206,3 +206,4 @@
 2026-06-26 07:19:51 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-06-26 07:19:53 - Cannot download https://download.parrot.sh/parrot/iso/7.3/signed-hashes.txt - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
 2026-06-28 07:21:58 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-06-30 07:18:33 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
