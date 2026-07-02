@@ -892,6 +892,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260630.2-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "6ed2fac1f1b7f0279b1f5eda1381cc0179775a6649c27d294ae5da4b059d1220",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2022.1-live-i386.iso",
     "OS": "Kali",
     "Version": "kali-2022.1",

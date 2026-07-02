@@ -118,6 +118,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260630.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "7203c53f2eb9d62928653677ce32fcb90fdf3162fc28cb72b485ab9a99dbe758",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-backup-server_2.4-1.iso",
     "OS": "Proxmox",
     "Version": "2.4-1",

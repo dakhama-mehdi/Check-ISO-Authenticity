@@ -298,6 +298,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260630.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "8548643552a939c189b88cc8bf7100846ffad240ed11b438561f118b2bed49d3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-17.3-cinnamon-64bit.iso",
     "OS": "LinuxMint",
     "Version": "17.3",
