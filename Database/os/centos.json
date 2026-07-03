@@ -120,6 +120,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-9-20260630.2-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "5d653db6bf6aef47cc1d9c033cb05c1fb7ce016ecda81099e098e1c6151a696b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-9-20220509.0-aarch64-boot.iso",
     "OS": "CentOS",
     "SHA256": "5e027e49dc7496f8b1aec2a5e85d80615600fb282832cb66746dd19396ca0399",
@@ -158,6 +165,20 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260630.2-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "6ed2fac1f1b7f0279b1f5eda1381cc0179775a6649c27d294ae5da4b059d1220",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-10-20260630.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "7203c53f2eb9d62928653677ce32fcb90fdf3162fc28cb72b485ab9a99dbe758",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-10-20260615.0-x86_64-boot.iso",
     "OS": "CentOS",
     "Version": "10-stream",
@@ -169,6 +190,13 @@
     "OS": "CentOS",
     "Version": "9-stream",
     "SHA256": "7a5da9b5e6269674165a80234957a3aecad10fc7c2f6931764024f8b4a245d45",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-10-20260630.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "8548643552a939c189b88cc8bf7100846ffad240ed11b438561f118b2bed49d3",
     "TrustLevel": "Official"
   },
   {

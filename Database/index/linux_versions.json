@@ -230,7 +230,11 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": []
+    "Versions": [
+      42,
+      43,
+      44
+    ]
   },
   {
     "Name": "Linuxmint",
@@ -432,7 +436,8 @@
       "2026.03.01/",
       "2026.04.01/",
       "2026.05.01/",
-      "2026.06.01/"
+      "2026.06.01/",
+      "2026.07.01/"
     ]
   },
   {
