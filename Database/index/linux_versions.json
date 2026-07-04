@@ -304,10 +304,7 @@
   {
     "Name": "CentOS",
     "Url": "https://mirror.stream.centos.org/",
-    "Versions": [
-      "10-stream/",
-      "9-stream/"
-    ]
+    "Versions": []
   },
   {
     "Name": "Parrot",
@@ -439,7 +436,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.3869.95ca1e203c07"
+    "Versions": "26.05.4028.80d591ed473c"
   },
   {
     "Name": "zorinoS",
