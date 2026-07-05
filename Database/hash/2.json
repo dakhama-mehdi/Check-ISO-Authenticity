@@ -620,6 +620,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.4193.a50de1b7d8a5-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4193.a50de1b7d8a5",
+    "SHA256": "297ad6324ea31ab955734a8f22add10b6a52f143a88e905ba8b624b9aa9344ab",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.04.5-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.04",

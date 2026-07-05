@@ -230,7 +230,11 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": []
+    "Versions": [
+      42,
+      43,
+      44
+    ]
   },
   {
     "Name": "Linuxmint",
@@ -304,7 +308,10 @@
   {
     "Name": "CentOS",
     "Url": "https://mirror.stream.centos.org/",
-    "Versions": []
+    "Versions": [
+      "10-stream/",
+      "9-stream/"
+    ]
   },
   {
     "Name": "Parrot",
@@ -436,7 +443,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.4028.80d591ed473c"
+    "Versions": "26.05.4193.a50de1b7d8a5"
   },
   {
     "Name": "zorinoS",

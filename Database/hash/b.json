@@ -498,6 +498,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.4193.a50de1b7d8a5-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4193.a50de1b7d8a5",
+    "SHA256": "b8646850252ce5e87384d1ae4b4a8fee7ccad730bf9aa0c877a65d2da524270b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-25.04-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "25.04",
