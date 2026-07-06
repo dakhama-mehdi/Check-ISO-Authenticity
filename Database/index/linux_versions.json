@@ -230,30 +230,12 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",
     "Url": "https://mirrors.edge.kernel.org/linuxmint/stable/",
-    "Versions": [
-      "19.3",
-      "20",
-      "20.1",
-      "20.2",
-      "20.3",
-      "21",
-      "21.1",
-      "21.2",
-      "21.3",
-      "22",
-      "22.1",
-      "22.2",
-      "22.3"
-    ]
+    "Versions": []
   },
   {
     "Name": "FreeBsd",
