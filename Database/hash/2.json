@@ -897,7 +897,7 @@
   },
   {
     "Name": "linuxmint-21.1-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.1",
     "SHA256": "2df322f030d8ff4633360930a92d78829d10e515d2f6975b9bdfd1c0de769aca",
     "TrustLevel": "Official"

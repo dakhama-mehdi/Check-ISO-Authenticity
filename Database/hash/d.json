@@ -160,7 +160,7 @@
   },
   {
     "Name": "linuxmint-22.1-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22.1",
     "SHA256": "d286306d0f40bd7268f08c523ece5fba87c0369a27a72465a19447e3606c5fa0",
     "TrustLevel": "Official"

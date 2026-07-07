@@ -354,7 +354,7 @@
   },
   {
     "Name": "linuxmint-21.2-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.2",
     "SHA256": "e532dca4f28a88e52587a0e1af14236b233d2cec629d9f93e7c92383b4490a55",
     "TrustLevel": "Official"

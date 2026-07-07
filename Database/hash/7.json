@@ -410,7 +410,7 @@
   },
   {
     "Name": "linuxmint-22.2-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22.2",
     "SHA256": "759c9b5a2ad26eb9844b24f7da1696c705ff5fe07924a749f385f435176c2306",
     "TrustLevel": "Official"
