@@ -112,6 +112,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.4364.0ad6f47ea4fe-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4364.0ad6f47ea4fe",
+    "SHA256": "920d0261b0bb735204e85d3323c0b27f60c6145602e7b76ca42e69e8be9ee900",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-19.10-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "19.10",

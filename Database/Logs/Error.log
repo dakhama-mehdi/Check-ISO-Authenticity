@@ -213,3 +213,4 @@
 2026-07-04 09:49:00 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-07-06 07:33:30 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-07-07 07:12:23 - Cannot download https://mirrors.edge.kernel.org/linuxmint/stable//19.3/sha256sum.txt - Exception calling "DownloadString" with "1" argument(s): "A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. [::ffff:142.0.200.124]:443 (mirrors.edge.kernel.org:443)"
+2026-07-08 06:50:49 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)

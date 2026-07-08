@@ -707,6 +707,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.4364.0ad6f47ea4fe-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4364.0ad6f47ea4fe",
+    "SHA256": "caf20b2dfbf223b418193087c9b1931f4fd9943df24ef1eeb69f8a14be7f5011",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-20.04-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "20.04.0",

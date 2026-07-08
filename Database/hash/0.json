@@ -767,6 +767,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.7.r1-serial-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.7",
+    "SHA256": "0db5557508f088e513436f6f7ad5c37f42c6614ce50a34595523890cded7c336",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2025.07.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2025.07.01",

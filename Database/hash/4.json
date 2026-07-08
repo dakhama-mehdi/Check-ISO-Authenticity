@@ -131,6 +131,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260707.1-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "42ed76824358355314023ce8e3476c2473a8996aa5b36aba2eaa6ffacffde249",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-20-mate-64bit.iso",
     "OS": "Linuxmint",
     "Version": "20",

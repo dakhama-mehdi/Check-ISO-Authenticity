@@ -830,6 +830,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "OPNsense-26.7.r1-nano-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.7",
+    "SHA256": "1b95ab4cafaa195272b2b9d7ac3f42015c277b918818f535851c8c3206c5829d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.0.0-amd64-CD-40.iso",
     "OS": "Debian",
     "Version": "7.0.0",

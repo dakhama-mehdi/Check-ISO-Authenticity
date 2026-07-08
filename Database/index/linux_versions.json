@@ -336,7 +336,8 @@
       "24.7",
       "25.1",
       "25.7",
-      "26.1"
+      "26.1",
+      "26.7"
     ]
   },
   {
@@ -439,7 +440,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.4193.a50de1b7d8a5"
+    "Versions": "26.05.4364.0ad6f47ea4fe"
   },
   {
     "Name": "zorinoS",

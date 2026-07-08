@@ -515,6 +515,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260706.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "280f78ca32547eec2f3150090c21526744851d99af006344a07629f88500d9f6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.2-live-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2023.2",
@@ -900,6 +907,13 @@
     "OS": "Linuxmint",
     "Version": "21.1",
     "SHA256": "2df322f030d8ff4633360930a92d78829d10e515d2f6975b9bdfd1c0de769aca",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "OPNsense-26.7.r1-vga-amd64.img.bz2",
+    "OS": "Opnsense",
+    "Version": "26.7",
+    "SHA256": "2e352fd8628e742dd0637a8f84768f607b3ad45a4491a77d9623b4976ac6931b",
     "TrustLevel": "Official"
   },
   {

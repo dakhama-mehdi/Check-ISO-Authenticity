@@ -78,7 +78,7 @@
   },
   {
     "Name": "linuxmint-20.1-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "20.1",
     "SHA256": "12ccfa2494acf761b2f5a3379ed770495d97051c3944571d5ad5e7c50d11c975",
     "TrustLevel": "Official"
@@ -197,7 +197,7 @@
   },
   {
     "Name": "linuxmint-21.1-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.1",
     "SHA256": "2df322f030d8ff4633360930a92d78829d10e515d2f6975b9bdfd1c0de769aca",
     "TrustLevel": "Official"
@@ -281,7 +281,7 @@
   },
   {
     "Name": "linuxmint-20-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "20",
     "SHA256": "42fd764b3a3544a36d820f4164bb64aa5a6d982073e6d1afdea4853d3858fc98",
     "TrustLevel": "Official"
@@ -400,7 +400,7 @@
   },
   {
     "Name": "linuxmint-21.3-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.3",
     "SHA256": "5aa24abbc616807ab754a6a3b586f24460b0c213b6cacb0bf8b9a80b65013ecc",
     "TrustLevel": "Official"
@@ -484,7 +484,7 @@
   },
   {
     "Name": "linuxmint-22.2-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22.2",
     "SHA256": "759c9b5a2ad26eb9844b24f7da1696c705ff5fe07924a749f385f435176c2306",
     "TrustLevel": "Official"
@@ -631,7 +631,7 @@
   },
   {
     "Name": "linuxmint-22.3-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22.3",
     "SHA256": "a081ab202cfda17f6924128dbd2de8b63518ac0531bcfe3f1a1b88097c459bd4",
     "TrustLevel": "Official"
@@ -862,7 +862,7 @@
   },
   {
     "Name": "linuxmint-22.1-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22.1",
     "SHA256": "d286306d0f40bd7268f08c523ece5fba87c0369a27a72465a19447e3606c5fa0",
     "TrustLevel": "Official"
@@ -897,7 +897,7 @@
   },
   {
     "Name": "linuxmint-21.2-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21.2",
     "SHA256": "e532dca4f28a88e52587a0e1af14236b233d2cec629d9f93e7c92383b4490a55",
     "TrustLevel": "Official"
@@ -960,7 +960,7 @@
   },
   {
     "Name": "linuxmint-21-cinnamon-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21",
     "SHA256": "f524114e4a10fb04ec428af5e8faf7998b18271ea72fbb4b63efe0338957c0f3",
     "TrustLevel": "Official"
