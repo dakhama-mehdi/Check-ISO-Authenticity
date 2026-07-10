@@ -823,6 +823,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-22.0.0-Leap_16.1-Build35.8.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "fe9c053357f673c16384c2772e80b5ba99530d087ff800c7642eb61e451f1f8c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Parrot-home-6.1_amd64.iso",
     "OS": "Parrot",
     "Version": "6.1",
