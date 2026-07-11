@@ -352,6 +352,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.4494.74cc63f702f7-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4494.74cc63f702f7",
+    "SHA256": "1555430e232dd9ddc2e4db6021dfae0784afd020ec0a54128a77ac4e3421b4dc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-12.4.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "12.4.0",

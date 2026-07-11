@@ -290,6 +290,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.4494.74cc63f702f7-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4494.74cc63f702f7",
+    "SHA256": "7430f869992183ca5cdb4c6abac24d08c94b7780102cfd54f02a69d924c8e5c0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-9.5.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.5.0",
