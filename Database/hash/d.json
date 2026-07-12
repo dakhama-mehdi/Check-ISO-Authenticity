@@ -131,6 +131,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-mac-13.6.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.6.0",
+    "SHA256": "d25a26e33fc7af4868baae426b30bed902a1d70ce84e1e73e96fc5386a179e33",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "nixos-minimal-26.05.3705.1f01958ffb5b-x86_64-linux.iso",
     "OS": "NixOS",
     "Version": "26.05.3705.1f01958ffb5b",

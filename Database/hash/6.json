@@ -330,6 +330,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-13.6.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.6.0",
+    "SHA256": "65273beed27b2df543b68b65630ba525cfbad8df2b12035732b2dff87d6664e7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.1-amd64-CD-34.iso",
     "OS": "Debian",
     "Version": "8.11.1",

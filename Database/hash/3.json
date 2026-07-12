@@ -803,6 +803,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.4659.8f0500b96605-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4659.8f0500b96605",
+    "SHA256": "3e80e86eef0f1764e8ca24042d7bac5ad8d399ae8f944978be7185e6d39ee881",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.1-amd64-CD-16.iso",
     "OS": "Debian",
     "Version": "8.11.1",

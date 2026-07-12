@@ -644,6 +644,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.4659.8f0500b96605-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4659.8f0500b96605",
+    "SHA256": "ca5e83c6dc05e48d571aadc2eb66c4a368694660da31a2d6eb06fec7cbd3b8b8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2023.04.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2023.04.01",

@@ -112,7 +112,7 @@
     "Name": "Debian",
     "Url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS",
     "Versions": [
-      "13.5.0"
+      "13.6.0"
     ]
   },
   {
@@ -152,6 +152,7 @@
       "12.12.0/",
       "12.13.0/",
       "12.14.0/",
+      "12.15.0/",
       "12.2.0/",
       "12.4.0/",
       "12.5.0/",
@@ -164,6 +165,7 @@
       "13.2.0/",
       "13.3.0/",
       "13.4.0/",
+      "13.5.0/",
       "5.0.0/",
       "5.0.1/",
       "5.0.10/",
@@ -230,7 +232,11 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": []
+    "Versions": [
+      42,
+      43,
+      44
+    ]
   },
   {
     "Name": "Linuxmint",
@@ -440,7 +446,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.4494.74cc63f702f7"
+    "Versions": "26.05.4659.8f0500b96605"
   },
   {
     "Name": "zorinoS",

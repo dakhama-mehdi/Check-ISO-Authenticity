@@ -935,6 +935,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-edu-13.6.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.6.0",
+    "SHA256": "bf893e365330f94e10a263131797c266017f8ca6c8adef85149959e66daa445c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250612-5dbdbff46b08-271653-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "bfa02fb251b53aeef2a9aaef8e0c6109bbe3ea2298b991c2352cb719f5a104e9",
