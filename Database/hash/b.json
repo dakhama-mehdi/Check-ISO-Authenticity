@@ -616,6 +616,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.2-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "b9a08050ee522fbee7cac703b1bc48178f79eb974c962d4ed9dc1ccfdfa77fb6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.2.0-amd64-CD-40.iso",
     "OS": "Debian",
     "Version": "7.2.0",
@@ -758,6 +765,13 @@
     "OS": "Ubuntu",
     "Version": "10.04.1",
     "SHA256": "bbd09816d7ea83a5451036a94ef16c76c0722f676a9aa19e6846eccb8dd299bd",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.2-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "bbde629937a9eabc110062989d49947fae7fd4c0fef19f590f990b1cb97a497c",
     "TrustLevel": "Official"
   },
   {

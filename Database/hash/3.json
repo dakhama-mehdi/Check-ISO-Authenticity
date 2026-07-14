@@ -422,6 +422,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260713.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "3763ffc178cea73e8270b1f1677585e6fc81e9e72f8a85517aa82136dd519d51",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-23.04-beta-desktop-legacy-amd64.iso",
     "OS": "Ubuntu",
     "Version": "23.04",

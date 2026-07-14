@@ -532,6 +532,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260713.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "17e7d11bc528e3a7348ed6eddb4633a8ca53e1d9879cd9fbe22c2e955c4f9f0e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2022.10.01",

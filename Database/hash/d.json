@@ -186,6 +186,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "kali-linux-2026.2-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "d32f929dacc48134a31461a09f2160d13ad1d26b820cee920446813ca979b39b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.10-amd64-CD-8.iso",
     "OS": "Debian",
     "Version": "6.0.10",
@@ -671,6 +678,13 @@
     "OS": "AlmaLinux",
     "Version": "9.6",
     "SHA256": "db7b45e071b6319d43781eb8d9bec9b8d6b0ac41ad5e49db7fe113c76f0d2ca2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.4808.569d57850992-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4808.569d57850992",
+    "SHA256": "db8fafcdc0b0091c47f8c35e7980e811ef8687c8dd4710ba84497018fd316837",
     "TrustLevel": "Official"
   },
   {

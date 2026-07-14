@@ -1049,6 +1049,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.4808.569d57850992-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4808.569d57850992",
+    "SHA256": "ad9bbf4498aac44c9f935249d9dc5111fe3b86c61013b44e4c80d1a081cc8ef9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-18.04.3-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "18.04.0",

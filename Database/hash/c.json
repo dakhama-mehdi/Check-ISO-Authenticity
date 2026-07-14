@@ -887,6 +887,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.2-installer-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "ccedeb4e72fdaf7e5ba676ccf361cabe0e6e37174d83e38df0efcb6734b0f20d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.2.0-amd64-CD-54.iso",
     "OS": "Debian",
     "Version": "7.2.0",

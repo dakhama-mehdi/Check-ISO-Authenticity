@@ -554,6 +554,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.2-live-everything-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "89ba86d14e0287b28ba25a185a32ce2ca68ef2233c628e8995c26311c09ebae4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.10-amd64-CD-45.iso",
     "OS": "Debian",
     "Version": "6.0.10",
@@ -697,6 +704,13 @@
     "OS": "Debian",
     "Version": "5.0.5",
     "SHA256": "8c6933764be10fc6287484c3614b0b8719a9b8b572370d57a0a08fee28f167f7",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.2-installer-netinst-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "8ca1bdd6a85f37e380eca84c780256b6e634fc768426396f51967ec3be006ed1",
     "TrustLevel": "Official"
   },
   {

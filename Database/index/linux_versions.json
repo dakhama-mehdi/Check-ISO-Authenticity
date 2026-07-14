@@ -54,7 +54,8 @@
       "kali-2025.2/",
       "kali-2025.3/",
       "kali-2025.4/",
-      "kali-2026.1/"
+      "kali-2026.1/",
+      "kali-2026.2/"
     ]
   },
   {
@@ -442,7 +443,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.4659.8f0500b96605"
+    "Versions": "26.05.4808.569d57850992"
   },
   {
     "Name": "zorinoS",

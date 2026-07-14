@@ -843,6 +843,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.2-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.2",
+    "SHA256": "6dbefacc95e3b556c19c48e8bae39b8b505e2d3a1aba0bfb7ab62b036c3d2ba3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.2-kde-32bit.iso",
     "OS": "LinuxMint",
     "Version": "18.2",
