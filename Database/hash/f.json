@@ -171,6 +171,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.4937.8eeec934ae0d-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.4937.8eeec934ae0d",
+    "SHA256": "f31d0c4377fa5385f99d70586ce2e4cb53c433da8899d631c5867ab52b2d28b3",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-9.0-RELEASE-amd64-dvd1.iso",
     "OS": "FreeBSD",
     "SHA256": "f338e24645f0bcc792b8417411ed737d8057cd2f470f9d2b601c143352d6d459",

@@ -2240,6 +2240,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-13.6.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.6.0",
+    "SHA256": "65273beed27b2df543b68b65630ba525cfbad8df2b12035732b2dff87d6664e7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.1-amd64-CD-34.iso",
     "OS": "Debian",
     "Version": "8.11.1",
@@ -4410,6 +4417,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-edu-13.6.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.6.0",
+    "SHA256": "bf893e365330f94e10a263131797c266017f8ca6c8adef85149959e66daa445c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-10.13.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "10.13.0",
@@ -4841,6 +4855,13 @@
     "OS": "Debian",
     "Version": "7.0.0",
     "SHA256": "d1d43a23cc6a84a52ef325dcd8773ff8f9505d00c4082bb7f167a1235bd8740f",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-mac-13.6.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.6.0",
+    "SHA256": "d25a26e33fc7af4868baae426b30bed902a1d70ce84e1e73e96fc5386a179e33",
     "TrustLevel": "Official"
   },
   {
