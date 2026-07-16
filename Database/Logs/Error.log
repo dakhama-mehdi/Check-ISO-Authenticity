@@ -218,3 +218,4 @@
 2026-07-12 06:54:03 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-07-12 06:54:06 - Cannot download https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/./Fedora-KDE-42-1.1-x86_64-CHECKSUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
 2026-07-14 06:44:53 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-07-16 06:49:47 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)

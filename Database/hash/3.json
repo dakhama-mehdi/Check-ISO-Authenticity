@@ -111,6 +111,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260714.1-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "31c2627e27f793790aa0ac05b92ca9eb296a782851664f8d6ef2baabc679f688",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-11.10-desktop-i386.iso",
     "OS": "Ubuntu",
     "Version": "11.10",
