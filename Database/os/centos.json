@@ -96,6 +96,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-9-20260714.1-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "31c2627e27f793790aa0ac05b92ca9eb296a782851664f8d6ef2baabc679f688",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-10-20260713.0-x86_64-boot.iso",
     "OS": "CentOS",
     "Version": "10-stream",
@@ -225,6 +232,13 @@
     "OS": "CentOS",
     "Version": "9-stream",
     "SHA256": "7a5da9b5e6269674165a80234957a3aecad10fc7c2f6931764024f8b4a245d45",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-9-20260714.1-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "7cda700faaadb6570d9c7a25ca8c495b828ec2f885aee237446f5a0847b6f25a",
     "TrustLevel": "Official"
   },
   {
