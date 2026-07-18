@@ -469,6 +469,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.5449.293d6abedf04-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.5449.293d6abedf04",
+    "SHA256": "17089be6e78d2c085506b65154ddc4372263c6fce23688811b0f7bb01b9908af",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-15.3-Education-64-bit.iso",
     "OS": "Zorin_OS",
     "Version": "15",
