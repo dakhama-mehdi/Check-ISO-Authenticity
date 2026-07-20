@@ -180,6 +180,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.5591.fd1462031fde-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.5591.fd1462031fde",
+    "SHA256": "d2d712f074ad24efa3dbb8e22d9bc9752ff4158f57a4a1947f19ba2e9f783f58",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-powerpc-powerpcspe-20250606-fa02d9fceab7-277727-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "d307b02b891f6a82ac62f7604a549b78f25c6d69f4dbfba0d47da6481259e966",

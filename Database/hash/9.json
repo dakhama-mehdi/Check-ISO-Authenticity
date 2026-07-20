@@ -609,6 +609,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.5591.fd1462031fde-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.5591.fd1462031fde",
+    "SHA256": "9b64aabb0919126204f6da9193ac3bab2b3da46fa33ae9818cad567c65d75e61",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-edu-11.2.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "11.2.0",
