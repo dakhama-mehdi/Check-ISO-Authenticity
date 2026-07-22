@@ -942,6 +942,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-10-20260721.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "bf7962f0c200dede13849e6dc85603bf8a6a67f608e822a074a66cb40749c162",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.11.0-amd64-CD-28.iso",
     "OS": "Debian",
     "Version": "7.11.0",
