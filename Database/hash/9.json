@@ -602,6 +602,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.5845.b3fe9581c906-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.5845.b3fe9581c906",
+    "SHA256": "9b0d07b3b826be0ededf09a0d9c6ee9d8a65f8f492cb9d79ae54bf655fc52b95",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.2-live-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2024.2",
