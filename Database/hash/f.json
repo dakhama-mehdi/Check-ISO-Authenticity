@@ -399,6 +399,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.6200.8623c4c20aa4-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6200.8623c4c20aa4",
+    "SHA256": "f781d86cfe374fc9985336e7749372bd7ebc869f069e23d25d4d0d5c1da49878",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.0-RELEASE-amd64-disc1.iso",
     "OS": "FreeBsd",
     "Version": "13.0",

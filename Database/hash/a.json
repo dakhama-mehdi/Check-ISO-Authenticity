@@ -123,6 +123,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.6200.8623c4c20aa4-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6200.8623c4c20aa4",
+    "SHA256": "a1d1bc8d4a0ab804dcf4338de5f903547407dbf0f1a37355e10984e15598a3c8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.10-amd64-CD-21.iso",
     "OS": "Debian",
     "Version": "6.0.10",
