@@ -523,6 +523,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-10-20260728.1-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "0939763aa86a690e38d63a51aaf9e0f30e8ebf498e4013aed111276fb5354708",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.0.0-amd64-CD-58.iso",
     "OS": "Debian",
     "Version": "7.0.0",
@@ -774,7 +781,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "archlinux-2025.07.01-x86_64.iso",
+    "Name": "archlinux-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2025.07.01",
     "SHA256": "0dbac20eddeef67d3b3e9c109a51b77140cf4ee33cc0b408181454f6c41d0a91",

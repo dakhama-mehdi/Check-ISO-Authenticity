@@ -1,5 +1,12 @@
 [
   {
+    "Name": "agama-installer.x86_64-22.0.0-Leap_16.1-Build37.2.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "b028f90165c2f2e88c6450351c3d455ba0146c520c334d2299ba84f575e3bc42",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.3.0-amd64-CD-13.iso",
     "OS": "Debian",
     "Version": "7.3.0",
@@ -816,7 +823,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "archlinux-x86_64.iso",
+    "Name": "archlinux-2024.11.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2024.11.01",
     "SHA256": "bceb3dded8935c1d3521c475a69ae557e082839b46d921c8b400524470b5c965",

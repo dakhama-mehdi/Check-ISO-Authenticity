@@ -606,7 +606,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "archlinux-2023.10.14-x86_64.iso",
+    "Name": "archlinux-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2023.10.14",
     "SHA256": "292269ba9bf8335b6a885921a00d311cdc1dcbe9a1375f297f7f3ecfe31c36a7",

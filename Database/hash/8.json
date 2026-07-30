@@ -55,7 +55,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "archlinux-x86_64.iso",
+    "Name": "archlinux-2023.03.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2023.03.01",
     "SHA256": "816758ba8fd8a06dff539b9af08eb8100c8bad526ac19ef4486bce99cd3ca18c",
@@ -247,6 +247,13 @@
     "OS": "Debian",
     "Version": "8.11.1",
     "SHA256": "83f7353272c2c3f4dcdc88c6f6dd972ab956b4eb819ec4b411f05ab11950f3f8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-9-20260728.1-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "84040c23c75d220121e7777c704b97a2a939b03406dd9d6b5dd1e88afcda263e",
     "TrustLevel": "Official"
   },
   {

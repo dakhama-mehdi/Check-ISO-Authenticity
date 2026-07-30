@@ -462,6 +462,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260728.1-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "16de8410a56d53db3b22822eac201512389dd00091af7ff0f980b234b68f7458",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-netinst-x86_64-43-1.6.iso",
     "OS": "Fedora_Server",
     "Version": "43",
@@ -609,7 +616,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "archlinux-x86_64.iso",
+    "Name": "archlinux-2022.08.05-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2022.08.05",
     "SHA256": "187cf50f8f0619426e98835fdeaa4f3b3dd6a3471b2efc496f50d25ffe0e19db",
@@ -811,7 +818,7 @@
     "TrustLevel": "Official"
   },
   {
-    "Name": "archlinux-x86_64.iso",
+    "Name": "archlinux-2024.05.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2024.05.01",
     "SHA256": "1b4a04ef8a7350852a13070ee498442b087a607a18840b4dd7d99867eb5f6a4c",
