@@ -385,6 +385,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.6503.21ea275a7c46-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6503.21ea275a7c46",
+    "SHA256": "f727416a4aee523961d7045e870d1fcdd19dd3fd7856f8be622595c3c284496f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-18.04.6-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "18.04",

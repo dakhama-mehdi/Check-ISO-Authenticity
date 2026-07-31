@@ -253,3 +253,6 @@
 2026-07-30 06:53:25 - Cannot download https://archive.archlinux.org/iso/2022.01.01/sha256sums.txt - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
 2026-07-30 06:53:26 - Cannot download https://archive.archlinux.org/iso/2022.02.01/sha256sums.txt - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
 2026-07-30 06:53:27 - Cannot download https://archive.archlinux.org/iso/2022.03.01/sha256sums.txt - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
+2026-07-31 06:59:13 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/Workstation/x86_64/iso/)
+2026-07-31 06:59:15 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/Server/x86_64/iso/)
+2026-07-31 06:59:16 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/)
