@@ -1219,5 +1219,12 @@
     "OS": "FreeBSD",
     "SHA256": "af86ef41bf5e374d0d1022bb45a9541b400756eedcda1eb241a8fc0a3ed59ef1",
     "TrustLevel": "PublicIndex"
+  },
+  {
+    "Name": "nixos-graphical-26.05.6603.5b4f72e1705a-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6603.5b4f72e1705a",
+    "SHA256": "aff74be35fce8f4fa0b9c094017e0b4fdd551a0615d90595a19c1822febbd1f8",
+    "TrustLevel": "Official"
   }
 ]
