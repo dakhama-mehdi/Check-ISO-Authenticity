@@ -161,6 +161,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2026.08.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.08.01",
+    "SHA256": "4e82dced1c4fd3e498b22a853f8db2a4d262d32b97e7e07d97390d9e425ffe5e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2023.12.01",

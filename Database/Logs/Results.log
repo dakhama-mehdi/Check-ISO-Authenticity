@@ -13192,3 +13192,25 @@ SHA256     : 917d8edf53bce20ecc010317c1df4ffaaf4636e1b92177bfef97683a2d359bf4
 TrustLevel : Official
 
 
+
+===== 2026-08-03 07:08:11 =====
+
+Name       : archlinux-2026.08.01-x86_64.iso
+OS         : Archlinux
+Version    : 2026.08.01
+SHA256     : 4e82dced1c4fd3e498b22a853f8db2a4d262d32b97e7e07d97390d9e425ffe5e
+TrustLevel : Official
+
+Name       : nixos-graphical-26.05.6693.6d65bfc1bcef-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.6693.6d65bfc1bcef
+SHA256     : 772da2841a207d99db3eaa2a7f605df6c6b89e5056a2e00df0f672b2133877e9
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.6693.6d65bfc1bcef-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.6693.6d65bfc1bcef
+SHA256     : 16e37a1143f7d4c14946a418468f6e7f5eff9586b2a5b9253ab9df30d81577ed
+TrustLevel : Official
+
+

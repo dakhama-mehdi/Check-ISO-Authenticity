@@ -469,6 +469,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.6693.6d65bfc1bcef-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6693.6d65bfc1bcef",
+    "SHA256": "16e37a1143f7d4c14946a418468f6e7f5eff9586b2a5b9253ab9df30d81577ed",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-netinst-x86_64-43-1.6.iso",
     "OS": "Fedora_Server",
     "Version": "43",
