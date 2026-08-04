@@ -471,6 +471,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.6815.531670d871c0-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6815.531670d871c0",
+    "SHA256": "87ce0f46a1ab6f7cd1c4b0c4d1142157a0b600442b42a8a0bb8510a215c7ba5c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Leap-16.0-online-installer-x86_64-Build171.1.install.iso",
     "OS": "openSUSE",
     "Version": "/16.0",

@@ -14,6 +14,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.6815.531670d871c0-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6815.531670d871c0",
+    "SHA256": "5072871a4fd60d32e3408e5ec60446fa0ddc7505870a1496474f637e19762720",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-20.2-cinnamon-64bit.iso",
     "OS": "Linuxmint",
     "Version": "20.2",

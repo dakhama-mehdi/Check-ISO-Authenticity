@@ -13214,3 +13214,103 @@ SHA256     : 16e37a1143f7d4c14946a418468f6e7f5eff9586b2a5b9253ab9df30d81577ed
 TrustLevel : Official
 
 
+
+===== 2026-08-04 06:52:32 =====
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-22.0.0-Leap_16.1-Build39.3.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : 072987fd2460cacfd63bbb345d753b691b238eabab3021b76f8267abf40f2fda
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260803.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 15b89d40e98986b9624d692830347cf6ff3e37d2637e82c5a3abb6b768372728
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260728.1-x86_64-boot.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 16de8410a56d53db3b22822eac201512389dd00091af7ff0f980b234b68f7458
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260728.1-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 84040c23c75d220121e7777c704b97a2a939b03406dd9d6b5dd1e88afcda263e
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260803.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : ed5ffffc891c13b5a12acb1f0d57b63183168d52f4d2a572541a9ab9053d7f6d
+TrustLevel : Official
+
+Name       : nixos-graphical-26.05.6815.531670d871c0-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.6815.531670d871c0
+SHA256     : 87ce0f46a1ab6f7cd1c4b0c4d1142157a0b600442b42a8a0bb8510a215c7ba5c
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.6815.531670d871c0-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.6815.531670d871c0
+SHA256     : 5072871a4fd60d32e3408e5ec60446fa0ddc7505870a1496474f637e19762720
+TrustLevel : Official
+
+
