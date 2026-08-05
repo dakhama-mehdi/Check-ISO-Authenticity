@@ -59,6 +59,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "CentOS-Stream-10-20260803.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "15b89d40e98986b9624d692830347cf6ff3e37d2637e82c5a3abb6b768372728",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2026.01.01-x86_64.iso",
     "OS": "CentOS",
     "SHA256": "16502a7c18eed827ecead95c297d26f9f4bd57c4b3e4a8f4e2b88cf60e412d6f",
@@ -422,6 +429,13 @@
     "OS": "CentOS",
     "Version": "9-stream",
     "SHA256": "e9fb09d785f4f181924dce3a00f97ae1f02e9b16c79d07cf0faddc84092d19d9",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-10-20260803.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "ed5ffffc891c13b5a12acb1f0d57b63183168d52f4d2a572541a9ab9053d7f6d",
     "TrustLevel": "Official"
   },
   {

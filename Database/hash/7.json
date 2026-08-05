@@ -1060,6 +1060,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.6916.04607e1165ac-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.6916.04607e1165ac",
+    "SHA256": "7f5df09ba68474c74de7b3361c95d98eb09d0e8b4d94c1658b2652182bfbf870",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "agama-installer.x86_64-21.0.0-Leap_16.1-Build32.2.iso",
     "OS": "openSUSE",
     "Version": "/16.1",
