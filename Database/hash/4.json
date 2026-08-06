@@ -794,6 +794,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260804.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "4bd5dae60b0c4c72e7e332f4d957d0b4625cf8bccfb38050ec3fd28e73e4ac89",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.3.0-amd64-CD-46.iso",
     "OS": "Debian",
     "Version": "7.3.0",

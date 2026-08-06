@@ -76,6 +76,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_9.2-1-arm64.iso",
+    "OS": "Proxmox",
+    "Version": "9.2-1-arm64",
+    "SHA256": "b1619dcd1f5b1a6d67d77b59e7e2fa2033174551d1e1b9dc22b2171ec093abbd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9.0-20220805.0-x86_64-minimal.iso",
     "OS": "Rocky_Vault",
     "Version": "9.0",

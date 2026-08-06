@@ -13330,3 +13330,229 @@ SHA256     : 7f5df09ba68474c74de7b3361c95d98eb09d0e8b4d94c1658b2652182bfbf870
 TrustLevel : Official
 
 
+
+===== 2026-08-06 06:55:10 =====
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-44-1.7.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 44
+SHA256     : 1620295f6a00c27c3208f0c00b8ece4eab1ec69b9002152d97488bf26a426ddf
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-43-1.6.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 43
+SHA256     : 2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-43-1.6.iso
+OS         : Fedora_Server
+Version    : 43
+SHA256     : 16fd70ddae2c7de13e485637c3da1fb385dd8220389f988279ea3b3d561243cc
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-44-1.7.iso
+OS         : Fedora_Server
+Version    : 44
+SHA256     : 85837793bfa36db6bc709b4cecd2ec116951b87d9c53c3d95eb2fac8dcf7cf1f
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-43-1.6.iso
+OS         : Fedora_Server
+Version    : 43
+SHA256     : aca06983bef83da9b43144c1a2ff4c8483e4745167c17f53725c16a16742e643
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-44-1.7.iso
+OS         : Fedora_Server
+Version    : 44
+SHA256     : ae20c06bea746913cadea7d80463e13f4bf55bee4df2918111c921c674b70283
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso
+OS         : Fedora_KDE
+Version    : 43
+SHA256     : 181fe3e265fb5850c929f5afb7bdca91bb433b570ef39ece4a7076187435fdab
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-44-1.7.x86_64.iso
+OS         : Fedora_KDE
+Version    : 44
+SHA256     : c8295961d4c41adbf785a31a17c21a971d3b7415fda72dcad0c11c49577bf03a
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-22.0.0-Leap_16.1-Build39.3.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : 072987fd2460cacfd63bbb345d753b691b238eabab3021b76f8267abf40f2fda
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260803.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : 15b89d40e98986b9624d692830347cf6ff3e37d2637e82c5a3abb6b768372728
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260804.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : 4bd5dae60b0c4c72e7e332f4d957d0b4625cf8bccfb38050ec3fd28e73e4ac89
+TrustLevel : Official
+
+Name       : CentOS-Stream-9-20260804.0-x86_64-dvd1.iso
+OS         : CentOS
+Version    : 9-stream
+SHA256     : abbb3f399b459aebdecc2928636baed17ad08e5529b84ca1eca9cffbca092ff1
+TrustLevel : Official
+
+Name       : CentOS-Stream-10-20260803.0-x86_64-boot.iso
+OS         : CentOS
+Version    : 10-stream
+SHA256     : ed5ffffc891c13b5a12acb1f0d57b63183168d52f4d2a572541a9ab9053d7f6d
+TrustLevel : Official
+
+Name       : proxmox-ve_9.2-1.iso
+OS         : Proxmox
+Version    : 9.2-1
+SHA256     : 4e88fe416df9b527624a175f24c9aa07c714d3332afb1ee3dbf3879573ef2c6c
+TrustLevel : Official
+
+Name       : proxmox-ve_9.1-1.iso
+OS         : Proxmox
+Version    : 9.1-1
+SHA256     : 6d8f5afc78c0c66812d7272cde7c8b98be7eb54401ceb045400db05eb5ae6d22
+TrustLevel : Official
+
+Name       : proxmox-ve_8.4-1.iso
+OS         : Proxmox
+Version    : 8.4-1
+SHA256     : d237d70ca48a9f6eb47f95fd4fd337722c3f69f8106393844d027d28c26523d8
+TrustLevel : Official
+
+Name       : proxmox-ve_7.4-1.iso
+OS         : Proxmox
+Version    : 7.4-1
+SHA256     : 55b672c4b0d2bdcbff9910eea43df3b269aaab3f23e7a1df18b82d92eb995916
+TrustLevel : Official
+
+Name       : proxmox-backup-server_4.2-1.iso
+OS         : Proxmox
+Version    : 4.2-1
+SHA256     : 2fb299deac3929253712c9c3dfc9237edbe70af83c8848467616b771a1d5453e
+TrustLevel : Official
+
+Name       : proxmox-backup-server_4.1-1.iso
+OS         : Proxmox
+Version    : 4.1-1
+SHA256     : 670f0a71ee25e00cc7839bebb3f399594f5257e49a224a91ce517460e7ab171e
+TrustLevel : Official
+
+Name       : proxmox-backup-server_3.4-1.iso
+OS         : Proxmox
+Version    : 3.4-1
+SHA256     : ed4777f570f2589843765fff9e942288ff16a6cc3728655733899188479b7e08
+TrustLevel : Official
+
+Name       : proxmox-backup-server_2.4-1.iso
+OS         : Proxmox
+Version    : 2.4-1
+SHA256     : 721e21a88ae93dba73ca3e4a494b438190acadb99993ec755a19e721a86f0395
+TrustLevel : Official
+
+Name       : proxmox-mail-gateway_9.1-1.iso
+OS         : Proxmox
+Version    : 9.1-1
+SHA256     : 79402f6398c50a76fca66a32c3c0a50da3f71d35c1d7a1bea022e4b1c6c864d6
+TrustLevel : Official
+
+Name       : proxmox-mail-gateway_9.0-1.iso
+OS         : Proxmox
+Version    : 9.0-1
+SHA256     : 23bf1e50bba06f6f850360740c0388462b921b414d2e4f3ea859e5150f498c8e
+TrustLevel : Official
+
+Name       : proxmox-mail-gateway_8.2-1.iso
+OS         : Proxmox
+Version    : 8.2-1
+SHA256     : 2a348db5bf588450d1d47a8746d3713efc390c7fe1fc5ddf379045542999b549
+TrustLevel : Official
+
+Name       : proxmox-mailgateway_7.3-1.iso
+OS         : Proxmox
+Version    : 7.3-1
+SHA256     : 9085684327fc36d8006b7160d34733e916300a0ad6bf498ea83cfb901fc2d9d4
+TrustLevel : Official
+
+Name       : proxmox-datacenter-manager_1.1-1.iso
+OS         : Proxmox
+Version    : 1.1-1
+SHA256     : 11a55a069ba564220bd986241b57920a83781d40be18d6f2bf7b9b12696ae2cc
+TrustLevel : Official
+
+Name       : proxmox-datacenter-manager_1.0-2.iso
+OS         : Proxmox
+Version    : 1.0-2
+SHA256     : b4b98ed3e8f4dabb1151ebb713d6e7109aeba00d95b88bf65f954dd9ef1e89e1
+TrustLevel : Official
+
+Name       : proxmox-ve_9.2-1-arm64.iso
+OS         : Proxmox
+Version    : 9.2-1-arm64
+SHA256     : b1619dcd1f5b1a6d67d77b59e7e2fa2033174551d1e1b9dc22b2171ec093abbd
+TrustLevel : Official
+
+

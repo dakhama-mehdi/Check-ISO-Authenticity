@@ -124,6 +124,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-datacenter-manager_1.1-1.iso",
+    "OS": "Proxmox",
+    "Version": "1.1-1",
+    "SHA256": "11a55a069ba564220bd986241b57920a83781d40be18d6f2bf7b9b12696ae2cc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "9.2",

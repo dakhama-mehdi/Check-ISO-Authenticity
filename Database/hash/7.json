@@ -701,6 +701,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-mail-gateway_9.1-1.iso",
+    "OS": "Proxmox",
+    "Version": "9.1-1",
+    "SHA256": "79402f6398c50a76fca66a32c3c0a50da3f71d35c1d7a1bea022e4b1c6c864d6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-5.0.10-amd64-CD-2.iso",
     "OS": "Debian",
     "Version": "5.0.10",
