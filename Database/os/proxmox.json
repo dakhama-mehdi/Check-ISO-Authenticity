@@ -1,5 +1,12 @@
 [
   {
+    "Name": "proxmox-datacenter-manager_1.1-1.iso",
+    "OS": "Proxmox",
+    "Version": "1.1-1",
+    "SHA256": "11a55a069ba564220bd986241b57920a83781d40be18d6f2bf7b9b12696ae2cc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-ve_9.0-1.iso",
     "OS": "Proxmox",
     "Version": "9.0-1",
@@ -70,6 +77,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-mail-gateway_9.1-1.iso",
+    "OS": "Proxmox",
+    "Version": "9.1-1",
+    "SHA256": "79402f6398c50a76fca66a32c3c0a50da3f71d35c1d7a1bea022e4b1c6c864d6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-ve_3.4-102d4547-6.iso",
     "OS": "Proxmox",
     "Version": "3.4-102d4547-6",
@@ -88,6 +102,13 @@
     "OS": "Proxmox",
     "Version": "6.4-1",
     "SHA256": "ab71b03057fdeea29804f96f0ff4483203b8c7a25957a4f69ed0002b5f34e607",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "proxmox-ve_9.2-1-arm64.iso",
+    "OS": "Proxmox",
+    "Version": "9.2-1-arm64",
+    "SHA256": "b1619dcd1f5b1a6d67d77b59e7e2fa2033174551d1e1b9dc22b2171ec093abbd",
     "TrustLevel": "Official"
   },
   {

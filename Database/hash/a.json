@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.7006.445d861c6d31-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7006.445d861c6d31",
+    "SHA256": "a07ec66f033a950afcb808af43647de675663eabe93f55b4a4dcbe2fa91ed156",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-22.3-cinnamon-64bit.iso",
     "OS": "Linuxmint",
     "Version": "22.3",

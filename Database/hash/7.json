@@ -534,6 +534,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.7006.445d861c6d31-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7006.445d861c6d31",
+    "SHA256": "76f1aa1e91e08e7a42319c701174c33aee1895b5647b6e84df28d69138edad9c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-10.04.3-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "10.04.2",
