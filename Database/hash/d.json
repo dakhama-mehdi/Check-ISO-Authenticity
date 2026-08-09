@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-14.5-BETA1-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "14.5",
+    "SHA256": "d00ca6fceaf8152c97245f98017b1db4f45e41a54b0034b77147cad276897d0a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-backup-server_1.1-1.iso",
     "OS": "Proxmox",
     "Version": "1.1-1",

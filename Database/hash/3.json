@@ -14,6 +14,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-14.5-BETA1-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "14.5",
+    "SHA256": "306aecf5e6af3727d84db10d869e155fa64ad60aa8f5dc9a62011e980f5e19bc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Zorin-OS-15.3-Core-64-bit.iso",
     "OS": "Zorin_OS",
     "Version": "15",

@@ -260,6 +260,7 @@
     "Versions": [
       "14.3",
       "14.4",
+      "14.5",
       "15.0",
       "15.1"
     ]
@@ -445,7 +446,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.7006.445d861c6d31"
+    "Versions": "26.05.7201.ee48b147c18c"
   },
   {
     "Name": "zorinoS",

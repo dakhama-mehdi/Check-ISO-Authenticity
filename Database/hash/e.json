@@ -836,6 +836,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.7201.ee48b147c18c-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7201.ee48b147c18c",
+    "SHA256": "ed42e235134e483ef745870bd5730fa4fdbac71f0718f5652abda4bab4b8b0af",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-backup-server_3.4-1.iso",
     "OS": "Proxmox",
     "Version": "3.4-1",

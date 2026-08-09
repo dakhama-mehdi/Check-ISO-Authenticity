@@ -735,6 +735,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-14.5-BETA1-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "14.5",
+    "SHA256": "79a0aa4a7fb249bf7758f9e4ddd02254171dd215374c1bcbf673b5c2ca5da262",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-501-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "5.0.1",
