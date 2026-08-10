@@ -644,6 +644,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.7273.8b8c811c7c25-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7273.8b8c811c7c25",
+    "SHA256": "ca0534adad3472989d6e784015d4932403a38e866cc22ab3b34b129f98cf8ece",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-17.04-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "17.04",
