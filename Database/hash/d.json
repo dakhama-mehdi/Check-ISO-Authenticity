@@ -668,6 +668,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.7376.fcb8fcd6bf2d-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7376.fcb8fcd6bf2d",
+    "SHA256": "db1d9fc670f7b7acb7875d24e7008531554c0a7656f120ba044ae2f4a8e430b5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-7.11.0-amd64-CD-7.iso",
     "OS": "Debian",
     "Version": "7.11.0",
