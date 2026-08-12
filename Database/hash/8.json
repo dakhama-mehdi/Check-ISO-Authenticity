@@ -34,6 +34,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "CentOS-Stream-9-20260810.0-x86_64-dvd1.iso",
+    "OS": "CentOS",
+    "Version": "9-stream",
+    "SHA256": "813a75d2db30e59854d453365d9a80c32605b579aff0fc708a4d447668a03ae2",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.10-amd64-CD-17.iso",
     "OS": "Debian",
     "Version": "6.0.10",
@@ -163,6 +170,13 @@
     "OS": "Debian",
     "Version": "10.7.0",
     "SHA256": "82a3e2dae29adf6838a30d1b19699902cfdf3557a621ba97068387d461dfea21",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "CentOS-Stream-10-20260810.0-x86_64-boot.iso",
+    "OS": "CentOS",
+    "Version": "10-stream",
+    "SHA256": "82e1cc3ab2c77ee6017113c01973116eea2ad7c367be3196f50ff8b56fc61e87",
     "TrustLevel": "Official"
   },
   {

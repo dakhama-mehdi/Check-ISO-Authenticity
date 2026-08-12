@@ -380,6 +380,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.7443.70cc4559b10a-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7443.70cc4559b10a",
+    "SHA256": "15a8792d1ba1af5ff015e71a8c6519628a75d897cf8e35fc7ec59993edcfabf8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-8-x86_64-20191219-dvd1.iso",
     "OS": "CentOS",
     "SHA256": "15aafc41f1d1cf09eb4cc070c7e0bf7d461668475bd9797fb00f98f99a24e8f5",
