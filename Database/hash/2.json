@@ -724,6 +724,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.7526.9f78f44a8794-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7526.9f78f44a8794",
+    "SHA256": "2b0014255256ead328135a852ca2f390b19ea53ae3f12829427897212beecf4e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-23.1-OpenSSL-serial-amd64.img.bz2",
     "OS": "Opnsense",
     "Version": "23.1",
