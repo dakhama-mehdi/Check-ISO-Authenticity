@@ -740,6 +740,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.7675.02e08985a27c-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7675.02e08985a27c",
+    "SHA256": "5c8d3ecef4cea793460c0a47c03c1db63b1e526beed8d4331bd57d459f26846f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8.7-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "8.7",

@@ -953,5 +953,12 @@
     "Version": "35",
     "SHA256": "3fe521d6c7b12c167f3ac4adab14c1f344dd72136ba577aa2bcc4a67bcce2bc6",
     "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.7675.02e08985a27c-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.7675.02e08985a27c",
+    "SHA256": "3fedd433b4b3af2ca2cf3913365a3a84a2a1364ad94496053a93eac20634a3c0",
+    "TrustLevel": "Official"
   }
 ]
