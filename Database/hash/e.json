@@ -443,6 +443,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8045.b18a4b905f8d-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8045.b18a4b905f8d",
+    "SHA256": "e644a3d0011ae9ce7deddeeda61c9d03c4df3ba4a04f7e2c69df1b8dc8e1fe5c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-10.13.0-amd64-xfce-CD-1.iso",
     "OS": "Debian",
     "Version": "10.13.0",
