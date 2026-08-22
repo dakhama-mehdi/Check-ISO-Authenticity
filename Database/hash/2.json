@@ -704,6 +704,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8111.5880666fd9eb-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8111.5880666fd9eb",
+    "SHA256": "2a783ebef1eff1360b63d0a4106c5221e6a7c2cef5b2ed59510e360308097f45",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-10-latest-x86_64-dvd1.iso",
     "OS": "CentOS",
     "SHA256": "2a91662267dc03fb85eb3a727d8cce603fe131777b3300a410ef5fc6b6f4b915",
@@ -1012,6 +1019,13 @@
     "OS": "Proxmox",
     "Version": "4.2-1",
     "SHA256": "2fb299deac3929253712c9c3dfc9237edbe70af83c8848467616b771a1d5453e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.8111.5880666fd9eb-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8111.5880666fd9eb",
+    "SHA256": "2fdadb46de65e53bb407c3045212dff751cd5d5a9e3dcb51b15d300b32716592",
     "TrustLevel": "Official"
   },
   {
