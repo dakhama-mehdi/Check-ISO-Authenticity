@@ -63,7 +63,7 @@
   },
   {
     "Name": "linuxmint-19.3-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "19.3",
     "SHA256": "610385bd480d4f906774d865761c429bccc522cf9dd62a5928045fac8fa24bf6",
     "TrustLevel": "Official"

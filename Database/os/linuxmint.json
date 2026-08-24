@@ -1,7 +1,7 @@
 [
   {
     "Name": "linuxmint-21-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "21",
     "SHA256": "02a80ca98f82838e14bb02753bd73ee0da996c9cda3f027ae1c0ffb4612c8133",
     "TrustLevel": "Official"
@@ -211,7 +211,7 @@
   },
   {
     "Name": "linuxmint-19.3-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "19.3",
     "SHA256": "30c509d062da0f754765b5ecba861486d1f3d6138fdcec6f70f5feb88b72e4ef",
     "TrustLevel": "Official"
@@ -386,7 +386,7 @@
   },
   {
     "Name": "linuxmint-22-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22",
     "SHA256": "55e917b99206187564029476f421b98f5a8a0b6e54c49ff6a4cb39dcfeb4bd80",
     "TrustLevel": "Official"
@@ -414,7 +414,7 @@
   },
   {
     "Name": "linuxmint-19.3-mate-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "19.3",
     "SHA256": "610385bd480d4f906774d865761c429bccc522cf9dd62a5928045fac8fa24bf6",
     "TrustLevel": "Official"

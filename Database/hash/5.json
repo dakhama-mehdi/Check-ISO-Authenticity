@@ -334,7 +334,7 @@
   },
   {
     "Name": "linuxmint-22-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "22",
     "SHA256": "55e917b99206187564029476f421b98f5a8a0b6e54c49ff6a4cb39dcfeb4bd80",
     "TrustLevel": "Official"
@@ -944,6 +944,13 @@
     "OS": "Kali",
     "Version": "kali-2021.3",
     "SHA256": "5f53a8202fe3edcdee73acfc1f4dcae89b4d91be4708b66fcdd626b259578d66",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.8255.a9e6d84f9c2f-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8255.a9e6d84f9c2f",
+    "SHA256": "5f74965b030247f03c6a7f68cafcab95211fd1c1cbcbe859ef6f4d7bf7e57e77",
     "TrustLevel": "Official"
   },
   {

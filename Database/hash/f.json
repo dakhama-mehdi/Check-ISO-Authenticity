@@ -434,6 +434,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8255.a9e6d84f9c2f-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8255.a9e6d84f9c2f",
+    "SHA256": "f7e89d36c7e102a1ade3ccc845b01779f89b06e0bd3006daf2c6f477caddaf09",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-21.1-mate-64bit.iso",
     "OS": "Linuxmint",
     "Version": "21.1",
@@ -910,6 +917,13 @@
     "OS": "FreeBsd",
     "Version": "11.1",
     "SHA256": "ff4c749ea0aaaceedb2432ba3e0fd0c1b64f5a72141b1ec06b9ced52b5de0dbf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "agama-installer.x86_64-23.0.0-Leap_16.1-Build43.2.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "ff4f101582b0d902a0012832a0ab93cfea9dcbef2c1ebbb628fa4aa5b6adfd62",
     "TrustLevel": "Official"
   },
   {

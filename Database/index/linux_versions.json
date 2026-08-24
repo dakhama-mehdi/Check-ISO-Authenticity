@@ -238,7 +238,21 @@
   {
     "Name": "Linuxmint",
     "Url": "https://mirrors.edge.kernel.org/linuxmint/stable/",
-    "Versions": []
+    "Versions": [
+      "19.3",
+      "20",
+      "20.1",
+      "20.2",
+      "20.3",
+      "21",
+      "21.1",
+      "21.2",
+      "21.3",
+      "22",
+      "22.1",
+      "22.2",
+      "22.3"
+    ]
   },
   {
     "Name": "FreeBsd",
@@ -432,7 +446,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.8111.5880666fd9eb"
+    "Versions": "26.05.8255.a9e6d84f9c2f"
   },
   {
     "Name": "zorinoS",

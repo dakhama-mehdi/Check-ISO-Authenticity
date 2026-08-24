@@ -43,7 +43,7 @@
   },
   {
     "Name": "linuxmint-19.3-xfce-64bit.iso",
-    "OS": "LinuxMint",
+    "OS": "Linuxmint",
     "Version": "19.3",
     "SHA256": "30c509d062da0f754765b5ecba861486d1f3d6138fdcec6f70f5feb88b72e4ef",
     "TrustLevel": "Official"
