@@ -463,6 +463,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8409.f4f698677b11-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8409.f4f698677b11",
+    "SHA256": "b7c7b3d2e2067f4d4f17ac89993f70c2d21a6daecc29fe8d64e6b9d57764e587",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2023.1-live-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2023.1",

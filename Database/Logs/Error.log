@@ -285,3 +285,6 @@
 2026-08-24 06:13:08 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-08-24 06:13:14 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
 2026-08-24 06:13:14 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-08-26 06:10:37 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-08-26 06:10:39 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-08-26 06:10:39 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
