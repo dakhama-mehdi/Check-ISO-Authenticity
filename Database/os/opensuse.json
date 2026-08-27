@@ -84,6 +84,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-23.0.0-Leap_16.1-Build43.3.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "8b0cb929b7e56d62d13dd62e07624bfbbb44ce446a90859c6b1505ccfae5b595",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "agama-installer.x86_64-22.0.0-Leap_16.1-Build35.9.iso",
     "OS": "openSUSE",
     "Version": "/16.1",

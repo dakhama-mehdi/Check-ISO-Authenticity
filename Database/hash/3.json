@@ -401,6 +401,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8477.062346a6d85b-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8477.062346a6d85b",
+    "SHA256": "363792fe85a326a73539e493a7f1de17bc30cb58db259b3697ecb4816eb47c82",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-11.04-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "11.04",
