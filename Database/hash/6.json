@@ -1,5 +1,12 @@
 [
   {
+    "Name": "ubuntu-26.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.04.1",
+    "SHA256": "601e30fbf5d97759367c632e2c33630665039b7e2158fd068403da3ccf1bda1f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.0.0-amd64-CD-21.iso",
     "OS": "Debian",
     "Version": "7.0.0",

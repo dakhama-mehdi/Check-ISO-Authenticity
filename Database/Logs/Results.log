@@ -14876,3 +14876,373 @@ SHA256     : db232b7df63e12eea4f78091310431405bfe8763eff0a2dd026851f943bf9125
 TrustLevel : Official
 
 
+
+===== 2026-08-28 09:09:08 =====
+
+Name       : ubuntu-26.04-desktop-amd64.iso
+OS         : Ubuntu
+Version    : 26.04.1
+SHA256     : 487f87faaf547ea30e0aba4d5b53346292571256b25333a978db1692bcee9dd2
+TrustLevel : Official
+
+Name       : ubuntu-26.04.1-desktop-amd64.iso
+OS         : Ubuntu
+Version    : 26.04.1
+SHA256     : 601e30fbf5d97759367c632e2c33630665039b7e2158fd068403da3ccf1bda1f
+TrustLevel : Official
+
+Name       : ubuntu-26.04.1-live-server-amd64.iso
+OS         : Ubuntu
+Version    : 26.04.1
+SHA256     : cc8a95cde20f6ced61a322420de00f10cc3c90ced545daa46cb9c1a117f1d927
+TrustLevel : Official
+
+Name       : ubuntu-26.04-live-server-amd64.iso
+OS         : Ubuntu
+Version    : 26.04.1
+SHA256     : dec49008a71f6098d0bcfc822021f4d042d5f2db279e4d75bdd981304f1ca5d9
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : linuxmint-21-mate-64bit.iso
+OS         : Linuxmint
+Version    : 21
+SHA256     : 02a80ca98f82838e14bb02753bd73ee0da996c9cda3f027ae1c0ffb4612c8133
+TrustLevel : Official
+
+Name       : linuxmint-20.2-cinnamon-64bit-edge.iso
+OS         : Linuxmint
+Version    : 20.2
+SHA256     : 034a6eb5e023526014d1b3d86e41ba19bc902a45060862353e7fe3311a8208a0
+TrustLevel : Official
+
+Name       : linuxmint-21.2-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 21.2
+SHA256     : 116578dda0e03f1421c214acdd66043b586e7afc7474e0796c150ac164a90a2a
+TrustLevel : Official
+
+Name       : linuxmint-20.1-mate-64bit.iso
+OS         : Linuxmint
+Version    : 20.1
+SHA256     : 12ccfa2494acf761b2f5a3379ed770495d97051c3944571d5ad5e7c50d11c975
+TrustLevel : Official
+
+Name       : linuxmint-20.1-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 20.1
+SHA256     : 14f73c93f75e873f4ac70b6cddc83703755c2421135a8fbbfd6ccfeed107e971
+TrustLevel : Official
+
+Name       : linuxmint-22.2-mate-64bit.iso
+OS         : Linuxmint
+Version    : 22.2
+SHA256     : 21f5a5f7be652c60b20ba7996328098b14e979b1ef8bf7f6c9d4a2a579504a65
+TrustLevel : Official
+
+Name       : linuxmint-20.3-mate-64bit.iso
+OS         : Linuxmint
+Version    : 20.3
+SHA256     : 27de0b1e6d743d0efc2c193ec88d56a49941ce3e7d58b03730a4bb1895c25be5
+TrustLevel : Official
+
+Name       : linuxmint-21.1-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 21.1
+SHA256     : 2df322f030d8ff4633360930a92d78829d10e515d2f6975b9bdfd1c0de769aca
+TrustLevel : Official
+
+Name       : linuxmint-20-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 20
+SHA256     : 2f6ae466ec9b7c6255e997b82f162ae88bfe640a8df16d3e2f495b6281120af9
+TrustLevel : Official
+
+Name       : linuxmint-19.3-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 19.3
+SHA256     : 30c509d062da0f754765b5ecba861486d1f3d6138fdcec6f70f5feb88b72e4ef
+TrustLevel : Official
+
+Name       : linuxmint-21-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 21
+SHA256     : 3ad001dc15cb661c6652ce1d20ecdc85a939fa0b4b9325af5d0c65379cc3b17e
+TrustLevel : Official
+
+Name       : linuxmint-20.2-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 20.2
+SHA256     : 3ade2a59635a071c42e68721cbcd3a43b8e511b22a1c56b16b451448d440c613
+TrustLevel : Official
+
+Name       : linuxmint-20-mate-64bit.iso
+OS         : Linuxmint
+Version    : 20
+SHA256     : 42fd764b3a3544a36d820f4164bb64aa5a6d982073e6d1afdea4853d3858fc98
+TrustLevel : Official
+
+Name       : linuxmint-22.3-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 22.3
+SHA256     : 45a835b5dddaf40e84d776549e0b19b3fbd49673b6cc6434ebddbfcd217df776
+TrustLevel : Official
+
+Name       : linuxmint-21.2-mate-64bit.iso
+OS         : Linuxmint
+Version    : 21.2
+SHA256     : 46b1e171d678d0eba7916ed2b4eecac8993c5e94d3d5a1231ca7d480314f1553
+TrustLevel : Official
+
+Name       : linuxmint-20.3-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 20.3
+SHA256     : 4d37e6a57513d2cdb4a8a993f48a54b18e0d41e86b651326f1101c34460c4719
+TrustLevel : Official
+
+Name       : linuxmint-20.1-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 20.1
+SHA256     : 4f9cc6fa8a2d6fd7ffdf88478812ff994e36470ecfe50761f7efd56e6d3d7018
+TrustLevel : Official
+
+Name       : linuxmint-20.2-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 20.2
+SHA256     : 50b833f1f093c029bfb7ba6148c9ce96619c01a83e92f35287983fbd62f26b01
+TrustLevel : Official
+
+Name       : linuxmint-22-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 22
+SHA256     : 55e917b99206187564029476f421b98f5a8a0b6e54c49ff6a4cb39dcfeb4bd80
+TrustLevel : Official
+
+Name       : linuxmint-21.3-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 21.3
+SHA256     : 5aa24abbc616807ab754a6a3b586f24460b0c213b6cacb0bf8b9a80b65013ecc
+TrustLevel : Official
+
+Name       : linuxmint-19.3-mate-64bit.iso
+OS         : Linuxmint
+Version    : 19.3
+SHA256     : 610385bd480d4f906774d865761c429bccc522cf9dd62a5928045fac8fa24bf6
+TrustLevel : Official
+
+Name       : linuxmint-22.1-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 22.1
+SHA256     : 6451496af35e6855ffe1454f061993ea9cb884d2b4bc8bf17e7d5925ae2ae86d
+TrustLevel : Official
+
+Name       : linuxmint-20.2-mate-64bit.iso
+OS         : Linuxmint
+Version    : 20.2
+SHA256     : 6b71cbac79931296550187b82021d459174d67ce509d1f2c07a867059d84f4f4
+TrustLevel : Official
+
+Name       : linuxmint-21.1-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 21.1
+SHA256     : 6fea221b5b0272d55de57f3d31498cdf76682f414e60d28131dc428e719efa8b
+TrustLevel : Official
+
+Name       : linuxmint-22.2-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 22.2
+SHA256     : 759c9b5a2ad26eb9844b24f7da1696c705ff5fe07924a749f385f435176c2306
+TrustLevel : Official
+
+Name       : linuxmint-22.3-mate-64bit.iso
+OS         : Linuxmint
+Version    : 22.3
+SHA256     : 7609294da613b75eea89bb918292125e9f06418a368136fb190466e15bf8c373
+TrustLevel : Official
+
+Name       : linuxmint-20-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 20
+SHA256     : 761fb276da9746a068f4c8aa42e8d4981f352db92babe0ef8a08713eeb38246f
+TrustLevel : Official
+
+Name       : linuxmint-22-mate-64bit.iso
+OS         : Linuxmint
+Version    : 22
+SHA256     : 78a2438346cfe69a1779b0ac3fc05499f8dc7202959d597dd724a07475bc6930
+TrustLevel : Official
+
+Name       : linuxmint-22-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 22
+SHA256     : 7a04b54830004e945c1eda6ed6ec8c57ff4b249de4b331bd021a849694f29b8f
+TrustLevel : Official
+
+Name       : linuxmint-19.3-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 19.3
+SHA256     : 7a9e54212433c8547edfd789ac933c91a9bde1a61196fa7977c5357a2c40292d
+TrustLevel : Official
+
+Name       : linuxmint-20.1-cinnamon-64bit-edge.iso
+OS         : Linuxmint
+Version    : 20.1
+SHA256     : 966fead51235cb4f0cd023506d538df1eeecedf1b06971e12eac4b92c862fa2b
+TrustLevel : Official
+
+Name       : linuxmint-19.3-mate-32bit.iso
+OS         : Linuxmint
+Version    : 19.3
+SHA256     : 9d302939a07205383231c2e41f3712b2cea7f1bff0470eed2d16f6c6ef0abc0a
+TrustLevel : Official
+
+Name       : linuxmint-19.3-xfce-32bit.iso
+OS         : Linuxmint
+Version    : 19.3
+SHA256     : 9daafa1d804fd34e5cd42dab919bbe43b7e94eefa2669398dc73b43c6616d206
+TrustLevel : Official
+
+Name       : linuxmint-22.3-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 22.3
+SHA256     : a081ab202cfda17f6924128dbd2de8b63518ac0531bcfe3f1a1b88097c459bd4
+TrustLevel : Official
+
+Name       : linuxmint-21.3-cinnamon-64bit-edge.iso
+OS         : Linuxmint
+Version    : 21.3
+SHA256     : ac79f36b82896e74299fa6dd1f40f00648ca2160903fea5d4d138db99fc6ad4e
+TrustLevel : Official
+
+Name       : linuxmint-21.2-cinnamon-64bit-edge.iso
+OS         : Linuxmint
+Version    : 21.2
+SHA256     : b149f7fc4cbbc9f8fb547d50fef3e761a9c918ded55e67c33214997f007b91bd
+TrustLevel : Official
+
+Name       : linuxmint-21.3-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 21.3
+SHA256     : b284afcc298cc6f5da6ab4d483318c453b2074485974b71b16fdfc7256527cb1
+TrustLevel : Official
+
+Name       : linuxmint-20.3-cinnamon-64bit-edge.iso
+OS         : Linuxmint
+Version    : 20.3
+SHA256     : b6b4bbfafdacf9e00f4c674ba237193b40347140917946cff0ede3b10dc6ea55
+TrustLevel : Official
+
+Name       : linuxmint-21.3-mate-64bit.iso
+OS         : Linuxmint
+Version    : 21.3
+SHA256     : c7b0c703476fcf7cfcfc66974b60984f35479fe1f2f054b00bc3c4cb97f37687
+TrustLevel : Official
+
+Name       : linuxmint-22.1-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 22.1
+SHA256     : ccf482436df954c0ad6d41123a49fde79352ca71f7a684a97d5e0a0c39d7f39f
+TrustLevel : Official
+
+Name       : linuxmint-22.1-mate-64bit.iso
+OS         : Linuxmint
+Version    : 22.1
+SHA256     : d286306d0f40bd7268f08c523ece5fba87c0369a27a72465a19447e3606c5fa0
+TrustLevel : Official
+
+Name       : linuxmint-22.2-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 22.2
+SHA256     : dea13e523dca28e3aa48d90167a6368c63e1b3251492115417fdbf648551558f
+TrustLevel : Official
+
+Name       : linuxmint-21.2-xfce-64bit.iso
+OS         : Linuxmint
+Version    : 21.2
+SHA256     : e532dca4f28a88e52587a0e1af14236b233d2cec629d9f93e7c92383b4490a55
+TrustLevel : Official
+
+Name       : linuxmint-20.3-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 20.3
+SHA256     : e739317677c2261ae746eee5f1f0662aa319ad0eff260d4eb7055d7c79d10952
+TrustLevel : Official
+
+Name       : linuxmint-19.3-cinnamon-32bit.iso
+OS         : Linuxmint
+Version    : 19.3
+SHA256     : f1e0469b220b318151bf5c9515380705ddc5d4f59dd0f1af6e78fea599f05e4a
+TrustLevel : Official
+
+Name       : linuxmint-21-cinnamon-64bit.iso
+OS         : Linuxmint
+Version    : 21
+SHA256     : f524114e4a10fb04ec428af5e8faf7998b18271ea72fbb4b63efe0338957c0f3
+TrustLevel : Official
+
+Name       : linuxmint-21.1-mate-64bit.iso
+OS         : Linuxmint
+Version    : 21.1
+SHA256     : f7fb9c0500e583c46587402578547ea56125e0a054097f9f464a2500830c8b25
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-23.0.0-Leap_16.1-Build44.2.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : c389d369e93b0d8dc140398a0c9444d737b9869d6ee71a474d94852e55bd7347
+TrustLevel : Official
+
+

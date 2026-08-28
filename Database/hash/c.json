@@ -271,6 +271,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-23.0.0-Leap_16.1-Build44.2.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "c389d369e93b0d8dc140398a0c9444d737b9869d6ee71a474d94852e55bd7347",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-22.04.1-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "22.04.2",
@@ -870,6 +877,13 @@
     "OS": "Debian",
     "Version": "13.5.0",
     "SHA256": "cc8565fbd9e05328eab8f7d06301a97f878164c1df1ea21a55ac94540cdf7295",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-26.04.1-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.04.1",
+    "SHA256": "cc8a95cde20f6ced61a322420de00f10cc3c90ced545daa46cb9c1a117f1d927",
     "TrustLevel": "Official"
   },
   {
