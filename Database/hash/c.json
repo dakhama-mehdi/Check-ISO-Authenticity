@@ -915,6 +915,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8538.d57af924f160-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8538.d57af924f160",
+    "SHA256": "ccc1dd82dcf29a7d277e56c7b9bbdae6aee812b8e9763c1e4eb12cd166e84e2b",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2026.2-installer-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2026.2",

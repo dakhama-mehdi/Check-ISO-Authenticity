@@ -459,6 +459,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.8538.d57af924f160-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8538.d57af924f160",
+    "SHA256": "d69b1518e1158c467baca764c89c371a0b1319d2b13d57a2c19c6488c37d0162",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-24.04.2-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "24.04.2",

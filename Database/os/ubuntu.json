@@ -707,6 +707,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "ubuntu-26.04.1-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.04.1",
+    "SHA256": "601e30fbf5d97759367c632e2c33630665039b7e2158fd068403da3ccf1bda1f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.5-server-i386.iso",
     "OS": "Ubuntu",
     "Version": "14.04.2",
@@ -1621,6 +1628,13 @@
     "OS": "Ubuntu",
     "Version": "13.10",
     "SHA256": "cb988e3361dfbd09f3378a4691a60ccb0bc0dfc45d1a0c3a503e89e16f9cf98c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-26.04.1-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.04.1",
+    "SHA256": "cc8a95cde20f6ced61a322420de00f10cc3c90ced545daa46cb9c1a117f1d927",
     "TrustLevel": "Official"
   },
   {
