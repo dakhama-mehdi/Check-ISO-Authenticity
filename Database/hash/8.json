@@ -381,6 +381,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "nixos-minimal-26.05.8772.5dfba6236110-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8772.5dfba6236110",
+    "SHA256": "85cdefee2ad1d3056907f3d31ec951bfcf7c6be180c1c771ff82f5f8effbce88",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Workstation-Live-x86_64-35-1.2.iso",
     "OS": "Fedora",
     "SHA256": "85d9d0c233d560e401e2ad824aa8e6d5614e8b977dfe685396bfb2eb3ba5b253",
