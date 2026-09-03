@@ -886,6 +886,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8846.a3116115851d-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8846.a3116115851d",
+    "SHA256": "fed6bb8d41e3ca819565bf6515145bdc6fcfed2f5de87b1b35e85f4939e6206e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Parrot-home-6.1_amd64.iso",
     "OS": "Parrot",
     "Version": "6.1",

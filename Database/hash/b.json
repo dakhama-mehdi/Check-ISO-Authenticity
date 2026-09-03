@@ -942,6 +942,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2026.09.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.09.01",
+    "SHA256": "be8458032f8105e60ee2a3067f950b6e3c007ee51b38dac50e8b48e765561c91",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.0-amd64-CD-49.iso",
     "OS": "Debian",
     "Version": "8.11.0",
