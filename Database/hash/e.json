@@ -1015,5 +1015,12 @@
     "Version": "9-stream",
     "SHA256": "efc4101ddddab139d2dda7d805e1b6e10ecc682890d2d37209f1d1cb54e8a98c",
     "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.8954.a5cc6f2c37bf-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8954.a5cc6f2c37bf",
+    "SHA256": "efea0bd01d823ff8080fa090eeefaf35793afcc4792d55412457ec7963ce6d63",
+    "TrustLevel": "Official"
   }
 ]

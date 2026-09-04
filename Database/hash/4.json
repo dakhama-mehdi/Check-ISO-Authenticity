@@ -1028,6 +1028,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.8954.a5cc6f2c37bf-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.8954.a5cc6f2c37bf",
+    "SHA256": "4fe1e5f85166506bebb17831ec07c8db3593c2bf393fc1bb649acb4993439f21",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-dvd-x86_64-33-1.2.iso",
     "OS": "Fedora",
     "SHA256": "4fe38b45a4c788927ddfdfb224c414f138226a75f27a287995d802cba3cb89d4",
