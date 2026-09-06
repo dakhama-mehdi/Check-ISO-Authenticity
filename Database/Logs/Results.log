@@ -15564,3 +15564,79 @@ SHA256     : efea0bd01d823ff8080fa090eeefaf35793afcc4792d55412457ec7963ce6d63
 TrustLevel : Official
 
 
+
+===== 2026-09-06 06:11:59 =====
+
+Name       : AlmaLinux-10.2-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 1b532f534231da0d1cd0ccae622bea6cd588d8a0d7b259f1f131501a6eed41a4
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 445f99e24399bbe98aab86111d60751c142eda049d2444fd76da5eb03472e4ab
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7762a4b45a66235726db145a573658964bf77bf7b9bc1c018afe86a4cf37cc2e
+TrustLevel : Official
+
+Name       : AlmaLinux-9.8-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.8
+SHA256     : 7a392bdc879afd159b30da39a356b7b26c1ddf618b01549164da9aadbc40d814
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : 90244ac532f67c978831a381b420da8bda363729e1f4cf8fb8991daca70ee287
+TrustLevel : Official
+
+Name       : AlmaLinux-10.2-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.2
+SHA256     : b3f865468075bcada8f208d830289302c67529789d668041d24e8d6fc697ba6a
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 027504262c65e096d78bd345d74905a8a7216bbb3c6155d55634ae8328f76c5d
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : 3e74120a59512cefc35840443bdd05087c8a010a27cf8a6fbb4f7450824f092e
+TrustLevel : Official
+
+Name       : FreeBSD-15.1-RELEASE-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.1
+SHA256     : fa27646f05a1440fd26ffbb85e06a50bc86e128242a4e9cb7bb3ea76e1aa5fd9
+TrustLevel : Official
+
+Name       : agama-installer.x86_64-23.0.0-Leap_16.1-Build44.2.iso
+OS         : openSUSE
+Version    : /16.1
+SHA256     : c389d369e93b0d8dc140398a0c9444d737b9869d6ee71a474d94852e55bd7347
+TrustLevel : Official
+
+Name       : nixos-graphical-26.05.9173.6713828a351e-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.9173.6713828a351e
+SHA256     : 0af4319821f833002e4fed8c5c4bbee2bb6fc0507679c1f1dcc8fcd358860655
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.9173.6713828a351e-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.9173.6713828a351e
+SHA256     : bc64e5ccb058c7143c3803ad5ded61564d82509b0c13bcf572d012e82ecf3e4e
+TrustLevel : Official
+
+
