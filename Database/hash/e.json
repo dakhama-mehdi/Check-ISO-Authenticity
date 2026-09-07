@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.9227.c25784012c99-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9227.c25784012c99",
+    "SHA256": "e0bfb532f2f6b9e1487a953098c9415a579a4f11a87a8a1cf4a7d8cd92bd9df1",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-6.0.10-amd64-CD-10.iso",
     "OS": "Debian",
     "Version": "6.0.10",

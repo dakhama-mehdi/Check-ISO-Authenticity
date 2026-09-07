@@ -410,6 +410,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.9227.c25784012c99-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9227.c25784012c99",
+    "SHA256": "d58b42d341136325dbda7bac47f86b68cb3d2cd34369adff6bd58c97754bf179",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-11.04-alternate-i386.iso",
     "OS": "Ubuntu",
     "Version": "11.04",
