@@ -306,3 +306,9 @@
 2026-09-06 06:11:57 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-09-06 06:11:59 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
 2026-09-06 06:11:59 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-09-08 06:13:06 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-09-08 06:13:07 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/Workstation/x86_64/iso/)
+2026-09-08 06:13:10 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/Server/x86_64/iso/)
+2026-09-08 06:13:12 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/)
+2026-09-08 06:13:14 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-09-08 06:13:14 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
