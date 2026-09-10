@@ -788,6 +788,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.9440.6aefcda9401b-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9440.6aefcda9401b",
+    "SHA256": "fdbb66a647675b9fc654a81824f80f3ecda9dc333ec5c2437a42ec04a89d57a6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-10.3-RELEASE-amd64-bootonly.iso",
     "OS": "FreeBsd",
     "Version": "10.3",
