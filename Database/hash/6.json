@@ -284,6 +284,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "ubuntu-24.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.5",
+    "SHA256": "63bed7c60c252d5563742b19204ff228ef9f7f10ac0a060159897ab423b6c398",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64le-20250605-6573b7db7143-271611-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "63ce5e8cb89a6bc4a96e85f8bf88ed3bff33355881e0710c443711098bd2b7b1",

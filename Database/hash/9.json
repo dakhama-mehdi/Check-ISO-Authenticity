@@ -435,6 +435,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "ubuntu-24.04.5-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.5",
+    "SHA256": "97f3d7ffb032c3eb3b23d2c8be9cc76e60c2c1f2c0146ba5ba9fe01cafae0fd8",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "12.04.2",
@@ -571,6 +578,13 @@
     "OS": "CentOS",
     "Version": "9-stream",
     "SHA256": "9a2c6e15933085a910cf5c43fd87659d83cfb4d3afa630d7108f6b9e86b93011",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.9498.d58a46e3bc02-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9498.d58a46e3bc02",
+    "SHA256": "9a50e2e27e10fb1c33bca8191b861410ac00dea7398d3e8b876184d1445d2b46",
     "TrustLevel": "Official"
   },
   {

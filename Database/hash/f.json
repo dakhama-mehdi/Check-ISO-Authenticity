@@ -603,7 +603,7 @@
   {
     "Name": "ubuntu-24.04.3-desktop-amd64.iso",
     "OS": "Ubuntu",
-    "Version": "24.04.3",
+    "Version": "24.04.5",
     "SHA256": "faabcf33ae53976d2b8207a001ff32f4e5daae013505ac7188c9ea63988f8328",
     "TrustLevel": "Official"
   },

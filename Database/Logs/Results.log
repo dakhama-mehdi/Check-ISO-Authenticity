@@ -15860,3 +15860,55 @@ SHA256     : fdbb66a647675b9fc654a81824f80f3ecda9dc333ec5c2437a42ec04a89d57a6
 TrustLevel : Official
 
 
+
+===== 2026-09-11 06:12:56 =====
+
+Name       : ubuntu-24.04.4-desktop-amd64.iso
+OS         : Ubuntu
+Version    : 24.04.5
+SHA256     : 3a4c9877b483ab46d7c3fbe165a0db275e1ae3cfe56a5657e5a47c2f99a99d1e
+TrustLevel : Official
+
+Name       : ubuntu-24.04.5-desktop-amd64.iso
+OS         : Ubuntu
+Version    : 24.04.5
+SHA256     : 63bed7c60c252d5563742b19204ff228ef9f7f10ac0a060159897ab423b6c398
+TrustLevel : Official
+
+Name       : ubuntu-24.04.5-live-server-amd64.iso
+OS         : Ubuntu
+Version    : 24.04.5
+SHA256     : 97f3d7ffb032c3eb3b23d2c8be9cc76e60c2c1f2c0146ba5ba9fe01cafae0fd8
+TrustLevel : Official
+
+Name       : ubuntu-24.04.3-live-server-amd64.iso
+OS         : Ubuntu
+Version    : 24.04.5
+SHA256     : c3514bf0056180d09376462a7a1b4f213c1d6e8ea67fae5c25099c6fd3d8274b
+TrustLevel : Official
+
+Name       : ubuntu-24.04.4-live-server-amd64.iso
+OS         : Ubuntu
+Version    : 24.04.5
+SHA256     : e907d92eeec9df64163a7e454cbc8d7755e8ddc7ed42f99dbc80c40f1a138433
+TrustLevel : Official
+
+Name       : ubuntu-24.04.3-desktop-amd64.iso
+OS         : Ubuntu
+Version    : 24.04.5
+SHA256     : faabcf33ae53976d2b8207a001ff32f4e5daae013505ac7188c9ea63988f8328
+TrustLevel : Official
+
+Name       : nixos-graphical-26.05.9498.d58a46e3bc02-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.9498.d58a46e3bc02
+SHA256     : bee453775bea882bc7a3bfda80373bcff1a321bd3f88e4c41254fccb583d7b9c
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.9498.d58a46e3bc02-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.9498.d58a46e3bc02
+SHA256     : 9a50e2e27e10fb1c33bca8191b861410ac00dea7398d3e8b876184d1445d2b46
+TrustLevel : Official
+
+
