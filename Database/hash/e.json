@@ -1024,6 +1024,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.9592.21a67dc47014-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9592.21a67dc47014",
+    "SHA256": "efe1360cf504c7070ecc5c4913b790e8bd33072c53719ce8f311c5b3e18d1614",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "nixos-minimal-26.05.8954.a5cc6f2c37bf-x86_64-linux.iso",
     "OS": "NixOS",
     "Version": "26.05.8954.a5cc6f2c37bf",

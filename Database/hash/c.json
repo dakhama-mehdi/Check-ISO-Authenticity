@@ -576,6 +576,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.9592.21a67dc47014-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9592.21a67dc47014",
+    "SHA256": "c96da9819242f67fc4cd5ee4ef367bf734ea59c0f5761e3f392079e8d30a8c4c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-22.1.2-OpenSSL-dvd-amd64.iso",
     "OS": "OPNsense",
     "SHA256": "c97c4073d469650cc2a14a988c29b434a3d08060ded410fd242f751582f99806",
