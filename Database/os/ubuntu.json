@@ -415,7 +415,7 @@
   {
     "Name": "ubuntu-24.04.4-desktop-amd64.iso",
     "OS": "Ubuntu",
-    "Version": "24.04",
+    "Version": "24.04.5",
     "SHA256": "3a4c9877b483ab46d7c3fbe165a0db275e1ae3cfe56a5657e5a47c2f99a99d1e",
     "TrustLevel": "Official"
   },
@@ -739,6 +739,13 @@
     "OS": "Ubuntu",
     "Version": "12.04.0",
     "SHA256": "63b7c9474398295355f01f57a1657405ae85b1c21953c6c996bbb6374f07e3aa",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.5-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.5",
+    "SHA256": "63bed7c60c252d5563742b19204ff228ef9f7f10ac0a060159897ab423b6c398",
     "TrustLevel": "Official"
   },
   {
@@ -1131,6 +1138,13 @@
     "OS": "Ubuntu",
     "Version": "14.04.2",
     "SHA256": "976044842804eafc18390505508958b559c131211160ecae5e60694bdf171f78",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "ubuntu-24.04.5-live-server-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "24.04.5",
+    "SHA256": "97f3d7ffb032c3eb3b23d2c8be9cc76e60c2c1f2c0146ba5ba9fe01cafae0fd8",
     "TrustLevel": "Official"
   },
   {
@@ -1535,7 +1549,7 @@
   {
     "Name": "ubuntu-24.04.3-live-server-amd64.iso",
     "OS": "Ubuntu",
-    "Version": "24.04.3",
+    "Version": "24.04.5",
     "SHA256": "c3514bf0056180d09376462a7a1b4f213c1d6e8ea67fae5c25099c6fd3d8274b",
     "TrustLevel": "Official"
   },
@@ -1927,7 +1941,7 @@
   {
     "Name": "ubuntu-24.04.4-live-server-amd64.iso",
     "OS": "Ubuntu",
-    "Version": "24.04.2",
+    "Version": "24.04.5",
     "SHA256": "e907d92eeec9df64163a7e454cbc8d7755e8ddc7ed42f99dbc80c40f1a138433",
     "TrustLevel": "Official"
   },
@@ -2067,7 +2081,7 @@
   {
     "Name": "ubuntu-24.04.3-desktop-amd64.iso",
     "OS": "Ubuntu",
-    "Version": "24.04.3",
+    "Version": "24.04.5",
     "SHA256": "faabcf33ae53976d2b8207a001ff32f4e5daae013505ac7188c9ea63988f8328",
     "TrustLevel": "Official"
   },

@@ -221,6 +221,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-edu-13.7.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.7.0",
+    "SHA256": "d33ed0c64bde5ff43445c0c530f9da599954d8585771c55345cb840d7997d4a7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Parrot-security-6.3.2_amd64.iso",
     "OS": "Parrot",
     "Version": "6.3.2",
@@ -477,6 +484,13 @@
     "OS": "NixOS",
     "Version": "26.05.8538.d57af924f160",
     "SHA256": "d69b1518e1158c467baca764c89c371a0b1319d2b13d57a2c19c6488c37d0162",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-mac-13.7.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.7.0",
+    "SHA256": "d6d4e0d038936230229a66b7c1765452e73c72a962e79dbb99544882295271e8",
     "TrustLevel": "Official"
   },
   {
