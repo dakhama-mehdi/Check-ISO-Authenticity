@@ -616,6 +616,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.9729.c3eea5b2156d-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9729.c3eea5b2156d",
+    "SHA256": "9abf849d235ed80caa04d13fa82046e308d20c88374891df3606df2565a3c692",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-9.11.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.11.0",
