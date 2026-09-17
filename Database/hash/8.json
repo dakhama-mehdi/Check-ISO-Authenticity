@@ -457,6 +457,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.9904.4c7870105e7f-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.9904.4c7870105e7f",
+    "SHA256": "86f4651c2c765c99a565fe64e398d728454f79a9670674e2facce57f2bf3b940",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-5.0.4-amd64-CD-6.iso",
     "OS": "Debian",
     "Version": "5.0.4",
