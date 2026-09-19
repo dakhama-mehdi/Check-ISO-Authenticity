@@ -476,6 +476,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.10057.cf9d2fb3e50f-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10057.cf9d2fb3e50f",
+    "SHA256": "667f9e3a0f4feb478446bcc64cbd9d13b364a10a89f3f6015fed61d7b3131307",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-9-20260601.0-x86_64-boot.iso",
     "OS": "CentOS",
     "Version": "9-stream",

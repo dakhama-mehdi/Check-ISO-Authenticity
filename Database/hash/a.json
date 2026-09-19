@@ -422,6 +422,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.10057.cf9d2fb3e50f-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10057.cf9d2fb3e50f",
+    "SHA256": "a5135b96a6b6f83195e36d4f9b21a7b885f30e62b2df3d97e072d7c35c8590dc",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-25.1-nano-amd64.img.bz2",
     "OS": "Opnsense",
     "Version": "25.1",
