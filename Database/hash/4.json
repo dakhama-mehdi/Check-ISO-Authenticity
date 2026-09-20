@@ -265,8 +265,8 @@
   },
   {
     "Name": "Zorin-OS-18.1-Core-64-bit.iso",
-    "OS": "ZorinOS",
-    "Version": "18.1",
+    "OS": "Zorin_OS",
+    "Version": "18",
     "SHA256": "44649b97bd307fc4c8529205d098ebbf98575a1e1ba2ee7d7005b697af1721d5",
     "TrustLevel": "Official"
   },
