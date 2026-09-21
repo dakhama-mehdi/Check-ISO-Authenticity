@@ -305,6 +305,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.10304.6d663c0533ff-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10304.6d663c0533ff",
+    "SHA256": "559baa4d7c2eec718978bf8a87b4660cdd0a3f666a21aa3ea73c49b277ed37cd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-ve_7.4-1.iso",
     "OS": "Proxmox",
     "Version": "7.4-1",
