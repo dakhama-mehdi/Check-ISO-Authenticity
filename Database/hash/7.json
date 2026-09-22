@@ -430,6 +430,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.10402.1e8bc658fc98-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10402.1e8bc658fc98",
+    "SHA256": "759d63493bea33a2b320c1ec82d1fdf9a73c61c08e037a526bd364294ed9580f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-10.13.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "10.13.0",
