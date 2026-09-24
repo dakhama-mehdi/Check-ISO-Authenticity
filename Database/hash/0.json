@@ -879,6 +879,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-24.0.0-Leap_16.1-Build45.1.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "0f18cc78e5383785e880a29f558a6c1381841a255622dc96c816ac68152b2cf4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-16.04.2-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "16.04.6",

@@ -350,7 +350,12 @@
   {
     "Name": "Zorin_OS",
     "Url": "https://mirror.math.princeton.edu/pub/zorinos/",
-    "Versions": []
+    "Versions": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ]
   },
   {
     "Name": "Archlinux",
@@ -444,7 +449,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.10402.1e8bc658fc98"
+    "Versions": "26.05.10478.1bc55b9def81"
   },
   {
     "Name": "zorinoS",

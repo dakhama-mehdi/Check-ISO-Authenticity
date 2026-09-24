@@ -705,6 +705,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.10478.1bc55b9def81-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10478.1bc55b9def81",
+    "SHA256": "fc01aaaf63437949988ce7e7264e5e72fcb201b4d405952e5275a475ca643f2d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "proxmox-ve_4.4-eb2d6f1e-2.iso",
     "OS": "Proxmox",
     "Version": "4.4-eb2d6f1e-2",
