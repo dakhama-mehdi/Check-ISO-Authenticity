@@ -423,6 +423,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.10529.c508844df6c2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10529.c508844df6c2",
+    "SHA256": "b73414ec814fcceb11543fe92c4f5366b72ede61894d2dc4e0b2694fa71ae8e6",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2024.3-installer-everything-amd64.iso",
     "OS": "Kali",
     "Version": "kali-2024.3",
