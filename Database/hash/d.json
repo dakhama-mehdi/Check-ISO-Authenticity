@@ -77,6 +77,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.10620.f5c082a40f75-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10620.f5c082a40f75",
+    "SHA256": "d0bc0b923a7a1f8957c0eb3a2869cdfa6135face1682b61d2cf91722941b13cb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-13.5-STABLE-arm64-aarch64-20250612-47807edf0ac2-259309-disc1.iso",
     "OS": "FreeBSD",
     "SHA256": "d0e546f18b461acc772ccc5e9d40bb29b86ee009f8715c6b2117a9d497ad1982",

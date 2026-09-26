@@ -1024,6 +1024,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.10620.f5c082a40f75-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10620.f5c082a40f75",
+    "SHA256": "1f1d832a972a0a0b485a36721e0341fb864ff5caf582d04a2c73fe7c02ba7097",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-netinst-x86_64-33-1.2.iso",
     "OS": "Fedora_Server",
     "Version": "33",
