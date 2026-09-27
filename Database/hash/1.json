@@ -407,6 +407,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.10718.5e2305d577ca-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10718.5e2305d577ca",
+    "SHA256": "1611c9473c6294dd90f06e42d637efa2787cb972ab39554648bacd3c8604c018",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Workstation-Live-44-1.7.x86_64.iso",
     "OS": "Fedora_Workstation",
     "Version": "44",

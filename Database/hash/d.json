@@ -619,6 +619,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.10718.5e2305d577ca-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10718.5e2305d577ca",
+    "SHA256": "d8c7780cb7e30e462b00aed95fdb098867397c91d65b2be93e558998cdd9aa58",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.1-amd64-CD-26.iso",
     "OS": "Debian",
     "Version": "8.11.1",

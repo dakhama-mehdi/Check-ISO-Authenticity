@@ -351,3 +351,6 @@
 2026-09-26 06:12:32 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-09-26 06:12:33 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
 2026-09-26 06:12:33 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-09-27 06:13:15 - Cannot download https://download.fedoraproject.org/pub/fedora/linux/releases/42/Workstation/x86_64/iso/Fedora-Workstation-42-1.1-x86_64-CHECKSUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
+2026-09-27 06:13:17 - Impossible d'acceder https://download.fedoraproject.org/pub/fedora/linux/releases/42/Server/x86_64/iso/)
+2026-09-27 06:13:20 - Cannot download https://download.fedoraproject.org/pub/fedora/linux/releases/42/KDE/x86_64/iso/Fedora-KDE-42-1.1-x86_64-CHECKSUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."
