@@ -236,6 +236,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.10769.cf5e76507c6e-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.10769.cf5e76507c6e",
+    "SHA256": "93ca67ced4cc00920a838fbb241f5574e294f4eb71e476738923cb7b83105b05",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "kali-linux-2025.3-live-arm64.iso",
     "OS": "Kali",
     "Version": "kali-2025.3",

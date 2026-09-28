@@ -236,11 +236,7 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",
@@ -453,7 +449,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.10718.5e2305d577ca"
+    "Versions": "26.05.10769.cf5e76507c6e"
   },
   {
     "Name": "zorinoS",
