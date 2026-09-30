@@ -790,6 +790,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "agama-installer.x86_64-24.0.0-Leap_16.1-Build50.3.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "cb1b0e602752f54ec770dbd1de15c1e038e31256a04472b6a50c97cda4254b41",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-6.0.10-amd64-CD-23.iso",
     "OS": "Debian",
     "Version": "6.0.10",
