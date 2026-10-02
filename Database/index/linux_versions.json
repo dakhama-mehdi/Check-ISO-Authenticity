@@ -79,7 +79,8 @@
       "24.04/",
       "25.10/",
       "26.04.1/",
-      "26.04/"
+      "26.04/",
+      "26.10/"
     ]
   },
   {
@@ -236,11 +237,7 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",
@@ -332,7 +329,8 @@
       "7.0/",
       "7.1/",
       "7.2/",
-      "7.3/"
+      "7.3/",
+      "7.4/"
     ]
   },
   {
@@ -453,7 +451,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.10927.78e9c786dc08"
+    "Versions": "26.05.11006.4feb8eb8bf30"
   },
   {
     "Name": "zorinoS",

@@ -236,6 +236,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "ubuntu-26.10-beta-desktop-amd64.iso",
+    "OS": "Ubuntu",
+    "Version": "26.10",
+    "SHA256": "733569320adee426accac397f451c26dd0a8521cc09ea89d021072c40a2990fd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "nixos-graphical-26.05.1947.a0374025a863-x86_64-linux.iso",
     "OS": "NixOS",
     "Version": "26.05.1947.a0374025a863",

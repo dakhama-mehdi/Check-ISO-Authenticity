@@ -921,6 +921,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.11006.4feb8eb8bf30-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11006.4feb8eb8bf30",
+    "SHA256": "1bf87b417a252ed116cf3a8812c893b76d9fc5af762e91e63126058fef963a1d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-riscv-riscv64-20250606-fa02d9fceab7-277727-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "1c4efcf5793be987799e8a9f911ad398cbae5255ea5438a6e3dab5f66c175964",

@@ -802,6 +802,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.11006.4feb8eb8bf30-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11006.4feb8eb8bf30",
+    "SHA256": "ec1151ed0211cde36d2cc74c07c7f3a0fb5029f13d04e9c8b9db4c170b4ae71a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-5.0.7-amd64-CD-3.iso",
     "OS": "Debian",
     "Version": "5.0.7",
