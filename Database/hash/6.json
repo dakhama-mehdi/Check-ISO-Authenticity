@@ -601,6 +601,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "archlinux-2026.10.01-x86_64.iso",
+    "OS": "Archlinux",
+    "Version": "2026.10.01",
+    "SHA256": "684ded26c63240ff4a41e8c25ee84ea6da233f557364821f13d12c2b0a9059a5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-18.1-mate-32bit.iso",
     "OS": "LinuxMint",
     "Version": "18.1",
