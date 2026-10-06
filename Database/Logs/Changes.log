@@ -1327,3 +1327,14 @@ Name  Status  Versions
 NixOS Updated 26.05.11216.0d9e9b832d03
 
 
+
+===== 2026-10-06 06:14:43 =====
+
+Name      Status  Versions
+----      ------  --------
+AlmaLinux Updated 10.2, 8.9, 9.8
+FreeBsd   Updated 15.1
+OpenSuse  Updated /16.1
+CentOS    Updated 10-stream/, 9-stream/
+
+
