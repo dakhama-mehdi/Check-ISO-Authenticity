@@ -69,6 +69,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.11275.b25309931cfd-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11275.b25309931cfd",
+    "SHA256": "00f0a94ba0269e48e4b62d13ea9b67a6c078b178110405f82aac603e907810f9",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-12.04.4-desktop-amd64+mac.iso",
     "OS": "Ubuntu",
     "Version": "12.04",
