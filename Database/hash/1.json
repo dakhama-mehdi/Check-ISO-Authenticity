@@ -428,6 +428,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.11576.7c8764b7c7b0-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11576.7c8764b7c7b0",
+    "SHA256": "164e0cc603ce61a603672a9ea93efff9b47bc8711c902f6036d208d5e9fee9a0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2026.01.01-x86_64.iso",
     "OS": "CentOS",
     "SHA256": "16502a7c18eed827ecead95c297d26f9f4bd57c4b3e4a8f4e2b88cf60e412d6f",

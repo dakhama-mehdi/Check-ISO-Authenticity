@@ -49,6 +49,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.11576.7c8764b7c7b0-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11576.7c8764b7c7b0",
+    "SHA256": "164e0cc603ce61a603672a9ea93efff9b47bc8711c902f6036d208d5e9fee9a0",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "nixos-minimal-26.05.6693.6d65bfc1bcef-x86_64-linux.iso",
     "OS": "NixOS",
     "Version": "26.05.6693.6d65bfc1bcef",
@@ -466,6 +473,13 @@
     "OS": "NixOS",
     "Version": "26.05.6815.531670d871c0",
     "SHA256": "87ce0f46a1ab6f7cd1c4b0c4d1142157a0b600442b42a8a0bb8510a215c7ba5c",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-graphical-26.05.11576.7c8764b7c7b0-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11576.7c8764b7c7b0",
+    "SHA256": "8c39c59fb6a83cf5451e02934ccf06c7a9f62addf409a8bb9e02efbb2d994d0c",
     "TrustLevel": "Official"
   },
   {
