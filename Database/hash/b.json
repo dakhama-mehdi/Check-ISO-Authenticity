@@ -21,6 +21,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-24.0.0-Leap_16.1-Build55.1.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "b078edd1a8b08c37c9c66e378ae2e6f63ba97bd087930167723d39f9796a4fa7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-Stream-9-20260526.0-x86_64-dvd1.iso",
     "OS": "Centos",
     "Version": "9-stream",
