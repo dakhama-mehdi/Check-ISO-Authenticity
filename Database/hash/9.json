@@ -810,6 +810,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.11767.7993f34ee47e-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11767.7993f34ee47e",
+    "SHA256": "9d29b516f47eabf28ce6d17356a00f15daf3c1a267bbe1357d11a6d82dbe1090",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19.3-mate-32bit.iso",
     "OS": "LinuxMint",
     "Version": "19.3",
