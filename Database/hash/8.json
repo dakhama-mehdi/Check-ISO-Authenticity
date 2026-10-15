@@ -97,6 +97,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.11829.a033e66ab94a-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11829.a033e66ab94a",
+    "SHA256": "81ec93d823a7ad40f58b14dfcf43de5d794a3aa956564301fa5fcdbe68459f88",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-24.04-desktop-amd64.iso",
     "OS": "Ubuntu",
     "Version": "24.04.1",
