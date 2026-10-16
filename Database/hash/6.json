@@ -657,6 +657,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.11985.26f4107e47e3-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.11985.26f4107e47e3",
+    "SHA256": "691ce212d0803d9341ed28c11cdfd46083c19bac063dc553bb6d1aa2736e918f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-14.3-STABLE-powerpc-powerpc64-20250612-5dbdbff46b08-271653-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "6925c96381cc6f4c7f880ff384204054b19ddc98b2407dc1cd4cdbc090fcffef",
