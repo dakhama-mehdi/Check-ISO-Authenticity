@@ -66,12 +66,6 @@
     "TrustLevel": "PublicIndex"
   },
   {
-    "Name": "Fedora-Server-dvd-x86_64-42-1.1.iso",
-    "OS": "Fedora",
-    "SHA256": "7fee9ac23b932c6a8be36fc1e830e8bba5f83447b0f4c81fe2425620666a7043",
-    "TrustLevel": "PublicIndex"
-  },
-  {
     "Name": "Fedora-Workstation-Live-x86_64-36-1.5.iso",
     "OS": "Fedora",
     "SHA256": "80169891cb10c679cdc31dc035dab9aae3e874395adc5229f0fe5cfcc111cc8c",
