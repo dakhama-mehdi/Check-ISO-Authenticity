@@ -1451,3 +1451,15 @@ Fedora Updated 42, 43, 44
 NixOS  Updated 26.05.12192.8ce73368d1ef
 
 
+
+===== 2026-10-20 06:12:43 =====
+
+Name      Status  Versions
+----      ------  --------
+AlmaLinux Updated 10.2, 8.9, 9.8
+FreeBsd   Updated 15.1
+OpenSuse  Updated /16.1
+CentOS    Updated 10-stream/, 9-stream/
+NixOS     Updated 26.05.12250.f3a73bcf5d1c
+
+
