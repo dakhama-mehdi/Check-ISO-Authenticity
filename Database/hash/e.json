@@ -698,6 +698,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.12297.cd4ea8d57de1-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.12297.cd4ea8d57de1",
+    "SHA256": "ea9c3e4adba25799fce5b11508efd339ca23825309b34dc32285e21f1ede456c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-9-latest-x86_64-boot.iso",
     "OS": "Rocky_Vault",
     "Version": "9.3",
