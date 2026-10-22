@@ -187,6 +187,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.12400.da6dc0e7b260-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.12400.da6dc0e7b260",
+    "SHA256": "43c54768bfdace43cdceeae5a2be0d475bd041caec2092d1a51a34d2526df387",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.0-amd64-CD-32.iso",
     "OS": "Debian",
     "Version": "8.11.0",
