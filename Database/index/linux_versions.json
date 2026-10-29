@@ -55,7 +55,8 @@
       "kali-2025.3/",
       "kali-2025.4/",
       "kali-2026.1/",
-      "kali-2026.2/"
+      "kali-2026.2/",
+      "kali-2026.3/"
     ]
   },
   {
@@ -237,11 +238,7 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",
@@ -456,7 +453,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.12707.718f670e8453"
+    "Versions": "26.05.13050.08d3a97586f6"
   },
   {
     "Name": "zorinoS",

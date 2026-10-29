@@ -774,6 +774,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.3-installer-netinst-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "a986c7fe0f8e887a77e7ea9f868da88eae04e7ac780ae75e6b702f243b63bf8d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-CURRENT-arm64-aarch64-20250612-e6928c33f60c-277883-bootonly.iso",
     "OS": "FreeBSD",
     "SHA256": "a9c546ecb9677e1d2b95734e41e099f4c773ce29431ebff84b5f577911426e08",

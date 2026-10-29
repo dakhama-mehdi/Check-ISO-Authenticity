@@ -19580,3 +19580,73 @@ SHA256     : 12f093ce7bf7e9747c67730ee3cc7b22713912382e8d3d6f27ef6b19afd8c800
 TrustLevel : Official
 
 
+
+===== 2026-10-29 06:10:05 =====
+
+Name       : kali-linux-2026.3-installer-netinst-amd64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : 0dd3e70f2e0b092286b29355450bc79a034a13fb1d5b4bf83c297149115258cd
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-installer-everything-amd64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : 21c449d46873dd74d644c32d7752230475f39315084f1ee7e8e38f375a4724a1
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-live-everything-amd64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : 2bb56c92380945ce3e7c2b2706886bb323d1f7123028839dc818e0a83afb8ddf
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-live-arm64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : 4206885a661ed8a55d6bea660506f5d67c1f84e6ece52d8079e338993b20813f
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-live-amd64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : 93a40ef53936719119824c3f0f0742ab50a045e2e082b95e382cf9f2f1f8acbb
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-installer-purple-amd64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : 9b2b39174d9ed447c36ee1d7dd09b6efc2453e99dec8d239b4f69b263b0d5ecb
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-installer-netinst-arm64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : a986c7fe0f8e887a77e7ea9f868da88eae04e7ac780ae75e6b702f243b63bf8d
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-installer-arm64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : c4a7f9bf3a0ff07c8263fe9e9b0edba0cc3d9b408f1d8f06c066df0afce23072
+TrustLevel : Official
+
+Name       : kali-linux-2026.3-installer-amd64.iso
+OS         : Kali
+Version    : kali-2026.3
+SHA256     : db9cbed33edb45727d16911813c2434fcd1419585007884153be22a03b30ec2f
+TrustLevel : Official
+
+Name       : nixos-graphical-26.05.13050.08d3a97586f6-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.13050.08d3a97586f6
+SHA256     : 8968ac89ea2d6f19b76f2313fc8f7ec247efcb0232af329e5da68c3c917c6187
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.13050.08d3a97586f6-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.13050.08d3a97586f6
+SHA256     : e83ef0ab25e1d7f71025c5255401d9a6363bd36ce75c40703de3e33f6e13e489
+TrustLevel : Official
+
+

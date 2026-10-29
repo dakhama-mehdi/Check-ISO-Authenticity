@@ -566,6 +566,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "nixos-minimal-26.05.13050.08d3a97586f6-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.13050.08d3a97586f6",
+    "SHA256": "e83ef0ab25e1d7f71025c5255401d9a6363bd36ce75c40703de3e33f6e13e489",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-21.10-live-server-amd64.iso",
     "OS": "Ubuntu",
     "Version": "21.10",

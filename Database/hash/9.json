@@ -229,6 +229,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.3-live-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "93a40ef53936719119824c3f0f0742ab50a045e2e082b95e382cf9f2f1f8acbb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.1-amd64-CD-6.iso",
     "OS": "Debian",
     "Version": "8.11.1",
@@ -662,6 +669,13 @@
     "OS": "NixOS",
     "Version": "26.05.5845.b3fe9581c906",
     "SHA256": "9b0d07b3b826be0ededf09a0d9c6ee9d8a65f8f492cb9d79ae54bf655fc52b95",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "kali-linux-2026.3-installer-purple-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "9b2b39174d9ed447c36ee1d7dd09b6efc2453e99dec8d239b4f69b263b0d5ecb",
     "TrustLevel": "Official"
   },
   {

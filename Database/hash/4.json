@@ -97,6 +97,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.3-live-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "4206885a661ed8a55d6bea660506f5d67c1f84e6ece52d8079e338993b20813f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-netinst-x86_64-36-1.5.iso",
     "OS": "Fedora",
     "SHA256": "421c4c6e23d72e4669a55e7710562287ecd9308b3d314329960f586b89ccca19",

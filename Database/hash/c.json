@@ -355,6 +355,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.3-installer-arm64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "c4a7f9bf3a0ff07c8263fe9e9b0edba0cc3d9b408f1d8f06c066df0afce23072",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "OPNsense-24.1-serial-amd64.img.bz2",
     "OS": "Opnsense",
     "Version": "24.1",

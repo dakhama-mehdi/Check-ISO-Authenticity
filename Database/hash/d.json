@@ -793,6 +793,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.3-installer-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "db9cbed33edb45727d16911813c2434fcd1419585007884153be22a03b30ec2f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-5.0.9-amd64-CD-5.iso",
     "OS": "Debian",
     "Version": "5.0.9",

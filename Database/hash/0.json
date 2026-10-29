@@ -837,6 +837,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "kali-linux-2026.3-installer-netinst-amd64.iso",
+    "OS": "Kali",
+    "Version": "kali-2026.3",
+    "SHA256": "0dd3e70f2e0b092286b29355450bc79a034a13fb1d5b4bf83c297149115258cd",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8.4-x86_64-minimal.iso",
     "OS": "Rocky_Vault",
     "Version": "8.4",
