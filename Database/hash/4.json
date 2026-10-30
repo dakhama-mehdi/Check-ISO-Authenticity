@@ -703,6 +703,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "agama-installer.x86_64-24.0.0-Leap_16.1-Build60.2.iso",
+    "OS": "openSUSE",
+    "Version": "/16.1",
+    "SHA256": "4a7049d657ac08b54cfc6321a81aeeb043f562702fcde363037ec15bf0645093",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-dvd.iso",
     "OS": "AlmaLinux",
     "Version": "9.3",
