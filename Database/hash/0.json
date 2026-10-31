@@ -202,6 +202,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.13164.6f06d204d8f2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.13164.6f06d204d8f2",
+    "SHA256": "028681c3c67b5b15d5f6e0faa257f18d992a5f5aa6bb5f25847272a789413960",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-21-mate-64bit.iso",
     "OS": "Linuxmint",
     "Version": "21",
