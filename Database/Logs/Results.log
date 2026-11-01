@@ -19790,3 +19790,19 @@ SHA256     : 028681c3c67b5b15d5f6e0faa257f18d992a5f5aa6bb5f25847272a789413960
 TrustLevel : Official
 
 
+
+===== 2026-11-01 06:08:08 =====
+
+Name       : nixos-graphical-26.05.13297.fa1373130d5a-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.13297.fa1373130d5a
+SHA256     : 745b0258866e7a93d1ea4ab987a295456dea43047dcdea14ccbfa78e073fafff
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.13297.fa1373130d5a-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.13297.fa1373130d5a
+SHA256     : dd1d04f74942a536ad4447175a26c30af9a337d4f7a9a069756cb35521c17c92
+TrustLevel : Official
+
+

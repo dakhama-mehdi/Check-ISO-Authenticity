@@ -905,6 +905,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.13297.fa1373130d5a-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.13297.fa1373130d5a",
+    "SHA256": "dd1d04f74942a536ad4447175a26c30af9a337d4f7a9a069756cb35521c17c92",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Workstation-Live-x86_64-40-1.14.iso",
     "OS": "Fedora_Workstation",
     "Version": "40",
