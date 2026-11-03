@@ -229,6 +229,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.13446.7dcdd87373d7-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.13446.7dcdd87373d7",
+    "SHA256": "83445162c4a18fb372657d38c942147b770d3bfdaf6bb1c37905333b80f9a79f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-9.3.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "9.3.0",
