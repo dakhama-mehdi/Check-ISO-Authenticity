@@ -387,6 +387,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.9-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.9",
+    "SHA256": "e591228288e323e1ca8939f07354d547419c384e3ec83ea5206c9cbe93a88478",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.2.0-amd64-CD-39.iso",
     "OS": "Debian",
     "Version": "7.2.0",
@@ -951,6 +958,13 @@
     "OS": "Rocky_Vault",
     "Version": "9.4",
     "SHA256": "ee3ac97fdffab58652421941599902012179c37535aece76824673105169c4a2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Rocky-9.9-20261112.0-x86_64-boot.iso",
+    "OS": "Rocky",
+    "Version": "9.9",
+    "SHA256": "ee3bc77985bb695b6701ce5ad7346f6e749f09b81790858bd115636e7b8368ef",
     "TrustLevel": "Official"
   },
   {

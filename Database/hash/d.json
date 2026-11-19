@@ -445,6 +445,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.14630.f68407657ad2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.14630.f68407657ad2",
+    "SHA256": "d5a7fd9fcacc629e0592f25fd27ac49434cf484248a37f4147c55a9b9bc1f4bf",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-mac-8.7.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "8.7.0",
@@ -589,6 +596,13 @@
     "OS": "Ubuntu",
     "Version": "24.04.3",
     "SHA256": "d7fe3d6a0419667d2f8eff12796996328daa2d4f90cd9f87aa9371b362f987bf",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-10.3-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.3",
+    "SHA256": "d842df0dca98a3bf79c84cfcce49505ba7a7f56f03dcb02639b8377410154f4d",
     "TrustLevel": "Official"
   },
   {
@@ -1013,6 +1027,13 @@
     "OS": "FreeBsd",
     "Version": "15.1",
     "SHA256": "de2bb5a38d148eea3b44df589bd7e41936dd344a5da79310b8012a033fc91485",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Rocky-10.3-20261112.0-x86_64-dvd1.iso",
+    "OS": "Rocky",
+    "Version": "10.3",
+    "SHA256": "de2e4426cd5177ff9f4760bfa2b5b4dea44f771dfef5daeffde1680d6223e1d0",
     "TrustLevel": "Official"
   },
   {

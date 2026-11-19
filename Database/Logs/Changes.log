@@ -1598,3 +1598,16 @@ OpenSuse  Updated /16.1
 CentOS    Updated 10-stream/, 9-stream/
 
 
+
+===== 2026-11-19 15:05:21 =====
+
+Name        Status  Versions
+----        ------  --------
+Rocky-Pub   Updated 10.3, 9.9
+AlmaLinux   Updated 10.3, 9.9
+Fedora      Updated 42, 43, 44, 45
+FreeBsd     Updated 15.2
+Oraclelinux Updated checksum/OracleLinux-R9-U8-Server-x86_64.checksum
+NixOS       Updated 26.05.14630.f68407657ad2
+
+

@@ -7,6 +7,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-KDE-Desktop-Live-45-1.4.x86_64.iso",
+    "OS": "Fedora_KDE",
+    "Version": "45",
+    "SHA256": "79703d9f3b21a4f7873f2874ec129d6511cb00a08532d8f9b36daacaa96e97a5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-KDE-Desktop-Live-44-1.7.x86_64.iso",
     "OS": "Fedora_KDE",
     "Version": "44",

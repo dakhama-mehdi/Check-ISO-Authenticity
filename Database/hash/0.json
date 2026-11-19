@@ -397,6 +397,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.2-BETA1-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "056317d6e9da92db3be86121cb1adfe0050035d38b6c5e091f6a3c9099a48d4c",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-update-5.0.8-amd64-CD-7.iso",
     "OS": "Debian",
     "Version": "5.0.8",
@@ -428,6 +435,13 @@
     "OS": "Debian",
     "Version": "8.11.0",
     "SHA256": "05e766c6f453ae980eb46fcac1eb16c1800363a9d71cfb6598f26f6328d0f6b5",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-15.2-BETA2-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "05f376ec2ce40aa45e9459262bcc542ef375320063b1e5bac25b8e86773fb8c1",
     "TrustLevel": "Official"
   },
   {
@@ -632,6 +646,13 @@
     "OS": "Ubuntu",
     "Version": "16.04.1",
     "SHA256": "0a03608988cfd2e50567990dc8be96fb3c501e198e2e6efcb846d89efc7b89f2",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-9.9-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.9",
+    "SHA256": "0a0929bd4bbad481fe30066278aa66534a1d7a219a39c0495f0d51f82511bfd5",
     "TrustLevel": "Official"
   },
   {

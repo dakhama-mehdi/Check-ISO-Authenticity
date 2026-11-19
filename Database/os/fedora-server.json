@@ -126,6 +126,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-Server-netinst-x86_64-45-1.4.iso",
+    "OS": "Fedora_Server",
+    "Version": "45",
+    "SHA256": "a1e916f139a05955b943cf183b020780cca9c399b02b8f5ec4354c9e5c1dff1a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Fedora-Server-dvd-x86_64-43-1.6.iso",
     "OS": "Fedora_Server",
     "Version": "43",
@@ -158,6 +165,13 @@
     "OS": "Fedora_Server",
     "Version": "34",
     "SHA256": "e1a38b9faa62f793ad4561b308c31f32876cfaaee94457a7a9108aaddaeec406",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Server-dvd-x86_64-45-1.4.iso",
+    "OS": "Fedora_Server",
+    "Version": "45",
+    "SHA256": "fcc0f623708ddbd7656df152510ba018bad618bfc99879e73809255fb11a48ff",
     "TrustLevel": "Official"
   }
 ]

@@ -20034,3 +20034,217 @@ SHA256     : 4a7049d657ac08b54cfc6321a81aeeb043f562702fcde363037ec15bf0645093
 TrustLevel : Official
 
 
+
+===== 2026-11-19 15:05:36 =====
+
+Name       : Rocky-9-latest-x86_64-boot.iso
+OS         : Rocky
+Version    : 9.9
+SHA256     : 2fda244142dcf746dcbfb476acd66f3ca757081edfa560f907c125142c47617c
+TrustLevel : Official
+
+Name       : Rocky-10.3-x86_64-boot.iso
+OS         : Rocky
+Version    : 10.3
+SHA256     : 3018fdb8c0a648dbf3e13798b9afadae4f739b79d817b05d20277cfcb2dd7ada
+TrustLevel : Official
+
+Name       : Rocky-9.9-20261112.0-x86_64-minimal.iso
+OS         : Rocky
+Version    : 9.9
+SHA256     : 56772c6c07464ea8e55b64cb5ec2448d16e1b4673b8041678dacfd540131401c
+TrustLevel : Official
+
+Name       : Rocky-10.3-x86_64-minimal.iso
+OS         : Rocky
+Version    : 10.3
+SHA256     : 878a3f92281d3eb91ca9d1a195794d47b5bce4e02a85f351c606709e98481cc4
+TrustLevel : Official
+
+Name       : Rocky-9.9-x86_64-dvd.iso
+OS         : Rocky
+Version    : 9.9
+SHA256     : ace30c575470160d8f6bad42e751bde492d117034da63d4ec55c9b9f04da9263
+TrustLevel : Official
+
+Name       : Rocky-10.3-20261112.0-x86_64-dvd1.iso
+OS         : Rocky
+Version    : 10.3
+SHA256     : de2e4426cd5177ff9f4760bfa2b5b4dea44f771dfef5daeffde1680d6223e1d0
+TrustLevel : Official
+
+Name       : Rocky-9.9-20261112.0-x86_64-boot.iso
+OS         : Rocky
+Version    : 9.9
+SHA256     : ee3bc77985bb695b6701ce5ad7346f6e749f09b81790858bd115636e7b8368ef
+TrustLevel : Official
+
+Name       : AlmaLinux-9.9-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 9.9
+SHA256     : 0a0929bd4bbad481fe30066278aa66534a1d7a219a39c0495f0d51f82511bfd5
+TrustLevel : Official
+
+Name       : AlmaLinux-10.3-x86_64-minimal.iso
+OS         : AlmaLinux
+Version    : 10.3
+SHA256     : 3fa350594c8b3d8200b5bb4c7bda23a8e05607ea482a06f9cc862f6f477c4965
+TrustLevel : Official
+
+Name       : AlmaLinux-9.9-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 9.9
+SHA256     : b42da86274caabc56294ab9bc37d1bb8b2298fcf4304dca40c21d4cfb938f651
+TrustLevel : Official
+
+Name       : AlmaLinux-10.3-x86_64-boot.iso
+OS         : AlmaLinux
+Version    : 10.3
+SHA256     : d842df0dca98a3bf79c84cfcce49505ba7a7f56f03dcb02639b8377410154f4d
+TrustLevel : Official
+
+Name       : AlmaLinux-9.9-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 9.9
+SHA256     : e591228288e323e1ca8939f07354d547419c384e3ec83ea5206c9cbe93a88478
+TrustLevel : Official
+
+Name       : AlmaLinux-10.3-x86_64-dvd.iso
+OS         : AlmaLinux
+Version    : 10.3
+SHA256     : f74ae9c4a8e7e3e70147534856ea276f71649d16c70b7d3ec80d0905a7b93982
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-44-1.7.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 44
+SHA256     : 1620295f6a00c27c3208f0c00b8ece4eab1ec69b9002152d97488bf26a426ddf
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-43-1.6.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 43
+SHA256     : 2a4a16c009244eb5ab2198700eb04103793b62407e8596f30a3e0cc8ac294d77
+TrustLevel : Official
+
+Name       : Fedora-Workstation-Live-45-1.4.x86_64.iso
+OS         : Fedora_Workstation
+Version    : 45
+SHA256     : 68338c6bfe4f0d64151f2e47efe9f44a8855ad05b460e56b844fb3fa2c9a3beb
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-43-1.6.iso
+OS         : Fedora_Server
+Version    : 43
+SHA256     : 16fd70ddae2c7de13e485637c3da1fb385dd8220389f988279ea3b3d561243cc
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-42-1.1.iso
+OS         : Fedora_Server
+Version    : 42
+SHA256     : 231f3e0d1dc8f565c01a9f641b3d16c49cae44530074bc2047fe2373a721c82f
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-42-1.1.iso
+OS         : Fedora_Server
+Version    : 42
+SHA256     : 7fee9ac23b932c6a8be36fc1e830e8bba5f83447b0f4c81fe2425620666a7043
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-44-1.7.iso
+OS         : Fedora_Server
+Version    : 44
+SHA256     : 85837793bfa36db6bc709b4cecd2ec116951b87d9c53c3d95eb2fac8dcf7cf1f
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-45-1.4.iso
+OS         : Fedora_Server
+Version    : 45
+SHA256     : a1e916f139a05955b943cf183b020780cca9c399b02b8f5ec4354c9e5c1dff1a
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-43-1.6.iso
+OS         : Fedora_Server
+Version    : 43
+SHA256     : aca06983bef83da9b43144c1a2ff4c8483e4745167c17f53725c16a16742e643
+TrustLevel : Official
+
+Name       : Fedora-Server-netinst-x86_64-44-1.7.iso
+OS         : Fedora_Server
+Version    : 44
+SHA256     : ae20c06bea746913cadea7d80463e13f4bf55bee4df2918111c921c674b70283
+TrustLevel : Official
+
+Name       : Fedora-Server-dvd-x86_64-45-1.4.iso
+OS         : Fedora_Server
+Version    : 45
+SHA256     : fcc0f623708ddbd7656df152510ba018bad618bfc99879e73809255fb11a48ff
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso
+OS         : Fedora_KDE
+Version    : 43
+SHA256     : 181fe3e265fb5850c929f5afb7bdca91bb433b570ef39ece4a7076187435fdab
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-45-1.4.x86_64.iso
+OS         : Fedora_KDE
+Version    : 45
+SHA256     : 79703d9f3b21a4f7873f2874ec129d6511cb00a08532d8f9b36daacaa96e97a5
+TrustLevel : Official
+
+Name       : Fedora-KDE-Desktop-Live-44-1.7.x86_64.iso
+OS         : Fedora_KDE
+Version    : 44
+SHA256     : c8295961d4c41adbf785a31a17c21a971d3b7415fda72dcad0c11c49577bf03a
+TrustLevel : Official
+
+Name       : FreeBSD-15.2-BETA1-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.2
+SHA256     : 056317d6e9da92db3be86121cb1adfe0050035d38b6c5e091f6a3c9099a48d4c
+TrustLevel : Official
+
+Name       : FreeBSD-15.2-BETA2-amd64-bootonly.iso
+OS         : FreeBsd
+Version    : 15.2
+SHA256     : 05f376ec2ce40aa45e9459262bcc542ef375320063b1e5bac25b8e86773fb8c1
+TrustLevel : Official
+
+Name       : FreeBSD-15.2-BETA1-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.2
+SHA256     : 286bf61d5d93ef0b2b1cdedad4b92e91e8420b215685c77210d3c3d0088fe649
+TrustLevel : Official
+
+Name       : FreeBSD-15.2-BETA2-amd64-disc1.iso
+OS         : FreeBsd
+Version    : 15.2
+SHA256     : 47ce9d0484e58293845050f4e9e1846bb73c9cca34686d58bb50365f27e34207
+TrustLevel : Official
+
+Name       : FreeBSD-15.2-BETA2-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.2
+SHA256     : 951bdd8ce202f5c2fadda7b36f51e07c99997387b2c92c791ca6071e618f070e
+TrustLevel : Official
+
+Name       : FreeBSD-15.2-BETA1-amd64-dvd1.iso
+OS         : FreeBsd
+Version    : 15.2
+SHA256     : f98a16a33780804453954cc8c88f7d9d80140f0509b4b6e260e0dd1c37b2b1c0
+TrustLevel : Official
+
+Name       : nixos-graphical-26.05.14630.f68407657ad2-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.14630.f68407657ad2
+SHA256     : d5a7fd9fcacc629e0592f25fd27ac49434cf484248a37f4147c55a9b9bc1f4bf
+TrustLevel : Official
+
+Name       : nixos-minimal-26.05.14630.f68407657ad2-x86_64-linux.iso
+OS         : NixOS
+Version    : 26.05.14630.f68407657ad2
+SHA256     : 4a3f4d9dac89aa793a5632487f6358835160e5dca6691cab74b87e8f4dbb37b1
+TrustLevel : Official
+
+

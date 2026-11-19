@@ -548,6 +548,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Rocky-10.3-x86_64-minimal.iso",
+    "OS": "Rocky",
+    "Version": "10.3",
+    "SHA256": "878a3f92281d3eb91ca9d1a195794d47b5bce4e02a85f351c606709e98481cc4",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "nixos-graphical-26.05.6815.531670d871c0-x86_64-linux.iso",
     "OS": "NixOS",
     "Version": "26.05.6815.531670d871c0",

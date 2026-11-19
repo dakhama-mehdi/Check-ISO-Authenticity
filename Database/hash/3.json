@@ -1,5 +1,12 @@
 [
   {
+    "Name": "Rocky-10.3-x86_64-boot.iso",
+    "OS": "Rocky",
+    "Version": "10.3",
+    "SHA256": "3018fdb8c0a648dbf3e13798b9afadae4f739b79d817b05d20277cfcb2dd7ada",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.3.0-amd64-CD-26.iso",
     "OS": "Debian",
     "Version": "7.3.0",
@@ -966,6 +973,13 @@
     "OS": "Ubuntu",
     "Version": "12.04.3",
     "SHA256": "3f8fe0a5987cf508317300963af7845b01a8e45fc7e7d3eb2b094a40ed8d0a3b",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-10.3-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.3",
+    "SHA256": "3fa350594c8b3d8200b5bb4c7bda23a8e05607ea482a06f9cc862f6f477c4965",
     "TrustLevel": "Official"
   },
   {

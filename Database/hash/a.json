@@ -165,6 +165,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-Server-netinst-x86_64-45-1.4.iso",
+    "OS": "Fedora_Server",
+    "Version": "45",
+    "SHA256": "a1e916f139a05955b943cf183b020780cca9c399b02b8f5ec4354c9e5c1dff1a",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.0.0-amd64-netinst.iso",
     "OS": "Debian",
     "Version": "7.0.0",
@@ -1061,6 +1068,13 @@
     "OS": "Debian",
     "Version": "8.11.1",
     "SHA256": "acda9fe29a43f083c928a02ceee132870db63c84b9e6da3f2614ee7307f8240a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Rocky-9.9-x86_64-dvd.iso",
+    "OS": "Rocky",
+    "Version": "9.9",
+    "SHA256": "ace30c575470160d8f6bad42e751bde492d117034da63d4ec55c9b9f04da9263",
     "TrustLevel": "Official"
   },
   {

@@ -277,6 +277,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.9-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.9",
+    "SHA256": "b42da86274caabc56294ab9bc37d1bb8b2298fcf4304dca40c21d4cfb938f651",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.3.0-amd64-CD-15.iso",
     "OS": "Debian",
     "Version": "7.3.0",

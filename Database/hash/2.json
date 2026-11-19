@@ -564,6 +564,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.2-BETA1-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "286bf61d5d93ef0b2b1cdedad4b92e91e8420b215685c77210d3c3d0088fe649",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-12.2-RELEASE-amd64-disc1.iso",
     "OS": "FreeBsd",
     "Version": "12.2",
@@ -1075,6 +1082,13 @@
     "OS": "Proxmox",
     "Version": "4.2-1",
     "SHA256": "2fb299deac3929253712c9c3dfc9237edbe70af83c8848467616b771a1d5453e",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Rocky-9-latest-x86_64-boot.iso",
+    "OS": "Rocky",
+    "Version": "9.9",
+    "SHA256": "2fda244142dcf746dcbfb476acd66f3ca757081edfa560f907c125142c47617c",
     "TrustLevel": "Official"
   },
   {

@@ -601,6 +601,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "Fedora-Workstation-Live-45-1.4.x86_64.iso",
+    "OS": "Fedora_Workstation",
+    "Version": "45",
+    "SHA256": "68338c6bfe4f0d64151f2e47efe9f44a8855ad05b460e56b844fb3fa2c9a3beb",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "archlinux-2026.10.01-x86_64.iso",
     "OS": "Archlinux",
     "Version": "2026.10.01",

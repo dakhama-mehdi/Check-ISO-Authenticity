@@ -507,6 +507,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.2-BETA2-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "47ce9d0484e58293845050f4e9e1846bb73c9cca34686d58bb50365f27e34207",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.1-RC1-amd64-disc1.iso",
     "OS": "FreeBsd",
     "Version": "15.1",
@@ -700,6 +707,13 @@
     "OS": "Debian",
     "Version": "7.2.0",
     "SHA256": "4a329372b9dcecdb689817563f553a41e1182b4a3cd59f3d884948d63707a254",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "nixos-minimal-26.05.14630.f68407657ad2-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.14630.f68407657ad2",
+    "SHA256": "4a3f4d9dac89aa793a5632487f6358835160e5dca6691cab74b87e8f4dbb37b1",
     "TrustLevel": "Official"
   },
   {

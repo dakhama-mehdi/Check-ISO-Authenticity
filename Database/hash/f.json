@@ -420,6 +420,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-10.3-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.3",
+    "SHA256": "f74ae9c4a8e7e3e70147534856ea276f71649d16c70b7d3ec80d0905a7b93982",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-7.2.0-amd64-CD-21.iso",
     "OS": "Debian",
     "Version": "7.2.0",
@@ -564,6 +571,13 @@
     "OS": "Debian",
     "Version": "6.0.10",
     "SHA256": "f960b0db2a376d92eb70d6c776858d1b1b92fce9b9ff94d81eb7d8575e5296c8",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-15.2-BETA1-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "f98a16a33780804453954cc8c88f7d9d80140f0509b4b6e260e0dd1c37b2b1c0",
     "TrustLevel": "Official"
   },
   {
@@ -758,6 +772,13 @@
     "OS": "Debian",
     "Version": "7.2.0",
     "SHA256": "fca56664dc308752c8fceb4e426782939d4b4ee263a528a07c68dab0dc9898b3",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "Fedora-Server-dvd-x86_64-45-1.4.iso",
+    "OS": "Fedora_Server",
+    "Version": "45",
+    "SHA256": "fcc0f623708ddbd7656df152510ba018bad618bfc99879e73809255fb11a48ff",
     "TrustLevel": "Official"
   },
   {

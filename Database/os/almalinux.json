@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.9-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.9",
+    "SHA256": "0a0929bd4bbad481fe30066278aa66534a1d7a219a39c0495f0d51f82511bfd5",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9-latest-x86_64-boot.iso",
     "OS": "AlmaLinux",
     "Version": "9.6",
@@ -102,6 +109,13 @@
     "OS": "AlmaLinux",
     "Version": "9.1",
     "SHA256": "3eebd50aabe93b9cbea3937dcf5e1d893e397a36de128ae60a8d46ff048fa0d6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-10.3-x86_64-minimal.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.3",
+    "SHA256": "3fa350594c8b3d8200b5bb4c7bda23a8e05607ea482a06f9cc862f6f477c4965",
     "TrustLevel": "Official"
   },
   {
@@ -329,6 +343,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.9-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.9",
+    "SHA256": "b42da86274caabc56294ab9bc37d1bb8b2298fcf4304dca40c21d4cfb938f651",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-8.4-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "8.4",
@@ -364,6 +385,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-10.3-x86_64-boot.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.3",
+    "SHA256": "d842df0dca98a3bf79c84cfcce49505ba7a7f56f03dcb02639b8377410154f4d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-9.0-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "9.0",
@@ -392,6 +420,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "AlmaLinux-9.9-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "9.9",
+    "SHA256": "e591228288e323e1ca8939f07354d547419c384e3ec83ea5206c9cbe93a88478",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-10-latest-x86_64-minimal.iso",
     "OS": "AlmaLinux",
     "Version": "10.0",
@@ -417,6 +452,13 @@
     "OS": "AlmaLinux",
     "Version": "9.2",
     "SHA256": "f501de55f92e59a3fcf4ad252fdfc4e02ee2ad013d2e1ec818bb38052bcb3c32",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "AlmaLinux-10.3-x86_64-dvd.iso",
+    "OS": "AlmaLinux",
+    "Version": "10.3",
+    "SHA256": "f74ae9c4a8e7e3e70147534856ea276f71649d16c70b7d3ec80d0905a7b93982",
     "TrustLevel": "Official"
   },
   {
