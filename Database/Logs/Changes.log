@@ -1611,3 +1611,16 @@ Oraclelinux Updated checksum/OracleLinux-R9-U8-Server-x86_64.checksum
 NixOS       Updated 26.05.14630.f68407657ad2
 
 
+
+===== 2026-11-20 14:46:29 =====
+
+Name        Status  Versions
+----        ------  --------
+AlmaLinux   Updated 10.3, 8.9, 9.9
+FreeBsd     Updated 15.2
+OpenSuse    Updated /16.1
+Oraclelinux Updated checksum/OracleLinux-R10-U2-Server-x86_64.checksum
+CentOS      Updated 10-stream/, 9-stream/
+NixOS       Updated 26.05.14894.ab5c18fdedfc
+
+

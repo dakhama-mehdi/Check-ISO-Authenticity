@@ -242,12 +242,7 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44,
-      45
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",
@@ -300,6 +295,7 @@
     "Versions": [
       "checksum/OracleLinux-R10-U0-Server-x86_64.checksum",
       "checksum/OracleLinux-R10-U1-Server-x86_64.checksum",
+      "checksum/OracleLinux-R10-U2-Server-x86_64.checksum",
       "checksum/OracleLinux-R8-U0-Server-x86_64.checksum",
       "checksum/OracleLinux-R8-U1-Server-x86_64.checksum",
       "checksum/OracleLinux-R8-U2-Server-x86_64.checksum",
@@ -364,12 +360,7 @@
   {
     "Name": "Zorin_OS",
     "Url": "https://mirror.math.princeton.edu/pub/zorinos/",
-    "Versions": [
-      "15",
-      "16",
-      "17",
-      "18"
-    ]
+    "Versions": []
   },
   {
     "Name": "Archlinux",
@@ -465,7 +456,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.14630.f68407657ad2"
+    "Versions": "26.05.14894.ab5c18fdedfc"
   },
   {
     "Name": "zorinoS",
