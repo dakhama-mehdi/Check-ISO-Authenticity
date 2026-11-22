@@ -121,7 +121,7 @@
     "Name": "Debian",
     "Url": "https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/SHA256SUMS",
     "Versions": [
-      "13.7.0"
+      "13.8.0"
     ]
   },
   {
@@ -176,6 +176,7 @@
       "13.4.0/",
       "13.5.0/",
       "13.6.0/",
+      "13.7.0/",
       "5.0.0/",
       "5.0.1/",
       "5.0.10/",
@@ -456,7 +457,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.14894.ab5c18fdedfc"
+    "Versions": "26.05.14979.94c3211b0ee8"
   },
   {
     "Name": "zorinoS",

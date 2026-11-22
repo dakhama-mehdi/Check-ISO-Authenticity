@@ -1624,3 +1624,17 @@ CentOS      Updated 10-stream/, 9-stream/
 NixOS       Updated 26.05.14894.ab5c18fdedfc
 
 
+
+===== 2026-11-22 13:55:49 =====
+
+Name       Status  Versions
+----       ------  --------
+AlmaLinux  Updated 10.3, 8.9, 9.9
+Debian     Updated 13.8.0
+Debian_old Updated 13.7.0/
+FreeBsd    Updated 15.2
+OpenSuse   Updated /16.1
+CentOS     Updated 10-stream/, 9-stream/
+NixOS      Updated 26.05.14979.94c3211b0ee8
+
+

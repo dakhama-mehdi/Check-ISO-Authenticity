@@ -28,6 +28,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.2-BETA3-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "2033fd513dc2c38a898c793409a0234e98c810d916a5eb06376458451959cd85",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "Rocky-8-latest-x86_64-boot.iso",
     "OS": "Rocky",
     "Version": "8.10",

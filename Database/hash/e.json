@@ -560,6 +560,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.2-BETA3-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "e7642fe3b29953209daaa49964f6c105446523c0b5f14eda1f4711bc19822673",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.0-amd64-CD-8.iso",
     "OS": "Debian",
     "Version": "8.11.0",

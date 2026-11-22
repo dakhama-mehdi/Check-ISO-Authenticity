@@ -663,6 +663,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-graphical-26.05.14979.94c3211b0ee8-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.14979.94c3211b0ee8",
+    "SHA256": "0a61ca7919430bc81481e7a385913da7a2f5d31cec9535f6acaff4982e93f30f",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-14.04.6-desktop-i386.iso",
     "OS": "Ubuntu",
     "Version": "14.04.6",

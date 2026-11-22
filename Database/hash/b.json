@@ -333,6 +333,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-mac-13.8.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.8.0",
+    "SHA256": "b573e209d707a82c19124a16832dd839d478160ce5fdfe0ca0fe1986ea154c03",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "linuxmint-19.1-cinnamon-32bit.iso",
     "OS": "LinuxMint",
     "Version": "19.1",
@@ -586,6 +593,13 @@
     "OS": "Ubuntu",
     "Version": "16.04.6",
     "SHA256": "b8b172cbdf04f5ff8adc8c2c1b4007ccf66f00fc6a324a6da6eba67de71746f6",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "debian-edu-13.8.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.7.0",
+    "SHA256": "b8b776f7bf1445b87c349556b2a98993a6cc69ecf8f14ec7ec8f6b775150c27c",
     "TrustLevel": "Official"
   },
   {

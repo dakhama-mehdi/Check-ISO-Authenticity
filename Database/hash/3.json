@@ -492,6 +492,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "debian-13.8.0-amd64-netinst.iso",
+    "OS": "Debian",
+    "Version": "13.8.0",
+    "SHA256": "3770c7a54890f7574a68a8b402e553806a81d6bccfb379554caad3a9a857931e",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "ubuntu-23.04-beta-desktop-legacy-amd64.iso",
     "OS": "Ubuntu",
     "Version": "23.04",
