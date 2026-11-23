@@ -243,7 +243,12 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": []
+    "Versions": [
+      42,
+      43,
+      44,
+      45
+    ]
   },
   {
     "Name": "Linuxmint",
@@ -361,7 +366,12 @@
   {
     "Name": "Zorin_OS",
     "Url": "https://mirror.math.princeton.edu/pub/zorinos/",
-    "Versions": []
+    "Versions": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ]
   },
   {
     "Name": "Archlinux",
@@ -457,7 +467,7 @@
   {
     "Name": "NixOS",
     "Url": "https://nixos.org/download/",
-    "Versions": "26.05.14979.94c3211b0ee8"
+    "Versions": "26.05.15079.0dc498bfe49b"
   },
   {
     "Name": "zorinoS",

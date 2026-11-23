@@ -629,6 +629,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "nixos-minimal-26.05.15079.0dc498bfe49b-x86_64-linux.iso",
+    "OS": "NixOS",
+    "Version": "26.05.15079.0dc498bfe49b",
+    "SHA256": "68a615138a826afb6e09a8055dd6df606309cd72857f686c15256492ce83c1df",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "AlmaLinux-10.1-x86_64-boot.iso",
     "OS": "AlmaLinux",
     "Version": "10",
