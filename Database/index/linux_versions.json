@@ -243,12 +243,7 @@
   {
     "Name": "Fedora",
     "Url": "https://download.fedoraproject.org/pub/fedora/linux/releases/",
-    "Versions": [
-      42,
-      43,
-      44,
-      45
-    ]
+    "Versions": []
   },
   {
     "Name": "Linuxmint",
