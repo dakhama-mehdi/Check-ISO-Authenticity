@@ -62,6 +62,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_9.3-1-arm64.iso",
+    "OS": "Proxmox",
+    "Version": "9.3-1-arm64",
+    "SHA256": "a09facb34d2fcc9f5d169a85b55b008784792ac4d6e25901397854251ed0a8de",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "nixos-graphical-26.05.12297.cd4ea8d57de1-x86_64-linux.iso",
     "OS": "NixOS",
     "Version": "26.05.12297.cd4ea8d57de1",

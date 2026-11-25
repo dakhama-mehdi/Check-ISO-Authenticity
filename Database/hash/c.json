@@ -873,6 +873,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "proxmox-ve_9.3-1.iso",
+    "OS": "Proxmox",
+    "Version": "9.3-1",
+    "SHA256": "cc4fc97b9ac3a5712ad5b665195753571923a18e11f5c2ebb113fdc29a50bd36",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "FreeBSD-15.0-RELEASE-amd64-disc1.iso",
     "OS": "FreeBsd",
     "Version": "15.0",
