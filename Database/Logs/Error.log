@@ -440,3 +440,7 @@
 2026-11-24 16:52:19 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
 2026-11-24 16:52:21 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
 2026-11-24 16:52:22 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-11-26 16:13:49 - Impossible d'acceder https://repo.almalinux.org/almalinux//8.9/isos/x86_64/)
+2026-11-26 16:13:51 - Cannot download https://mirror.stream.centos.org/10-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-11-26 16:13:51 - Cannot download https://mirror.stream.centos.org/9-stream//BaseOS/x86_64/iso/SHA256SUM - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (403) Forbidden."
+2026-11-26 16:13:51 - Cannot download https://download.parrot.sh/parrot/iso/7.5-rc1/signed-hashes.txt - Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (404) Not Found."

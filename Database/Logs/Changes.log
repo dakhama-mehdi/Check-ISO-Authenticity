@@ -1667,3 +1667,15 @@ Name    Status  Versions
 Proxmox Updated 9.3-1, 9.3-1-arm64
 
 
+
+===== 2026-11-26 16:13:49 =====
+
+Name      Status  Versions
+----      ------  --------
+AlmaLinux Updated 10.3, 8.9, 9.9
+FreeBsd   Updated 15.2
+OpenSuse  Updated /16.1
+CentOS    Updated 10-stream/, 9-stream/
+Parrot    Updated 7.5-rc1/
+
+
