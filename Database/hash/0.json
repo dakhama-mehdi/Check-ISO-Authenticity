@@ -547,6 +547,13 @@
     "TrustLevel": "PublicIndex"
   },
   {
+    "Name": "FreeBSD-15.2-RC1-amd64-disc1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "077ac031e6aa221113156651f30214d7752a8287fcf7c63d65be9154d5c0d1a7",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "CentOS-7-x86_64-Minimal-2009.iso",
     "OS": "CentOS",
     "SHA256": "07b94e6b1a0b0260b94c83d6bb76b26bf7a310dc78d7a9c7432809fb9bc6194a",
@@ -557,6 +564,13 @@
     "OS": "Ubuntu",
     "Version": "14.04.1",
     "SHA256": "07e4bb5569814eab41fafac882ba127893e3ff0bdb7ec931c9b2d040e3e94e7a",
+    "TrustLevel": "Official"
+  },
+  {
+    "Name": "FreeBSD-15.2-RC1-amd64-bootonly.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "07e65ff75c8dd584ac8d216411dd2849f7942f3972e13a4935007d61d1ceda86",
     "TrustLevel": "Official"
   },
   {

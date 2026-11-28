@@ -461,11 +461,6 @@
     ]
   },
   {
-    "Name": "NixOS",
-    "Url": "https://nixos.org/download/",
-    "Versions": "26.05.15079.0dc498bfe49b"
-  },
-  {
     "Name": "zorinoS",
     "Url": "https://help.zorin.com/docs",
     "Versions": [

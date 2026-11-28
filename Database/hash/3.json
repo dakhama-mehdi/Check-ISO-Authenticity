@@ -547,6 +547,13 @@
     "TrustLevel": "Official"
   },
   {
+    "Name": "FreeBSD-15.2-RC1-amd64-dvd1.iso",
+    "OS": "FreeBsd",
+    "Version": "15.2",
+    "SHA256": "38e2532712229e56c189c448003bc4d5074d1d904dc4982794f69ae0b502cc9d",
+    "TrustLevel": "Official"
+  },
+  {
     "Name": "debian-8.11.0-amd64-CD-71.iso",
     "OS": "Debian",
     "Version": "8.11.0",
